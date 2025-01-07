@@ -8,7 +8,7 @@ context:
 
 # Composition (OOP)
 
-Design principle in [[Object-Oriented Programming|OOP]] where [[Object (OOP)|Objects]] are composed of other objects, combining their behaviors and properties to build more complex ones.
+Design principle in [[Object-Oriented Programming|OOP]] where [[Object (Computer Science)|Objects]] are composed of other objects, combining their behaviors and properties to build more complex ones.
 
 ---
 

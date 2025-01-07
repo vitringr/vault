@@ -9,6 +9,6 @@ The most difficult step of game creation - completing it.
 
 > "Done is better than perfect."
 
-Have a [[Scope]].
+Have a [[Scope (Production)]].
 
 [[Have a Launch Date]].

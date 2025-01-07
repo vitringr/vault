@@ -12,6 +12,6 @@ A [[Function (Programming)|Function]] defined within a [[Class (OOP)|Class]] in 
 
 ---
 
-Methods define the behaviors and actions that an [[Object (OOP)|Object]] of a [[Class (OOP)|Class]] can perform.
+Methods define the behaviors and actions that an [[Object (Computer Science)|Object]] of a [[Class (OOP)|Class]] can perform.
 
 Typically operates on data contained within the object.

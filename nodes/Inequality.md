@@ -24,4 +24,4 @@ Use the `<`, `>`, and `=` operators
 
 Inequalities can have any number of solutions. That includes zero solutions, or infinitely many solutions.
 
-To solve an inequality, find the [[Variable|variables]] that make both sides equal.
+To solve an inequality, find the [[Variable (Mathematics)|variables]] that make both sides equal.

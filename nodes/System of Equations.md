@@ -10,7 +10,7 @@ context:
 
 Finite set of equations for which common solutions are sought.
 
-Multiple equations that share the same [[Variable|variables]].
+Multiple equations that share the same [[Variable (Mathematics)|variables]].
 
 ## Solutions Count
 

@@ -3,7 +3,7 @@ context:
   - "[[Production]]"
 ---
 
-# Scope
+# Scope (Production)
 
 Predefined limits and boundaries of a project.
 

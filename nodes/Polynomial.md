@@ -5,7 +5,7 @@ context:
 
 # Polynomial
 
-[[Expression|Mathematical Expression]] that consist of [[Variable|variables]] and coefficients.
+[[Expression|Mathematical Expression]] that consist of [[Variable (Mathematics)|variables]] and coefficients.
 
 ---
 

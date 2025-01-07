@@ -1,8 +1,10 @@
 ---
+aliases:
+  - Variable
 context:
   - "[[Mathematics]]"
 ---
 
-# Variable
+# Variable (Mathematics)
 
 Symbol that represents a changeable mathematical object.

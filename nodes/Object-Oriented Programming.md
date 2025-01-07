@@ -8,7 +8,7 @@ context:
 
 # Object-Oriented Programming
 
-Programming paradigm centered around the concept of [[Object (OOP)|Object]], which can contain logic and data, and are instances of [[Class (OOP)|Classes]].
+Programming paradigm centered around the concept of [[Object (Computer Science)|Objects]], which can contain logic and data, and are instances of [[Class (OOP)|Classes]].
 
 ---
 
