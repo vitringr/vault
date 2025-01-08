@@ -66,9 +66,9 @@ for (let value of arr) {
 
 ## Array Iteration Methods
 
-JavaScript arrays offer iterations methods in the [[Functional ]]
+JavaScript arrays offer iterations methods in the [[Functional Programming]] style.
 
-forEach
-map
-filter
-reduce
+- **`forEach`**: execute a function for each element.
+- **`map`**: Transform elements.
+- **`filter`**: Select elements based on a condition.
+- **`reduce`**: Accumulate values.

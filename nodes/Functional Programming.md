@@ -12,3 +12,5 @@ Programming paradigm centered around using **pure [[Function (Programming)|funct
 ---
 
 Treats [[Computation]] as the evaluation of [[Function (Mathematics)|Mathematical Functions]] and avoids mutating state.
+
+See [[Functional Model of Computation]]

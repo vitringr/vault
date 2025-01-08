@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Functional Programming.md",
+                "file": "nodes/JavaScript Exceptional Handling.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Functional Programming"
+              "title": "JavaScript Exceptional Handling"
             }
           }
         ]
@@ -150,11 +150,18 @@
   },
   "active": "36059d8b7de3bff7",
   "lastOpenFiles": [
-    "nodes/Functional Programming.md~",
-    "nodes/4913",
+    "nodes/JavaScript Exceptional Handling.md~",
     "nodes/JavaScript Iteration.md",
-    "nodes/Functional Programming.md",
+    "nodes/JavaScript Control Flow.md~",
+    "nodes/JavaScript Exceptional Handling.md",
+    "nodes/JavaScript Control Flow.md",
+    "nodes/Control Flow.md~",
+    "nodes/4913",
+    "nodes/Control Flow.md",
     "nodes/JavaScript Iteration.md~",
+    "nodes/Functional Model of Computation.md",
+    "nodes/Functional Programming.md",
+    "nodes/Functional Programming.md~",
     "nodes/JavaScript Equality Comparisons.md",
     "nodes/Iteration.md~",
     "nodes/Iteration.md",
@@ -164,7 +171,6 @@
     "nodes/JavaScript Indexed Collections.md",
     "nodes/JavaScript Indexed Collections.md~",
     "nodes/JavaScript Keyed Collections.md",
-    "nodes/JavaScript Keyed Collections.md~",
     "nodes/Type Conversion.md",
     "nodes/Hindsight Bias.md",
     "nodes/WebGL2 Texture Formats.md",
@@ -179,12 +185,6 @@
     "nodes/Web Browser.md",
     "nodes/ECMAScript.md",
     "nodes/JavaScript.md",
-    "nodes/neshtonovo.md",
-    "nodes/Shader.md",
-    "nodes/OpenGL.md",
-    "nodes/OpenGL ES.md",
-    "nodes/Vitringr.md~",
-    "nodes/JSON.md~",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
   ]
