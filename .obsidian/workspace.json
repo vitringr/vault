@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Vitringr.md",
+                "file": "nodes/Functional Programming.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Vitringr"
+              "title": "Functional Programming"
             }
           }
         ]
@@ -84,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodes/Law of the Instrument.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +93,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Law of the Instrument"
+              "title": "Backlinks"
             }
           },
           {
@@ -151,42 +150,41 @@
   },
   "active": "36059d8b7de3bff7",
   "lastOpenFiles": [
-    "nodes/Vitringr.md~",
-    "nodes/JavaScript Keyed Collections.md",
-    "nodes/Set (Computer Science).md",
-    "nodes/JavaScript Keyed Collections.md~",
+    "nodes/Functional Programming.md~",
     "nodes/4913",
-    "nodes/JSON.md",
+    "nodes/JavaScript Iteration.md",
+    "nodes/Functional Programming.md",
+    "nodes/JavaScript Iteration.md~",
+    "nodes/JavaScript Equality Comparisons.md",
+    "nodes/Iteration.md~",
+    "nodes/Iteration.md",
+    "nodes/JavaScript Loops and Iteration.md~",
+    "nodes/JavaScript Loops and Iteration.md",
+    "nodes/JavaScript Equality Comparisons.md~",
+    "nodes/JavaScript Indexed Collections.md",
+    "nodes/JavaScript Indexed Collections.md~",
+    "nodes/JavaScript Keyed Collections.md",
+    "nodes/JavaScript Keyed Collections.md~",
+    "nodes/Type Conversion.md",
+    "nodes/Hindsight Bias.md",
+    "nodes/WebGL2 Texture Formats.md",
+    "nodes/WebGL Texture.md",
+    "nodes/Texture.md",
+    "nodes/TypeScript.md",
+    "nodes/Slack.md",
+    "nodes/NodeJS.md",
+    "nodes/Vertex Shader.md",
+    "nodes/GLSL.md",
+    "nodes/Varying.md",
+    "nodes/Web Browser.md",
+    "nodes/ECMAScript.md",
+    "nodes/JavaScript.md",
+    "nodes/neshtonovo.md",
+    "nodes/Shader.md",
+    "nodes/OpenGL.md",
+    "nodes/OpenGL ES.md",
+    "nodes/Vitringr.md~",
     "nodes/JSON.md~",
-    "nodes/Data Structure.md",
-    "nodes/Data Structure.md~",
-    "nodes/Data Type (Computer Science).md",
-    "nodes/JavaScript Data Type.md~",
-    "nodes/Abstract Data Type.md",
-    "nodes/Data Type (Computer Science).md~",
-    "nodes/Abstract Data Type.md~",
-    "nodes/Primitive Data Type.md",
-    "nodes/Map.md",
-    "nodes/Set (Computer Science).md~",
-    "nodes/Set (Informatics).md~",
-    "nodes/Set (Informatics).md",
-    "nodes/Set (Data Type).md~",
-    "nodes/Queue.md",
-    "nodes/Stack.md",
-    "nodes/List.md",
-    "nodes/Composite Data Type.md",
-    "nodes/JavaScript Data Type.md",
-    "nodes/JavaScript typeof Operator.md",
-    "nodes/JavaScript Variables.md",
-    "nodes/Name Binding.md",
-    "nodes/Scope.md",
-    "nodes/Variable (Programming).md",
-    "nodes/Object (Computer Science).md",
-    "nodes/Scope (Computer Science).md",
-    "nodes/Scope (Production).md",
-    "nodes/JavaScript Hoisting.md",
-    "nodes/Hoisting (JavaScript).md",
-    "nodes/Software.md",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
   ]
