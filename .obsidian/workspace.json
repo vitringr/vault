@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/SolidJS.md",
+                "file": "nodes/Vitringr.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SolidJS"
+              "title": "Vitringr"
             }
           }
         ]
@@ -151,6 +151,7 @@
   },
   "active": "36059d8b7de3bff7",
   "lastOpenFiles": [
+    "nodes/Vitringr.md~",
     "nodes/JavaScript Keyed Collections.md",
     "nodes/Set (Computer Science).md",
     "nodes/JavaScript Keyed Collections.md~",
