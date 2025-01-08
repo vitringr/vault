@@ -1,11 +1,10 @@
 ---
-aliases:
 context:
   - "[[JavaScript]]"
   - "[[Variable (Programming)]]"
 ---
 
-# JavaScript Variables
+# JavaScript Variable
 
 All about JavaScript variables.
 

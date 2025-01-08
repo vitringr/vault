@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ea41242faf442a17",
+        "id": "b7d4415a125fd175",
         "type": "tabs",
         "children": [
           {
-            "id": "39fffb4e5d60f536",
+            "id": "36059d8b7de3bff7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "nodes/SolidJS.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "SolidJS"
             }
           }
         ]
@@ -145,43 +149,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39fffb4e5d60f536",
+  "active": "36059d8b7de3bff7",
   "lastOpenFiles": [
+    "nodes/JavaScript Keyed Collections.md",
+    "nodes/Set (Computer Science).md",
+    "nodes/JavaScript Keyed Collections.md~",
+    "nodes/4913",
+    "nodes/JSON.md",
+    "nodes/JSON.md~",
+    "nodes/Data Structure.md",
+    "nodes/Data Structure.md~",
+    "nodes/Data Type (Computer Science).md",
+    "nodes/JavaScript Data Type.md~",
+    "nodes/Abstract Data Type.md",
+    "nodes/Data Type (Computer Science).md~",
+    "nodes/Abstract Data Type.md~",
+    "nodes/Primitive Data Type.md",
+    "nodes/Map.md",
+    "nodes/Set (Computer Science).md~",
+    "nodes/Set (Informatics).md~",
+    "nodes/Set (Informatics).md",
+    "nodes/Set (Data Type).md~",
+    "nodes/Queue.md",
+    "nodes/Stack.md",
+    "nodes/List.md",
+    "nodes/Composite Data Type.md",
+    "nodes/JavaScript Data Type.md",
+    "nodes/JavaScript typeof Operator.md",
     "nodes/JavaScript Variables.md",
     "nodes/Name Binding.md",
-    "nodes/JavaScript Variables.md~",
     "nodes/Scope.md",
-    "nodes/Scope (Computer Science).md~",
-    "nodes/Variable (Programming).md~",
-    "nodes/Name Binding.md~",
     "nodes/Variable (Programming).md",
-    "nodes/Object-Oriented Programming.md~",
     "nodes/Object (Computer Science).md",
-    "nodes/Object (OOP).md~",
     "nodes/Scope (Computer Science).md",
     "nodes/Scope (Production).md",
-    "nodes/Scope.md~",
     "nodes/JavaScript Hoisting.md",
-    "nodes/Hoisting (JavaScript).md~",
     "nodes/Hoisting (JavaScript).md",
-    "nodes/4913",
     "nodes/Software.md",
-    "nodes/Building Sandfall.md~",
-    "nodes/Building Sandfall.md",
-    "nodes/CPU.md",
-    "nodes/Race Condition.md",
-    "nodes/Game of Life.md",
-    "nodes/Block Cellular Automaton.md",
-    "nodes/Margolus Neighborhood.md",
-    "nodes/Cellular Automaton.md",
-    "nodes/Garden of Eden (Cellular Automaton).md",
-    "nodes/Garden of Eden (Cellular Automaton.md",
-    "nodes/Bijection.md",
-    "nodes/Bijective Function.md",
-    "nodes/Automaton.md",
-    "nodes/Cellular Automata.md",
-    "nodes/Automata Theory.md",
-    "nodes/Talos.md",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
   ]

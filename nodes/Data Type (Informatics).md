@@ -4,7 +4,7 @@ context:
   - "[[Informatics]]"
 ---
 
-# Data Type
+# Data Type (Informatics)
 
 Classification that specifies the nature of data.
 

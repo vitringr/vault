@@ -2,9 +2,9 @@
 aliases:
   - Set
 context:
-  - "[[Data Type]]"
+  - "[[Data Type (Informatics)]]"
 ---
 
-# Set (Data Type)
+# Set (Informatics)
 
 Collection of distinct elements with no particular order.
