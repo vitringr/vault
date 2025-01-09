@@ -4,6 +4,8 @@ context:
 
 # Black Dog Story
 
+## First Day
+
 Driving to work, I saw a dog that had just been hit by a car.
 
 The sight was horrific.
@@ -113,3 +115,9 @@ Payed the clinic for the first day of treatment.
 Some girl that was listening to the conversation decided to pay for the next day herself. Good person.
 
 Later that night one of the doctors called me to tell me the dog is getting better.
+
+## Second Day
+
+#wip
+#wip
+#wip
