@@ -116,8 +116,20 @@ Some girl that was listening to the conversation decided to pay for the next day
 
 Later that night one of the doctors called me to tell me the dog is getting better.
 
+Told the doctors that I can take care of the dog after its treatment.
+
 ## Second Day
 
-#wip
-#wip
-#wip
+The next day I called my cousin and asked her to try and figure something out.
+
+She did her social animal rescue magic.
+
+Using some social media groups for lost animals and such, she managed to find the owners of the dog.
+
+Yeah, it seems like it was domestic. Explains why it got hit by a car. Street dogs generally know how to traverse the road.
+
+The owners went to the clinic.
+
+They called me to thank me.
+
+Happy end I guess, hope the dog gets better.
