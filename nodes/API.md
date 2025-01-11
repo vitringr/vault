@@ -2,7 +2,7 @@
 aliases:
   - Application Programming Interface
 context:
-  - [[Software]]
+  - "[[Software]]"
 ---
 
 # API

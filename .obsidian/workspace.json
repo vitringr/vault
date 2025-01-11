@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/WebGL2 Texture Formats.md",
+                "file": "nodes/General Purpose GPU.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "WebGL2 Texture Formats"
+              "title": "General Purpose GPU"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:essay",
+                "query": "tag:#wip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,42 +151,43 @@
   },
   "active": "36059d8b7de3bff7",
   "lastOpenFiles": [
+    "nodes/Bottleneck.md",
+    "nodes/Dimitar.md",
+    "nodes/Concurrent Model of Computation.md",
+    "nodes/JavaScript Variable.md",
+    "nodes/Dimitar.md~",
+    "nodes/Mathematics.md",
+    "Untitled.canvas",
+    "nodes/WebGL2 No Data Example.md",
+    "nodes/Attrition Strategy.md",
+    "nodes/Arrow Function (JavaScript).md",
+    "nodes/API.md",
+    "nodes/Algebra.md",
+    "nodes/Abstract Machine.md",
+    "nodes/Method (OOP).md",
+    "nodes/WebGL Articles.md",
+    "nodes/Variable (Programming).md",
+    "nodes/Random Access.md",
+    "nodes/Computer Graphics.md",
+    "nodes/Software.md",
+    "nodes/Open Source.md",
+    "nodes/NodeJS.md",
+    "nodes/JavaScript.md",
+    "nodes/Programming.md",
+    "nodes/Algorithm.md",
+    "nodes/Coordinate System.md",
+    "nodes/Cartesian Coordinate System.md",
+    "nodes/Analytic Geometry.md",
+    "nodes/Amor Fati.md",
     "nodes/Black Dog Story.md~",
-    "nodes/Black Dog Story.md",
     "nodes/JavaScript Exceptional Handling.md~",
-    "nodes/JavaScript Iteration.md",
     "nodes/JavaScript Control Flow.md~",
-    "nodes/JavaScript Exceptional Handling.md",
-    "nodes/JavaScript Control Flow.md",
     "nodes/Control Flow.md~",
     "nodes/4913",
-    "nodes/Control Flow.md",
     "nodes/JavaScript Iteration.md~",
-    "nodes/Functional Model of Computation.md",
-    "nodes/Functional Programming.md",
     "nodes/Functional Programming.md~",
-    "nodes/JavaScript Equality Comparisons.md",
     "nodes/Iteration.md~",
-    "nodes/Iteration.md",
     "nodes/JavaScript Loops and Iteration.md~",
-    "nodes/JavaScript Loops and Iteration.md",
-    "nodes/JavaScript Equality Comparisons.md~",
-    "nodes/JavaScript Indexed Collections.md",
-    "nodes/JavaScript Indexed Collections.md~",
-    "nodes/JavaScript Keyed Collections.md",
-    "nodes/Type Conversion.md",
-    "nodes/Hindsight Bias.md",
-    "nodes/WebGL2 Texture Formats.md",
-    "nodes/WebGL Texture.md",
-    "nodes/Texture.md",
-    "nodes/TypeScript.md",
-    "nodes/Slack.md",
-    "nodes/NodeJS.md",
-    "nodes/Vertex Shader.md",
-    "nodes/GLSL.md",
-    "nodes/Varying.md",
-    "nodes/Web Browser.md",
-    "nodes/ECMAScript.md",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
   ]
