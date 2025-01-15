@@ -11,14 +11,10 @@
             "id": "36059d8b7de3bff7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodes/General Purpose GPU.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "General Purpose GPU"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -151,6 +147,7 @@
   },
   "active": "36059d8b7de3bff7",
   "lastOpenFiles": [
+    "nodes/General Purpose GPU.md",
     "nodes/Bottleneck.md",
     "nodes/Dimitar.md",
     "nodes/Concurrent Model of Computation.md",
@@ -178,7 +175,6 @@
     "nodes/Coordinate System.md",
     "nodes/Cartesian Coordinate System.md",
     "nodes/Analytic Geometry.md",
-    "nodes/Amor Fati.md",
     "nodes/Black Dog Story.md~",
     "nodes/JavaScript Exceptional Handling.md~",
     "nodes/JavaScript Control Flow.md~",
