@@ -11,10 +11,14 @@
             "id": "36059d8b7de3bff7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "nodes/JavaScript Expressions and Operators.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "JavaScript Expressions and Operators"
             }
           }
         ]
@@ -147,6 +151,7 @@
   },
   "active": "36059d8b7de3bff7",
   "lastOpenFiles": [
+    "nodes/JavaScript Expressions and Operators.md~",
     "nodes/General Purpose GPU.md",
     "nodes/Bottleneck.md",
     "nodes/Dimitar.md",
@@ -174,7 +179,6 @@
     "nodes/Algorithm.md",
     "nodes/Coordinate System.md",
     "nodes/Cartesian Coordinate System.md",
-    "nodes/Analytic Geometry.md",
     "nodes/Black Dog Story.md~",
     "nodes/JavaScript Exceptional Handling.md~",
     "nodes/JavaScript Control Flow.md~",
