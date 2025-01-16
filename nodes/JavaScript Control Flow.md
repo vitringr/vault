@@ -4,8 +4,6 @@ context:
   - "[[Control Flow]]"
 ---
 
-#wip
-
 # JavaScript Control Flow
 
 The order in which instructions in a JavaScript program are executed.
