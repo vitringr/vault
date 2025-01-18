@@ -55,4 +55,4 @@ Arrow functions have no binding of `this`.
 - **Regular Function**: the `this` keyword represents the object that called the function.
 - **Arrow Function**: the `this` keyword always represents the object that defined the arrow function.
 
-See [[Arrow Functions vs Normal Functions in JavaScript]]
+See [[JavaScript Arrow Functions vs Regular Functions]]

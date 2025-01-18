@@ -4,7 +4,7 @@ context:
   - "[[Function (Programming)]]"
 ---
 
-# Arrow Functions vs Normal Functions in JavaScript
+# JavaScript Arrow Functions vs Regular Functions
 
 Key differences between [[Arrow Function (JavaScript)]] and normal functions in [[JavaScript]].
 

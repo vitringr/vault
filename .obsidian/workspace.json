@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/JavaScript Functions.md",
+                "file": "nodes/Arrow Function (JavaScript).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "JavaScript Functions"
+              "title": "Arrow Function (JavaScript)"
             }
           }
         ]
@@ -151,6 +151,8 @@
   },
   "active": "36059d8b7de3bff7",
   "lastOpenFiles": [
+    "nodes/JavaScript Expressions and Operators.md",
+    "nodes/JavaScript Functions.md",
     "nodes/JavaScript Functions.md~",
     "nodes/Recursion.md~",
     "nodes/Recursion.md",
@@ -159,7 +161,6 @@
     "nodes/JavaScript Arrow Functions.md~",
     "nodes/JavaScript Arrow Functions.md",
     "nodes/4913",
-    "nodes/JavaScript Functions.md",
     "nodes/Variadic Function.md",
     "nodes/JavaScript Variable.md~",
     "nodes/JavaScript Iteration.md~",
@@ -173,7 +174,6 @@
     "nodes/Dimitar.md",
     "nodes/Concurrent Model of Computation.md",
     "nodes/JavaScript Variable.md",
-    "nodes/Dimitar.md~",
     "nodes/Mathematics.md",
     "Untitled.canvas",
     "nodes/WebGL2 No Data Example.md",
