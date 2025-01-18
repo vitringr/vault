@@ -7,7 +7,7 @@ context:
 
 # JavaScript Expressions and Operators
 
-All about expressions and operators in JavaScript.
+Expressions and operators in JavaScript.
 
 ---
 

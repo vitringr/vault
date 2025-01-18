@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/JavaScript Expressions and Operators.md",
+                "file": "nodes/JavaScript Functions.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "JavaScript Expressions and Operators"
+              "title": "JavaScript Functions"
             }
           }
         ]
@@ -151,9 +151,21 @@
   },
   "active": "36059d8b7de3bff7",
   "lastOpenFiles": [
+    "nodes/JavaScript Functions.md~",
+    "nodes/Recursion.md~",
+    "nodes/Recursion.md",
+    "nodes/JavaScript Arrow Function.md~",
+    "nodes/JavaScript Arrow Function.md",
+    "nodes/JavaScript Arrow Functions.md~",
+    "nodes/JavaScript Arrow Functions.md",
+    "nodes/4913",
+    "nodes/JavaScript Functions.md",
+    "nodes/Variadic Function.md",
+    "nodes/JavaScript Variable.md~",
+    "nodes/JavaScript Iteration.md~",
+    "nodes/JavaScript.md",
     "nodes/JavaScript Expressions and Operators.md~",
     "nodes/Operator (Programming).md~",
-    "nodes/4913",
     "nodes/Operator (Programming).md",
     "nodes/JavaScript Control Flow.md~",
     "nodes/General Purpose GPU.md",
@@ -176,18 +188,6 @@
     "nodes/Random Access.md",
     "nodes/Computer Graphics.md",
     "nodes/Software.md",
-    "nodes/Open Source.md",
-    "nodes/NodeJS.md",
-    "nodes/JavaScript.md",
-    "nodes/Programming.md",
-    "nodes/Algorithm.md",
-    "nodes/Coordinate System.md",
-    "nodes/Black Dog Story.md~",
-    "nodes/JavaScript Exceptional Handling.md~",
-    "nodes/Control Flow.md~",
-    "nodes/JavaScript Iteration.md~",
-    "nodes/Functional Programming.md~",
-    "nodes/Iteration.md~",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
   ]

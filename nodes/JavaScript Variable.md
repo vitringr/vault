@@ -6,7 +6,7 @@ context:
 
 # JavaScript Variable
 
-All about JavaScript variables.
+Variables in JavaScript.
 
 ---
 

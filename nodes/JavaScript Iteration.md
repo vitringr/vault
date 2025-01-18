@@ -6,7 +6,7 @@ context:
 
 # JavaScript Iteration
 
-All about iteration and loops in JavaScript.
+Iteration and loops in JavaScript.
 
 ---
 
