@@ -4,7 +4,7 @@ context:
   - "[[Variable (Programming)]]"
 ---
 
-# JavaScript Variable
+# JavaScript Variables
 
 Variables in JavaScript.
 

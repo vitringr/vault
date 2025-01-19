@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Arrow Function (JavaScript).md",
+                "file": "nodes/JavaScript this Keyword.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Arrow Function (JavaScript)"
+              "title": "JavaScript this Keyword"
             }
           }
         ]
@@ -151,6 +151,22 @@
   },
   "active": "36059d8b7de3bff7",
   "lastOpenFiles": [
+    "nodes/JavaScript Async.md",
+    "nodes/JavaScript this Keyword.md",
+    "nodes/JavaScript.md",
+    "nodes/JavaScript Async.md~",
+    "nodes/Asynchronous JavaScript.md",
+    "nodes/Asynchronous JavaScript.md~",
+    "nodes/4913",
+    "nodes/JavaScript.md~",
+    "nodes/JavaScript Data Types.md",
+    "nodes/JavaScript Variables.md",
+    "nodes/JavaScript Variable.md~",
+    "nodes/Automaton.md",
+    "nodes/Cognitive Bias.md",
+    "nodes/Type Conversion.md",
+    "nodes/Java.md",
+    "nodes/JavaScript this Keyword.md~",
     "nodes/JavaScript Expressions and Operators.md",
     "nodes/JavaScript Functions.md",
     "nodes/JavaScript Functions.md~",
@@ -160,15 +176,8 @@
     "nodes/JavaScript Arrow Function.md",
     "nodes/JavaScript Arrow Functions.md~",
     "nodes/JavaScript Arrow Functions.md",
-    "nodes/4913",
     "nodes/Variadic Function.md",
-    "nodes/JavaScript Variable.md~",
-    "nodes/JavaScript Iteration.md~",
-    "nodes/JavaScript.md",
-    "nodes/JavaScript Expressions and Operators.md~",
-    "nodes/Operator (Programming).md~",
     "nodes/Operator (Programming).md",
-    "nodes/JavaScript Control Flow.md~",
     "nodes/General Purpose GPU.md",
     "nodes/Bottleneck.md",
     "nodes/Dimitar.md",
@@ -178,16 +187,6 @@
     "Untitled.canvas",
     "nodes/WebGL2 No Data Example.md",
     "nodes/Attrition Strategy.md",
-    "nodes/Arrow Function (JavaScript).md",
-    "nodes/API.md",
-    "nodes/Algebra.md",
-    "nodes/Abstract Machine.md",
-    "nodes/Method (OOP).md",
-    "nodes/WebGL Articles.md",
-    "nodes/Variable (Programming).md",
-    "nodes/Random Access.md",
-    "nodes/Computer Graphics.md",
-    "nodes/Software.md",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
   ]

@@ -4,9 +4,9 @@ context:
   - "[[Data Type (Computer Science)]]"
 ---
 
-# JavaScript Data Type
+# JavaScript Data Types
 
-The kind of data a [[JavaScript Variable]] can hold.
+The kind of data a [[JavaScript Variables]] can hold.
 
 ---
 
