@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/JavaScript this Keyword.md",
+                "file": "nodes/Clean Architecture.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "JavaScript this Keyword"
+              "title": "Clean Architecture"
             }
           }
         ]
@@ -151,6 +151,7 @@
   },
   "active": "36059d8b7de3bff7",
   "lastOpenFiles": [
+    "nodes/Clean Architecture.md~",
     "nodes/JavaScript Async.md",
     "nodes/JavaScript this Keyword.md",
     "nodes/JavaScript.md",
