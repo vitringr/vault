@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Chess.md",
+                "file": "nodes/King's Indian Defense.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chess"
+              "title": "King's Indian Defense"
             }
           }
         ]
@@ -151,6 +151,10 @@
   },
   "active": "36059d8b7de3bff7",
   "lastOpenFiles": [
+    "nodes/King's Indian Defense.md~",
+    "nodes/4913",
+    "nodes/Chess.md",
+    "nodes/King's Indian Defense.md",
     "nodes/Chess.md~",
     "nodes/Board Game.md",
     "nodes/Zero-sum Game.md",
@@ -163,7 +167,6 @@
     "nodes/JavaScript Async.md~",
     "nodes/Asynchronous JavaScript.md",
     "nodes/Asynchronous JavaScript.md~",
-    "nodes/4913",
     "nodes/JavaScript.md~",
     "nodes/JavaScript Data Types.md",
     "nodes/JavaScript Variables.md",
@@ -175,7 +178,6 @@
     "nodes/JavaScript this Keyword.md~",
     "nodes/JavaScript Expressions and Operators.md",
     "nodes/JavaScript Functions.md",
-    "nodes/JavaScript Functions.md~",
     "nodes/Recursion.md",
     "nodes/JavaScript Arrow Function.md",
     "nodes/JavaScript Arrow Functions.md",
@@ -184,8 +186,6 @@
     "nodes/General Purpose GPU.md",
     "nodes/Bottleneck.md",
     "nodes/Dimitar.md",
-    "nodes/Concurrent Model of Computation.md",
-    "nodes/JavaScript Variable.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
