@@ -10,6 +10,9 @@ Abstract turn-based strategy board game.
 
 ---
 
+```chesser
+```
+
 ## Properties
 
 **Players**: Chess is a two-player [[Zero-sum Game]]. One player is _white_, the other is _black_.

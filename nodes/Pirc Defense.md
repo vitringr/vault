@@ -1,6 +1,6 @@
 ---
 context:
-- "[[Chess Opening]]"
+- "[[Opening (Chess Phase)]]"
 ---
 
 #wip

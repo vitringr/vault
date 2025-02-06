@@ -9,7 +9,7 @@ context:
 
 # Indian Game
 
-Broad term for a group of [[Chess Opening|Chess Openings]] characterized by the moves: `d4 Nf6`.
+Broad term for a group of [[Opening (Chess Phase)|Chess Openings]] characterized by the moves: `d4 Nf6`.
 
 ---
 
