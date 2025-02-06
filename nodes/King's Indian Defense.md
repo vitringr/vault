@@ -1,6 +1,6 @@
 ---
 context:
-  - "[[Chess]]"
+  - "[[Chess Opening]]"
 ---
 
 #wip
@@ -13,3 +13,5 @@ Versatile chess opening for black.
 fen: rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3
 orientation: black
 ```
+
+Transposes with the [[Pirc Defense]].

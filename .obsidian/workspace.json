@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/King's Indian Defense.md",
+                "file": "nodes/Indian Game.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "King's Indian Defense"
+              "title": "Indian Game"
             }
           }
         ]
@@ -152,7 +152,14 @@
   "active": "36059d8b7de3bff7",
   "lastOpenFiles": [
     "nodes/King's Indian Defense.md~",
+    "nodes/Pirc Defense.md~",
     "nodes/4913",
+    "nodes/Indian Game.md~",
+    "nodes/Hypermodernism (Chess).md~",
+    "nodes/Transposition (Chess).md~",
+    "nodes/Transposition (Chess).md",
+    "nodes/Chess Opening.md~",
+    "nodes/Chess Opening.md",
     "nodes/Chess.md",
     "nodes/King's Indian Defense.md",
     "nodes/Chess.md~",
@@ -166,16 +173,12 @@
     "nodes/JavaScript.md",
     "nodes/JavaScript Async.md~",
     "nodes/Asynchronous JavaScript.md",
-    "nodes/Asynchronous JavaScript.md~",
-    "nodes/JavaScript.md~",
     "nodes/JavaScript Data Types.md",
     "nodes/JavaScript Variables.md",
-    "nodes/JavaScript Variable.md~",
     "nodes/Automaton.md",
     "nodes/Cognitive Bias.md",
     "nodes/Type Conversion.md",
     "nodes/Java.md",
-    "nodes/JavaScript this Keyword.md~",
     "nodes/JavaScript Expressions and Operators.md",
     "nodes/JavaScript Functions.md",
     "nodes/Recursion.md",
@@ -184,8 +187,6 @@
     "nodes/Variadic Function.md",
     "nodes/Operator (Programming).md",
     "nodes/General Purpose GPU.md",
-    "nodes/Bottleneck.md",
-    "nodes/Dimitar.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
