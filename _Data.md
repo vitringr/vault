@@ -1,12 +1,20 @@
-fl: First Last
-4: Four
-6: Six
-s: sage
-an: At Name
+p: v......r
+g: r......g
 
-PN: s46pn
-GB: fl46
-XX: fl46
-DT: fl46
-SM: fl46
-RP: fl46
+f: first
+l: last
+u: full
+4: four
+6: six
+r: reverse
+s: sage
+
+PrN: u46s
+GoE: fl46rs
+GiB: fl46
+X.X: fl46
+DrT: fl46
+StM: fl46
+RoP: fl46
+DeK: fl46
+ChS: Fl46

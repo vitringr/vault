@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Vitringr.md",
+                "file": "nodes/Chess.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Vitringr"
+              "title": "Chess"
             }
           }
         ]
@@ -151,6 +151,10 @@
   },
   "active": "36059d8b7de3bff7",
   "lastOpenFiles": [
+    "nodes/Chess.md~",
+    "nodes/Board Game.md",
+    "nodes/Zero-sum Game.md",
+    "nodes/WebGL2 Vertex Array Object.md",
     "nodes/Vitringr.md~",
     "nodes/Clean Architecture.md~",
     "nodes/JavaScript Async.md",
@@ -172,9 +176,7 @@
     "nodes/JavaScript Expressions and Operators.md",
     "nodes/JavaScript Functions.md",
     "nodes/JavaScript Functions.md~",
-    "nodes/Recursion.md~",
     "nodes/Recursion.md",
-    "nodes/JavaScript Arrow Function.md~",
     "nodes/JavaScript Arrow Function.md",
     "nodes/JavaScript Arrow Functions.md",
     "nodes/Variadic Function.md",
@@ -184,10 +186,7 @@
     "nodes/Dimitar.md",
     "nodes/Concurrent Model of Computation.md",
     "nodes/JavaScript Variable.md",
-    "nodes/Mathematics.md",
     "Untitled.canvas",
-    "nodes/WebGL2 No Data Example.md",
-    "nodes/Attrition Strategy.md",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
   ]
