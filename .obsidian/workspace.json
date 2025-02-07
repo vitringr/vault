@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/King's Indian Defense.md",
+                "file": "nodes/Pirc Defense.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "King's Indian Defense"
+              "title": "Pirc Defense"
             }
           }
         ]
@@ -151,6 +151,8 @@
   },
   "active": "36059d8b7de3bff7",
   "lastOpenFiles": [
+    "nodes/Pirc Defense.md~",
+    "nodes/King's Indian Defense.md",
     "nodes/King's Indian Defense.md~",
     "nodes/Fianchetto.md",
     "nodes/Indian Game.md",
@@ -161,14 +163,12 @@
     "nodes/Chess Phases.md~",
     "nodes/Chess Theory.md~",
     "nodes/Chess Theory.md",
-    "nodes/King's Indian Defense.md",
     "nodes/Endgame (Chess Phase).md~",
     "nodes/Middlegame (Chess Phase).md",
     "nodes/Middlegame (Chess).md~",
     "nodes/Endgame (Chess Phase).md",
     "nodes/Opening (Chess Phase).md~",
     "nodes/Opening (Chess Phase).md",
-    "nodes/Opening (Chess).md~",
     "nodes/Middlegame (Chess).md",
     "nodes/Chess Openings.md",
     "nodes/Chess.md",
