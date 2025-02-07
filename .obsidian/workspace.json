@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Pirc Defense.md",
+                "file": "nodes/Fianchetto.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Pirc Defense"
+              "title": "Fianchetto"
             }
           }
         ]
@@ -151,6 +151,8 @@
   },
   "active": "36059d8b7de3bff7",
   "lastOpenFiles": [
+    "nodes/Fianchetto.md~",
+    "nodes/Pirc Defense.md",
     "nodes/Pirc Defense.md~",
     "nodes/King's Indian Defense.md",
     "nodes/King's Indian Defense.md~",
@@ -167,7 +169,6 @@
     "nodes/Middlegame (Chess Phase).md",
     "nodes/Middlegame (Chess).md~",
     "nodes/Endgame (Chess Phase).md",
-    "nodes/Opening (Chess Phase).md~",
     "nodes/Opening (Chess Phase).md",
     "nodes/Middlegame (Chess).md",
     "nodes/Chess Openings.md",
@@ -185,7 +186,6 @@
     "nodes/JavaScript Variables.md",
     "nodes/Automaton.md",
     "nodes/Cognitive Bias.md",
-    "nodes/Type Conversion.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
