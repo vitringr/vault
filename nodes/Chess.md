@@ -27,4 +27,4 @@ Abstract turn-based strategy board game.
 
 **Game End**: Chess games can be won, lost, or end in a stalemate.
 
-**Objective**: The win condition of chess is to _checkmate_ the opponent.
+**Objective**: The win condition of chess is to _[[Checkmate]]_ the opponent.

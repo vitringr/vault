@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Chess Phases.md",
+                "file": "nodes/King's Indian Defense.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chess Phases"
+              "title": "King's Indian Defense"
             }
           }
         ]
@@ -151,10 +151,16 @@
   },
   "active": "36059d8b7de3bff7",
   "lastOpenFiles": [
-    "nodes/Chess Theory.md~",
+    "nodes/King's Indian Defense.md~",
+    "nodes/Fianchetto.md",
+    "nodes/Indian Game.md",
+    "nodes/Indian Game.md~",
     "nodes/4913",
-    "nodes/Chess Theory.md",
+    "nodes/Chess Phases.md",
+    "nodes/Transposition (Chess).md~",
     "nodes/Chess Phases.md~",
+    "nodes/Chess Theory.md~",
+    "nodes/Chess Theory.md",
     "nodes/King's Indian Defense.md",
     "nodes/Endgame (Chess Phase).md~",
     "nodes/Middlegame (Chess Phase).md",
@@ -164,12 +170,8 @@
     "nodes/Opening (Chess Phase).md",
     "nodes/Opening (Chess).md~",
     "nodes/Middlegame (Chess).md",
-    "nodes/King's Indian Defense.md~",
-    "nodes/King's Indian Attack.md~",
-    "nodes/Sicillian Defense.md~",
     "nodes/Chess Openings.md",
     "nodes/Chess.md",
-    "nodes/Pirc Defense.md~",
     "nodes/Transposition (Chess).md",
     "nodes/Chess Opening.md",
     "nodes/Board Game.md",
@@ -184,9 +186,6 @@
     "nodes/Automaton.md",
     "nodes/Cognitive Bias.md",
     "nodes/Type Conversion.md",
-    "nodes/Java.md",
-    "nodes/JavaScript Expressions and Operators.md",
-    "nodes/JavaScript Functions.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"

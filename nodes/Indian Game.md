@@ -2,14 +2,12 @@
 aliases:
   - Indian Defense
 context:
-  - "[[Chess]]"
+  - "[[Opening (Chess Phase)]]"
 ---
-
-#wip
 
 # Indian Game
 
-Broad term for a group of [[Opening (Chess Phase)|Chess Openings]] characterized by the moves: `d4 Nf6`.
+Common openings that begin with the moves: `d4 Nf6`.
 
 ---
 
@@ -21,3 +19,5 @@ orientation: white
 **Hypermodern**: These openings feature varying degrees of [[Hypermodernism (Chess)|Hypermodern]] defenses.
 
 **Heavy Transposition**: Many variations of indian games can be reached by several move orders. It's also possible to transpose back into classical, non-indian openings.
+
+See [[King's Indian Defense]]
