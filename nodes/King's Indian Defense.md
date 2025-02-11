@@ -26,4 +26,4 @@ Transposes with the [[Pirc Defense]].
 
 **Center**: Black allows White to build a strong pawn center to later counterattack it.
 
-**Direction**: Black usually aims to attack on the kingside, while white may often go for queenside and center attacks.
+**Direction**: Black usually aims to attack on the kingside or center. White usually aims to attack on the center or queenside.

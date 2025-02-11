@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Fianchetto.md",
+                "file": "nodes/Pirc Defense.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Fianchetto"
+              "title": "Pirc Defense"
             }
           }
         ]
@@ -151,11 +151,15 @@
   },
   "active": "36059d8b7de3bff7",
   "lastOpenFiles": [
-    "nodes/Fianchetto.md~",
-    "nodes/Pirc Defense.md",
     "nodes/Pirc Defense.md~",
-    "nodes/King's Indian Defense.md",
+    "nodes/Pirc Defense - Classical.md",
+    "nodes/Pirc Defense - Classical.md~",
+    "nodes/Pirc Defense.md",
+    "nodes/Asd: Asdasdasd.md~",
+    "nodes/Asd: Asdasdasd.md",
     "nodes/King's Indian Defense.md~",
+    "nodes/King's Indian Defense.md",
+    "nodes/Fianchetto.md~",
     "nodes/Fianchetto.md",
     "nodes/Indian Game.md",
     "nodes/Indian Game.md~",
@@ -165,9 +169,7 @@
     "nodes/Chess Phases.md~",
     "nodes/Chess Theory.md~",
     "nodes/Chess Theory.md",
-    "nodes/Endgame (Chess Phase).md~",
     "nodes/Middlegame (Chess Phase).md",
-    "nodes/Middlegame (Chess).md~",
     "nodes/Endgame (Chess Phase).md",
     "nodes/Opening (Chess Phase).md",
     "nodes/Middlegame (Chess).md",
@@ -184,8 +186,6 @@
     "nodes/Asynchronous JavaScript.md",
     "nodes/JavaScript Data Types.md",
     "nodes/JavaScript Variables.md",
-    "nodes/Automaton.md",
-    "nodes/Cognitive Bias.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
