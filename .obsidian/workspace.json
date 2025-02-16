@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Adaptive Volatility.md",
+                "file": "nodes/King and Rook Checkmate.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Adaptive Volatility"
+              "title": "King and Rook Checkmate"
             }
           }
         ]
@@ -151,13 +151,20 @@
   },
   "active": "36059d8b7de3bff7",
   "lastOpenFiles": [
+    "nodes/King and Rook Checkmate.md~",
+    "nodes/4913",
+    "nodes/Adaptive Volatility.md",
+    "nodes/Chess.md",
+    "nodes/Fork (Chess).md~",
+    "nodes/Fork (Chess).md",
     "nodes/Adaptive Volatility.md~",
+    "nodes/Hanging Piece (Chess).md~",
+    "nodes/Hanging Piece (Chess).md",
+    "nodes/Chess.md~",
     "nodes/Exchange When Ahead.md",
     "nodes/Exchange When Ahead.md~",
-    "nodes/4913",
     "nodes/Chess Piece Value.md",
     "nodes/Risk Polarity.md",
-    "nodes/Adaptive Volatility.md",
     "nodes/Risk Polarity.md~",
     "nodes/Chess Piece Value.md~",
     "nodes/Back-rank Checkmate.md",
@@ -165,12 +172,9 @@
     "nodes/Back-rank Checkmate.md~",
     "nodes/Ladder Checkmate.md~",
     "nodes/Smothered Checkmate.md",
-    "nodes/Smothered Checkmate.md~",
     "nodes/King and Rook Checkmate.md",
     "nodes/Smother Checkmate.md",
-    "nodes/King and Rook Checkmate.md~",
     "nodes/King and Queen Checkmate.md",
-    "nodes/King and Queen Checkmate.md~",
     "nodes/Checkmate Pattern.md",
     "nodes/King's Indian Attack.md",
     "nodes/Pirc Defense - Classical.md",
@@ -183,9 +187,6 @@
     "nodes/Chess Theory.md",
     "nodes/Middlegame (Chess Phase).md",
     "nodes/Endgame (Chess Phase).md",
-    "nodes/Opening (Chess Phase).md",
-    "nodes/Middlegame (Chess).md",
-    "nodes/Chess Openings.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"

@@ -13,8 +13,6 @@ Abstract turn-based strategy board game.
 ```chesser
 ```
 
-## Properties
-
 **Players**: Chess is a two-player [[Zero-sum Game]]. One player is _white_, the other is _black_.
 
 **Perfect Information**: There is no hidden information. The whole board is visible.
@@ -28,3 +26,7 @@ Abstract turn-based strategy board game.
 **Game End**: Chess games can be won, lost, or end in a stalemate.
 
 **Objective**: The win condition of chess is to _[[Checkmate]]_ the opponent.
+
+**Strategy**: Refers to the abstract long-term ideas and goals.
+
+**Tactics**: Refers to specific goals and patterns.
