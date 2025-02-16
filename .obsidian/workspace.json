@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/King's Indian Attack.md",
+                "file": "nodes/Smothered Checkmate.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "King's Indian Attack"
+              "title": "Smothered Checkmate"
             }
           }
         ]
@@ -151,24 +151,30 @@
   },
   "active": "36059d8b7de3bff7",
   "lastOpenFiles": [
+    "nodes/Smothered Checkmate.md~",
+    "nodes/King and Rook Checkmate.md",
+    "nodes/4913",
+    "nodes/Smothered Checkmate.md",
+    "nodes/Smother Checkmate.md",
+    "nodes/Ladder Checkmate.md~",
+    "nodes/Ladder Checkmate.md",
+    "nodes/King and Rook Checkmate.md~",
+    "nodes/King and Queen Checkmate.md",
+    "nodes/King and Queen Checkmate.md~",
+    "nodes/Checkmate Pattern.md~",
+    "nodes/Checkmate Pattern.md",
+    "nodes/Checkmate.md~",
+    "nodes/King's Indian Attack.md",
     "nodes/King's Indian Attack.md~",
     "nodes/Pirc Defense.md~",
     "nodes/Pirc Defense - Classical.md",
     "nodes/Pirc Defense - Classical.md~",
     "nodes/Pirc Defense.md",
-    "nodes/Asd: Asdasdasd.md~",
     "nodes/Asd: Asdasdasd.md",
-    "nodes/King's Indian Defense.md~",
     "nodes/King's Indian Defense.md",
-    "nodes/Fianchetto.md~",
     "nodes/Fianchetto.md",
     "nodes/Indian Game.md",
-    "nodes/Indian Game.md~",
-    "nodes/4913",
     "nodes/Chess Phases.md",
-    "nodes/Transposition (Chess).md~",
-    "nodes/Chess Phases.md~",
-    "nodes/Chess Theory.md~",
     "nodes/Chess Theory.md",
     "nodes/Middlegame (Chess Phase).md",
     "nodes/Endgame (Chess Phase).md",
@@ -180,13 +186,6 @@
     "nodes/Chess Opening.md",
     "nodes/Board Game.md",
     "nodes/Zero-sum Game.md",
-    "nodes/WebGL2 Vertex Array Object.md",
-    "nodes/JavaScript Async.md",
-    "nodes/JavaScript this Keyword.md",
-    "nodes/JavaScript.md",
-    "nodes/Asynchronous JavaScript.md",
-    "nodes/JavaScript Data Types.md",
-    "nodes/JavaScript Variables.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
