@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Smothered Checkmate.md",
+                "file": "nodes/Ladder Checkmate.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Smothered Checkmate"
+              "title": "Ladder Checkmate"
             }
           }
         ]
@@ -151,12 +151,12 @@
   },
   "active": "36059d8b7de3bff7",
   "lastOpenFiles": [
+    "nodes/Ladder Checkmate.md~",
+    "nodes/Smothered Checkmate.md",
     "nodes/Smothered Checkmate.md~",
     "nodes/King and Rook Checkmate.md",
     "nodes/4913",
-    "nodes/Smothered Checkmate.md",
     "nodes/Smother Checkmate.md",
-    "nodes/Ladder Checkmate.md~",
     "nodes/Ladder Checkmate.md",
     "nodes/King and Rook Checkmate.md~",
     "nodes/King and Queen Checkmate.md",
