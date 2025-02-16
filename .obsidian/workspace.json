@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Ladder Checkmate.md",
+                "file": "nodes/Adaptive Volatility.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ladder Checkmate"
+              "title": "Adaptive Volatility"
             }
           }
         ]
@@ -151,24 +151,29 @@
   },
   "active": "36059d8b7de3bff7",
   "lastOpenFiles": [
+    "nodes/Adaptive Volatility.md~",
+    "nodes/Exchange When Ahead.md",
+    "nodes/Exchange When Ahead.md~",
+    "nodes/4913",
+    "nodes/Chess Piece Value.md",
+    "nodes/Risk Polarity.md",
+    "nodes/Adaptive Volatility.md",
+    "nodes/Risk Polarity.md~",
+    "nodes/Chess Piece Value.md~",
+    "nodes/Back-rank Checkmate.md",
+    "nodes/Ladder Checkmate.md",
+    "nodes/Back-rank Checkmate.md~",
     "nodes/Ladder Checkmate.md~",
     "nodes/Smothered Checkmate.md",
     "nodes/Smothered Checkmate.md~",
     "nodes/King and Rook Checkmate.md",
-    "nodes/4913",
     "nodes/Smother Checkmate.md",
-    "nodes/Ladder Checkmate.md",
     "nodes/King and Rook Checkmate.md~",
     "nodes/King and Queen Checkmate.md",
     "nodes/King and Queen Checkmate.md~",
-    "nodes/Checkmate Pattern.md~",
     "nodes/Checkmate Pattern.md",
-    "nodes/Checkmate.md~",
     "nodes/King's Indian Attack.md",
-    "nodes/King's Indian Attack.md~",
-    "nodes/Pirc Defense.md~",
     "nodes/Pirc Defense - Classical.md",
-    "nodes/Pirc Defense - Classical.md~",
     "nodes/Pirc Defense.md",
     "nodes/Asd: Asdasdasd.md",
     "nodes/King's Indian Defense.md",
@@ -181,11 +186,6 @@
     "nodes/Opening (Chess Phase).md",
     "nodes/Middlegame (Chess).md",
     "nodes/Chess Openings.md",
-    "nodes/Chess.md",
-    "nodes/Transposition (Chess).md",
-    "nodes/Chess Opening.md",
-    "nodes/Board Game.md",
-    "nodes/Zero-sum Game.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
