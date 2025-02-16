@@ -1,3 +1,11 @@
+---
+context:
+  - "[[Function (Mathematics)]]"
+  - "[[Function (Programming)]]"
+---
+
 # Variadic Function
 
-#wip
+Function of indefinite arity.
+
+Function that accepts a variable number of arguments.

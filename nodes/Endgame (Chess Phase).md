@@ -5,10 +5,10 @@ context:
   - "[[Chess Phases]]"
 ---
 
-#wip
-
 # Endgame (Chess Phase)
 
-ad
+The final phase of a chess game.
 
 ---
+
+Begins when few pieces are left on the board.

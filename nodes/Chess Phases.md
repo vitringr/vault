@@ -5,15 +5,11 @@ context:
 
 # Chess Phases
 
-The three phases of a chess game: [[Opening (Chess Phase)|Opening]], [[Middlegame (Chess Phase)|Middlegame]], [[Endgame (Chess Phase)|Endgame]].
+The three phases of a chess game:
 
----
-
-While somewhat abstract and arbitrary, the three phases can be defined as:
-
-1. **Opening**: The initial stage of the game.
-2. **Middlegame**: After each player has developed their pieces and brought their king to relative safety.
-3. **Endgame**: The final stage of the game. Begins when few pieces are left on the board.
+1. [[Opening (Chess Phase)|Opening]]
+2. [[Middlegame (Chess Phase)|Middlegame]]
+3. [[Endgame (Chess Phase)|Endgame]]
 
 > "Play the opening like a book, the middle game like a magician, and the endgame like a machine".
 >

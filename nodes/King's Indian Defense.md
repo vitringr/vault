@@ -1,4 +1,6 @@
 ---
+aliases:
+  - KID
 context:
   - "[[Opening (Chess Phase)]]"
 ---
