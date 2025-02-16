@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Pirc Defense.md",
+                "file": "nodes/King's Indian Attack.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Pirc Defense"
+              "title": "King's Indian Attack"
             }
           }
         ]
@@ -151,6 +151,7 @@
   },
   "active": "36059d8b7de3bff7",
   "lastOpenFiles": [
+    "nodes/King's Indian Attack.md~",
     "nodes/Pirc Defense.md~",
     "nodes/Pirc Defense - Classical.md",
     "nodes/Pirc Defense - Classical.md~",

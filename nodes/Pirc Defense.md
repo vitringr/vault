@@ -5,7 +5,7 @@ context:
 
 # Pirc Defense
 
-Versatile opening characterized by the moves: `e4 d6` `d4 Nf6` `Nc3 g6`.
+Versatile opening for Black characterized by the moves: `e4 d6` `d4 Nf6` `Nc3 g6`.
 
 ---
 

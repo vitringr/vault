@@ -7,7 +7,7 @@ context:
 
 # King's Indian Defense
 
-Versatile opening defined by the moves: `d4 Nf6` `c4 g6`.
+Versatile opening for Black defined by the moves: `d4 Nf6` `c4 g6`.
 
 ---
 
