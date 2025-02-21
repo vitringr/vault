@@ -14,6 +14,8 @@ fen: rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4
 orientation: black
 ```
 
+**Versatile**: Can be played in almost any game.
+
 Pirc Defense is a versatile, [[Hypermodernism (Chess)|Hypermodern]] opening.
 
 Transposes with the [[King's Indian Defense]].

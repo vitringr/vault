@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/King and Rook Checkmate.md",
+                "file": "nodes/Czech Pirc Defense.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "King and Rook Checkmate"
+              "title": "Czech Pirc Defense"
             }
           }
         ]
@@ -151,6 +151,9 @@
   },
   "active": "36059d8b7de3bff7",
   "lastOpenFiles": [
+    "nodes/Czech Pirc Defense.md~",
+    "nodes/Pirc Defense.md~",
+    "nodes/Pirc Defense.md",
     "nodes/King and Rook Checkmate.md~",
     "nodes/4913",
     "nodes/Adaptive Volatility.md",
@@ -169,8 +172,6 @@
     "nodes/Chess Piece Value.md~",
     "nodes/Back-rank Checkmate.md",
     "nodes/Ladder Checkmate.md",
-    "nodes/Back-rank Checkmate.md~",
-    "nodes/Ladder Checkmate.md~",
     "nodes/Smothered Checkmate.md",
     "nodes/King and Rook Checkmate.md",
     "nodes/Smother Checkmate.md",
@@ -178,7 +179,6 @@
     "nodes/Checkmate Pattern.md",
     "nodes/King's Indian Attack.md",
     "nodes/Pirc Defense - Classical.md",
-    "nodes/Pirc Defense.md",
     "nodes/Asd: Asdasdasd.md",
     "nodes/King's Indian Defense.md",
     "nodes/Fianchetto.md",
