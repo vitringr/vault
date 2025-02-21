@@ -7,4 +7,4 @@ context:
 
 The win condition of [[Chess]].
 
-When a king can be captured.
+When a king can be inevitably captured.

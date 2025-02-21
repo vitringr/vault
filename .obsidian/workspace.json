@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Czech Pirc Defense.md",
+                "file": "nodes/Chess.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Czech Pirc Defense"
+              "title": "Chess"
             }
           }
         ]
@@ -151,6 +151,7 @@
   },
   "active": "36059d8b7de3bff7",
   "lastOpenFiles": [
+    "nodes/Chess.md~",
     "nodes/Czech Pirc Defense.md~",
     "nodes/Pirc Defense.md~",
     "nodes/Pirc Defense.md",
@@ -163,7 +164,6 @@
     "nodes/Adaptive Volatility.md~",
     "nodes/Hanging Piece (Chess).md~",
     "nodes/Hanging Piece (Chess).md",
-    "nodes/Chess.md~",
     "nodes/Exchange When Ahead.md",
     "nodes/Exchange When Ahead.md~",
     "nodes/Chess Piece Value.md",
