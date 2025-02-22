@@ -11,14 +11,10 @@
             "id": "36059d8b7de3bff7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodes/Chess.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Chess"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -151,6 +147,7 @@
   },
   "active": "36059d8b7de3bff7",
   "lastOpenFiles": [
+    "nodes/Chess.md",
     "nodes/Square Rule (Chess).md~",
     "nodes/Square Rule (Chess).md",
     "nodes/Algebraic Notation (Chess).md~",
@@ -164,11 +161,9 @@
     "nodes/Pirc Defense.md",
     "nodes/King and Rook Checkmate.md~",
     "nodes/Adaptive Volatility.md",
-    "nodes/Chess.md",
     "nodes/Fork (Chess).md~",
     "nodes/Fork (Chess).md",
     "nodes/Adaptive Volatility.md~",
-    "nodes/Hanging Piece (Chess).md~",
     "nodes/Hanging Piece (Chess).md",
     "nodes/Exchange When Ahead.md",
     "nodes/Chess Piece Value.md",
