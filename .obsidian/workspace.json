@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Exchange When Ahead.md",
+                "file": "nodes/Damiano Defense.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Exchange When Ahead"
+              "title": "Damiano Defense"
             }
           }
         ]
@@ -151,6 +151,7 @@
   },
   "active": "36059d8b7de3bff7",
   "lastOpenFiles": [
+    "nodes/Damiano Defense.md~",
     "nodes/Discovered Attack (Chess).md",
     "nodes/Chess.md",
     "nodes/Square Rule (Chess).md~",
@@ -186,7 +187,6 @@
     "nodes/King's Indian Defense.md",
     "nodes/Fianchetto.md",
     "nodes/Indian Game.md",
-    "nodes/Chess Phases.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"

@@ -36,3 +36,13 @@ Pawns are not denoted by letters; only the destination square is written.
 **Promotion**: When a pawn promotes, the promoted piece is indicated after the move, for example `e8=Q`.
 
 **Ambiguity**: If two pieces can move to the same square, the file or rank of the moving piece is added to clarify.
+
+## Move Quality
+
+**Bad Move**: The `?` after a move indicates a mistake or a weak move.
+
+**Blunder**: The `??` after a move indicates a blunder.
+
+**Good Move**: The `!` after a move indicates a good and strong move.
+
+**Brilliant**: The `!!` after a move indicates a brilliant move.

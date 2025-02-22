@@ -11,7 +11,7 @@ The system to win King and Pawn vs King in the endgame.
 
 The idea is to use the King to escort the Pawn promotion, winning by a [[King and Queen Checkmate]] afterwards.
 
-**Opposition**: When the Kings are closest to eachother with only 1 square inbetween. Opposition can be horizontal, vertical, or diagonal.
+**Opposition**: See [[Opposition (Chess)]]
 
 **Key Squares**: Refers to the 3 perpendicular squares that are one square infront of your Pawn.
 
