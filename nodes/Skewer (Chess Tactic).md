@@ -2,10 +2,10 @@
 aliases:
   - Skewer
 context:
-  - "[[Chess]]"
+  - "[[Chess Tactic]]"
 ---
 
-# Skewer (Chess)
+# Skewer (Chess Tactic)
 
 When an attacked piece has to move and expose a less-valuable piece to the same attack.
 

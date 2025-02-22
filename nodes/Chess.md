@@ -56,9 +56,9 @@ The Rook and Queen are called _major_ pieces.
 
 **Perfect Information**: There is no hidden information. The whole board is visible.
 
-**Strategy**: Refers to the abstract long-term ideas and goals.
+**Strategy**: Refers to the abstract long-term ideas and goals. See [[Chess Strategy]]
 
-**Tactics**: Refers to specific goals and patterns.
+**Tactics**: Refers to specific goals and patterns. See [[Chess Tactic|Chess Tactics]]
 
 ## Misc
 

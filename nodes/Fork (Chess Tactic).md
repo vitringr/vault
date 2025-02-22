@@ -2,9 +2,9 @@
 aliases:
   - Fork
 context:
-  - "[[Chess]]"
+  - "[[Chess Tactic]]"
 ---
 
-# Fork (Chess)
+# Fork (Chess Tactic)
 
 When a piece attacks two or more pieces simultaneously.

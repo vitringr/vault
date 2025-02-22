@@ -2,10 +2,10 @@
 aliases:
   - Pin
 context:
-  - "[[Chess]]"
+  - "[[Chess Tactic]]"
 ---
 
-# Pin (Chess)
+# Pin (Chess Tactic)
 
 When a piece is under attack and cannot move without exposing another to the same attack.
 

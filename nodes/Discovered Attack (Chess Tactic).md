@@ -2,10 +2,10 @@
 aliases:
   - Discovered Attack
 context:
-  - "[[Chess]]"
+  - "[[Chess Tactic]]"
 ---
 
-# Discovered Attack (Chess)
+# Discovered Attack (Chess Tactic)
 
 When a piece moves, revealing a previously blocked attack line.
 

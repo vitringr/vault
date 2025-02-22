@@ -1,6 +1,6 @@
 ---
 context:
-  - "[[Chess]]"
+  - "[[Chess Strategy]]"
   - "[[Adaptive Volatility]]"
 ---
 
