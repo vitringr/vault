@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Damiano Defense.md",
+                "file": "nodes/Chess Tactic.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Damiano Defense"
+              "title": "Chess Tactic"
             }
           }
         ]
@@ -151,6 +151,7 @@
   },
   "active": "36059d8b7de3bff7",
   "lastOpenFiles": [
+    "nodes/Chess Tactic.md~",
     "nodes/Damiano Defense.md~",
     "nodes/Discovered Attack (Chess).md",
     "nodes/Chess.md",
@@ -169,7 +170,6 @@
     "nodes/Adaptive Volatility.md",
     "nodes/Fork (Chess).md~",
     "nodes/Fork (Chess).md",
-    "nodes/Adaptive Volatility.md~",
     "nodes/Hanging Piece (Chess).md",
     "nodes/Exchange When Ahead.md",
     "nodes/Chess Piece Value.md",

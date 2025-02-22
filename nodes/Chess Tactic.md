@@ -11,10 +11,12 @@ Refers to specific winning patterns in chess.
 
 ---
 
-See [[Fork (Chess Tactic)|Fork]]
+List of common tactics:
 
-See [[Pin (Chess Tactic)|Pin]]
-
-See [[Skewer (Chess Tactic)|Skewer]]
-
-See [[Discovered Attack (Chess Tactic)|Discovered Attack]]
+- [[Fork (Chess Tactic)|Fork]]
+- [[Pin (Chess Tactic)|Pin]]
+- [[Skewer (Chess Tactic)|Skewer]]
+- [[Discovered Attack (Chess Tactic)|Discovered Attack]]
+- [[Decoy (Chess Tactic)|Decoy]]
+- [[Deflection (Chess Tactic)|Deflection]]
+- [[Sacrifice (Chess Tactic)|Sacrifice]]
