@@ -20,3 +20,5 @@ List of common tactics:
 - [[Decoy (Chess Tactic)|Decoy]]
 - [[Deflection (Chess Tactic)|Deflection]]
 - [[Sacrifice (Chess Tactic)|Sacrifice]]
+- [[Desperado (Chess Tactic)|Desperado]]
+- [[Intermediate Move (Chess Tactic)|Intermediate Move]]
