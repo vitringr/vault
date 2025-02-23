@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Chess Tactic.md",
+                "file": "nodes/Pawn Theory.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chess Tactic"
+              "title": "Pawn Theory"
             }
           }
         ]
@@ -151,6 +151,13 @@
   },
   "active": "36059d8b7de3bff7",
   "lastOpenFiles": [
+    "nodes/Doubled Pawns.md~",
+    "nodes/4913",
+    "nodes/Chess Theory.md",
+    "nodes/Pawn Theory.md",
+    "nodes/Pawn Theory (Chess).md~",
+    "nodes/Chess Tactic.md",
+    "nodes/Doubled Pawns.md",
     "nodes/Chess Tactic.md~",
     "nodes/Damiano Defense.md~",
     "nodes/Discovered Attack (Chess).md",
@@ -158,17 +165,13 @@
     "nodes/Square Rule (Chess).md~",
     "nodes/Square Rule (Chess).md",
     "nodes/Algebraic Notation (Chess).md~",
-    "nodes/4913",
     "nodes/Chess Notation.md~",
     "nodes/Chess.md~",
     "nodes/Algebraic Notation (Chess).md",
     "nodes/Chess Notation.md",
     "nodes/Czech Pirc Defense.md~",
-    "nodes/Pirc Defense.md~",
     "nodes/Pirc Defense.md",
-    "nodes/King and Rook Checkmate.md~",
     "nodes/Adaptive Volatility.md",
-    "nodes/Fork (Chess).md~",
     "nodes/Fork (Chess).md",
     "nodes/Hanging Piece (Chess).md",
     "nodes/Exchange When Ahead.md",
@@ -183,10 +186,6 @@
     "nodes/Checkmate Pattern.md",
     "nodes/King's Indian Attack.md",
     "nodes/Pirc Defense - Classical.md",
-    "nodes/Asd: Asdasdasd.md",
-    "nodes/King's Indian Defense.md",
-    "nodes/Fianchetto.md",
-    "nodes/Indian Game.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"

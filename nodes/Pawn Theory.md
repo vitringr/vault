@@ -5,7 +5,7 @@ context:
   - "[[Chess]]"
 ---
 
-# Pawn Theory (Chess)
+# Pawn Theory
 
 Theory and concepts about pawns in chess.
 
@@ -15,7 +15,7 @@ Theory and concepts about pawns in chess.
 
 **Isolated Pawn**: Lone pawn with no adjacent pawns to support it.
 
-**Doubled Pawns**: Pawns of the same color on the same file. Generally considered a weakness.
+**Doubled Pawns**: See [[Doubled Pawns]]
 
 **Backward Pawn**: Pawn that has no support from other pawns because it's behind them.
 
