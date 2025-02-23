@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Pawn Theory.md",
+                "file": "nodes/Passed Pawn.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Pawn Theory"
+              "title": "Passed Pawn"
             }
           }
         ]
@@ -151,10 +151,13 @@
   },
   "active": "36059d8b7de3bff7",
   "lastOpenFiles": [
+    "nodes/Passed Pawn.md~",
+    "nodes/Pawn Theory.md",
+    "nodes/Pawn Theory.md~",
+    "nodes/Passed Pawn.md",
     "nodes/Doubled Pawns.md~",
     "nodes/4913",
     "nodes/Chess Theory.md",
-    "nodes/Pawn Theory.md",
     "nodes/Pawn Theory (Chess).md~",
     "nodes/Chess Tactic.md",
     "nodes/Doubled Pawns.md",
@@ -166,10 +169,8 @@
     "nodes/Square Rule (Chess).md",
     "nodes/Algebraic Notation (Chess).md~",
     "nodes/Chess Notation.md~",
-    "nodes/Chess.md~",
     "nodes/Algebraic Notation (Chess).md",
     "nodes/Chess Notation.md",
-    "nodes/Czech Pirc Defense.md~",
     "nodes/Pirc Defense.md",
     "nodes/Adaptive Volatility.md",
     "nodes/Fork (Chess).md",
@@ -185,7 +186,6 @@
     "nodes/King and Queen Checkmate.md",
     "nodes/Checkmate Pattern.md",
     "nodes/King's Indian Attack.md",
-    "nodes/Pirc Defense - Classical.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"

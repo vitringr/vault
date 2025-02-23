@@ -19,7 +19,7 @@ Theory and concepts about pawns in chess.
 
 **Backward Pawn**: Pawn that has no support from other pawns because it's behind them.
 
-**Passed Pawn**: Pawn with no opposing pawns blocking its path to promotion. A key asset in the [[Endgame (Chess Phase)|Endgame]].
+**Passed Pawn**: [[Passed Pawn]]
 
 **Protected Passed Pawn**: A passed pawn that is defende by another pawn.
 
