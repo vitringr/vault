@@ -9,12 +9,9 @@ Fundamental [[Checkmate Pattern]] done by a King and Queen.
 
 ---
 
-**Pattern**: From any King & Queen vs King position, the basic idea is to box the enemy King into an edge of the board, and then deliver checkmate with the King and Queen together.
+From any King & Queen vs King position, the basic idea is to box the enemy King into an edge of the board, and then deliver checkmate with the King and Queen together.
 
 **Forced**: Checkmate can always be forced in 10 or less moves in this scenario.
-
-> [!Warning]
-> Careful not to force a draw!
 
 **Support the Queen**:
 ```chesser

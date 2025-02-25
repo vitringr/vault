@@ -18,11 +18,7 @@ Abstract turn-based strategy board game.
 
 **Deterministic**: There is no randomness in chess.
 
-## Objective
-
-**Game End**: Chess games can be won, lost, or end in a stalemate.
-
-**Win Condition**: See [[Checkmate]]
+**Objective**: Chess games can be won or lost via [[Checkmate]], or end in a [[Draw (Chess)]].
 
 ## Board
 

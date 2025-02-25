@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b7d4415a125fd175",
+        "id": "734fb563dcecc876",
         "type": "tabs",
         "children": [
           {
-            "id": "36059d8b7de3bff7",
+            "id": "d4c75f8cd7824f21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Passed Pawn.md",
+                "file": "nodes/King and Queen Checkmate.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Passed Pawn"
+              "title": "King and Queen Checkmate"
             }
           }
         ]
@@ -149,8 +149,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36059d8b7de3bff7",
+  "active": "d4c75f8cd7824f21",
   "lastOpenFiles": [
+    "nodes/Draw (Chess).md",
+    "nodes/King and Queen Checkmate.md~",
+    "nodes/Draw (Chess).md~",
+    "nodes/Stalemate (Chess).md~",
+    "nodes/Two Bishops Checkmate.md",
+    "nodes/Chess.md~",
+    "nodes/Two Bishops Checkmate.md~",
+    "nodes/Stalemate (Chess).md",
+    "nodes/King and Rook Checkmate.md",
     "nodes/Chess Tactic.md~",
     "nodes/Intermediate Move (Chess Tactic).md~",
     "nodes/Intermediate Move.md",
@@ -161,17 +170,11 @@
     "nodes/Desperado (Chess Tactic).md",
     "nodes/Passed Pawn.md~",
     "nodes/Pawn Theory.md",
-    "nodes/Pawn Theory.md~",
-    "nodes/Doubled Pawns.md~",
-    "nodes/4913",
     "nodes/Chess Theory.md",
-    "nodes/Pawn Theory (Chess).md~",
     "nodes/Chess Tactic.md",
     "nodes/Doubled Pawns.md",
-    "nodes/Damiano Defense.md~",
     "nodes/Discovered Attack (Chess).md",
     "nodes/Chess.md",
-    "nodes/Square Rule (Chess).md~",
     "nodes/Square Rule (Chess).md",
     "nodes/Algebraic Notation (Chess).md",
     "nodes/Chess Notation.md",
@@ -183,10 +186,6 @@
     "nodes/Chess Piece Value.md",
     "nodes/Risk Polarity.md",
     "nodes/Back-rank Checkmate.md",
-    "nodes/Ladder Checkmate.md",
-    "nodes/Smothered Checkmate.md",
-    "nodes/King and Rook Checkmate.md",
-    "nodes/Smother Checkmate.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
