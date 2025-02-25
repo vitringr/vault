@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Adjacent Bishop vs Knight.md",
+                "file": "nodes/Czech Pirc Defense.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Adjacent Bishop vs Knight"
+              "title": "Czech Pirc Defense"
             }
           }
         ]
@@ -151,12 +151,12 @@
   },
   "active": "d4c75f8cd7824f21",
   "lastOpenFiles": [
+    "nodes/Czech Pirc Defense.md~",
     "nodes/King's Indian Attack.md",
     "nodes/Bishop vs Knight Control.md",
     "nodes/Adjacent Bishop vs Knight.md",
     "nodes/Bishop vs Knight Control.md~",
     "nodes/Chess Patterns.md",
-    "nodes/Czech Pirc Defense.md~",
     "nodes/Pirc Defense.md~",
     "nodes/King's Indian Defense.md~",
     "nodes/King's Indian Attack.md~",
@@ -186,7 +186,6 @@
     "nodes/Square Rule (Chess).md",
     "nodes/Algebraic Notation (Chess).md",
     "nodes/Chess Notation.md",
-    "nodes/Pirc Defense.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
