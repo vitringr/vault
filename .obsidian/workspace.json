@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/King and Queen Checkmate.md",
+                "file": "nodes/Queen's Gambit Accepted.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "King and Queen Checkmate"
+              "title": "Queen's Gambit Accepted"
             }
           }
         ]
@@ -151,24 +151,29 @@
   },
   "active": "d4c75f8cd7824f21",
   "lastOpenFiles": [
+    "nodes/Queen's Gambit Accepted.md~",
+    "nodes/Queen's Gambit Declined.md~",
+    "nodes/Queen's Gambit Declined.md",
+    "nodes/Queen's Gambit.md",
+    "nodes/QUeen's Gambit Declined.md~",
+    "nodes/Queen's Gambit Accepted.md",
+    "nodes/Queen's Gambit.md~",
+    "nodes/4913",
+    "nodes/QUeen's Gambit Declined.md",
+    "nodes/King's Indian Attack.md~",
+    "nodes/King's Indian Attack.md",
     "nodes/Draw (Chess).md",
     "nodes/King and Queen Checkmate.md~",
     "nodes/Draw (Chess).md~",
     "nodes/Stalemate (Chess).md~",
     "nodes/Two Bishops Checkmate.md",
     "nodes/Chess.md~",
-    "nodes/Two Bishops Checkmate.md~",
     "nodes/Stalemate (Chess).md",
     "nodes/King and Rook Checkmate.md",
-    "nodes/Chess Tactic.md~",
-    "nodes/Intermediate Move (Chess Tactic).md~",
     "nodes/Intermediate Move.md",
     "nodes/Intermediate Move (Chess Tactic).md",
-    "nodes/Intermediate Move.md~",
     "nodes/Passed Pawn.md",
-    "nodes/Desperado (Chess Tactic).md~",
     "nodes/Desperado (Chess Tactic).md",
-    "nodes/Passed Pawn.md~",
     "nodes/Pawn Theory.md",
     "nodes/Chess Theory.md",
     "nodes/Chess Tactic.md",
@@ -181,11 +186,6 @@
     "nodes/Pirc Defense.md",
     "nodes/Adaptive Volatility.md",
     "nodes/Fork (Chess).md",
-    "nodes/Hanging Piece (Chess).md",
-    "nodes/Exchange When Ahead.md",
-    "nodes/Chess Piece Value.md",
-    "nodes/Risk Polarity.md",
-    "nodes/Back-rank Checkmate.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
