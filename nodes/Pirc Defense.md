@@ -5,7 +5,9 @@ context:
 
 # Pirc Defense
 
-Versatile opening for Black characterized by the moves: `e4 d6` `d4 Nf6` `Nc3 g6`.
+Versatile opening for Black.
+
+Characterized by: #wip #wip #wip
 
 ---
 
@@ -13,6 +15,10 @@ Versatile opening for Black characterized by the moves: `e4 d6` `d4 Nf6` `Nc3 g6
 fen: rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4
 orientation: black
 ```
+
+#wip
+#wip
+#wip
 
 **Versatile**: Can be played in almost any game.
 

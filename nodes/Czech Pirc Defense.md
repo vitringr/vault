@@ -5,7 +5,9 @@ context:
 
 # Czech Pirc Defense
 
-Versatile opening for Black characterized by: `Nf6` `d6` `c6`.
+Versatile counterplay opening for Black.
+
+Characterized by: `Nf6` `d6` `c6`.
 
 ---
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Queen's Gambit Accepted.md",
+                "file": "nodes/Adjacent Bishop vs Knight.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Queen's Gambit Accepted"
+              "title": "Adjacent Bishop vs Knight"
             }
           }
         ]
@@ -151,23 +151,26 @@
   },
   "active": "d4c75f8cd7824f21",
   "lastOpenFiles": [
+    "nodes/King's Indian Attack.md",
+    "nodes/Bishop vs Knight Control.md",
+    "nodes/Adjacent Bishop vs Knight.md",
+    "nodes/Bishop vs Knight Control.md~",
+    "nodes/Chess Patterns.md",
+    "nodes/Czech Pirc Defense.md~",
+    "nodes/Pirc Defense.md~",
+    "nodes/King's Indian Defense.md~",
+    "nodes/King's Indian Attack.md~",
+    "nodes/4913",
+    "nodes/Queen's Gambit Accepted.md",
     "nodes/Queen's Gambit Accepted.md~",
     "nodes/Queen's Gambit Declined.md~",
     "nodes/Queen's Gambit Declined.md",
     "nodes/Queen's Gambit.md",
     "nodes/QUeen's Gambit Declined.md~",
-    "nodes/Queen's Gambit Accepted.md",
     "nodes/Queen's Gambit.md~",
-    "nodes/4913",
     "nodes/QUeen's Gambit Declined.md",
-    "nodes/King's Indian Attack.md~",
-    "nodes/King's Indian Attack.md",
     "nodes/Draw (Chess).md",
-    "nodes/King and Queen Checkmate.md~",
-    "nodes/Draw (Chess).md~",
-    "nodes/Stalemate (Chess).md~",
     "nodes/Two Bishops Checkmate.md",
-    "nodes/Chess.md~",
     "nodes/Stalemate (Chess).md",
     "nodes/King and Rook Checkmate.md",
     "nodes/Intermediate Move.md",
@@ -184,8 +187,6 @@
     "nodes/Algebraic Notation (Chess).md",
     "nodes/Chess Notation.md",
     "nodes/Pirc Defense.md",
-    "nodes/Adaptive Volatility.md",
-    "nodes/Fork (Chess).md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"

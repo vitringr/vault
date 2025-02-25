@@ -7,7 +7,9 @@ context:
 
 # King's Indian Defense
 
-Versatile opening for Black defined by the moves: `d4 Nf6` `c4 g6`.
+Classic and versatile opening for Black.
+
+Characterized by `Nf6` and a kingside [[Fianchetto]]
 
 ---
 
