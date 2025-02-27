@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Castle-based Attack Direction (Chess Strategy).md",
+                "file": "nodes/Philidor Position.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Castle-based Attack Direction (Chess Strategy)"
+              "title": "Philidor Position"
             }
           }
         ]
@@ -151,6 +151,7 @@
   },
   "active": "d4c75f8cd7824f21",
   "lastOpenFiles": [
+    "nodes/Philidor Position.md~",
     "nodes/Czech Pirc Defense.md~",
     "nodes/King's Indian Attack.md",
     "nodes/Bishop vs Knight Control.md",
