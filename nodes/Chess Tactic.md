@@ -22,3 +22,4 @@ List of common tactics:
 - [[Sacrifice (Chess Tactic)|Sacrifice]]
 - [[Desperado (Chess Tactic)|Desperado]]
 - [[Intermediate Move (Chess Tactic)|Intermediate Move]]
+- [[Obstruction (Chess Tactic)|Obstruction]]
