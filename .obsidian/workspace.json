@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Philidor Position.md",
+                "file": "nodes/Queen vs Seventh Rank Pawn.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Philidor Position"
+              "title": "Queen vs Seventh Rank Pawn"
             }
           }
         ]
@@ -151,6 +151,8 @@
   },
   "active": "d4c75f8cd7824f21",
   "lastOpenFiles": [
+    "nodes/Queen vs Seventh Rank Pawn.md~",
+    "nodes/4913",
     "nodes/Philidor Position.md~",
     "nodes/Czech Pirc Defense.md~",
     "nodes/King's Indian Attack.md",
@@ -161,14 +163,12 @@
     "nodes/Pirc Defense.md~",
     "nodes/King's Indian Defense.md~",
     "nodes/King's Indian Attack.md~",
-    "nodes/4913",
     "nodes/Queen's Gambit Accepted.md",
     "nodes/Queen's Gambit Accepted.md~",
     "nodes/Queen's Gambit Declined.md~",
     "nodes/Queen's Gambit Declined.md",
     "nodes/Queen's Gambit.md",
     "nodes/QUeen's Gambit Declined.md~",
-    "nodes/Queen's Gambit.md~",
     "nodes/QUeen's Gambit Declined.md",
     "nodes/Draw (Chess).md",
     "nodes/Two Bishops Checkmate.md",
