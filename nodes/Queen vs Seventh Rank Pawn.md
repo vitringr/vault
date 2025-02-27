@@ -26,6 +26,9 @@ The idea is to check the enemy King repeatedly while getting closer with the Que
 
 When close enough with both King and Queen, the enemy pawn can be removed, leading to a [[King and Queen Checkmate]].
 
+> [!Rook Rank Pawn]
+> The system does not work for pawns on the final ranks.
+
 ### Queen Zig Zag
 
 First, get close with the Queen by constantly checking the enemy King or pawn.
