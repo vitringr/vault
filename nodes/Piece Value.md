@@ -3,7 +3,7 @@ context:
   - "[[Chess]]"
 ---
 
-# Chess Piece Value
+# Piece Value
 
 Standard evaluation of chess pieces.
 

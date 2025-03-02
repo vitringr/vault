@@ -6,7 +6,7 @@ context:
 
 # Exchange When Ahead
 
-When ahead in [[Chess Piece Value|material]], it's generally good to exchange evenly.
+When ahead in [[Piece Value|material]], it's generally good to exchange evenly.
 
 ---
 

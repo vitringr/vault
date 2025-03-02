@@ -1,11 +1,9 @@
 ---
-aliases:
-  - Preserving Attack Complexity
 context:
   - "[[Chess Strategy]]"
 ---
 
-# Preserving Attack Complexity (Chess Strategy)
+# Preserving Attack Complexity
 
 An attacker may avoid exchanges as they reduce the attack complexity.
 

@@ -44,7 +44,7 @@ Each player controls a set of 16 pieces, either white or black:
 The Knight and Bishop are called _minor_ pieces.
 The Rook and Queen are called _major_ pieces.
 
-**Piece Value**: See [[Chess Piece Value]]
+**Piece Value**: See [[Piece Value]]
 
 ## Gameplay
 

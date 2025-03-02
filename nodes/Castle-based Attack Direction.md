@@ -1,11 +1,9 @@
 ---
-aliases:
-  - Castle-based Attack Direction
 context:
   - "[[Chess Strategy]]"
 ---
 
-# Castle-based Attack Direction (Chess Strategy)
+# Castle-based Attack Direction
 
 How castling affects the general direction of attack.
 
