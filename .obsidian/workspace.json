@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Passed Pawn.md",
+                "file": "nodes/Opposition (Chess).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Passed Pawn"
+              "title": "Opposition (Chess)"
             }
           }
         ]
@@ -151,6 +151,7 @@
   },
   "active": "d4c75f8cd7824f21",
   "lastOpenFiles": [
+    "nodes/Opposition (Chess).md~",
     "nodes/Queen vs Seventh Rank Pawn.md~",
     "nodes/Queen vs Seventh Rank Pawn.md",
     "nodes/4913",
