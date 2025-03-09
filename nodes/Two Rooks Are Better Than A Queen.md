@@ -6,8 +6,9 @@ context:
 
 #wip
 
-# Chess Patterns
+# Two Rooks Are Better Than A Queen
 
 ad
 
 ---
+

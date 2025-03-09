@@ -184,11 +184,11 @@ Those who do not know how to govern themselves are constantly looking for a lead
 If you don't want to be stepped on - don't crawl.
 \- Zachary Mladenov
 
-He who stands up in anger sits down in defeat.
-\- Zachary Mladenov
-
 Focused consciousness by choice.
 \- Frank Herbert
 
 There's a difference between knowing the path and walking the path.
 \- Morpheus
+
+If death is promised, what are you afraid of?
+\- unknown
