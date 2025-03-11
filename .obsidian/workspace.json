@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/King's Indian Attack.md",
+                "file": "nodes/Pirc Defense - Classical.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "King's Indian Attack"
+              "title": "Pirc Defense - Classical"
             }
           }
         ]
@@ -151,9 +151,12 @@
   },
   "active": "d4c75f8cd7824f21",
   "lastOpenFiles": [
+    "nodes/Pirc Defense - Classical.md~",
+    "nodes/Pirc Defense.md~",
+    "nodes/Opening (Chess Phase).md",
+    "nodes/Pirc Defense - Classical.md",
     "nodes/King's Indian Attack.md~",
     "nodes/King's Indian Defense.md~",
-    "nodes/Pirc Defense.md~",
     "nodes/Pirc Defense.md",
     "nodes/King's Indian Defense.md",
     "nodes/Chess Patterns.md",
@@ -169,7 +172,6 @@
     "nodes/King's Indian Attack.md",
     "nodes/Bishop vs Knight Control.md",
     "nodes/Adjacent Bishop vs Knight.md",
-    "nodes/Bishop vs Knight Control.md~",
     "nodes/Queen's Gambit Accepted.md",
     "nodes/Queen's Gambit Declined.md",
     "nodes/Queen's Gambit.md",
@@ -184,8 +186,6 @@
     "nodes/Desperado (Chess Tactic).md",
     "nodes/Pawn Theory.md",
     "nodes/Chess Theory.md",
-    "nodes/Chess Tactic.md",
-    "nodes/Doubled Pawns.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"

@@ -26,12 +26,13 @@ Pirc Defense is a versatile, [[Hypermodernism (Chess)|Hypermodern]] opening.
 
 **King's Indian Defense**: The pawn on `d6` is the only difference between the [[King's Indian Defense]] and the Pirc defense.
 
-## Variations
-
-[[Pirc Defense - Classical]]
-
 ## Benefits
 
 The [[King's Indian Attack]], [[King's Indian Defense]], and Pirc Defense share the same structure and concepts.
 
 Since the openers are versatile enough to be played in any game, they allow the player to focus on the same system for both Black and White, reducing the amount of theory that he would have to learn otherwise.
+
+## Variations
+
+[[Pirc Defense - Classical]]
+
