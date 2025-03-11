@@ -16,31 +16,22 @@ orientation: black
 
 ---
 
-#wip
-#wip
-#wip
-
 Pirc Defense is a versatile, [[Hypermodernism (Chess)|Hypermodern]] opening.
 
-**Versatility**: Can be played in almost any game, without much concern about the opponent's opener.
+**Mirror**: The Black equivalent of [[King's Indian Attack]].
+
+**Consistency**: Can be played in almost any game, regardless of reactions.
 
 ## Transpositions
 
-**King's Indian Defense**: Transposes with the [[King's Indian Defense]]. The difference is that instead of `d4`, White may usually play `e4`, putting pressure on the Knight, to which Black answers with `d6`.
+**King's Indian Defense**: The pawn on `d6` is the only difference between the [[King's Indian Defense]] and the Pirc defense.
 
 ## Variations
 
 [[Pirc Defense - Classical]]
 
-## Strategy
+## Benefits
 
-**Defense**: Black trades early center control for a solid kingside setup.
+The [[King's Indian Attack]], [[King's Indian Defense]], and Pirc Defense share the same structure and concepts.
 
-**Fianchetto**: Black uses kingside [[Fianchetto]] to `g7`.
-
-**Direction**: Black usually aims to attack on the kingside or center.
-
-**Queenside Stall**: If the attack is targeting the kingside, the queenside can be stalled with pawns.
-
-
-#wip `c6 b5 b4`: [first game](https://www.youtube.com/watch?v=cJg3Mlp2W8Q)
+Since the openers are versatile enough to be played in any game, they allow the player to focus on the same system for both Black and White, reducing the amount of theory that he would have to learn otherwise.
