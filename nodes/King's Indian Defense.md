@@ -9,18 +9,24 @@ context:
 
 Classic and versatile opening for Black.
 
-Characterized by `Nf6` and a kingside [[Fianchetto]]
-
----
+Characterized by `Nf6` and a kingside [[Fianchetto]].
 
 ```chesser
 fen: rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3
 orientation: black
 ```
 
-King's Indian is a versatile, [[Hypermodernism (Chess)|Hypermodern]], aggressive [[Indian Game]] opening.
+---
 
-Transposes with the [[Pirc Defense]].
+King's Indian is a versatile, [[Hypermodernism (Chess)|Hypermodern]] opening.
+
+**Mirror**: The Black equivalent of [[King's Indian Attack]].
+
+**Consistency**: Can be played in almost any game, regardless of reactions.
+
+## Transpositions
+
+**Pirc Defense**: Transposes with the [[Pirc Defense]]. The difference is that the Pirc Defense usually opens with `d6` as an answer to White's standard `e4` opening.
 
 ## Strategy
 

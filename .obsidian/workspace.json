@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/API.md",
+                "file": "nodes/King's Indian Attack.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "API"
+              "title": "King's Indian Attack"
             }
           }
         ]
@@ -151,6 +151,11 @@
   },
   "active": "d4c75f8cd7824f21",
   "lastOpenFiles": [
+    "nodes/King's Indian Attack.md~",
+    "nodes/King's Indian Defense.md~",
+    "nodes/Pirc Defense.md~",
+    "nodes/Pirc Defense.md",
+    "nodes/King's Indian Defense.md",
     "nodes/Chess Patterns.md",
     "nodes/Opposition (Chess).md",
     "nodes/Opposition (Chess).md~",
@@ -165,9 +170,6 @@
     "nodes/Bishop vs Knight Control.md",
     "nodes/Adjacent Bishop vs Knight.md",
     "nodes/Bishop vs Knight Control.md~",
-    "nodes/Pirc Defense.md~",
-    "nodes/King's Indian Defense.md~",
-    "nodes/King's Indian Attack.md~",
     "nodes/Queen's Gambit Accepted.md",
     "nodes/Queen's Gambit Declined.md",
     "nodes/Queen's Gambit.md",
@@ -184,8 +186,6 @@
     "nodes/Chess Theory.md",
     "nodes/Chess Tactic.md",
     "nodes/Doubled Pawns.md",
-    "nodes/Discovered Attack (Chess).md",
-    "nodes/Chess.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
