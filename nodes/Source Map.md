@@ -18,3 +18,5 @@ Source maps contain information like:
 **Filename**: Typically a `.map` suffix after the original file. For example `example.js` to `example.js.map`.
 
 **Web Development**: Typically used for [[Web Development]] and [[JavaScript]]/[[TypeScript]].
+
+**Usage**: Debugging tools and [[Web Browser|browsers]] use the source map to display the original source when debugging.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Source Map.md",
+                "file": "nodes/Minification (Software).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Source Map"
+              "title": "Minification (Software)"
             }
           }
         ]
@@ -151,6 +151,9 @@
   },
   "active": "d4c75f8cd7824f21",
   "lastOpenFiles": [
+    "nodes/Minification (Software).md~",
+    "nodes/4913",
+    "nodes/Source Map.md",
     "nodes/Source Map.md~",
     "nodes/Tree Shaking.md~",
     "nodes/Vite.md~",
@@ -172,8 +175,6 @@
     "nodes/Opposition (Chess).md",
     "nodes/Opposition (Chess).md~",
     "nodes/Pawn Endgame.md",
-    "nodes/Pawn Endgame.md~",
-    "nodes/4913",
     "nodes/Queen vs Seventh Rank Pawn.md",
     "nodes/Bishop vs Knight Control.md",
     "nodes/Adjacent Bishop vs Knight.md",
@@ -186,7 +187,6 @@
     "nodes/Stalemate (Chess).md",
     "nodes/King and Rook Checkmate.md",
     "nodes/Intermediate Move.md",
-    "nodes/Intermediate Move (Chess Tactic).md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
