@@ -11,10 +11,14 @@
             "id": "d4c75f8cd7824f21",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "nodes/Source Map.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Source Map"
             }
           }
         ]
@@ -147,6 +151,11 @@
   },
   "active": "d4c75f8cd7824f21",
   "lastOpenFiles": [
+    "nodes/Source Map.md~",
+    "nodes/Tree Shaking.md~",
+    "nodes/Vite.md~",
+    "nodes/Hot Module Replacement.md",
+    "nodes/Hot Module Replacement.md~",
     "nodes/Paying So I Don't Have To Kill You.md",
     "nodes/King's Indian Defense.md",
     "nodes/Hypermodernism (Chess).md",
@@ -165,10 +174,7 @@
     "nodes/Pawn Endgame.md",
     "nodes/Pawn Endgame.md~",
     "nodes/4913",
-    "nodes/Queen vs Seventh Rank Pawn.md~",
     "nodes/Queen vs Seventh Rank Pawn.md",
-    "nodes/Philidor Position.md~",
-    "nodes/Czech Pirc Defense.md~",
     "nodes/Bishop vs Knight Control.md",
     "nodes/Adjacent Bishop vs Knight.md",
     "nodes/Queen's Gambit Accepted.md",
@@ -181,8 +187,6 @@
     "nodes/King and Rook Checkmate.md",
     "nodes/Intermediate Move.md",
     "nodes/Intermediate Move (Chess Tactic).md",
-    "nodes/Passed Pawn.md",
-    "nodes/Desperado (Chess Tactic).md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"

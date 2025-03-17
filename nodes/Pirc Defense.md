@@ -36,3 +36,6 @@ Since the openers are versatile enough to be played in any game, they allow the 
 
 [[Pirc Defense - Classical]]
 
+[[Pirc Defense - Austrian]]
+
+[[Pirc Defense - 150]]
