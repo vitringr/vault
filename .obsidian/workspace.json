@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Minification (Software).md",
+                "file": "nodes/Build Process (Software).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Minification (Software)"
+              "title": "Build Process (Software)"
             }
           }
         ]
@@ -151,23 +151,27 @@
   },
   "active": "d4c75f8cd7824f21",
   "lastOpenFiles": [
+    "nodes/Container Image.md~",
+    "nodes/Build Process (Software).md~",
+    "nodes/Server.md~",
+    "nodes/4913",
+    "nodes/Server.md",
+    "nodes/Minification (Software).md",
+    "nodes/Container Image.md",
+    "nodes/Windows.md",
     "nodes/Build Automation.md~",
     "nodes/DevOps.md~",
     "nodes/DevOps.md",
-    "nodes/Build Process (Software).md~",
     "nodes/Build Process (Software).md",
     "nodes/Build (Software).md~",
     "nodes/Build (Software).md",
     "nodes/Software Development.md~",
     "nodes/Software Development.md",
     "nodes/Minification (Software).md~",
-    "nodes/4913",
     "nodes/Source Map.md",
     "nodes/Source Map.md~",
     "nodes/Tree Shaking.md~",
-    "nodes/Vite.md~",
     "nodes/Hot Module Replacement.md",
-    "nodes/Hot Module Replacement.md~",
     "nodes/Paying So I Don't Have To Kill You.md",
     "nodes/King's Indian Defense.md",
     "nodes/Hypermodernism (Chess).md",
@@ -183,10 +187,6 @@
     "nodes/Bishop vs Knight Control.md",
     "nodes/Adjacent Bishop vs Knight.md",
     "nodes/Queen's Gambit Accepted.md",
-    "nodes/Queen's Gambit Declined.md",
-    "nodes/Queen's Gambit.md",
-    "nodes/QUeen's Gambit Declined.md",
-    "nodes/Draw (Chess).md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
