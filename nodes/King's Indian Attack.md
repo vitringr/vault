@@ -3,7 +3,6 @@ aliases:
   - KIA
 context:
   - "[[King's Indian]]"
-  - "[[Opening (Chess Phase)]]"
 ---
 
 # King's Indian Attack
@@ -28,9 +27,3 @@ King's Indian is an adaptive [[Hypermodernism (Chess)|Hypermodern]] opening.
 ## Transpositions
 
 The KIA can be transposed with a plethora of systems involving pawns on `d3` and `e4`.
-
-## Benefits
-
-The King's Indian Attack, [[King's Indian Defense]], and [[Pirc Defense]] share the same structure and concepts.
-
-Since the openers are versatile enough to be played in any game, they allow the player to focus on the same system for both Black and White, reducing the amount of theory that he would have to learn otherwise.

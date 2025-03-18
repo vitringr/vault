@@ -23,6 +23,8 @@ King's Indian is an adaptive [[Hypermodernism (Chess)|Hypermodern]] opening.
 
 ## Benefits
 
-**Consistency**: The system can be played in almost any game, regardless of the opponent's opener. This is a huge benefit as it allows the player to avoid learning tons of theory.
+**Consistency**: The system can be played in almost any game, regardless of the opponent's opener. This is a huge benefit as it allows the player to bypass learning tons of theory.
 
 **Mirror**: Since the same system can be used for both White and Black, this adds an additional level of consistency, since the player can re-use the same concepts, strategies, and tactics for both sides.
+
+**Adaptive**: The system allows for both aggressive or quiet play. Different components can be shifted depending on the situation. The player can often choose the style that suits him.
