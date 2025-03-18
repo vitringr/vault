@@ -9,7 +9,7 @@ context:
 
 # King's Indian Defense
 
-Versatile opening system for Black.
+[[King's Indian]] opening for Black.
 
 Characterized by `Nf6`, `d6`, and a kingside [[Fianchetto]].
 
@@ -19,12 +19,6 @@ orientation: black
 ```
 
 ---
-
-King's Indian is an adaptive [[Hypermodernism (Chess)|Hypermodern]] opening.
-
-**Mirror**: The Black equivalent of [[King's Indian Attack]].
-
-**Consistency**: Can be played in almost any game, regardless of reactions.
 
 ## Transpositions
 

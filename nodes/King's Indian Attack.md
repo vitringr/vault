@@ -7,7 +7,7 @@ context:
 
 # King's Indian Attack
 
-Versatile opening system for White.
+[[King's Indian]] opening for White.
 
 Characterized by `Nf3`, `d3`, and a kingside [[Fianchetto]].
 
@@ -17,12 +17,6 @@ orientation: white
 ```
 
 ---
-
-King's Indian is an adaptive [[Hypermodernism (Chess)|Hypermodern]] opening.
-
-**Mirror**: The White equivalent of [[King's Indian Defense]].
-
-**Consistency**: Can be played in almost any game, regardless of reactions.
 
 ## Transpositions
 
