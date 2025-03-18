@@ -2,25 +2,26 @@
 aliases:
   - KID
 context:
+  - "[[King's Indian]]"
   - "[[Opening (Chess Phase)]]"
 ---
 
-#wip break! e5 e5 e5 e5 e5 
+#wip break! e5 e5 e5 e5 e5
 
 # King's Indian Defense
 
-Classic and versatile opening for Black.
+Versatile opening system for Black.
 
-Characterized by `Nf6` and a kingside [[Fianchetto]].
+Characterized by `Nf6`, `d6`, and a kingside [[Fianchetto]].
 
 ```chesser
-fen: rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3
+fen: rnbq1rk1/ppp1ppbp/3p1np1/8/8/8/PPPPPPPP/RNBQKBNR w KQq - 0 1
 orientation: black
 ```
 
 ---
 
-King's Indian Defense is a versatile, [[Hypermodernism (Chess)|Hypermodern]] opening.
+King's Indian is an adaptive [[Hypermodernism (Chess)|Hypermodern]] opening.
 
 **Mirror**: The Black equivalent of [[King's Indian Attack]].
 

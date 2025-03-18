@@ -2,24 +2,26 @@
 aliases:
   - KIA
 context:
+  - "[[King's Indian]]"
   - "[[Opening (Chess Phase)]]"
 ---
 
 # King's Indian Attack
 
-Classic and versatile opening for White.
+Versatile opening system for White.
 
-Characterized by `Nf3` and a kingside [[Fianchetto]].
+Characterized by `Nf3`, `d3`, and a kingside [[Fianchetto]].
 
 ```chesser
-fen: r1bqkbnr/ppp2ppp/2n1p3/3p4/8/5NP1/PPPPPPBP/RNBQ1RK1 b kq - 3 4
+fen: rnbqkbnr/pppppppp/8/8/8/3P1NP1/PPP1PPBP/RNBQ1RK1 w Qkq - 0 1
+orientation: white
 ```
 
 ---
 
-King's Indian is a versatile, [[Hypermodernism (Chess)|Hypermodern]] opening.
+King's Indian is an adaptive [[Hypermodernism (Chess)|Hypermodern]] opening.
 
-**Mirror**: The White equivalent of [[King's Indian Defense]] and [[Pirc Defense]].
+**Mirror**: The White equivalent of [[King's Indian Defense]].
 
 **Consistency**: Can be played in almost any game, regardless of reactions.
 

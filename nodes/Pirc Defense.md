@@ -1,16 +1,17 @@
 ---
 context:
+- "[[King's Indian]]"
 - "[[Opening (Chess Phase)]]"
 ---
 
 # Pirc Defense
 
-Versatile opening for Black.
+Versatile opening system for Black.
 
-Characterized by `d6`, `Nf6`, and a kingside [[Fianchetto]].
+Characterized by `Nf6`, `d6`, and a kingside [[Fianchetto]].
 
 ```chesser
-fen: rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4
+fen: rnbq1rk1/ppp1ppbp/3p1np1/8/8/8/PPPPPPPP/RNBQKBNR w KQq - 0 1
 orientation: black
 ```
 
