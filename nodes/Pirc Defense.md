@@ -7,7 +7,7 @@ context:
 
 [[King's Indian]] opening for Black.
 
-Characterized by `Nf6`, `d6`, and a kingside [[Fianchetto]].
+Characterized by a kingside [[Fianchetto]] and Knight.
 
 ```chesser
 fen: rnbq1rk1/ppp1ppbp/3p1np1/8/8/8/PPPPPPPP/RNBQKBNR w KQq - 0 1

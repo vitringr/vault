@@ -7,7 +7,7 @@ context:
 
 Versatile opening system for both White and Black.
 
-Characterized a kingside [[Fianchetto]], Knight, and a Queen pawn step.
+Characterized by a kingside [[Fianchetto]] and Knight.
 
 ```chesser
 fen: rnbq1rk1/ppp1ppbp/3p1np1/8/8/3P1NP1/PPP1PPBP/RNBQ1RK1 w Qq - 0 1
