@@ -22,20 +22,18 @@ orientation: white
 
 ## Basic Development
 
-**Structure**: The opening idea is to create the King's Indian structure: `Nf3`, `g3`, `Bg2`, castle.
+**Structure**: The opening idea is to create the kingside King's Indian structure: `Nf3`, `g3`, `Bg2`, castle.
 
 ```chesser
-fen: rnbqkbnr/pppppppp/8/8/8/3P1NP1/PPP1PPBP/RNBQ1RK1 w Qkq - 0 1
+fen: rnbqkbnr/pppppppp/8/8/8/5NP1/PPPPPPBP/RNBQ1RK1 w Qkq - 0 1
 orientation: white
 ```
 
-This can usually be done without much regard to the opponent's moves, with one very common exception - early `e5`.
+The `Nf3` opening also denies an immediate `e5`.
 
-**Early `e5`**: Whenever the opponent plays `e5`, answer with `d3`. Otherwise, `e5-e6` will endanger your Knight.
+**Protected `e5`**: Whenever the opponent plays a protected `e5`, answer with `d3` immediately. Otherwise, `e5-e6` will endanger your Knight.
 
 ```chesser
 fen: r1bqkbnr/ppp2ppp/2n5/3pp3/8/3P1NP1/PPP1PPBP/RNBQK2R b KQkq - 0 4
 orientation: white
 ```
-
-If it's an unprotected `e5` just capture it with the Knight.
