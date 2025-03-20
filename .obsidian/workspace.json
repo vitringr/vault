@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/King's Indian Attack.md",
+                "file": "nodes/King's Indian.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "King's Indian Attack"
+              "title": "King's Indian"
             }
           }
         ]
@@ -151,12 +151,12 @@
   },
   "active": "bd1434bdc9de9da2",
   "lastOpenFiles": [
+    "nodes/King's Indian.md~",
+    "nodes/4913",
+    "nodes/King's Indian Attack.md",
     "nodes/King's Indian Attack.md~",
     "nodes/Adaptive Volatility.md~",
-    "nodes/4913",
     "nodes/Pirc Defense.md",
-    "nodes/King's Indian Attack.md",
-    "nodes/King's Indian.md~",
     "nodes/King's Indian.md",
     "nodes/Pirc Defense.md~",
     "nodes/King's Indian Defense.md~",

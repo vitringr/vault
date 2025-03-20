@@ -15,6 +15,7 @@ School of thought in chess focused on controlling the center indirectly with pie
 Often leads to flexible and dynamic positions.
 
 Hypermodern openings include:
-  - [[King's Indian Attack]]
-  - [[King's Indian Defense]]
-  - [[Pirc Defense]]
+
+- [[King's Indian Attack]]
+- [[King's Indian Defense]]
+- [[Pirc Defense]]
