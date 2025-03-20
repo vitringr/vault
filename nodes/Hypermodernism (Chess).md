@@ -16,6 +16,7 @@ Often leads to flexible and dynamic positions.
 
 Hypermodern openings include:
 
+- [[King's Indian]]
 - [[King's Indian Attack]]
 - [[King's Indian Defense]]
 - [[Pirc Defense]]

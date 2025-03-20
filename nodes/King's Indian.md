@@ -61,3 +61,10 @@ fen: r1bqk2r/ppp2ppp/2n1pn2/2bp4/8/2PP1NP1/PP2PPBP/RNBQ1RK1 w HQkq - 0 1
 orientation: white
 ```
 
+**Knight `a` and `c`**: The queenside Knight can be developed to the `c` file, either through `a` or `d`. The `a` pawn should be pushed forward to prevent the Knight from being kicked away.
+
+```chesser
+fen: r1bq1rk1/1pp1ppbp/3p1np1/p1nP4/2P1P3/2N2N2/PPQ1BPPP/R1B1K2R w KQq - 0 1
+orientation: black
+```
+
