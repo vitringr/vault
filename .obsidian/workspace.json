@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/King's Indian.md",
+                "file": "nodes/Linux.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "King's Indian"
+              "title": "Linux"
             }
           }
         ]
@@ -68,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
-    "collapsed": true
+    "width": 317.5
   },
   "right": {
     "id": "a8b21f525f867907",
@@ -151,6 +150,7 @@
   },
   "active": "bd1434bdc9de9da2",
   "lastOpenFiles": [
+    "nodes/King's Indian.md",
     "nodes/King's Indian.md~",
     "nodes/Hypermodernism (Chess).md~",
     "nodes/4913",
@@ -158,7 +158,6 @@
     "nodes/King's Indian Attack.md~",
     "nodes/Adaptive Volatility.md~",
     "nodes/Pirc Defense.md",
-    "nodes/King's Indian.md",
     "nodes/Pirc Defense.md~",
     "nodes/King's Indian Defense.md~",
     "nodes/Adaptive Volatility.md",
@@ -181,7 +180,6 @@
     "_Tasks.md",
     "nodes/Build Process (Software).md~",
     "nodes/DevOps.md~",
-    "nodes/Container Image.md~",
     "nodes/Server.md",
     "nodes/Minification (Software).md",
     "nodes/Container Image.md",
