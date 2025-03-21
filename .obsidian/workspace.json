@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Linux.md",
+                "file": "nodes/neofetch.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Linux"
+              "title": "neofetch"
             }
           }
         ]
@@ -150,6 +150,8 @@
   },
   "active": "bd1434bdc9de9da2",
   "lastOpenFiles": [
+    "nodes/neofetch.md~",
+    "nodes/redshift (Software).md",
     "nodes/King's Indian.md",
     "nodes/King's Indian.md~",
     "nodes/Hypermodernism (Chess).md~",
@@ -184,7 +186,6 @@
     "nodes/Minification (Software).md",
     "nodes/Container Image.md",
     "nodes/Windows.md",
-    "nodes/DevOps.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
