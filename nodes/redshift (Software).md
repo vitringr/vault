@@ -1,6 +1,8 @@
 ---
+aliases:
+  - redshift
 context:
-- "[[Software]]"
+  - "[[Software]]"
 ---
 
 # redshift (Software)
