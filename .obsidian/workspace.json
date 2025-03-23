@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Pacman (Package Manager).md",
+                "file": "nodes/Operating System.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Pacman (Package Manager)"
+              "title": "Operating System"
             }
           }
         ]
@@ -151,10 +151,15 @@
   },
   "active": "bd1434bdc9de9da2",
   "lastOpenFiles": [
+    "nodes/Debian.md",
+    "nodes/Decoy (Chess Tactic).md",
+    "nodes/Ubuntu.md",
+    "nodes/Arch Linux.md",
+    "nodes/Sway.md",
+    "nodes/Pacman (Package Manager).md",
     "nodes/Wayland.md~",
     "nodes/Sway.md~",
     "nodes/Wayland.md",
-    "nodes/Sway.md",
     "nodes/i3.md~",
     "nodes/Window Manager.md~",
     "nodes/Window Manager.md",
@@ -163,18 +168,13 @@
     "nodes/Ubuntu.md~",
     "nodes/Arch Linux.md~",
     "nodes/Neofetch.md~",
-    "nodes/Arch Linux.md",
     "nodes/APT (Package Manager).md~",
-    "nodes/Debian.md",
     "nodes/APT (Package Manager).md",
-    "nodes/Pacman (Package Manager).md",
     "nodes/www.archlinux.org.md",
     "nodes/Package Manager.md~",
-    "nodes/Pacman (Package Manager).md~",
     "nodes/Package Manager.md",
     "nodes/Node Package Manager.md",
     "nodes/pacman (Package Manager).md",
-    "nodes/Ubuntu.md",
     "nodes/Arch (Linux).md",
     "nodes/neofetch.md",
     "nodes/redshift (Software).md",
