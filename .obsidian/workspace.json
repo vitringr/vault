@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Arch Linux.md",
+                "file": "nodes/Neofetch.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Arch Linux"
+              "title": "Neofetch"
             }
           }
         ]
@@ -151,16 +151,17 @@
   },
   "active": "bd1434bdc9de9da2",
   "lastOpenFiles": [
+    "nodes/Debian.md~",
     "nodes/Ubuntu.md~",
+    "nodes/Arch Linux.md~",
     "nodes/Neofetch.md~",
+    "nodes/Arch Linux.md",
     "nodes/Neofetch.md",
     "nodes/APT (Package Manager).md~",
     "nodes/Debian.md",
     "nodes/APT (Package Manager).md",
-    "nodes/Arch Linux.md~",
     "nodes/Pacman (Package Manager).md",
     "nodes/www.archlinux.org.md",
-    "nodes/Arch Linux.md",
     "nodes/Package Manager.md~",
     "nodes/Pacman (Package Manager).md~",
     "nodes/Package Manager.md",
@@ -171,7 +172,6 @@
     "nodes/pacman (Package Manager).md",
     "nodes/Linux.md~",
     "nodes/Ubuntu.md",
-    "nodes/Arch (Linux).md~",
     "nodes/Arch (Linux).md",
     "nodes/neofetch.md",
     "nodes/redshift (Software).md",
