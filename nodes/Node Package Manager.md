@@ -1,12 +1,12 @@
 ---
 aliases:
-  - Node Package Manager
+  - NPM
 context:
   - "[[Package Manager]]"
   - "[[NodeJS]]"
 ---
 
-# NPM
+# Node Package Manager
 
 A package manager for [[JavaScript]].
 

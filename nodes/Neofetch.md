@@ -3,7 +3,7 @@ context:
   - "[[Software]]"
 ---
 
-# neofetch
+# Neofetch
 
 Command-line tool that displays information about the [[Operating System]] in an aesthetic way.
 

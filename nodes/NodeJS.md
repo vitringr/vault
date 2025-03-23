@@ -17,4 +17,4 @@ Allows for JavaScript code to be executed outside of a [[Web Browser]].
 
 **Event-driven**: Node.js uses an event-driven, non-blocking I/O model.
 
-**Package Management**: Node.js comes with [[NPM|NPM (Node Package Manager)]], which is the largest ecosystem of open source libraries and modules.
+**Package Management**: Node.js comes with [[Node Package Manager|NPM (Node Package Manager)]], which is the largest ecosystem of open source libraries and modules.
