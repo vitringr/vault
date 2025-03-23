@@ -3,12 +3,16 @@ context:
   - "[[Linux]]"
 ---
 
-#wip
-
 # Ubuntu
 
-ad
+Popular, user-friendly [[Linux]] distribution based on [[Debian]].
 
 ---
 
-# Ubuntu
+**Packages**: Uses the [[APT (Package Manager)|APT package manager]] and `.deb` packages.
+
+**Desktop**: Uses GNOME as its default desktop environment.
+
+**Preconfigured**: Wide range of pre-installed software and tools.
+
+**Updates**: Regular releases every 6 months, with LTS versions every 2 years.
