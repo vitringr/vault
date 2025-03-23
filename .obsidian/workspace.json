@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/neofetch.md",
+                "file": "nodes/Pacman (Package Manager).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "neofetch"
+              "title": "Pacman (Package Manager)"
             }
           }
         ]
@@ -68,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "right": {
     "id": "a8b21f525f867907",
@@ -150,6 +151,17 @@
   },
   "active": "bd1434bdc9de9da2",
   "lastOpenFiles": [
+    "nodes/Pacman (Package Manager).md~",
+    "nodes/Pacman (Package Manager).md",
+    "nodes/pacman (Package Manager).md~",
+    "nodes/Arch Linux.md~",
+    "nodes/pacman (Package Manager).md",
+    "nodes/Linux.md~",
+    "nodes/Ubuntu.md",
+    "nodes/Arch Linux.md",
+    "nodes/Arch (Linux).md~",
+    "nodes/Arch (Linux).md",
+    "nodes/neofetch.md",
     "nodes/neofetch.md~",
     "nodes/redshift (Software).md",
     "nodes/King's Indian.md",
@@ -160,14 +172,11 @@
     "nodes/King's Indian Attack.md~",
     "nodes/Adaptive Volatility.md~",
     "nodes/Pirc Defense.md",
-    "nodes/Pirc Defense.md~",
-    "nodes/King's Indian Defense.md~",
     "nodes/Adaptive Volatility.md",
     "nodes/King's Indian Defense.md",
     "nodes/Pirc Defense - Classical.md",
     "nodes/Pirc Defense - 150.md",
     "nodes/Pirc Defense - Austrian.md",
-    "nodes/Build Automation.md~",
     "nodes/Talos.md",
     "nodes/Array.md",
     "nodes/WebGL Texture.md",
@@ -178,14 +187,6 @@
     "nodes/Programming.md",
     "nodes/Programming Language.md",
     "nodes/Computer Program.md",
-    "nodes/Software.md",
-    "_Tasks.md",
-    "nodes/Build Process (Software).md~",
-    "nodes/DevOps.md~",
-    "nodes/Server.md",
-    "nodes/Minification (Software).md",
-    "nodes/Container Image.md",
-    "nodes/Windows.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
