@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Neofetch.md",
+                "file": "nodes/Pacman (Package Manager).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Neofetch"
+              "title": "Pacman (Package Manager)"
             }
           }
         ]
@@ -151,12 +151,19 @@
   },
   "active": "bd1434bdc9de9da2",
   "lastOpenFiles": [
+    "nodes/Wayland.md~",
+    "nodes/Sway.md~",
+    "nodes/Wayland.md",
+    "nodes/Sway.md",
+    "nodes/i3.md~",
+    "nodes/Window Manager.md~",
+    "nodes/Window Manager.md",
+    "nodes/Neofetch.md",
     "nodes/Debian.md~",
     "nodes/Ubuntu.md~",
     "nodes/Arch Linux.md~",
     "nodes/Neofetch.md~",
     "nodes/Arch Linux.md",
-    "nodes/Neofetch.md",
     "nodes/APT (Package Manager).md~",
     "nodes/Debian.md",
     "nodes/APT (Package Manager).md",
@@ -165,12 +172,8 @@
     "nodes/Package Manager.md~",
     "nodes/Pacman (Package Manager).md~",
     "nodes/Package Manager.md",
-    "nodes/Node Package Manager.md~",
     "nodes/Node Package Manager.md",
-    "nodes/NPM.md~",
-    "nodes/pacman (Package Manager).md~",
     "nodes/pacman (Package Manager).md",
-    "nodes/Linux.md~",
     "nodes/Ubuntu.md",
     "nodes/Arch (Linux).md",
     "nodes/neofetch.md",
@@ -184,9 +187,6 @@
     "nodes/Pirc Defense - 150.md",
     "nodes/Pirc Defense - Austrian.md",
     "nodes/Talos.md",
-    "nodes/Array.md",
-    "nodes/WebGL Texture.md",
-    "nodes/Web Browser.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
