@@ -3,10 +3,6 @@ context:
   - "[[Discipline]]"
 ---
 
-#wip
-
 # Software Engineering
 
-Discipline that applies [[Engineering]]
-
----
+Discipline that applies [[Engineering]] principles to the [[Software Design|design]] and [[Software Development|development]] of [[Software]].

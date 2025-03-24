@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Operating System.md",
+                "file": "nodes/Eudaimonia.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Operating System"
+              "title": "Eudaimonia"
             }
           }
         ]
@@ -151,6 +151,12 @@
   },
   "active": "bd1434bdc9de9da2",
   "lastOpenFiles": [
+    "nodes/Psychology.md~",
+    "nodes/Mathematics.md~",
+    "nodes/Mathematics.md",
+    "nodes/Philosophy.md",
+    "nodes/Philosophy.md~",
+    "nodes/Web Development.md",
     "nodes/Debian.md",
     "nodes/Decoy (Chess Tactic).md",
     "nodes/Ubuntu.md",
@@ -168,10 +174,8 @@
     "nodes/Ubuntu.md~",
     "nodes/Arch Linux.md~",
     "nodes/Neofetch.md~",
-    "nodes/APT (Package Manager).md~",
     "nodes/APT (Package Manager).md",
     "nodes/www.archlinux.org.md",
-    "nodes/Package Manager.md~",
     "nodes/Package Manager.md",
     "nodes/Node Package Manager.md",
     "nodes/pacman (Package Manager).md",
@@ -183,10 +187,6 @@
     "nodes/Pirc Defense.md",
     "nodes/Adaptive Volatility.md",
     "nodes/King's Indian Defense.md",
-    "nodes/Pirc Defense - Classical.md",
-    "nodes/Pirc Defense - 150.md",
-    "nodes/Pirc Defense - Austrian.md",
-    "nodes/Talos.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"

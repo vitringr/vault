@@ -5,7 +5,7 @@ context:
 
 # Source Map
 
-File that maps transformed or [[Minification (Software)|minified]] code back to its original [[Source Code]].
+File that maps transformed or [[Minification (Software Engineering)|minified]] code back to its original [[Source Code]].
 
 ---
 

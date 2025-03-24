@@ -2,10 +2,9 @@
 aliases:
   - Math
 context:
+  - "[[Discipline]]"
 ---
 
 # Mathematics
 
-Abstraction science.
-
-Discipline that studies quantities, structures, spaces, and change.
+[[Science|Scientific]] study of quantities, structures, spaces, and change.

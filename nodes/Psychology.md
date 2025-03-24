@@ -1,7 +1,8 @@
 ---
 context:
+  - "[[Discipline]]"
 ---
 
 # Psychology
 
-Scientific study of mind and behavior.
+[[Science|Scientific]] study of mind and behavior.

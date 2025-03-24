@@ -2,13 +2,13 @@
 aliases:
   - Minification
 context:
-  - "[[Software]]"
+  - "[[Software Engineering]]"
   - "[[Build Automation]]"
 ---
 
-# Minification (Software)
+# Minification (Software Engineering)
 
-Compression of code files by reducing file sizes without affecting functionality.
+Compression of [[Source Code|code]] files by reducing file sizes without affecting functionality.
 
 ---
 

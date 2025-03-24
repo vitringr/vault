@@ -1,11 +1,11 @@
 ---
 context:
-  - "[[Software]]"
+  - "[[Software Engineering]]"
 ---
 
 # Build Automation
 
-Automation of the [[Build Process (Software)|Software Build Process]].
+Automation of the [[Build Process (Software Engineering)|Software Build Process]].
 
 ---
 
