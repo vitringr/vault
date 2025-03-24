@@ -1,2 +1,8 @@
+---
+context:
+  - "[[Software]]"
+---
+
 # Software Development
-#wip
+
+The process of creating, [[Software Design|designing]], [[Programming|programming]], testing, and maintaining [[Software]].

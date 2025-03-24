@@ -5,7 +5,7 @@ context:
 
 # Sway
 
-Tiling [[Window Manager]] and [[Wayland]] compositor for [[Linux]].
+Tiling [[Window Manager]] and [[Wayland]] compositor.
 
 ---
 
