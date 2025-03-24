@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Eudaimonia.md",
+                "file": "nodes/esbuild.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Eudaimonia"
+              "title": "esbuild"
             }
           }
         ]
@@ -151,6 +151,7 @@
   },
   "active": "bd1434bdc9de9da2",
   "lastOpenFiles": [
+    "nodes/esbuild.md~",
     "nodes/Psychology.md~",
     "nodes/Mathematics.md~",
     "nodes/Mathematics.md",
@@ -173,7 +174,6 @@
     "nodes/Debian.md~",
     "nodes/Ubuntu.md~",
     "nodes/Arch Linux.md~",
-    "nodes/Neofetch.md~",
     "nodes/APT (Package Manager).md",
     "nodes/www.archlinux.org.md",
     "nodes/Package Manager.md",
