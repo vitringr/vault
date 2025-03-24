@@ -1,6 +1,6 @@
 ---
 context:
-  - "[[Software]]"
+  - "[[Discipline]]"
 ---
 
 #wip
