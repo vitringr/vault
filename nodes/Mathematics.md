@@ -3,8 +3,9 @@ aliases:
   - Math
 context:
   - "[[Discipline]]"
+  - "[[Science]]"
 ---
 
 # Mathematics
 
-[[Science|Scientific]] study of quantities, structures, spaces, and change.
+Discipline that studies quantities, structures, spaces, and change.
