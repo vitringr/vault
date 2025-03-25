@@ -7,6 +7,8 @@
 - [ ] Go through the documentation again.
 - [ ] Figure out a plan how to improve work projects.
 
+Should probably use `pnpm` as an improvement.
+
 # Monorepo
 
 Research what a Monorepo is.
