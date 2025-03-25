@@ -11,14 +11,10 @@
             "id": "bd1434bdc9de9da2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodes/esbuild.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "esbuild"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -151,6 +147,20 @@
   },
   "active": "bd1434bdc9de9da2",
   "lastOpenFiles": [
+    "_Draft.md~",
+    "nodes/Turborepo.md~",
+    "nodes/Turborepo.md",
+    "nodes/Website Designs.md~",
+    "nodes/WebGL2 Texture Formats.md~",
+    "nodes/Website Designs.md",
+    "nodes/Monorepo.md",
+    "nodes/Software.md",
+    "nodes/Java.md",
+    "nodes/esbuild.md",
+    "_Draft.md",
+    "nodes/Death as Universal Design.md~",
+    "nodes/Death as Universal Design.md",
+    "Death as Universal Design.md",
     "nodes/esbuild.md~",
     "nodes/Psychology.md~",
     "nodes/Mathematics.md~",
@@ -167,26 +177,12 @@
     "nodes/Wayland.md~",
     "nodes/Sway.md~",
     "nodes/Wayland.md",
-    "nodes/i3.md~",
-    "nodes/Window Manager.md~",
     "nodes/Window Manager.md",
     "nodes/Neofetch.md",
-    "nodes/Debian.md~",
-    "nodes/Ubuntu.md~",
-    "nodes/Arch Linux.md~",
     "nodes/APT (Package Manager).md",
     "nodes/www.archlinux.org.md",
     "nodes/Package Manager.md",
     "nodes/Node Package Manager.md",
-    "nodes/pacman (Package Manager).md",
-    "nodes/Arch (Linux).md",
-    "nodes/neofetch.md",
-    "nodes/redshift (Software).md",
-    "nodes/King's Indian.md",
-    "nodes/King's Indian Attack.md",
-    "nodes/Pirc Defense.md",
-    "nodes/Adaptive Volatility.md",
-    "nodes/King's Indian Defense.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"

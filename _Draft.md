@@ -1,4 +1,31 @@
-# Best
+# WORK
+
+- [ ] Write down Monorepo and Turborepo nodes.
+- [ ] Continue the Turborepo documentation.
+- [ ] Play around with the test Turborepo project.
+- [ ] Once comfortable, compare with work monorepos.
+- [ ] Go through the documentation again.
+- [ ] Figure out a plan how to improve work projects.
+
+# Monorepo
+
+Research what a Monorepo is.
+
+## Turborepo
+
+Research Turborepo afterwards.
+
+[Turborepo](https://turbo.build/repo/docs)
+
+Turborepo seems to have this:
+
+> Turborepo uses Graphviz to generate static image and HTML file of the execution plan. The implementation is not interactive.
+
+# Work SSH
+
+Connect to work GitLab using SSH.
+
+# Hand Cannon
 
 **Smith & Wesson Model 686**
 
@@ -6,15 +33,6 @@
 
 Every source states it's the best model out there.
 
-# Death as Universal Design
+# AMD GPU
 
-Death might be a necessary universal design.
-
-What's the alternative to it?
-
-Like if you have a system consisting of immortal but also replicating being... it can get messy.
-
-What about violence and competition?
-
-Maybe it's a necessary evolutionary principle so that strength can be gained.
-
+Radeon RX 6700 XT
