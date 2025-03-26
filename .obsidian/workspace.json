@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Binary File.md",
+                "file": "nodes/Monorepo.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Binary File"
+              "title": "Monorepo"
             }
           }
         ]
@@ -151,7 +151,13 @@
   },
   "active": "bd1434bdc9de9da2",
   "lastOpenFiles": [
+    "nodes/Monorepo.md~",
+    "nodes/SDK.md~",
+    "nodes/SDK.md",
     "_Draft.md~",
+    "nodes/Damiano Defense.md",
+    "nodes/Version Control.md",
+    "nodes/Git.md",
     "nodes/Turborepo.md~",
     "nodes/Turborepo.md",
     "nodes/Website Designs.md~",
@@ -178,15 +184,9 @@
     "nodes/Arch Linux.md",
     "nodes/Sway.md",
     "nodes/Pacman (Package Manager).md",
-    "nodes/Wayland.md~",
-    "nodes/Sway.md~",
     "nodes/Wayland.md",
     "nodes/Window Manager.md",
     "nodes/Neofetch.md",
-    "nodes/APT (Package Manager).md",
-    "nodes/www.archlinux.org.md",
-    "nodes/Package Manager.md",
-    "nodes/Node Package Manager.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
