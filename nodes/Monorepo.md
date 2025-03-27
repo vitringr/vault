@@ -1,9 +1,7 @@
 ---
-aliases:
 context:
+  - "[[Software Architecture]]"
 ---
-
-#wip
 
 # Monorepo
 
