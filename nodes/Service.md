@@ -16,3 +16,5 @@ Managed background process that provides specific functionality to the system or
 **Lifecycle**: Services follow a lifecycle, for example `start`, `stop`, `restart`, `reload`.
 
 **OS Supervision**: Services are supervised and managed by different service managers, depending on the [[Operating System|OS]].
+
+**Daemon**: Service are usually used to wrap and manage [[Daemon]] programs.

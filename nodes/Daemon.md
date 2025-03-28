@@ -9,6 +9,8 @@ context:
 
 ---
 
+Often run and managed as/by a [[Service]].
+
 **Continuous**: Long-running process that continuously operates in the background.
 
 **Detached**: No controlling terminal. Detached from user sessions.

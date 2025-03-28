@@ -11,10 +11,14 @@
             "id": "bd1434bdc9de9da2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "nodes/Service Manager.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Service Manager"
             }
           }
         ]
@@ -147,9 +151,13 @@
   },
   "active": "bd1434bdc9de9da2",
   "lastOpenFiles": [
+    "nodes/Service Manager.md~",
+    "nodes/Service Manager.md",
+    "nodes/systemd.md~",
+    "nodes/systemd.md",
     "nodes/Service.md~",
-    "nodes/Service.md",
     "nodes/Daemon.md~",
+    "nodes/Service.md",
     "nodes/Daemon.md",
     "nodes/Function (Mathematics).md",
     "nodes/Functional Programming.md",
@@ -172,17 +180,13 @@
     "nodes/Java.md",
     "nodes/esbuild.md",
     "_Draft.md",
-    "nodes/Death as Universal Design.md~",
     "nodes/Death as Universal Design.md",
     "Death as Universal Design.md",
-    "nodes/esbuild.md~",
     "nodes/Mathematics.md",
     "nodes/Philosophy.md",
     "nodes/Web Development.md",
     "nodes/Debian.md",
     "nodes/Decoy (Chess Tactic).md",
-    "nodes/Ubuntu.md",
-    "nodes/Arch Linux.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
