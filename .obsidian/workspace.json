@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Service Manager.md",
+                "file": "nodes/systemctl.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Service Manager"
+              "title": "systemctl"
             }
           }
         ]
@@ -151,10 +151,14 @@
   },
   "active": "bd1434bdc9de9da2",
   "lastOpenFiles": [
-    "nodes/Service Manager.md~",
+    "nodes/systemctl.md~",
+    "nodes/systemd.md",
+    "nodes/systemctl.md",
     "nodes/Service Manager.md",
     "nodes/systemd.md~",
-    "nodes/systemd.md",
+    "nodes/Operating System.md~",
+    "nodes/Init System.md",
+    "nodes/Service Manager.md~",
     "nodes/Service.md~",
     "nodes/Daemon.md~",
     "nodes/Service.md",
@@ -168,13 +172,10 @@
     "nodes/Build Process (Software Engineering).md~",
     "nodes/Monorepo.md~",
     "nodes/Monorepo.md",
-    "nodes/SDK.md~",
     "nodes/SDK.md",
     "nodes/Damiano Defense.md",
     "nodes/Version Control.md",
     "nodes/Git.md",
-    "nodes/Website Designs.md~",
-    "nodes/WebGL2 Texture Formats.md~",
     "nodes/Website Designs.md",
     "nodes/Software.md",
     "nodes/Java.md",
@@ -185,8 +186,6 @@
     "nodes/Mathematics.md",
     "nodes/Philosophy.md",
     "nodes/Web Development.md",
-    "nodes/Debian.md",
-    "nodes/Decoy (Chess Tactic).md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"

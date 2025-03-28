@@ -1,4 +1,6 @@
 ---
+aliases:
+  - OS
 context:
   - "[[Software]]"
 ---
