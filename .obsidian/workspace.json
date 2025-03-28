@@ -11,14 +11,10 @@
             "id": "bd1434bdc9de9da2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodes/Turborepo.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Turborepo"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -151,6 +147,14 @@
   },
   "active": "bd1434bdc9de9da2",
   "lastOpenFiles": [
+    "nodes/Service.md~",
+    "nodes/Service.md",
+    "nodes/Daemon.md~",
+    "nodes/Daemon.md",
+    "nodes/Function (Mathematics).md",
+    "nodes/Functional Programming.md",
+    "nodes/Object-Oriented Programming.md",
+    "nodes/Turborepo.md",
     "nodes/Turborepo.md~",
     "_Draft.md~",
     "nodes/Build Process (Software Engineering).md~",
@@ -161,7 +165,6 @@
     "nodes/Damiano Defense.md",
     "nodes/Version Control.md",
     "nodes/Git.md",
-    "nodes/Turborepo.md",
     "nodes/Website Designs.md~",
     "nodes/WebGL2 Texture Formats.md~",
     "nodes/Website Designs.md",
@@ -173,8 +176,6 @@
     "nodes/Death as Universal Design.md",
     "Death as Universal Design.md",
     "nodes/esbuild.md~",
-    "nodes/Psychology.md~",
-    "nodes/Mathematics.md~",
     "nodes/Mathematics.md",
     "nodes/Philosophy.md",
     "nodes/Web Development.md",
@@ -182,11 +183,6 @@
     "nodes/Decoy (Chess Tactic).md",
     "nodes/Ubuntu.md",
     "nodes/Arch Linux.md",
-    "nodes/Sway.md",
-    "nodes/Pacman (Package Manager).md",
-    "nodes/Wayland.md",
-    "nodes/Window Manager.md",
-    "nodes/Neofetch.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
