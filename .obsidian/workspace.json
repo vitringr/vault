@@ -11,14 +11,10 @@
             "id": "bd1434bdc9de9da2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodes/systemctl.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "systemctl"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -151,9 +147,12 @@
   },
   "active": "bd1434bdc9de9da2",
   "lastOpenFiles": [
+    "_Birthdays.md",
+    "_Draft.md~",
+    "nodes/Single Country Problem.md",
+    "nodes/systemctl.md",
     "nodes/systemctl.md~",
     "nodes/systemd.md",
-    "nodes/systemctl.md",
     "nodes/Service Manager.md",
     "nodes/systemd.md~",
     "nodes/Operating System.md~",
@@ -168,7 +167,6 @@
     "nodes/Object-Oriented Programming.md",
     "nodes/Turborepo.md",
     "nodes/Turborepo.md~",
-    "_Draft.md~",
     "nodes/Build Process (Software Engineering).md~",
     "nodes/Monorepo.md~",
     "nodes/Monorepo.md",
@@ -185,7 +183,6 @@
     "Death as Universal Design.md",
     "nodes/Mathematics.md",
     "nodes/Philosophy.md",
-    "nodes/Web Development.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
