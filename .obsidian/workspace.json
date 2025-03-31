@@ -147,6 +147,7 @@
   },
   "active": "bd1434bdc9de9da2",
   "lastOpenFiles": [
+    "LICENSE",
     "_Tasks.md~",
     "_Draft.md~",
     "_Birthdays.md",
@@ -169,7 +170,6 @@
     "nodes/Turborepo.md",
     "nodes/Turborepo.md~",
     "nodes/Build Process (Software Engineering).md~",
-    "nodes/Monorepo.md~",
     "nodes/Monorepo.md",
     "nodes/SDK.md",
     "nodes/Damiano Defense.md",
