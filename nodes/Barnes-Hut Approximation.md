@@ -14,7 +14,7 @@ context:
 #wip
 #wip
 
-# Barnes-Hut Simulation
+# Barnes-Hut Approximation
 
 ad
 
