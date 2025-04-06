@@ -1,5 +1,8 @@
 #wip
 
+tags:
+  - "original"
+
 # Death as Universal Design
 
 Death might be a necessary universal design.

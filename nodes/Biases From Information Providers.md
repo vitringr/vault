@@ -1,5 +1,6 @@
 ---
 tags:
+  - "original"
   - "essay"
 aliases:
 context:

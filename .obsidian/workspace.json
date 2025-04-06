@@ -11,14 +11,10 @@
             "id": "bd1434bdc9de9da2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodes/Utilities-first Development.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Utilities-first Development"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -151,10 +147,10 @@
   },
   "active": "bd1434bdc9de9da2",
   "lastOpenFiles": [
+    "nodes/Utilities-first Development.md",
     "nodes/Utilities-first Development.md~",
     "nodes/Game Development.md~",
     "nodes/Game Development.md",
-    "nodes/Utilities-first Development.md",
     "_Tasks.md~",
     "nodes/Adaptive Volatility.md",
     "nodes/Mathematics.md",
@@ -174,7 +170,6 @@
     "nodes/Operating System.md~",
     "nodes/Init System.md",
     "nodes/Service Manager.md~",
-    "nodes/Service.md~",
     "nodes/Service.md",
     "nodes/Daemon.md",
     "nodes/Function (Mathematics).md",

@@ -1,4 +1,6 @@
 ---
+tags:
+  - "original"
 aliases:
   - "journal"
 context:
