@@ -1,4 +1,14 @@
-[Noise](https://www.youtube.com/watch?v=ZsEnnB2wrbI)
+1. Interpolation
+2. Smoothstep
+3. Noise
+4. Value Noise
+5. Vector Noise
+
+---
+
+- If it works - Touch it!
+
+- [Noise](https://www.youtube.com/watch?v=ZsEnnB2wrbI)
 
 - Create and write about, even an essay, _Utilities-first Paradigm_.
 

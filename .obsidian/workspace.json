@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Amor Fati.md",
+                "file": "nodes/Linear Interpolation.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Amor Fati"
+              "title": "Linear Interpolation"
             }
           }
         ]
@@ -151,6 +151,7 @@
   },
   "active": "bd1434bdc9de9da2",
   "lastOpenFiles": [
+    "nodes/Linear Interpolation.md~",
     "nodes/Philosophy.md",
     "nodes/Software.md",
     "nodes/WebGL2.md~",
@@ -186,7 +187,6 @@
     "nodes/SDK.md",
     "nodes/Damiano Defense.md",
     "nodes/Version Control.md",
-    "nodes/Git.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
