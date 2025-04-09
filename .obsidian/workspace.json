@@ -11,10 +11,14 @@
             "id": "bd1434bdc9de9da2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "nodes/Amor Fati.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Amor Fati"
             }
           }
         ]
@@ -147,6 +151,11 @@
   },
   "active": "bd1434bdc9de9da2",
   "lastOpenFiles": [
+    "nodes/Philosophy.md",
+    "nodes/Software.md",
+    "nodes/WebGL2.md~",
+    "nodes/Lattice.md",
+    "nodes/Barnes-Hut Approximation.md",
     "nodes/Utilities-first Development.md",
     "nodes/Utilities-first Development.md~",
     "nodes/Game Development.md~",
@@ -155,10 +164,8 @@
     "nodes/Adaptive Volatility.md",
     "nodes/Mathematics.md",
     "nodes/JavaScript.md",
-    "nodes/Barnes-Hut Approximation.md",
     "nodes/Barnes-Hut Simulation.md~",
     "nodes/Service Manager.md",
-    "nodes/Software.md",
     "LICENSE",
     "_Draft.md~",
     "_Birthdays.md",
@@ -169,7 +176,6 @@
     "nodes/systemd.md~",
     "nodes/Operating System.md~",
     "nodes/Init System.md",
-    "nodes/Service Manager.md~",
     "nodes/Service.md",
     "nodes/Daemon.md",
     "nodes/Function (Mathematics).md",
@@ -181,7 +187,6 @@
     "nodes/Damiano Defense.md",
     "nodes/Version Control.md",
     "nodes/Git.md",
-    "nodes/Website Designs.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
