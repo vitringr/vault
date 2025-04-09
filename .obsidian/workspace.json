@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Linear Interpolation.md",
+                "file": "nodes/Bilinear Interpolation.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Linear Interpolation"
+              "title": "Bilinear Interpolation"
             }
           }
         ]
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "nodes/Bilinear Interpolation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Bilinear Interpolation"
             }
           },
           {
@@ -152,6 +153,12 @@
   "active": "bd1434bdc9de9da2",
   "lastOpenFiles": [
     "nodes/Linear Interpolation.md~",
+    "nodes/Linear Interpolation.md",
+    "nodes/Have a Product Headquarter.md",
+    "nodes/Marketing.md",
+    "_Guides.md~",
+    "_Guides.md",
+    "nodes/Algorithm.md",
     "nodes/Linear Equation.md~",
     "nodes/Philosophy.md",
     "nodes/Software.md",
@@ -173,20 +180,13 @@
     "_Birthdays.md",
     "nodes/Single Country Problem.md",
     "nodes/systemctl.md",
-    "nodes/systemctl.md~",
     "nodes/systemd.md",
-    "nodes/systemd.md~",
     "nodes/Init System.md",
     "nodes/Service.md",
     "nodes/Daemon.md",
     "nodes/Function (Mathematics).md",
     "nodes/Functional Programming.md",
     "nodes/Object-Oriented Programming.md",
-    "nodes/Turborepo.md",
-    "nodes/Monorepo.md",
-    "nodes/SDK.md",
-    "nodes/Damiano Defense.md",
-    "nodes/Version Control.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"

@@ -11,30 +11,48 @@ context:
 
 ---
 
-Implementation:
+Algorithm: `A + step * (B - A)`
 
-```typescript
-function lerp(a: number, b: number, step: number) {
-  return a + step * (b - a);
-}
-```
+Imagine a straight line connecting two points (`A` and `B`) in space.
 
-**Step**: The _step_ number represents a point on the line:
+The _step_ number represents a point on that line:
 
 - `0`: Exactly on point `A`.
 - `0.5`: Halfway between `A` and `B`.
 - `1`: Exactly on point `B`.
 
-## Intuition
+**Graph**: [Desmos Visualization](https://www.desmos.com/calculator/3qqhmusbzi)
 
-Imagine a straight line connecting two points (`A` and `B`) in space.
+## Dimensions
 
-[Desmos Visualization](https://www.desmos.com/calculator/3qqhmusbzi)
+**1 Dimension**: If the two inputs are 1D [[Scalar|scalars]] - imagine them on the 1D [[Number Line]].
 
-### Dimensions
-
-**1 Dimension**: If the two numbers are 1D scalars [[Scalar|scalars]] - imagine them on the 1D [[Number Line]].
-
-**2 Dimensions**: If the two numbers are 2D points in a [[Coordinate System]] - imagine a straight line connecting them.
+**2 Dimensions**: Known as [[Bilinear Interpolation]]. If the two inputs are 2D points ([[Vector|vectors]]) in a [[Coordinate System]] - imagine a straight line connecting them.
 
 **3 Dimensions**: The same, but imagine the line connecting points in 3D space.
+
+## Implementation
+
+```typescript
+// 1 Dimension:
+function lerp(a: number, b: number, step: number) {
+  return a + step * (b - a);
+}
+
+// 2 Dimensions:
+function lerp(va: Vector2, v2: Vector2, step: number) {
+  return new Vector2(
+    va.x + step * (v2.x - va.x),
+    va.y + step * (v2.y - va.y)
+  );
+}
+
+// 3 Dimensions:
+function lerp(va: Vector3, v2: Vector3, step: number) {
+  return new Vector3(
+    va.x + step * (v2.x - va.x),
+    va.y + step * (v2.y - va.y),
+    va.z + step * (v2.z - va.z)
+  );
+}
+```
