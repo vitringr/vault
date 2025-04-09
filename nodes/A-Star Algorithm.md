@@ -46,10 +46,9 @@ iterate() {
     if open is empty:
         terminate; // No path found
 
-    current = best cell from open; // Typically the lowest F value (F = G + H)
+    current = best cell from open; // Lowest F value
 
     if current === target:
-        reconstruct path from current;
         terminate; // Path found
 
     remove current from open;

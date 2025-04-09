@@ -4,12 +4,12 @@ tags:
 context:
 ---
 
-#wip
-
 # Website Designs
 
-Collection of good web designs.
+Collection of good/impressive web design examples.
 
 ---
 
-https://monorepo.tools
+[monorepo](https://monorepo.tools)
+
+[animejs](https://animejs.com)
