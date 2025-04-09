@@ -16,3 +16,11 @@
 ## Vim & NeoVim
 
 ## Martial Arts
+
+## Vectors
+
+## Trigonometry
+
+## Basic Math
+
+https://www.acegikmo.com/mathvis/index.html

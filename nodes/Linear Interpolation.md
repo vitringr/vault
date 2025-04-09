@@ -13,13 +13,13 @@ context:
 
 Algorithm: `A + step * (B - A)`
 
-Imagine a straight line connecting two points (`A` and `B`) in space.
-
 The _step_ number represents a point on that line:
 
 - `0`: Exactly on point `A`.
 - `0.5`: Halfway between `A` and `B`.
 - `1`: Exactly on point `B`.
+
+**Intuition**: Imagine a straight line connecting two points (`A` and `B`) in space. Imagine `step` as a percentage between them, where `0` is `0%` and `1` is `100%`.
 
 **Graph**: [Desmos Visualization](https://www.desmos.com/calculator/3qqhmusbzi)
 

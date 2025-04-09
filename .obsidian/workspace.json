@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Bilinear Interpolation.md",
+                "file": "nodes/Linear Interpolation.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Bilinear Interpolation"
+              "title": "Linear Interpolation"
             }
           }
         ]
@@ -64,7 +64,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodes/Bilinear Interpolation.md",
+                "file": "_Guides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bilinear Interpolation"
+              "title": "Backlinks for _Guides"
             }
           },
           {
@@ -152,12 +153,14 @@
   },
   "active": "bd1434bdc9de9da2",
   "lastOpenFiles": [
+    "_Tasks.md~",
     "nodes/Linear Interpolation.md~",
+    "_Guides.md",
+    "_Guides.md~",
+    "nodes/Bilinear Interpolation.md",
     "nodes/Linear Interpolation.md",
     "nodes/Have a Product Headquarter.md",
     "nodes/Marketing.md",
-    "_Guides.md~",
-    "_Guides.md",
     "nodes/Algorithm.md",
     "nodes/Linear Equation.md~",
     "nodes/Philosophy.md",
@@ -169,7 +172,6 @@
     "nodes/Utilities-first Development.md~",
     "nodes/Game Development.md~",
     "nodes/Game Development.md",
-    "_Tasks.md~",
     "nodes/Adaptive Volatility.md",
     "nodes/Mathematics.md",
     "nodes/JavaScript.md",
@@ -186,7 +188,6 @@
     "nodes/Daemon.md",
     "nodes/Function (Mathematics).md",
     "nodes/Functional Programming.md",
-    "nodes/Object-Oriented Programming.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"

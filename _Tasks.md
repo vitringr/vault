@@ -1,5 +1,5 @@
 1. Interpolation
-2. Smoothstep
+2. Smoothstep AND FUNCTIONS
 3. Noise
 4. Value Noise
 5. Vector Noise
