@@ -152,6 +152,7 @@
   "active": "bd1434bdc9de9da2",
   "lastOpenFiles": [
     "nodes/Linear Interpolation.md~",
+    "nodes/Linear Equation.md~",
     "nodes/Philosophy.md",
     "nodes/Software.md",
     "nodes/WebGL2.md~",
@@ -175,7 +176,6 @@
     "nodes/systemctl.md~",
     "nodes/systemd.md",
     "nodes/systemd.md~",
-    "nodes/Operating System.md~",
     "nodes/Init System.md",
     "nodes/Service.md",
     "nodes/Daemon.md",

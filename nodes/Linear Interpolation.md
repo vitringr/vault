@@ -29,6 +29,8 @@ function lerp(a: number, b: number, step: number) {
 
 Imagine a straight line connecting two points (`A` and `B`) in space.
 
+[Desmos Visualization](https://www.desmos.com/calculator/3qqhmusbzi)
+
 ### Dimensions
 
 **1 Dimension**: If the two numbers are 1D scalars [[Scalar|scalars]] - imagine them on the 1D [[Number Line]].

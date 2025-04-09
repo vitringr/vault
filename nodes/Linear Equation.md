@@ -13,6 +13,8 @@ Equation that describes a straight line in a [[Coordinate System]].
 
 Represents the equation of a [[Polynomial]] of the [[Polynomial#degree|first degree]].
 
+[Desmos Visualization](https://www.desmos.com/calculator/mu6rtwuemx)
+
 ## Algebraic Forms
 
 **One variable form**: `ax + b = 0` with `a != 0`
