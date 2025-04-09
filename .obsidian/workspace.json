@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Linear Interpolation.md",
+                "file": "nodes/Interpolation Function.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Linear Interpolation"
+              "title": "Interpolation Function"
             }
           }
         ]
@@ -153,6 +153,7 @@
   },
   "active": "bd1434bdc9de9da2",
   "lastOpenFiles": [
+    "nodes/Interpolation Function.md~",
     "_Tasks.md~",
     "nodes/Linear Interpolation.md~",
     "_Guides.md",

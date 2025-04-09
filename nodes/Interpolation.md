@@ -9,6 +9,7 @@ Method of finding unknown intermediate data points based on the range of known d
 
 ---
 
-See [[Nearest-neighbor Interpolation]]
+Common interpolation methods:
 
-See [[Linear Interpolation]]
+- [[Nearest-neighbor Interpolation]]
+- [[Linear Interpolation]]
