@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Interpolation Function.md",
+                "file": "_Tasks.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Interpolation Function"
+              "title": "_Tasks"
             }
           }
         ]
@@ -153,6 +153,7 @@
   },
   "active": "bd1434bdc9de9da2",
   "lastOpenFiles": [
+    "_Tasks.md~",
     "nodes/Interpolation Functions List.md~",
     "nodes/Linear Interpolation.md~",
     "nodes/Interpolation Function.md~",
@@ -160,7 +161,6 @@
     "nodes/Abstraction.md~",
     "nodes/A-Star Algorithm.md~",
     "nodes/A-Star Algorithm.md",
-    "_Tasks.md~",
     "_Guides.md",
     "_Guides.md~",
     "nodes/Bilinear Interpolation.md",
