@@ -5,8 +5,6 @@ context:
   - "[[King's Indian]]"
 ---
 
-#wip break! e5 e5 e5 e5 e5
-
 # King's Indian Defense
 
 [[King's Indian]] opening for Black.

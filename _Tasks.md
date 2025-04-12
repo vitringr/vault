@@ -16,6 +16,12 @@ Simplex noise is basically gradient noise, but it "skews" the grid. Instead of r
 
 ---
 
+# Easing-functions
+
+Visualize the curves with eziers or SVG images.
+
+---
+
 - [Noise](https://www.youtube.com/watch?v=ZsEnnB2wrbI)
 
 - Create and write about, even an essay, _Utilities-first Paradigm_.

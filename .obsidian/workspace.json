@@ -13,12 +13,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Tasks.md",
+                "file": "nodes/Software.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "_Tasks"
+              "title": "Software"
+            }
+          }
+        ]
+      },
+      {
+        "id": "12d40f21bea588c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9932344e22020bfd",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "nodes/Software.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Software"
             }
           }
         ]
@@ -151,8 +194,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd1434bdc9de9da2",
+  "active": "9932344e22020bfd",
   "lastOpenFiles": [
+    "nodes/Operating System.md",
+    "_Tasks.md",
     "_Tasks.md~",
     "nodes/Interpolation Functions List.md~",
     "nodes/Linear Interpolation.md~",
@@ -175,7 +220,6 @@
     "nodes/Lattice.md",
     "nodes/Barnes-Hut Approximation.md",
     "nodes/Utilities-first Development.md",
-    "nodes/Utilities-first Development.md~",
     "nodes/Game Development.md",
     "nodes/Adaptive Volatility.md",
     "nodes/Mathematics.md",
@@ -188,7 +232,6 @@
     "nodes/Init System.md",
     "nodes/Service.md",
     "nodes/Daemon.md",
-    "nodes/Function (Mathematics).md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
