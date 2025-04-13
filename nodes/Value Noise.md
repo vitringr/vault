@@ -5,13 +5,13 @@ context:
 
 # Value Noise
 
-Basic [[Noise (Procedural Generation)|Noise]] function.
+Basic [[Noise (Procedural Generation)|Noise]] generation function.
 
 ---
 
 Probably the simplest and fastest noise generation method.
 
-**Blocky**: Can appear "blocky" due to direct value interpolation.
+**Blocky**: Can appear "blocky" due to direct [[Scalar|scalar]] value interpolation.
 
 ## Implementation
 

@@ -4,64 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9cdb20f309a7ca9a",
+        "id": "dcbbf07418640204",
         "type": "tabs",
         "children": [
           {
-            "id": "bd1434bdc9de9da2",
+            "id": "8d5ac91b7101b80a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Software.md",
+                "file": "nodes/Gradient Noise.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Software"
-            }
-          }
-        ]
-      },
-      {
-        "id": "12d40f21bea588c4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9932344e22020bfd",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "nodes/Software.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Software"
+              "title": "Gradient Noise"
             }
           }
         ]
@@ -194,8 +151,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9932344e22020bfd",
+  "active": "8d5ac91b7101b80a",
   "lastOpenFiles": [
+    "nodes/Simplex Noise.md~",
+    "nodes/Perlin Noise.md~",
+    "nodes/Gradient Noise.md~",
+    "nodes/Simplex Noise.md",
+    "nodes/Perlin Noise.md",
+    "nodes/Gradient Noise.md",
+    "nodes/Scalar.md",
     "nodes/Operating System.md",
     "_Tasks.md",
     "_Tasks.md~",
@@ -213,10 +177,8 @@
     "nodes/Have a Product Headquarter.md",
     "nodes/Marketing.md",
     "nodes/Algorithm.md",
-    "nodes/Linear Equation.md~",
     "nodes/Philosophy.md",
     "nodes/Software.md",
-    "nodes/WebGL2.md~",
     "nodes/Lattice.md",
     "nodes/Barnes-Hut Approximation.md",
     "nodes/Utilities-first Development.md",
@@ -227,11 +189,6 @@
     "nodes/Service Manager.md",
     "_Birthdays.md",
     "nodes/Single Country Problem.md",
-    "nodes/systemctl.md",
-    "nodes/systemd.md",
-    "nodes/Init System.md",
-    "nodes/Service.md",
-    "nodes/Daemon.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
