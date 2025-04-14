@@ -1,2 +1,28 @@
+---
+context:
+  - "[[Gradient Noise]]"
+---
+
 # Perlin Noise
-#wip
+
+Classic [[Gradient Noise]] algorithm.
+
+---
+
+Generates smooth, natural-looking patterns.
+
+## Algorithm
+
+1. First, construct a [[Lattice]] of squares.
+2. Assign a random unit gradient [[Vector]] to each lattice vertex.
+
+For each query point inside a lattice cell:
+
+3. Determine the four surrounding vertices and compute the displacement vectors from the point to each vertex.
+4. Calculate the dot products between these displacement vectors and their corresponding vertex's gradient vectors.
+5. [[Interpolation|Interpolate]] the resulting dot products via [[Interpolation Function|smooth]] [[Bilinear Interpolation]] to get the final value of the point.
+
+> [!NOTE] Terminology
+>
+> - _gradient vector_: the predefined random unit vector.
+> - _displacement vector_: vector difference from point to gradients.

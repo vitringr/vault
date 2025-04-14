@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Gradient Noise.md",
+                "file": "nodes/Perlin Noise.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gradient Noise"
+              "title": "Perlin Noise"
             }
           }
         ]
@@ -153,8 +153,8 @@
   },
   "active": "8d5ac91b7101b80a",
   "lastOpenFiles": [
-    "nodes/Simplex Noise.md~",
     "nodes/Perlin Noise.md~",
+    "nodes/Simplex Noise.md~",
     "nodes/Gradient Noise.md~",
     "nodes/Simplex Noise.md",
     "nodes/Perlin Noise.md",

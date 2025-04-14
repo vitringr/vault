@@ -1,15 +1,17 @@
 - [x] Interpolation
 - [x] Smoothstep
 - [x] Easing Functions
-- [ ] Noise
-- [ ] Value Noise
-- [ ] Vector Noise
+- [x] Noise
+- [x] Value Noise
+- [x] Gradient Noise
+- [ ] Suare to Triangle
+- [ ] Simplex Noise
 
 ---
 
 # Noise
 
-- [ ] Implement any gradient noise
+- [x] Implement any gradient noise
 - [ ] Optimize a bit 
 
 Simplex noise is basically gradient noise, but it "skews" the grid. Instead of rectangles, it makes it a triangular grid. This way there are only 3 corners that need to be interpolated between, instead of 4. After the interpolation it "un-skews" the grid back.

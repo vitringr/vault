@@ -192,3 +192,6 @@ There's a difference between knowing the path and walking the path.
 
 If death is promised, what are you afraid of?
 \- unknown
+
+Success lies in the relentless execution of the basics.
+\- Leonardo Da Vinci
