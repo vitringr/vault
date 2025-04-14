@@ -5,7 +5,7 @@ context:
 
 # Simplex
 
-The simplest shape that can tile n-dimensional space.
+The simplest shape that can tile a space.
 
 - **0D**: point
 - **1D**: line

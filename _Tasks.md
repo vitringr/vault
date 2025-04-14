@@ -20,7 +20,7 @@ Simplex noise is basically gradient noise, but it "skews" the grid. Instead of r
 
 # Easing-functions
 
-Visualize the curves with eziers or SVG images.
+Visualize the curves with beziers or SVG images.
 
 ---
 
@@ -29,8 +29,6 @@ Visualize the curves with eziers or SVG images.
 - Create and write about, even an essay, _Utilities-first Paradigm_.
 
 - Explain accessible science design, which is one of the goals with my website.
-
-- N-body problem
 
 - Investing in competition vs learning the art. Differences. How one of the most effective way to produce champions is having a trainer that has mastered the art coaching a student who excels at competition.
 
