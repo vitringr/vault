@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Perlin Noise.md",
+                "file": "nodes/Arch Linux.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Perlin Noise"
+              "title": "Arch Linux"
             }
           }
         ]
@@ -153,11 +153,18 @@
   },
   "active": "8d5ac91b7101b80a",
   "lastOpenFiles": [
+    "nodes/Learning.md~",
+    "nodes/Lattice.md~",
+    "nodes/RTS.md",
+    "nodes/Grappling.md",
+    "nodes/Adaptive Volatility.md~",
+    "nodes/A-Star Algorithm.md~",
+    "nodes/Reciprocal Function.md~",
+    "nodes/Perlin Noise.md",
     "nodes/Perlin Noise.md~",
     "nodes/Simplex Noise.md~",
     "nodes/Gradient Noise.md~",
     "nodes/Simplex Noise.md",
-    "nodes/Perlin Noise.md",
     "nodes/Gradient Noise.md",
     "nodes/Scalar.md",
     "nodes/Operating System.md",
@@ -165,13 +172,8 @@
     "_Tasks.md~",
     "nodes/Interpolation Functions List.md~",
     "nodes/Linear Interpolation.md~",
-    "nodes/Interpolation Function.md~",
-    "nodes/Adjacent Bishop vs Knight.md~",
-    "nodes/Abstraction.md~",
-    "nodes/A-Star Algorithm.md~",
     "nodes/A-Star Algorithm.md",
     "_Guides.md",
-    "_Guides.md~",
     "nodes/Bilinear Interpolation.md",
     "nodes/Linear Interpolation.md",
     "nodes/Have a Product Headquarter.md",
@@ -187,8 +189,6 @@
     "nodes/Mathematics.md",
     "nodes/JavaScript.md",
     "nodes/Service Manager.md",
-    "_Birthdays.md",
-    "nodes/Single Country Problem.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
