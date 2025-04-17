@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Arch Linux.md",
+                "file": "nodes/Equilateral Triangle.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Arch Linux"
+              "title": "Equilateral Triangle"
             }
           }
         ]
@@ -153,6 +153,7 @@
   },
   "active": "8d5ac91b7101b80a",
   "lastOpenFiles": [
+    "nodes/Equilateral Triangle.md~",
     "nodes/Learning.md~",
     "nodes/Lattice.md~",
     "nodes/RTS.md",
@@ -171,7 +172,6 @@
     "_Tasks.md",
     "_Tasks.md~",
     "nodes/Interpolation Functions List.md~",
-    "nodes/Linear Interpolation.md~",
     "nodes/A-Star Algorithm.md",
     "_Guides.md",
     "nodes/Bilinear Interpolation.md",
