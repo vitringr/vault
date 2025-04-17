@@ -23,6 +23,13 @@ Triangle in which all three sides have the same length, and all three angles are
 
 ## Centroid
 
+The centroid can be constructed by finding the average coordinate of the vertices:
+
+```
+centroid.x = (a.x + b.x + c.x) / 3
+centroid.y = (a.y + b.y + c.y) / 3
+```
+
 **Edge Distance**: The distance from the centroid to the closest edge point is equal to either:
 
 - `base * (height / 3)`
