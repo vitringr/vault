@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Equilateral Triangle.md",
+                "file": "nodes/Simplex.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Equilateral Triangle"
+              "title": "Simplex"
             }
           }
         ]
@@ -153,6 +153,8 @@
   },
   "active": "8d5ac91b7101b80a",
   "lastOpenFiles": [
+    "_System.md",
+    "nodes/Equilateral Triangle.md",
     "nodes/Equilateral Triangle.md~",
     "nodes/Learning.md~",
     "nodes/Lattice.md~",
@@ -171,7 +173,6 @@
     "nodes/Operating System.md",
     "_Tasks.md",
     "_Tasks.md~",
-    "nodes/Interpolation Functions List.md~",
     "nodes/A-Star Algorithm.md",
     "_Guides.md",
     "nodes/Bilinear Interpolation.md",
@@ -188,7 +189,6 @@
     "nodes/Adaptive Volatility.md",
     "nodes/Mathematics.md",
     "nodes/JavaScript.md",
-    "nodes/Service Manager.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"

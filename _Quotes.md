@@ -1,5 +1,5 @@
 Clarity is King.
-\- Unknown
+\- unknown
 
 Play is the highest form of research.
 \- Albert Einstein
@@ -17,7 +17,7 @@ We only see what we know.
 \- Goethe
 
 Those who say it cannot be done should not interrupt the ones doing it.
-\- Unknown
+\- unknown
 
 Whether you think you can or think you can't, you're right.
 \- Henry Ford
@@ -38,7 +38,7 @@ We may encounter many defeats, but we must not be defeated.
 \- Maya Angelou
 
 If it costs you your peace, then it's too expensive.
-\- Unknown
+\- unknown
 
 The path to paradise begins in hell.
 \- Dante
@@ -47,7 +47,7 @@ The reasonable man adapts himself to the world. The unreasonable one persists in
 \- George Bernard Shaw
 
 Judge a man by his questions rather than by his answers.
-\- Unknown
+\- unknown
 
 I may disagree with what you have to say, but I shall defend, to the death, your right to say it.
 \- Voltaire
@@ -68,7 +68,7 @@ Ever tried, ever failed. No matter. Try again, fail again. Fail better.
 \- Samuel Beckett
 
 The harder I practice, the luckier I get.
-\- Unknown
+\- unknown
 
 Fear he who fears nothing.
 \- Terrorblade
@@ -195,3 +195,6 @@ If death is promised, what are you afraid of?
 
 Success lies in the relentless execution of the basics.
 \- Leonardo Da Vinci
+
+You need to tear muscle to grow it. Why would it be different for the mind or spirit?
+\- unknown
