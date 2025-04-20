@@ -1,3 +1,10 @@
+---
+context:
+  - "[[Programming]]"
+---
+
 # Creative Coding
 
-#wip
+The creation of art through [[Programming]].
+
+Blends coding with design and expression.

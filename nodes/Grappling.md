@@ -1,2 +1,8 @@
+---
+context:
+  - "[[Martial Art]]"
+---
+
 # Grappling
-#wip
+
+Martial arts that focus on ground fighting and submission techniques.

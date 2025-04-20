@@ -5,11 +5,6 @@ context:
 ---
 
 #wip
-#wip
-#wip
-#wip
-#wip
-#wip
 
 https://www.youtube.com/watch?v=mCsc24k-Q8M
 https://www.youtube.com/watch?v=mCsc24k-Q8M
