@@ -4,10 +4,6 @@ aliases:
 context:
 ---
 
-#wip
-
 # Algorithm
 
-ad
-
----
+Finite set of well-defined sequential instructions designed to perform a specific task.
