@@ -5,7 +5,7 @@ context:
 
 # Web Development
 
-[[Software Development]] of websites and web applications. 
+The process of developing websites and web applications.
 
 ---
 

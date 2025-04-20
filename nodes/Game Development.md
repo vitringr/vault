@@ -3,12 +3,6 @@ context:
   - "[[Software Development]]"
 ---
 
-#wip
-
 # Game Development
 
-ad
-
----
-
-#wip
+The multidisciplinary process of designing and creating interactive games.
