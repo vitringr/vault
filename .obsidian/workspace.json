@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Quotes.md",
+                "file": "nodes/Queue.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "_Quotes"
+              "title": "Queue"
             }
           }
         ]
