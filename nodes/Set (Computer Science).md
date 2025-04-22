@@ -3,7 +3,6 @@ aliases:
   - Set
 context:
   - "[[Abstract Data Type]]"
-  - "[[Data Structure]]"
 ---
 
 # Set (Abstract Data Type)
