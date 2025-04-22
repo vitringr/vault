@@ -25,7 +25,7 @@ The references to the objects are _weak_, meaning garbage collection is not prev
 
 Collection of unique values.
 
-See [[Set (Computer Science)|Set]]
+See [[Set (Abstract Data Type)|Set]]
 
 ## WeakSet
 
