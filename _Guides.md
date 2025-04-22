@@ -7,7 +7,14 @@
 
 ## Noise
 
+- Value Noise
+- Perlin Noise
+- Simplex Noise
+- Worley Noise
+
 ## Pathfinding
+
+- A\*
 
 ## Tsunagari
 

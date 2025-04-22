@@ -4,7 +4,7 @@
 - [x] Noise
 - [x] Value Noise
 - [x] Gradient Noise
-- [ ] Suare to Triangle
+- [x] Suare to Triangle
 - [ ] Simplex Noise
 
 ---
