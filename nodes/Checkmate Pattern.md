@@ -1,2 +1,21 @@
+---
+aliases:
+  - Checkmate Patterns
+context:
+  - "[[Chess]]"
+---
+
 # Checkmate Pattern
-#wip
+
+Recognizable pattern that allows for [[Checkmate]] opportunity.
+
+---
+
+Common patterns:
+
+- [[Back-rank Checkmate]]
+- [[King and Rook Checkmate]]
+- [[King and Queen Checkmate]]
+- [[Ladder Checkmate]]
+- [[Smothered Checkmate]]
+- [[Two Bishops Checkmate]]
