@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Chunking.md",
+                "file": "nodes/Vim Motions.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chunking"
+              "title": "Vim Motions"
             }
           }
         ]
@@ -153,6 +153,7 @@
   },
   "active": "8d5ac91b7101b80a",
   "lastOpenFiles": [
+    "nodes/Vim Motions.md~",
     "nodes/Picture Superiority Effect.md~",
     "nodes/Dual Coding Theory.md~",
     "nodes/Dual Coding Theory.md",
@@ -170,7 +171,6 @@
     "nodes/Mind Map.md~",
     "nodes/Mind Map.md",
     "nodes/Spaced Repetition.md~",
-    "templates/_Template.md~",
     "nodes/Spaced Repetition.md",
     "nodes/Learning Dip.md",
     "nodes/Budo.md",
