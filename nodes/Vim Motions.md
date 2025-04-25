@@ -4,13 +4,16 @@ tags:
   - "original"
 context:
   - "[[Vim]]"
+  - "[[NeoVim]]"
 ---
 
 #wip
 
 # Vim Motions
 
-`Esc`: Exit
+Vim Motions
+
+This is a cheatsheet covering essential [[Vim]] and [[NeoVim]] commands.
 
 ---
 
@@ -70,6 +73,30 @@ _Cursor movement and navigation._
 `:bn`: Next buffer.
 `:bp`: Previous buffer.
 `:bd`: Close buffer.
+`:ls`: List buffers.
+`:b<number>`: Switch to `n` buffer.
+
+`:tabn`: Next tab.
+`:tabp`: Previous tab.
+`:tabnew`: New tab.
+
+## Splits
+
+_Splits are generally controlled by `Ctrl w` keymaps._
+
+`Ctrl w h`: Focus left split.
+`Ctrl w j`: Focus bottom split.
+`Ctrl w k`: Focus top split.
+`Ctrl w l`: Focus right split.
+
+`Ctrl w w`: Focus next split.
+
+`Ctrl w v`: Open vertical split.
+`Ctrl w s`: Open horizontal split.
+
+`Ctrl w q`: Close split.
+
+`Ctrl w x`: Swap splits.
 
 ## Normal Mode
 
@@ -112,6 +139,9 @@ _Cursor movement and navigation._
 `v`: Select by cursor. **VISUAL**
 `V`: Select by line. **VISUAL**
 `Ctrl v`: Select by block. **VISUAL**
+
+`>`: Indent.
+`<`: Unindent.
 
 ## Insert Mode
 
