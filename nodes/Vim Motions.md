@@ -7,13 +7,11 @@ context:
   - "[[NeoVim]]"
 ---
 
-#wip
-
 # Vim Motions
 
-Vim Motions
+Vim motions are the commands used to control and navigate [[Vim]] and [[NeoVim]]. They are also used in other software that supports it.
 
-This is a cheatsheet covering essential [[Vim]] and [[NeoVim]] commands.
+This is a cheatsheet covering essential commands.
 
 ---
 
@@ -21,9 +19,17 @@ This is a cheatsheet covering essential [[Vim]] and [[NeoVim]] commands.
 
 _Most commands have shared behavior and interact with other commands._
 
-**Visual Mode**: _In visual mode, many normal mode commands that would otherwise apply to the cursor apply to the whole selection._
+**Pending**: Many commands enter their own "Pending" mode, which awaits the next command.
 
-**Numbers**: _Any `n` before a command generally repeats the command `n` times. For example `12j` will go down `12` times._
+- Example: pressing `d` in normal mode alone does not delete anything, it waits for another command to tell it what to delete. `dd` will delete the whole line. `dfa` will delete from the cursor to the next `a` letter found on the same line.
+
+**Visual Mode**: In visual mode, many normal mode commands that would otherwise apply to the cursor apply to the whole selection.
+
+- Example: Using `r` in normal mode will replace the character under the cursor, but in visual mode it will replace all selected characters.
+
+**Numbers**: Any `n` before a command generally repeats the command `n` times.
+
+- Example: Using `12j` will go down `12` times.
 
 `.`: Repeat last command.
 
@@ -39,6 +45,15 @@ _Cursor movement and navigation._
 `j`: Down.
 `k`: Up.
 `l`: Right.
+
+`w`: Start of next word.
+`W`: Same, ignores punctuation.
+
+`b`: Start of previous word.
+`B`: Same, ignores punctuation.
+
+`e`: End of current word.
+`E`: Same, ignores punctuation.
 
 `H`: Screen beginning.
 `L`: Screen ending.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Vim Motions.md",
+                "file": "nodes/Feynman Technique.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Vim Motions"
+              "title": "Feynman Technique"
             }
           }
         ]
@@ -153,14 +153,14 @@
   },
   "active": "8d5ac91b7101b80a",
   "lastOpenFiles": [
-    "nodes/Vim Motions.md~",
+    "nodes/Feynman Technique.md~",
     "nodes/4913",
+    "nodes/Vim Motions.md~",
     "nodes/Learning.md",
     "nodes/Vim.md",
     "nodes/Vim Motions.md",
     "_Draft.md~",
     "_Quotes.md~",
-    "nodes/Feynman Technique.md~",
     "nodes/Feynman Technique.md",
     "nodes/JavaScript Indexed Collections.md",
     "nodes/JavaScript Indexed Collections.md~",
