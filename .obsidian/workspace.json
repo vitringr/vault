@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Feynman Technique.md",
+                "file": "nodes/Pareto Principle.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Feynman Technique"
+              "title": "Pareto Principle"
             }
           }
         ]
@@ -153,15 +153,21 @@
   },
   "active": "8d5ac91b7101b80a",
   "lastOpenFiles": [
-    "nodes/Feynman Technique.md~",
+    "nodes/Pareto Principle.md~",
     "nodes/4913",
+    "nodes/Vim.md~",
+    "nodes/Learning Dip.md",
+    "nodes/Pareto Principle.md",
+    "nodes/Learning Dip.md~",
+    "nodes/Budo.md",
+    "nodes/Feynman Technique.md",
+    "nodes/Feynman Technique.md~",
     "nodes/Vim Motions.md~",
     "nodes/Learning.md",
     "nodes/Vim.md",
     "nodes/Vim Motions.md",
     "_Draft.md~",
     "_Quotes.md~",
-    "nodes/Feynman Technique.md",
     "nodes/JavaScript Indexed Collections.md",
     "nodes/JavaScript Indexed Collections.md~",
     "nodes/Map.md",
@@ -169,10 +175,8 @@
     "nodes/Equilateral Triangle.md",
     "nodes/Equilateral Triangle.md~",
     "nodes/Learning.md~",
-    "nodes/Lattice.md~",
     "nodes/RTS.md",
     "nodes/Grappling.md",
-    "nodes/Adaptive Volatility.md~",
     "nodes/Perlin Noise.md",
     "nodes/Simplex Noise.md",
     "nodes/Gradient Noise.md",
@@ -185,9 +189,6 @@
     "nodes/Linear Interpolation.md",
     "nodes/Have a Product Headquarter.md",
     "nodes/Marketing.md",
-    "nodes/Algorithm.md",
-    "nodes/Philosophy.md",
-    "nodes/Software.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
