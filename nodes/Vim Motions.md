@@ -1,6 +1,7 @@
 ---
 tags:
   - "data"
+  - "original"
 context:
   - "[[Vim]]"
 ---
@@ -12,6 +13,48 @@ context:
 `Esc`: Exit
 
 ---
+
+## Interactions
+
+_Most commands have shared behavior and interact with other commands._
+
+**Visual Mode**: _In visual mode, many normal mode commands that would otherwise apply to the cursor apply to the whole selection._
+
+**Numbers**: _Any `n` before a command generally repeats the command `n` times. For example `12j` will go down `12` times._
+
+`.`: Repeat last command.
+
+`q<register>`: Start recording macro to register. Use `q` to stop.
+`@<register>`: Use macro from register.
+`@@`: Use last macro again.
+
+## Movement
+
+_Cursor movement and navigation._
+
+`h`: Left.
+`j`: Down.
+`k`: Up.
+`l`: Right.
+
+`H`: Screen beginning.
+`L`: Screen ending.
+
+`0`: Line beginning.
+`$`: Line ending.
+
+`gg`: First line in file.
+`G`: Last line in file.
+`<number>g`: To `n` line in file.
+
+## Camera
+
+`zz`: Camera to cursor as center.
+`zb`: Camera to cursor as bottom.
+`zt`: Camera to cursor as top.
+
+`zh`: Move camera left.
+`zl`: Move camera right.
 
 ## Command Mode
 
@@ -30,24 +73,22 @@ context:
 
 ## Normal Mode
 
-`.`: Repeat last command.
+`i`: Insert before. **INSERT**
+`a`: Insert after. **INSERT**
 
-`i`: Insert before.
-`a`: Insert after.
+`I`: Insert at start of line. **INSERT**
+`A`: Insert at end of line. **INSERT**
 
-`I`: Insert at start of line.
-`A`: Insert at end of line.
-
-`o`: New line below.
-`O`: New line above.
+`o`: New line below. **INSERT**
+`O`: New line above. **INSERT**
 
 `d`: Delete.
 `D`: Delete until end of line.
 `dd`: Delete line.
 
-`c`: Change.
-`C`: Change until end of line.
-`cc`: Change line.
+`c`: Change. **INSERT**
+`C`: Change until end of line. **INSERT**
+`cc`: Change line. **INSERT**
 
 `y`: Yank.
 `Y`: Yank until end of line.
@@ -56,14 +97,21 @@ context:
 `p`: Paste after.
 `P`: Paste before.
 
-`/<pattern>`: Search pattern.
+`r`: Replace character.
+`x`: Delete character.
+
+`/<pattern>`: Search pattern. **SEARCH**
 
 `*`: Search word under cursor.
 
 `n`: Next match.
 `N`: Previous match.
 
+`J`: Join bottom line.
 
+`v`: Select by cursor. **VISUAL**
+`V`: Select by line. **VISUAL**
+`Ctrl v`: Select by block. **VISUAL**
 
 ## Insert Mode
 
