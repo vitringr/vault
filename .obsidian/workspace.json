@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Queue.md",
+                "file": "nodes/Vim Motions.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Queue"
+              "title": "Vim Motions"
             }
           }
         ]
@@ -153,6 +153,18 @@
   },
   "active": "8d5ac91b7101b80a",
   "lastOpenFiles": [
+    "nodes/Vim Motions.md~",
+    "nodes/4913",
+    "nodes/Learning.md",
+    "nodes/Vim.md",
+    "nodes/Vim Motions.md",
+    "_Draft.md~",
+    "_Quotes.md~",
+    "nodes/Feynman Technique.md~",
+    "nodes/Feynman Technique.md",
+    "nodes/JavaScript Indexed Collections.md",
+    "nodes/JavaScript Indexed Collections.md~",
+    "nodes/Map.md",
     "_System.md",
     "nodes/Equilateral Triangle.md",
     "nodes/Equilateral Triangle.md~",
@@ -161,18 +173,12 @@
     "nodes/RTS.md",
     "nodes/Grappling.md",
     "nodes/Adaptive Volatility.md~",
-    "nodes/A-Star Algorithm.md~",
-    "nodes/Reciprocal Function.md~",
     "nodes/Perlin Noise.md",
-    "nodes/Perlin Noise.md~",
-    "nodes/Simplex Noise.md~",
-    "nodes/Gradient Noise.md~",
     "nodes/Simplex Noise.md",
     "nodes/Gradient Noise.md",
     "nodes/Scalar.md",
     "nodes/Operating System.md",
     "_Tasks.md",
-    "_Tasks.md~",
     "nodes/A-Star Algorithm.md",
     "_Guides.md",
     "nodes/Bilinear Interpolation.md",
@@ -182,13 +188,6 @@
     "nodes/Algorithm.md",
     "nodes/Philosophy.md",
     "nodes/Software.md",
-    "nodes/Lattice.md",
-    "nodes/Barnes-Hut Approximation.md",
-    "nodes/Utilities-first Development.md",
-    "nodes/Game Development.md",
-    "nodes/Adaptive Volatility.md",
-    "nodes/Mathematics.md",
-    "nodes/JavaScript.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"

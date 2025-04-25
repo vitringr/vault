@@ -198,3 +198,6 @@ Success lies in the relentless execution of the basics.
 
 You need to tear muscle to grow it. Why would it be different for the mind or spirit?
 \- unknown
+
+If you can't explain it simply, you don't understand it well enough.
+\- Albert Einstein
