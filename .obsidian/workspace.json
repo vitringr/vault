@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Pareto Principle.md",
+                "file": "nodes/Chunking.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Pareto Principle"
+              "title": "Chunking"
             }
           }
         ]
@@ -153,6 +153,15 @@
   },
   "active": "8d5ac91b7101b80a",
   "lastOpenFiles": [
+    "nodes/Chunking.md~",
+    "nodes/Modular Design.md~",
+    "nodes/Judgement of Habit.md~",
+    "nodes/Modularity.md~",
+    "nodes/Judgement of Habit.md",
+    "nodes/Chunking.md",
+    "nodes/Kaizen.md~",
+    "nodes/Kaizen.md",
+    "nodes/Pareto Principle.md",
     "nodes/Atomic Note.md~",
     "nodes/Mind Map.md~",
     "nodes/Mind Map.md",
@@ -161,18 +170,12 @@
     "nodes/Spaced Repetition.md",
     "nodes/Pareto Principle.md~",
     "nodes/4913",
-    "nodes/Vim.md~",
     "nodes/Learning Dip.md",
-    "nodes/Pareto Principle.md",
-    "nodes/Learning Dip.md~",
     "nodes/Budo.md",
     "nodes/Feynman Technique.md",
-    "nodes/Feynman Technique.md~",
-    "nodes/Vim Motions.md~",
     "nodes/Learning.md",
     "nodes/Vim.md",
     "nodes/Vim Motions.md",
-    "_Draft.md~",
     "nodes/JavaScript Indexed Collections.md",
     "nodes/Map.md",
     "_System.md",
@@ -186,9 +189,6 @@
     "nodes/Operating System.md",
     "_Tasks.md",
     "nodes/A-Star Algorithm.md",
-    "_Guides.md",
-    "nodes/Bilinear Interpolation.md",
-    "nodes/Linear Interpolation.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"

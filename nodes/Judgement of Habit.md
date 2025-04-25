@@ -25,6 +25,8 @@ I would define this limitation as the "talent ceiling," meaning the maximum leve
 
 ## Kaizen - Sustained Effort
 
+See [[Kaizen]]
+
 Some skills have such a high skill ceiling that talent alone is nowhere near enough to achieve proficiency.
 This is where Kaizen comes in. By Kaizen, I refer to the concepts of continuous improvement: time and effort, hard work, dedication, and all the associated qualities.
 
