@@ -10,6 +10,8 @@ A note that captures a single discrete idea or information.
 
 The idea behind atomic notes is to break down complex concepts into their smallest, indivisible components, which can then be easily linked, organized, and recombined with other notes.
 
+Useful when [[Learning]] things and creating networks of [[Mind Map|Mind Maps]].
+
 ## Characteristics
 
 **Singularity**:
