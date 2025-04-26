@@ -120,9 +120,17 @@ _Search for patterns in the current file._
 
 _Save marks to registers to jump to them later._
 
+**Register Case**: Lowercase register are local marks. Uppercase registers are global marks.
+
 `m<register>`: Set mark to register.
 
 `'<register>`: Go to mark.
+
+**Special Marks**: There are built-in special marks.
+
+`'.`: Last edited line.
+
+`''`: Position before last jump.
 
 ## Camera
 
@@ -277,3 +285,10 @@ _There are many ways to repeat previous actions._
 `q<register>`: Start recording macro to register. Use `q` to stop.
 `@<register>`: Use macro from register.
 `@@`: Shorthand to use last macro again.
+
+## Jumps
+
+**Jump List**: Vim keeps track of jumps like search, marks, buffer/file switches, and so on. Smaller cursor movements like the arrows or word leaps do not count as jumps.
+
+`Ctrl i`: Jump forward.
+`Ctrl o`: Jump backward.
