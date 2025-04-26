@@ -31,6 +31,9 @@ _Cursor movement and navigation._
 `e`: End of current word.
 `E`: Same, ignores punctuation.
 
+`g e`: Previous end of word.
+`g E`: Same, ignores punctuation.
+
 `H`: Screen beginning.
 `L`: Screen ending.
 
@@ -94,10 +97,13 @@ _Manipulation mode where input keys are used as actions._
 
 `g u`: Lowercase (pending).
 `g U`: Upercase (pending).
+`g ~`: Toggle case (pending).
 `Shift ~`: Toggle case under cursor.
 
 `Ctrl a`: Number increment.
 `Ctrl x`: Number decrement.
+
+`g i`: Go to last insert.
 
 ## Search
 
@@ -109,6 +115,14 @@ _Search for patterns in the current file._
 
 `n`: Next match.
 `N`: Previous match.
+
+## Marks
+
+_Save marks to registers to jump to them later._
+
+`m<register>`: Set mark to register.
+
+`'<register>`: Go to mark.
 
 ## Camera
 
