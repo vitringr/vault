@@ -1,7 +1,6 @@
 ---
 context:
-  - "[[Geometry]]"
-  - "[[Group Theory]]"
+  - "[[Mathematics]]"
 ---
 
 # Lattice

@@ -12,11 +12,13 @@
 # Noise
 
 - [x] Implement any gradient noise
-- [ ] Optimize a bit 
+- [ ] Optimize a bit
 
 Simplex noise is basically gradient noise, but it "skews" the grid. Instead of rectangles, it makes it a triangular grid. This way there are only 3 corners that need to be interpolated between, instead of 4. After the interpolation it "un-skews" the grid back.
 
----
+# Pathfinding
+
+[Theta\*](https://en.wikipedia.org/wiki/Theta*)
 
 # Easing-functions
 
