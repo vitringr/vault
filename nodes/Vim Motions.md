@@ -13,6 +13,13 @@ Vim motions are the commands used to control and navigate [[Vim]] and [[NeoVim]]
 
 ---
 
+## Exit
+
+`Esc`: Exit.
+`Ctrl c`: Exit.
+
+**Trigger**: Note that in general `Esc` triggers some on-exit effects, while `Ctrl c` doesn't.
+
 ## Movement
 
 _Cursor movement and navigation._
@@ -233,12 +240,14 @@ _Visual mode allows for text selection and actions on the selected text._
 `u`: Lowercase selection.
 `U`: Uppercase selection.
 
+`I` (Visual Block): Insert at beginning.
+`A` (Visual Block): Insert at ending.
+`Esc` (Visual Block Insert): Exit applying insert.
+`Ctrl c` (Visual Block Insert): Exit without applying insert.
+
 ## Insert Mode
 
 _Default writing mode._
-
-`Esc`: Exit insert mode.
-`Ctrl c`: Exit insert mode.
 
 **Control Actions**: There are useful actions available while writing in insert mode. They are accessed by the `Ctrl` key.
 
