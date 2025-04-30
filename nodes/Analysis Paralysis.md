@@ -29,3 +29,15 @@ _"Good decision now is better than a perfect decision never."_
 **Procrastination**: Time wasted on overthinking instead of acting.
 
 **Stress**: Anxiety due to over-analysis, combined with the anxiety of not progressing forward.
+
+## Solutions
+
+**Deadlines**: Set deadlines for things!
+
+**Accept Imperfection**: Recognize that no decision may ever be perfect. Act nonetheless.
+
+**Limit Options**: Narrow down choices to a manageable few.
+
+**Pareto Principle**: Use the [[Pareto Principle|80/20 Rule]]. Focus on the most critical 20% of factors.
+
+**Intuition**: Sometimes, the unexplainable does manage to help.
