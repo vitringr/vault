@@ -11,7 +11,7 @@ Text-based user interface used to interact with a [[Computer's]] [[Software]] an
 
 ---
 
-Works by typing commands into a [[Computer Terminal]] running the CLI.
+Works by typing commands into a [[Computer Terminal]] enabling the CLI.
 
 **Control**: Allows for direct access of system functions.
 
