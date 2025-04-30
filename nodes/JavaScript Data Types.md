@@ -24,11 +24,7 @@ JavaScript has 7 [[Primitive Data Type|Primitive Data Types]]:
 
 ## Object
 
-An [[Object (Computer Science)|Object]] in JavaScript is a non-primitive data type storing collections of key-value pairs.
-
-Keys are strings (or symbols), and values can be any data type, including other objects.
-
-Objects are mutable and are accessed by reference.
+See [[JavaScript Object]]
 
 ### Built-in Object
 

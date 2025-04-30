@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Vim Motions.md",
+                "file": "nodes/JavaScript Fetch API.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Vim Motions"
+              "title": "JavaScript Fetch API"
             }
           }
         ]
@@ -153,6 +153,7 @@
   },
   "active": "8d5ac91b7101b80a",
   "lastOpenFiles": [
+    "nodes/JavaScript Fetch API.md~",
     "nodes/Vim Motions.md~",
     "nodes/4913",
     "nodes/Picture Superiority Effect.md~",
@@ -169,7 +170,6 @@
     "nodes/Kaizen.md",
     "nodes/Pareto Principle.md",
     "nodes/Atomic Note.md~",
-    "nodes/Mind Map.md~",
     "nodes/Mind Map.md",
     "nodes/Spaced Repetition.md",
     "nodes/Learning Dip.md",
