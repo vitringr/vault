@@ -15,6 +15,8 @@ Linux is the core of the operating system, which manages [[Hardware]] resources 
 
 Linux can be bundled with tools and software to create a complete OS experience, called a _Linux distribution_.
 
-See [[Arch Linux]]
+Examples:
 
-See [[Ubuntu]]
+- [[Arch Linux]]
+- [[Ubuntu]]
+- [[Debian]]
