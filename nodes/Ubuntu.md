@@ -1,12 +1,11 @@
 ---
 context:
-  - "[[Operating System]]"
-  - "[[Linux]]"
+  - "[[Linux Distribution]]"
 ---
 
 # Ubuntu
 
-Popular, user-friendly [[Linux]] distribution based on [[Debian]].
+Popular, user-friendly [[Linux Distribution]] based on [[Debian]].
 
 ---
 

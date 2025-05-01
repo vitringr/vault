@@ -2,13 +2,12 @@
 aliases:
   - Arch
 context:
-  - "[[Operating System]]"
-  - "[[Linux]]"
+  - "[[Linux Distribution]]"
 ---
 
 # Arch Linux
 
-Lightweight [[Linux]] distribution known for its simplicity and minimalism.
+Lightweight [[Linux Distribution]] known for its simplicity and minimalism.
 
 ---
 

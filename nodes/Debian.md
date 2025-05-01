@@ -1,9 +1,8 @@
 ---
 context:
-  - "[[Operating System]]"
-  - "[[Linux]]"
+  - "[[Linux Distribution]]"
 ---
 
 # Debian
 
-Stable and versatile [[Linux]] distribution, serving as the foundation for many other distributions.
+Stable and versatile [[Linux Distribution]], serving as the foundation for many other distributions.
