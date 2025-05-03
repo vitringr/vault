@@ -15,7 +15,7 @@ Works by typing commands into a [[Computer Terminal]] enabling the CLI.
 
 **Control**: Allows for direct access of system functions.
 
-**Program**: CLI is made possible by command-line interpreters or processors, which are [[Computer Program|Computer Programs]] that interpret and execute commands.
+**Program**: CLI is made possible by command-line interpreters or processors, which are [[Computer Program|Computer Programs]] that interpret and execute [[Command Language|Command Languages]].
 
 **Resource Efficiency**: Generally much more efficient than a GUI, as the CLI does not rely on graphical rendering.
 

@@ -3,14 +3,16 @@ tags:
   - "data"
   - "original"
 context:
-  - "[[Linux]]"
+  - "[[Shell]]"
 ---
 
-# Linux Commands
+# Shell Commands
 
-Commands in Linux are primarily used through the [[Command-line Interface]] in a [[Computer Terminal]].
+List of common [[Shell]] commands.
 
 ---
+
+**Standard**: Most of these commands are POSIX-standard and are available in most shell programs.
 
 ## Interaction
 
@@ -48,12 +50,10 @@ Commands in Linux are primarily used through the [[Command-line Interface]] in a
 
 `which`: Show full path of a command.
 
-`vim`: Best text editor.
-
 `du`: Directory space usage.
 
 `df`: Disk free space.
 
-`shutdown`: Shutdown the computer.
+`env`: List environment variables.
 
-`reboot`: Reboot the computer.
+`echo`:

@@ -6,12 +6,12 @@ context:
 
 # Shell
 
-[[Computer Program]] providing relatively broad and direct access to the [[Operating System]] on which it runs.
+Command interpreter program that provides user access to an [[Operating System]].
 
 ---
 
-The shell manages user-to-system control.
+Acts as an intermediary between the user and the [[Kernel (Operating System)]].
 
-Acts as an intermediary between the user and the [[Kernel (Operating System)|Kernel]], enabling execution of commands, file operations, process control, scripting, and so on.
+**Command Interpreter**: Interprets and runs the commands of a [[Command Language]].
 
-**CLI**: The shell is generally a [[Command-line Interface]] program.
+**CLI**: Shell programs are generally interacted with through a [[Command-line Interface]].

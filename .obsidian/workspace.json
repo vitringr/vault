@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Filesystem Hierarchy Standard.md",
+                "file": "nodes/Shell.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Filesystem Hierarchy Standard"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d0a8f03930044163",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "052ae5d9a1a0f277",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Shell"
             }
           }
         ]
@@ -167,11 +151,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "052ae5d9a1a0f277",
+  "active": "8d5ac91b7101b80a",
   "lastOpenFiles": [
+    "nodes/Shell.md~",
+    "nodes/Shell.md",
+    "nodes/Filesystem Hierarchy Standard.md",
     "nodes/Filesystem Hierarchy Standard.md~",
     "nodes/Building Sandfall.md",
-    "nodes/Filesystem Hierarchy Standard.md",
     "nodes/Kernel (Operating System).md",
     "nodes/Software.md",
     "nodes/JavaScript Fetch API.md~",
@@ -187,7 +173,6 @@
     "nodes/Modularity.md~",
     "nodes/Judgement of Habit.md",
     "nodes/Chunking.md",
-    "nodes/Kaizen.md~",
     "nodes/Kaizen.md",
     "nodes/Pareto Principle.md",
     "nodes/Mind Map.md",
@@ -204,7 +189,6 @@
     "nodes/Equilateral Triangle.md",
     "nodes/RTS.md",
     "nodes/Grappling.md",
-    "nodes/Perlin Noise.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"

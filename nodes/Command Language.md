@@ -1,13 +1,8 @@
 ---
-aliases:
 context:
   - "[[Computer Language]]"
 ---
 
-#wip
-
 # Command Language
 
-ad
-
----
+[[Domain-specific Language|Domain-specific]] [[Computer Language]] used for executing pre-defined operations.
