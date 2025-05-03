@@ -11,6 +11,26 @@
             "id": "8d5ac91b7101b80a",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nodes/Filesystem Hierarchy Standard.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Filesystem Hierarchy Standard"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d0a8f03930044163",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "052ae5d9a1a0f277",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
@@ -147,9 +167,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d5ac91b7101b80a",
+  "active": "052ae5d9a1a0f277",
   "lastOpenFiles": [
+    "nodes/Filesystem Hierarchy Standard.md~",
+    "nodes/Building Sandfall.md",
     "nodes/Filesystem Hierarchy Standard.md",
+    "nodes/Kernel (Operating System).md",
+    "nodes/Software.md",
     "nodes/JavaScript Fetch API.md~",
     "nodes/Vim Motions.md~",
     "nodes/4913",
@@ -181,10 +205,6 @@
     "nodes/RTS.md",
     "nodes/Grappling.md",
     "nodes/Perlin Noise.md",
-    "nodes/Simplex Noise.md",
-    "nodes/Gradient Noise.md",
-    "nodes/Scalar.md",
-    "nodes/Operating System.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"

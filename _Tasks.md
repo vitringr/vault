@@ -20,6 +20,8 @@ Simplex noise is basically gradient noise, but it "skews" the grid. Instead of r
 
 Bash, Shell, etc.
 
+# Gun Stuff
+
 # Pathfinding
 
 [Theta\*](https://en.wikipedia.org/wiki/Theta*)

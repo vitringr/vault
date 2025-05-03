@@ -7,7 +7,7 @@ context:
 
 # Filesystem Hierarchy Standard
 
-Standard guidelines that define the structure and organization of directories in Unix-like systems, including Linux.
+Standard guidelines that define the structure and organization of directories in Unix-like systems, including [[Linux]].
 
 ---
 
@@ -43,7 +43,7 @@ Stores files required for system boot.
 
 ### `/dev` Device Files
 
-Contains device files representing hardware components.
+Contains device files representing [[Hardware]] components.
 
 ### `/etc` Configuration Files
 
@@ -55,7 +55,7 @@ Contains personal directories for users.
 
 ### `/lib` Shared Libraries
 
-Libraries essential for binaries in `/bin` and `/sbin`.
+[[Library (Software Architecture)|Libraries]] essential for [[Binary File|binaries]] in `/bin` and `/sbin`.
 
 Could also be `/lib64` for 64-bit libraries for example.
 
@@ -65,7 +65,7 @@ Used for manual mounting of temporary filesystems.
 
 ### `/opt` Optional Software
 
-Stores software that is not part of the default system.
+Stores [[Software]] that is not part of the default system.
 
 ### `/proc` Process and Kernel Information
 
@@ -93,7 +93,7 @@ Contains data for services.
 
 ### `/sys` System Information
 
-Kernel and hardware information.
+[[Kernel]] and hardware information.
 
 ### `/tmp` Temporary Files
 
