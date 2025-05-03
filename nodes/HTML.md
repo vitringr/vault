@@ -3,6 +3,7 @@ aliases:
   - HyperText Markup Language
 context:
   - "[[Markup Language]]"
+  - "[[Domain-specific Language]]"
 ---
 
 # HTML

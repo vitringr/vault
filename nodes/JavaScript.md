@@ -3,6 +3,7 @@ aliases:
   - JS
 context:
   - "[[Programming Language]]"
+  - "[[General-purpose Language]]"
 ---
 
 # JavaScript

@@ -1,6 +1,7 @@
 ---
 context:
   - "[[Programming Language]]"
+  - "[[General-purpose Language]]"
 ---
 
 # Java
