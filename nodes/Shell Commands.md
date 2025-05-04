@@ -14,6 +14,8 @@ List of common [[Shell]] commands and key behaviors.
 
 **Standard**: Most of these commands are POSIX-standard and are available in most shell programs.
 
+**Help**: Add a `--help` flag to almost any command to get more information about it.
+
 ## Interaction
 
 `Tab` Autocompletion: Start typing and press `Tab` to autocomplete.
@@ -36,7 +38,7 @@ List of common [[Shell]] commands and key behaviors.
 
 `which`: Show full path of a command.
 
-`alias`: Create command alias.
+`alias`: List aliases.
 
 `find`: Search for files/directories.
 
@@ -46,7 +48,7 @@ List of common [[Shell]] commands and key behaviors.
 
 ## Navigation
 
-`pwd`: Shows the current directory.
+`pwd`: Print current directory.
 
 `ls`: List directory contents.
 
@@ -67,6 +69,8 @@ List of common [[Shell]] commands and key behaviors.
 ## Text & Output
 
 `echo`: Print text.
+
+`cat`: Concatenate files to output.
 
 `grep`: Search text patterns.
 

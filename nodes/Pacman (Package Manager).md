@@ -20,3 +20,4 @@ Common commands:
 - `pacman -Syu`: Update the system and all packages.
 - `pacman -R <package>`: Remove a package.
 - `pacman -Qs <keyword>`: Search for installed packages.
+- `pacman -Ql <keyword>`: Lists all files installed by the package.
