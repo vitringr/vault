@@ -54,7 +54,7 @@ List of common [[Shell]] commands and key behaviors.
 
 `cd`: Change directory.
 
-## System Info
+## Memory
 
 `du`: Directory space usage.
 
@@ -62,9 +62,13 @@ List of common [[Shell]] commands and key behaviors.
 
 `free`: Memory usage.
 
+## System Info
+
 `uname`: System info.
 
 `whoami`: Current username.
+
+`uptime`: Show system runtime and load average.
 
 ## Text & Output
 

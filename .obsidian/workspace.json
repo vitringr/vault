@@ -11,10 +11,14 @@
             "id": "8d5ac91b7101b80a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "nodes/Bash Scripting.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Bash Scripting"
             }
           }
         ]
