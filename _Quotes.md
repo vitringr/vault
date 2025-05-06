@@ -166,7 +166,7 @@ Talents hits a target no one else can hit. Genius hits a target no one else can 
 Play the opening like a book, the middle game like a magician, and the endgame like a machine.
 \- Rudolf Spielmann
 
-Religion is regarded by the common people as true, by the wise as false, and by rules as useful.
+Religion is regarded by the common people as true, by the wise as false, and by rulers as useful.
 \- Seneca
 
 Whenever you have an idea that you think is brilliant, don't try to prove it right, but try to prove it wrong.
@@ -201,3 +201,6 @@ You need to tear muscle to grow it. Why would it be different for the mind or sp
 
 If you can't explain it simply, you don't understand it well enough.
 \- Albert Einstein
+
+The hardest thing to explain is the glaringly evident which everybody has decided not to see.
+\- Ayn Rand
