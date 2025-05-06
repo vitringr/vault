@@ -1,5 +1,4 @@
 ---
-aliases:
 context:
   - "[[Bash]]"
 ---
@@ -8,7 +7,7 @@ context:
 
 # Bash Scripting
 
-ad
+Automating [[Bash]] by executing commands from files.
 
 ---
 
