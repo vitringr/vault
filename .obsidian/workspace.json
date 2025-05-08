@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Bash Scripting.md",
+                "file": "nodes/Simplex Noise.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Bash Scripting"
+              "title": "Simplex Noise"
             }
           }
         ]
@@ -153,6 +153,10 @@
   },
   "active": "8d5ac91b7101b80a",
   "lastOpenFiles": [
+    "nodes/Simplex Noise.md~",
+    "nodes/Vitringr.md~",
+    "nodes/Vitringr.md",
+    "nodes/Bash Scripting.md",
     "nodes/Shell Commands.md",
     "nodes/Shell.md~",
     "nodes/Shell.md",
@@ -170,7 +174,6 @@
     "nodes/Picture Superiority Effect.md",
     "nodes/Chunking.md~",
     "nodes/Modular Design.md~",
-    "nodes/Judgement of Habit.md~",
     "nodes/Judgement of Habit.md",
     "nodes/Chunking.md",
     "nodes/Kaizen.md",
@@ -186,9 +189,6 @@
     "nodes/JavaScript Indexed Collections.md",
     "nodes/Map.md",
     "_System.md",
-    "nodes/Equilateral Triangle.md",
-    "nodes/RTS.md",
-    "nodes/Grappling.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
