@@ -43,3 +43,63 @@ Plug in the power supply into the port marked "POWER IN", "PWR IN", or "PWR".
 
 ### Boot Media
 
+**No Storage**: Raspberry Pi models lack onboard storage, so you have to supply it.
+
+**External Storage & OS**: You can install an operating system image on an external storage device, most commonly a microSD card.
+
+**MicroSD**: The microSD card is always supported, and the Raspberry Pi automatically boots from it when the slot contains a card.
+
+> [!Tip] Recommended SD Card Capacity
+>
+> **Minimum**: Should probably have at least `32GB` of storage for Raspberry Pi OS installations, and at least `16GB` for OS Lite.
+>
+> **Maximum**: The SD card should be less than `2TB`. Capacities above that may not be supported.
+
+### Keyboard & Mouse
+
+Use any of the USB ports to connect a keyboard or mouse.
+
+### Display
+
+| Model                          | Display outputs                                            |
+| ------------------------------ | ---------------------------------------------------------- |
+| Raspberry Pi 5                 | 2× micro HDMI                                              |
+| Raspberry Pi 4 (all models)    | 2× micro HDMI, audio and composite out via 3.5mm TRRS jack |
+| Raspberry Pi 3 (all models)    | HDMI, audio and composite out via 3.5mm TRRS jack          |
+| Raspberry Pi 2 (all models)    | HDMI, audio and composite out via 3.5mm TRRS jack          |
+| Raspberry Pi 1 Model B+        | HDMI, audio and composite out via 3.5mm TRRS jack          |
+| Raspberry Pi 1 Model A+        | HDMI, audio and composite out via 3.5mm TRRS jack          |
+| Raspberry Pi Zero (all models) | mini HDMI                                                  |
+
+> [!WARNING]
+> No Raspberry Pi models support video over USB-C (DisplayPort alt mode).
+
+If your Raspberry Pi has more than one HDMI port, plug your primary monitor into the port marked `HDMI0`.
+
+**Mini HDMI Adaptation**: Many displays don't have micro or mini HDMI ports. Use a HDMI-to-micro-HDMI cable, or some adapter for it.
+
+### Audio
+
+Raspberry Pi supports the following audio output:
+- HDMI
+- Micro HDMI
+- USB
+- Bluetooth
+
+### Networking
+
+Flagship Raspberry Pi models come with Wi-Fi and Bluetooth connectivity.
+
+There is also an Ethernet slot.
+
+### Install an Operating System
+
+To use Raspberry Pi you need an operting system.
+
+By default, Raspberry Pis check for an operating system on any SD card inserted in the SD card slot.
+
+**Raspberry Pi Imager**: The easiest way to install an OS on an external device is to use the Raspberry Pi Imager software tool.
+
+### Setup Your Raspberry Pi
+
+#wip
