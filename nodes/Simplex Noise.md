@@ -27,3 +27,15 @@ INPUT IS IN SKEWED SPACE?
 > The user provides (x, y) in standard Cartesian space, which we’ll call "simplex space" (where the noise is defined on a grid of equilateral triangles).
 > 
 > However, working directly with equilateral triangles is messy for calculations, so we temporarily transform the point into a sheared square grid ("square space") where each square is split into two right triangles (simplifying gradient selection and interpolation).
+
+Adding `S` to simplex space vertices turns them into square space vertices.
+
+## Pseudocode
+
+Create lattice of integer vectors with gradients.
+
+Get input vector in simplex space.
+
+Transform input vector into square space in order to find which cell the input is in.
+
+Find out which of the two triangles the input is in by comparing the X and Y scalars in simplex space.

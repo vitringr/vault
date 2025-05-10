@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Simplex Noise.md",
+                "file": "nodes/Raspberry Pi Getting Started.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Simplex Noise"
+              "title": "Raspberry Pi Getting Started"
             }
           }
         ]
@@ -153,6 +153,7 @@
   },
   "active": "8d5ac91b7101b80a",
   "lastOpenFiles": [
+    "nodes/Raspberry Pi Getting Started.md~",
     "nodes/Simplex Noise.md~",
     "nodes/Vitringr.md~",
     "nodes/Vitringr.md",
@@ -173,7 +174,6 @@
     "nodes/Dual Coding Theory.md",
     "nodes/Picture Superiority Effect.md",
     "nodes/Chunking.md~",
-    "nodes/Modular Design.md~",
     "nodes/Judgement of Habit.md",
     "nodes/Chunking.md",
     "nodes/Kaizen.md",
