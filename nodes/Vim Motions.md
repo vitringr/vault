@@ -203,6 +203,8 @@ _Splits are controlled by `Ctrl w` keymaps._
 
 `Ctrl w x`: Swap splits.
 
+`Ctrl w =`: Equally high and wide.
+
 ## Pending Mode
 
 _Actions can interact and depend on other actions._
