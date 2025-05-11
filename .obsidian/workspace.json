@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Raspberry Pi Getting Started.md",
+                "file": "nodes/Raspberry Pi.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Raspberry Pi Getting Started"
+              "title": "Raspberry Pi"
             }
           }
         ]
@@ -153,6 +153,7 @@
   },
   "active": "8d5ac91b7101b80a",
   "lastOpenFiles": [
+    "nodes/Raspberry Pi.md~",
     "nodes/Vim Motions.md~",
     "kekea",
     "nodes/Raspberry Pi Getting Started.md~",
@@ -171,7 +172,6 @@
     "nodes/JavaScript Fetch API.md~",
     "nodes/4913",
     "nodes/Picture Superiority Effect.md~",
-    "nodes/Dual Coding Theory.md~",
     "nodes/Dual Coding Theory.md",
     "nodes/Picture Superiority Effect.md",
     "nodes/Judgement of Habit.md",
