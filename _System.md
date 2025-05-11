@@ -1,6 +1,6 @@
 # System
 
-**System Files**: [[_System]], [[_Tasks]], [[_Quotes]], [[_Draft]], [[_Template]]
+**System Files**: [[_System]], [[_Tasks]], [[_Quotes]], [[_Draft]], [[_Study]], [[_Template]]
 
 **Main Idea**: Create nodes, link them together, let structure emerge by itself.
 
