@@ -9,6 +9,18 @@
 
 ---
 
+# Fault of Making Retards Famous
+
+Stop doing it...
+
+---
+
+# Codeberg
+
+Free and open source GitHub..?
+
+---
+
 # Noise
 
 - [x] Implement any gradient noise

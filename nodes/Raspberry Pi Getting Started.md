@@ -5,11 +5,11 @@ context:
   - "[[Raspberry Pi]]"
 ---
 
-#wip
-
 # Raspberry Pi Getting Started
 
-ad
+Reference: [Getting Started - Raspberry Pi](https://www.raspberrypi.com/documentation/computers/getting-started.html#setting-up-your-raspberry-pi)
+
+Article about getting started with a new Raspberry Pi.
 
 ---
 
@@ -81,6 +81,7 @@ If your Raspberry Pi has more than one HDMI port, plug your primary monitor into
 ### Audio
 
 Raspberry Pi supports the following audio output:
+
 - HDMI
 - Micro HDMI
 - USB
@@ -102,4 +103,22 @@ By default, Raspberry Pis check for an operating system on any SD card inserted 
 
 ### Setup Your Raspberry Pi
 
-#wip
+First, unplug everything to ensure the Raspberry Pi is powered down while connecting peripherals.
+
+Plug in the operating system container (microSD usually).
+
+Then plug any other peripherals, such as mouse, keyboard, and monitor.
+
+Finally, connect the power supply to the Raspberry Pi.
+
+You should see the status LED light up when your Pi powers on.
+
+If the Pi is connected to a display, you should see the boot screen within minutes.
+
+### Configuration on First Boot
+
+If you used the Raspberry Pi OS imager utility, you should be walked through a first-time setup program.
+
+Otherwise, you can manually configure the OS settings.
+
+That should be it for a basic start.
