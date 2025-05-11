@@ -18,4 +18,10 @@ When the circuits splits into two paths, so does the current, with more current 
 
 The total current from a battery is not fixed. Circuits with less resistance receive more current.
 
-Not all light bulbs are identical. We can use ammeters to compare them.
+Not all light bulbs are identical. We can use ammeters to compare them. An ammeter shows how many amps (A) of current are flowing through a wire. The higher the resistance, the less amps are flowing.
+
+The total current flowing into a split in a circuit must equal the total current flowing out of that split.
+
+Current is made up of moving charges. The number of charges entering a current split must equal the number of charges leaving, so the current entering equals the current leaving.
+
+
