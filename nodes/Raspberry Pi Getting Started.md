@@ -119,6 +119,12 @@ If the Pi is connected to a display, you should see the boot screen within minut
 
 If you used the Raspberry Pi OS imager utility, you should be walked through a first-time setup program.
 
-Otherwise, you can manually configure the OS settings.
+Otherwise, you can manually configure the OS settings with the `raspi-config` utility.
 
 That should be it for a basic start.
+
+## Networking
+
+**LAN**: Just connect ethernet cable and it should work.
+
+**Wifi**: Make sure you've set proper localization first with `raspi-config`. Then, you can use `nmtui` to easily connect.
