@@ -303,3 +303,22 @@ _There are many ways to repeat previous actions._
 
 `Ctrl i`: Jump forward.
 `Ctrl o`: Jump backward.
+
+## Digraphs
+
+_Digraphs allow to insert special Unicode characters using easy-to-remember key sequences._
+
+Use `Ctrl k` in insert mode to activate digraph mode.
+
+In digraph mode, type the digraph sequence for the unicode character.
+
+Examples:
+
+| Character | Digraph | Description         |
+| --------- | ------- | ------------------- |
+| ²         | `2S`    | Superscript 2.      |
+| Ω         | `W*`    | Ohm (Omega) symbol. |
+| →         | `->`    | Right arrow.        |
+| º         | `-o`    | Degrees.            |
+
+Use the `:digraphs` command to see the whole list.

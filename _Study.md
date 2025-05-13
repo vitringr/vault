@@ -24,4 +24,26 @@ The total current flowing into a split in a circuit must equal the total current
 
 Current is made up of moving charges. The number of charges entering a current split must equal the number of charges leaving, so the current entering equals the current leaving.
 
+---
 
+A charge must have the same amount of energy after completing a lap of the circuit - the voltage gained from the battery must equal the total voltage lost to bulbs.
+
+Since a charge must gain and lose the same amount of energy after completing the circuit, that means for a simple circuit the voltage of the battery is equal to the sum of bulb voltages.
+
+---
+
+The brightness of a bulb depends on both current and voltage.
+
+Current determines the number of charges passing through a bulb. Voltage determines how much energy the bulb gets from each charge.
+
+The power output of a bulb depends on the product of current and voltage, and is measured in watts (W).
+
+`Voltage * Current = Power`
+
+`10V * 2A = 20W`
+
+Current gets spread between paths. Voltage does not.
+
+---
+
+The resistance of a bulb is the ratio of voltage to current, and is measured in ohms.

@@ -171,14 +171,14 @@ Presets are perfect, especially for binary cell types, but what about multiple t
 
 The problem is that the amount of presets increases exponentially when I add more cell types:
 
-- **2 types**: `2 ^ 4 = 16` presets.
-- **3 types**: `3 ^ 4 = 81` presets.
-- **4 types**: `4 ^ 4 = 256` presets.
-- **5 types**: `5 ^ 4 = 625` presets.
-- **6 types**: `6 ^ 4 = 1296` presets.
-- **7 types**: `7 ^ 4 = 2401` presets.
-- **8 types**: `8 ^ 4 = 4096` presets.
-- **9 types**: `9 ^ 4 = 6561` presets.
+- **2 types**: `2⁴ = 16` presets.
+- **3 types**: `3⁴ = 81` presets.
+- **4 types**: `4⁴ = 256` presets.
+- **5 types**: `5⁴ = 625` presets.
+- **6 types**: `6⁴ = 1296` presets.
+- **7 types**: `7⁴ = 2401` presets.
+- **8 types**: `8⁴ = 4096` presets.
+- **9 types**: `9⁴ = 6561` presets.
 
 And what if I want at least `20` different elements for my simulation? This is equal to `160000` permutations that I have to hard-code.
 

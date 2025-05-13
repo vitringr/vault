@@ -26,4 +26,4 @@ If `a < 0` the parabola opens downward.
 A larger absolute value of `a` makes the parabola narrower.
 A smaller absolute value of `a` makes the parabola wider.
 
-**Shifting**: In the form `y = a(x - h)^2 + k`, the parabola shifts horizontally by `h` units and vertically by `k` units.
+**Shifting**: In the form `y = a(x - h)² + k`, the parabola shifts horizontally by `h` units and vertically by `k` units.
