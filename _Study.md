@@ -46,4 +46,56 @@ Current gets spread between paths. Voltage does not.
 
 ---
 
-The resistance of a bulb is the ratio of voltage to current, and is measured in ohms.
+The resistance of a bulb is the ratio of voltage to current, and is measured in ohms (Ω).
+
+`Voltage / Current = Resistance`
+
+`8V / 2A = 4Ω`
+
+The more resistance a route has, the less current flows through it.
+
+---
+
+The current through a bulb can be found by dividing voltge by resistance.
+
+`Voltage / Resistance = Current`
+
+`12V / 6Ω = 2A`
+
+---
+
+The combined resistance of two components on the same stretch of wire is the sum of each component's resistance.
+
+`3` bulbs with resistance: `3Ω`, `2Ω`, and `3Ω`.
+
+Battery voltage: `12V`
+
+Total resistance: `3 + 2 + 3 = 8Ω`
+
+Total current: `12V / 8Ω = 1.5A`
+
+---
+
+Each component in a circuit branch adds to that branch's resistance and reduces current.
+
+---
+
+With `n` resistors, each of resistance `RΩ`, are connected in parallel branches, their combined resistance is `RΩ / n`.
+
+Parallel connection: `3Ω`, `3Ω`, and `3Ω`.
+
+`3Ω / 3 = 1Ω` combined resistance.
+
+---
+
+The total current in a circuit depends on battery voltage and the total resistance.
+
+The total current drawn from a battery is equal to its voltage divided by the total resistance of the circuit.
+
+Many components together can have the same effect on current as a single component of equivalent resistance.
+
+---
+
+When the current through bulbs is the same, voltage and resistance are proportional.
+
+A bulb with twice as much resistance will have twice as much voltage.
