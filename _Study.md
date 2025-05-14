@@ -99,3 +99,17 @@ Many components together can have the same effect on current as a single compone
 When the current through bulbs is the same, voltage and resistance are proportional.
 
 A bulb with twice as much resistance will have twice as much voltage.
+
+---
+
+When bulbs with different resistances are placed in the same branch, the one with more resistance is brighter. When placed on parallel branches, the bulb with less resistance is brighter.
+
+---
+
+Knowing resistance, we don't need to know the voltage to predict how current will split.
+
+We can determine which bulb has the greatest power without necessarily knowing voltage or current.
+
+---
+
+A pair of `4Ω` bulbs in parallel branches take the same voltage share as a single `2Ω` bulb.
