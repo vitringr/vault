@@ -17,6 +17,7 @@ Deals with:
 - [[Electronics]]
 - [[Electrical Network|Electrical Networks]]
 - [[Electrical Circuit|Electrical Circuits]]
+- [[Circuit Design]]
 - Power Engineering
 - Electrical Machines
 - Telecommunication
