@@ -22,6 +22,16 @@ Stop doing it...
 
 Simplex noise is basically gradient noise, but it "skews" the grid. Instead of rectangles, it makes it a triangular grid. This way there are only 3 corners that need to be interpolated between, instead of 4. After the interpolation it "un-skews" the grid back.
 
+# Electricity
+
+Suggested Order of Learning:
+
+1. DC Circuits (Ohm’s Law, Kirchhoff’s Laws, Power)
+2. Series/Parallel Resistors & Voltage Dividers
+3. Capacitors & Inductors in DC
+4. Diodes & Simple Semiconductor Devices
+5. AC Basics (if interested in going further)
+
 # Shell
 
 Bash, Shell, etc.

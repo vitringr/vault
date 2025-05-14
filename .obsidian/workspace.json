@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Multiplicative Inverse.md",
+                "file": "nodes/King's Indian.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Multiplicative Inverse"
+              "title": "King's Indian"
             }
           }
         ]
@@ -68,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "right": {
     "id": "a8b21f525f867907",
@@ -151,6 +152,7 @@
   },
   "active": "8d5ac91b7101b80a",
   "lastOpenFiles": [
+    "nodes/Multiplicative Inverse.md",
     "nodes/Raspberry Pi.md~",
     "nodes/Vim Motions.md~",
     "kekea",
@@ -169,7 +171,6 @@
     "nodes/Software.md",
     "nodes/JavaScript Fetch API.md~",
     "nodes/4913",
-    "nodes/Picture Superiority Effect.md~",
     "nodes/Dual Coding Theory.md",
     "nodes/Picture Superiority Effect.md",
     "nodes/Judgement of Habit.md",
