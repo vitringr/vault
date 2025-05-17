@@ -19,4 +19,4 @@ Experts can forget about the challenges of the initial learning process.
 
 Experts can assume others posess understanding of fundamental concepts, which may not be the case.
 
-Related: [[Impostor Syndrome]]
+**Impostor Syndrome**: The curse of knowledge can lead to [[Impostor Syndrome]], as the person might assume that his deep knowledge is actually common sense, thus neglecting his relative expertise and accomplishments.

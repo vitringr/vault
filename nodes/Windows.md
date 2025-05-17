@@ -1,2 +1,12 @@
+---
+context:
+  - "[[Operating System]]"
+---
+
 # Windows
-#wip
+
+Operating system made and owned by Microsoft.
+
+---
+
+Dogwater garbage.

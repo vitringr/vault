@@ -11,7 +11,3 @@ Psychological pattern where individuals doubt their abilities despite evidence o
 ---
 
 Individuals may doubt their abilities, feel like frauds, and believe that they do not deserve their accomplishments.
-
-#wip
-
-Related: [[Curse of Knowledge]]
