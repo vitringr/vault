@@ -4,12 +4,12 @@ tags:
   - "original"
 context:
   - "[[Vim]]"
-  - "[[NeoVim]]"
+  - "[[Neovim]]"
 ---
 
 # Vim Motions
 
-Vim motions are the commands used to control and navigate [[Vim]] and [[NeoVim]]. They are also used in other software that supports them.
+Vim motions are the commands used to control and navigate [[Vim]] and [[Neovim]]. They are also used in other software that supports them.
 
 ---
 

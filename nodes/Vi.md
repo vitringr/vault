@@ -1,14 +1,14 @@
-# NeoVim
 ---
 aliases:
 context:
+- "[[Text Editor]]"
 ---
 
 #wip
 
-# NeoVim
+# Vi
 
 ad
 
 ---
-#wip
+
