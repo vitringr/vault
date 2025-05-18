@@ -1,41 +1,42 @@
 ---
-aliases:
 context:
+  - "[[Gradient Noise]]"
 ---
 
 #wip
 
 # Simplex Noise
 
-ad
+Advanced [[Gradient Noise]] algorithm.
 
 ---
 
-## Attempt
+Generates smooth, natural-looking patterns.
 
-INPUT IS IN SKEWED SPACE?
+Can efficiently scale up to higher dimensions.
 
-[Clarity](https://chat.deepseek.com/a/chat/s/cbe57c81-d606-4c11-a924-24dd9d930bae)
+**Simplex Space**: Uses the concept of [[Simplex]] space, constructing a lattice of simplex shapes, depending on the dimension.
 
-> **Me:**
-> So, you're saying that the input (the user-provided xy vector) is actually in simplex space? And I use that simplex space input to convert it to square space for some calculations, and then go back to simplex again for the gradients and final output?
+**Efficiency**: Each point gets contribution from its surrounding vertices in simplex space. This can be more efficient than [[Perlin Noise]], as the vertices needed for calculation are reduced.
 
-> **AI:**
-> Yes, exactly! Here’s a clearer breakdown of the coordinate spaces and transformations in 2D simplex noise:
-> 
-> 1. Input is in Simplex Space (Cartesian Coordinates)
-> The user provides (x, y) in standard Cartesian space, which we’ll call "simplex space" (where the noise is defined on a grid of equilateral triangles).
-> 
-> However, working directly with equilateral triangles is messy for calculations, so we temporarily transform the point into a sheared square grid ("square space") where each square is split into two right triangles (simplifying gradient selection and interpolation).
+## Algorithm
 
-Adding `S` to simplex space vertices turns them into square space vertices.
+Note that this is the 2D variant of simplex noise. It could also scale up for higher dimensions.
 
-## Pseudocode
+### Input
 
-Create lattice of integer vectors with gradients.
+The algorithm expects input numbers in the form `(x, y)`.
 
-Get input vector in simplex space.
+```typescript
+function noise(input_triangle_x: number, input_triangle_y: number) { ... }
+```
 
-Transform input vector into square space in order to find which cell the input is in.
+Imagine the input coordinates as being in the simplex (equilateral triangle) space.
 
-Find out which of the two triangles the input is in by comparing the X and Y scalars in simplex space.
+**Continuity**: If the numbers are continuous through different iterations, the algorithm will produce continuous results.
+
+**Input Scale**: The input numbers `(x, y)` can be scaled, essentially 'zooming' in or out from the noise field.
+
+###
+
+#wip
