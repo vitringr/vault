@@ -23,6 +23,10 @@ Can efficiently scale up to higher dimensions.
 
 Note that this is the 2D variant of simplex noise. It could also scale up for higher dimensions.
 
+### Gradients
+
+#wip
+
 ### Input
 
 The algorithm expects input numbers in the form `(x, y)`.
@@ -33,10 +37,10 @@ function noise(input_triangle_x: number, input_triangle_y: number) { ... }
 
 Imagine the input coordinates as being in the simplex (equilateral triangle) space.
 
-**Continuity**: If the numbers are continuous through different iterations, the algorithm will produce continuous results.
+**Continuity**: If the numbers are continuous through different iterations, the algorithm should produce continuous results.
 
-**Input Scale**: The input numbers `(x, y)` can be scaled, essentially 'zooming' in or out from the noise field.
+**Input Scale**: The input numbers `(x, y)` can be scaled, essentially 'zooming' in or out of the noise field.
 
-###
+### Transformation
 
 #wip
