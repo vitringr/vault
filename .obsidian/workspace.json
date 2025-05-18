@@ -11,10 +11,14 @@
             "id": "8d5ac91b7101b80a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "nodes/Euclidean Vector.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Euclidean Vector"
             }
           }
         ]
@@ -148,6 +152,7 @@
   },
   "active": "8d5ac91b7101b80a",
   "lastOpenFiles": [
+    "nodes/Euclidean Vector.md~",
     "nodes/Filesystem Hierarchy Standard.md",
     "nodes/Ohm's Law.md",
     "nodes/Ohm's Law.md~",
@@ -183,7 +188,6 @@
     "nodes/Learning.md",
     "nodes/Vim.md",
     "nodes/Vim Motions.md",
-    "nodes/JavaScript Indexed Collections.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
