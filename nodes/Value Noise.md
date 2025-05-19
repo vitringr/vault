@@ -5,7 +5,7 @@ context:
 
 # Value Noise
 
-Basic [[Noise (Procedural Generation)|Noise]] generation function.
+Basic [[Noise (Procedural Generation)|Noise]] generation algorithm.
 
 ---
 

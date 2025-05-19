@@ -7,7 +7,7 @@ context:
 
 # Simplex Noise
 
-Advanced [[Gradient Noise]] algorithm.
+Advanced [[Gradient Noise]] generation algorithm.
 
 ---
 
@@ -17,19 +17,27 @@ Works by calculating contribution for each point from nearby direction [[Vector|
 
 **Dimensions**: Can efficiently scale up to higher dimensions. Every dimension has its own simplex shape that the algorithm can use.
 
-**Efficiency**: Each point gets contribution from its surrounding vertices in simplex space. This can be more efficient than [[Perlin Noise]], as the vertices needed for calculation are reduced.
+**Efficiency**: Since the lattice is in simplex space, each point gets contributions from the minimum amount of surrounding vertices possible, based on the dimension. This is an improvement over [[Perlin Noise]], as the vertices needed for calculation are reduced.
 
 ## Algorithm
 
-Note that this is the 2D variant of simplex noise. It could also scale up for higher dimensions.
+Note that this is the 2D variant of simplex noise. The same logic applies for higher dimensions.
 
 ### Gradients
 
 Create an array of gradient vectors with different directions.
 
-Imagine those direction vectors
+Imagine those direction vectors as being "attached" on every square lattice cell vertex.
 
-These directions are used to determine the noise value for a given point.
+These direction vectors are used to determine the noise value for points inside the cell, considering their direction, and the distance between each point and a given vector.
+
+Normally, every point would be inside a square cell that has 4 vertices. But the trick here is that after transforming the space into simplex space, every point is then inside a triangular cell, having only 3 vertices. That means that every point will be affected by 3 surrounding gradient vectors in simplex space.
+
+### Permutation Table
+
+Create a permutation table of pseudorandom numbers used to choose a gradient based on input.
+
+Having a consistent way of choosing gradients ensures that similiar numbers will choose similiar gradients, producing the continuous output effect.
 
 ### Input
 

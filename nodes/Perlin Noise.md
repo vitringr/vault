@@ -5,7 +5,7 @@ context:
 
 # Perlin Noise
 
-Classic [[Gradient Noise]] algorithm.
+Classic [[Gradient Noise]] generation algorithm.
 
 ---
 
