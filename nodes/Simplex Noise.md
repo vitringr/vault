@@ -13,9 +13,9 @@ Advanced [[Gradient Noise]] algorithm.
 
 Generates smooth, natural-looking patterns.
 
-Can efficiently scale up to higher dimensions.
+Works by calculating contribution for each point from nearby direction [[Vector|Vectors]] in [[Simplex]] space. Transforms the [[Lattice]] from simplex space to normal square space, and vice versa. Square space helps with calculations, while simplex space is where the algorithm does the core work.
 
-**Simplex Space**: Uses the concept of [[Simplex]] space, constructing a lattice of simplex shapes, depending on the dimension.
+**Dimensions**: Can efficiently scale up to higher dimensions. Every dimension has its own simplex shape that the algorithm can use.
 
 **Efficiency**: Each point gets contribution from its surrounding vertices in simplex space. This can be more efficient than [[Perlin Noise]], as the vertices needed for calculation are reduced.
 
@@ -25,7 +25,11 @@ Note that this is the 2D variant of simplex noise. It could also scale up for hi
 
 ### Gradients
 
-#wip
+Create an array of gradient vectors with different directions.
+
+Imagine those direction vectors
+
+These directions are used to determine the noise value for a given point.
 
 ### Input
 
