@@ -1,3 +1,9 @@
+chet: 17:00
+pet: 17:00
+sub: 13:30
+
+---
+
 - [x] Interpolation
 - [x] Smoothstep
 - [x] Easing Functions
@@ -5,7 +11,9 @@
 - [x] Value Noise
 - [x] Gradient Noise
 - [x] Suare to Triangle
-- [ ] Simplex Noise
+- [x] Simplex Noise
+
+- [ ] GPU noise?
 
 ---
 
@@ -18,7 +26,7 @@ Stop doing it...
 # Noise
 
 - [x] Implement any gradient noise
-- [ ] Optimize a bit
+- [x] Optimize a bit
 
 Simplex noise is basically gradient noise, but it "skews" the grid. Instead of rectangles, it makes it a triangular grid. This way there are only 3 corners that need to be interpolated between, instead of 4. After the interpolation it "un-skews" the grid back.
 
@@ -32,12 +40,6 @@ Suggested Order of Learning:
 4. Diodes & Simple Semiconductor Devices
 5. AC Basics (if interested in going further)
 
-# Shell
-
-Bash, Shell, etc.
-
-# Gun Stuff
-
 # Pathfinding
 
 [Theta\*](https://en.wikipedia.org/wiki/Theta*)
@@ -47,10 +49,6 @@ Bash, Shell, etc.
 Visualize the curves with beziers or SVG images.
 
 ---
-
-- [Noise](https://www.youtube.com/watch?v=ZsEnnB2wrbI)
-
-- Create and write about, even an essay, _Utilities-first Paradigm_.
 
 - Explain accessible science design, which is one of the goals with my website.
 
