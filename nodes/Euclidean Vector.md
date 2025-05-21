@@ -42,6 +42,8 @@ x² + y² = magnitude²
 magnitude = sqrt(x² + y²)
 ```
 
+One nice thing about this formula is that it cannot produce negative values, and a negative magnitude wouldn't really make sense.
+
 ## Vector Algebra
 
 Vectors can be operated with algebraically.
@@ -85,3 +87,5 @@ vA + ? = vC
 ```
 
 Visually, this works by placing the tails (begin points) two different vectors on the same point, and finding the path between their heads (arrows). This works because for any example vector `(x, y)`, it can be said that the tail is always at the origin `(0, 0)`, and the head is always the `(x, y)` point on a [[Cartesian Coordinate System]].
+
+The distance between those two vectors is the magnitude of the path.
