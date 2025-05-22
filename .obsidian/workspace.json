@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/JSX.md",
+                "file": "nodes/SolidJS.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "JSX"
+              "title": "SolidJS"
             }
           }
         ]
@@ -152,12 +152,13 @@
   },
   "active": "8d5ac91b7101b80a",
   "lastOpenFiles": [
+    "_Tasks.md~",
+    "nodes/SolidJS.md~",
     "nodes/TSX.md~",
     "nodes/TSX.md",
     "nodes/JSX.md~",
     "nodes/SolidJS.md",
     "nodes/JSX.md",
-    "nodes/SolidJS.md~",
     "nodes/4913",
     "nodes/JavaScript.md",
     "nodes/Filesystem Hierarchy Standard.md~",
@@ -173,7 +174,6 @@
     "nodes/Ohm's Law.md~",
     "nodes/Electrical Engineering.md",
     "nodes/Multiplicative Inverse.md",
-    "nodes/Raspberry Pi.md~",
     "nodes/Vitringr.md",
     "nodes/Bash Scripting.md",
     "nodes/Shell Commands.md",

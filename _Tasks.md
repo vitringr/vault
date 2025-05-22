@@ -1,3 +1,11 @@
+# Website
+
+SolidJS: Go through the docs.
+
+Start building already. Half a year to go.
+
+---
+
 Game: Magicka, Noita, HARDCORE
 
 ---
@@ -11,6 +19,8 @@ pet: 17:00
 sub: 13:30
 
 ---
+
+# Noise
 
 - [x] Interpolation
 - [x] Smoothstep
@@ -31,13 +41,6 @@ Stop doing it...
 
 ---
 
-# Noise
-
-- [x] Implement any gradient noise
-- [x] Optimize a bit
-
-Simplex noise is basically gradient noise, but it "skews" the grid. Instead of rectangles, it makes it a triangular grid. This way there are only 3 corners that need to be interpolated between, instead of 4. After the interpolation it "un-skews" the grid back.
-
 # Electricity
 
 Suggested Order of Learning:
@@ -48,15 +51,7 @@ Suggested Order of Learning:
 4. Diodes & Simple Semiconductor Devices
 5. AC Basics (if interested in going further)
 
-# Pathfinding
-
-[Theta\*](https://en.wikipedia.org/wiki/Theta*)
-
-# Easing-functions
-
-Visualize the curves with beziers or SVG images.
-
----
+# Other
 
 - Explain accessible science design, which is one of the goals with my website.
 
