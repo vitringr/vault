@@ -11,10 +11,14 @@
             "id": "8d5ac91b7101b80a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "nodes/JSX.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "JSX"
             }
           }
         ]
@@ -148,6 +152,13 @@
   },
   "active": "8d5ac91b7101b80a",
   "lastOpenFiles": [
+    "nodes/TSX.md~",
+    "nodes/TSX.md",
+    "nodes/JSX.md~",
+    "nodes/SolidJS.md",
+    "nodes/JSX.md",
+    "nodes/SolidJS.md~",
+    "nodes/4913",
     "nodes/JavaScript.md",
     "nodes/Filesystem Hierarchy Standard.md~",
     "nodes/A-Star Algorithm.md",
@@ -163,9 +174,6 @@
     "nodes/Electrical Engineering.md",
     "nodes/Multiplicative Inverse.md",
     "nodes/Raspberry Pi.md~",
-    "nodes/Vim Motions.md~",
-    "kekea",
-    "nodes/Raspberry Pi Getting Started.md~",
     "nodes/Vitringr.md",
     "nodes/Bash Scripting.md",
     "nodes/Shell Commands.md",
@@ -180,10 +188,6 @@
     "nodes/Kaizen.md",
     "nodes/Pareto Principle.md",
     "nodes/Mind Map.md",
-    "nodes/Spaced Repetition.md",
-    "nodes/Learning Dip.md",
-    "nodes/Budo.md",
-    "nodes/Feynman Technique.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"

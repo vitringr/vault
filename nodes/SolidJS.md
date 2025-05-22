@@ -10,4 +10,6 @@ Solid is a declarative JavaScript framework for creating reactive user interface
 
 ---
 
+See the [Website](https://www.solidjs.com) and [Documentation](https://docs.solidjs.com).
+
 Solid embraces the [[Reactive Programming]] paradigm.
