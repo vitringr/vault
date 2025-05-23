@@ -28,6 +28,16 @@ Vectors are a way of describing movement with math.
 
 **Etymology**: A vector is what is needed to "carry" the point `A` to the point `B`. The Latin translation of 'vector' means 'carrier'.
 
+## Coordinates
+
+Vectors can represent points in a [[Cartesian Coordinate System]].
+
+The `<x, y>` components of a vector represent the `(x, y)` point in space.
+
+**Any Dimension**: This works for coordinate systems of any Euclidean dimension. For example in 3D, the vector `<x, y, z>` represents the point `(x, y, z)`.
+
+**Arrow**: Visualizing the vector as an arrow with a direction and magnitude, the `(x, y)` points in space are arrows that start with tails from the origin `(0, 0)` and end with heads at the `(x, y)` point itself.
+
 ## Magnitude
 
 The magnitude of a vector is its length.
@@ -58,15 +68,24 @@ Vectors can be operated with algebraically.
 
 Multiple 'steps' from an origin to a destination can be expressed by a single step of their sum directly.
 
-**Scaling**: Vectors can be scaled by [[Scalar]] numbers.
+## Scaling
+
+To scale a vector, multiply both of its components by a [[Scalar]].
+
+```
+w = <x, y>
+wk = <kx, ky>
+```
+
+Scaling a vector by positive scalars results in a vector pointed at the same direction, but with a different length.
+
+Scaling a vector by a negative scalars reverses its direction.
 
 ```
 <x, y> * -1 = <-x, -y>
 
-<3, -12.4> * -3 = <-9, 37.2>
+<3, -12.4> * 3 = <9, -37.2>
 ```
-
-Multiplying a vector by a negative number reverses its direction.
 
 Multiplying a vector by a scalar can scale it up when the scalar magnitude is bigger than `1`, or scale it down when it is between `0` and `1`.
 
@@ -86,6 +105,12 @@ vA + ? = vC
 ? = vC - vA
 ```
 
-Visually, this works by placing the tails (begin points) two different vectors on the same point, and finding the path between their heads (arrows). This works because for any example vector `(x, y)`, it can be said that the tail is always at the origin `(0, 0)`, and the head is always the `(x, y)` point on a [[Cartesian Coordinate System]].
+Visually, this works by placing the tails (begin points) two different vectors on the same point, and finding the path between their heads (arrows).
 
 The distance between those two vectors is the magnitude of the path.
+
+## Average
+
+The vector whose head is halfway between the heads of `<x, y>` and `<a, b>` is the average of each pair of components, or `<(x + a) / 2, (y + b) / 2>`.
+
+By this logic, vectors can be [[Linear Interpolation|linearly interpolated]] to find any point on the line between them.

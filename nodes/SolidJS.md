@@ -6,7 +6,7 @@ context:
 
 # SolidJS
 
-Solid is a declarative JavaScript framework for creating reactive user interfaces.
+Solid is a declarative JavaScript framework for creating reactive and performant user interfaces.
 
 ---
 

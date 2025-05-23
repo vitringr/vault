@@ -1,7 +1,3 @@
-Околовръстен път 12 Бояна
-
-MD car
-
 # Website
 
 SolidJS: Go through the docs.
@@ -15,12 +11,6 @@ Game: Magicka, Noita, HARDCORE
 ---
 
 Work: Argus machine
-
----
-
-chet: 17:00
-pet: 17:00
-sub: 13:30
 
 ---
 
@@ -39,12 +29,6 @@ sub: 13:30
 
 ---
 
-# Fault of Making Retards Famous
-
-Stop doing it...
-
----
-
 # Electricity
 
 Suggested Order of Learning:
@@ -58,6 +42,8 @@ Suggested Order of Learning:
 # Other
 
 - Explain accessible science design, which is one of the goals with my website.
+
+- Fault of Making Retards Famous (stop doing it)
 
 - Investing in competition vs learning the art. Differences. How one of the most effective way to produce champions is having a trainer that has mastered the art coaching a student who excels at competition.
 

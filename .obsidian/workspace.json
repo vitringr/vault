@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dcbbf07418640204",
+        "id": "3ad5468bc2e2a40e",
         "type": "tabs",
         "children": [
           {
-            "id": "8d5ac91b7101b80a",
+            "id": "0e27f2c48b1f4255",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/SolidJS.md",
+                "file": "nodes/Vim Motions.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SolidJS"
+              "title": "Vim Motions"
             }
           }
         ]
@@ -150,28 +150,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d5ac91b7101b80a",
+  "active": "0e27f2c48b1f4255",
   "lastOpenFiles": [
-    "_Tasks.md~",
-    "nodes/SolidJS.md~",
-    "nodes/TSX.md~",
-    "nodes/TSX.md",
-    "nodes/JSX.md~",
-    "nodes/SolidJS.md",
-    "nodes/JSX.md",
-    "nodes/4913",
-    "nodes/JavaScript.md",
+    "nodes/Filesystem Hierarchy Standard.md",
+    "nodes/Heuristic.md",
     "nodes/Filesystem Hierarchy Standard.md~",
     "nodes/A-Star Algorithm.md",
     "nodes/A-Star Algorithm.md~",
+    "nodes/SolidJS.md",
+    "nodes/Heuristic.md~",
+    "nodes/SolidJS.md~",
+    "nodes/Falsifiability Principle.md",
+    "_Tasks.md~",
+    "nodes/TSX.md~",
+    "nodes/TSX.md",
+    "nodes/JSX.md~",
+    "nodes/JSX.md",
+    "nodes/4913",
+    "nodes/JavaScript.md",
     "_System.md",
     "_System.md~",
     "nodes/Simplex Noise.md~",
     "nodes/Euclidean Vector.md",
-    "nodes/Euclidean Vector.md~",
-    "nodes/Filesystem Hierarchy Standard.md",
     "nodes/Ohm's Law.md",
-    "nodes/Ohm's Law.md~",
     "nodes/Electrical Engineering.md",
     "nodes/Multiplicative Inverse.md",
     "nodes/Vitringr.md",
@@ -187,7 +188,6 @@
     "nodes/Chunking.md",
     "nodes/Kaizen.md",
     "nodes/Pareto Principle.md",
-    "nodes/Mind Map.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
