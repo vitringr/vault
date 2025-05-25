@@ -1,5 +1,21 @@
 # Brilliant
 
+## Vectors
+
+### Transformations
+
+#### Translation
+
+For every vector `<x, y>` that defines an image, the rule:
+
+```
+<x + a, y + b>
+```
+
+results in a **translation** of the image by the vector `<a, b>`.
+
+---
+
 ## Circuits
 
 Electric current is made up of moving electric charges that the battery pushes around the circuit.
