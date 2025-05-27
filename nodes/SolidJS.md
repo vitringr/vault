@@ -34,3 +34,4 @@ const CountingComponent = () => {
 
 render(() => <CountingComponent />, document.getElementById("app"));
 ```
+

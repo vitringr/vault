@@ -26,10 +26,6 @@ Game: Magicka, Noita, HARDCORE
 
 ---
 
-Work: Argus machine
-
----
-
 # Noise
 
 - [x] Interpolation
