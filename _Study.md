@@ -14,6 +14,8 @@ For every vector `<x, y>` that defines an image, the rule:
 
 results in a **translation** of the image by the vector `<a, b>`.
 
+#### Reflection
+
 ---
 
 ## Circuits

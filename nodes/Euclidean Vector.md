@@ -9,7 +9,9 @@ context:
 
 #wip
 
-# Euclidean Vector
+# Vector
+
+Quantity that cannot be expressed by a single scalar.
 
 Geometric object that has magnitude and direction.
 
