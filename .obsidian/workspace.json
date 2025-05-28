@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Vim Motions.md",
+                "file": "nodes/Vector.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Vim Motions"
+              "title": "Vector"
             }
           }
         ]
@@ -152,6 +152,7 @@
   },
   "active": "0e27f2c48b1f4255",
   "lastOpenFiles": [
+    "nodes/Vector.md~",
     "nodes/Filesystem Hierarchy Standard.md",
     "nodes/Heuristic.md",
     "nodes/Filesystem Hierarchy Standard.md~",
@@ -187,7 +188,6 @@
     "nodes/Judgement of Habit.md",
     "nodes/Chunking.md",
     "nodes/Kaizen.md",
-    "nodes/Pareto Principle.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"

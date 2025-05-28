@@ -1,10 +1,6 @@
 ---
-aliases:
-  - Geometric Vector
-  - Spatial Vector
 context:
-  - "[[Vector]]"
-  - "[[Geometry]]"
+  - "[[Mathematics]]"
 ---
 
 #wip
@@ -19,30 +15,39 @@ Geometric object that has magnitude and direction.
 
 Frequently represented by a directed line segment.
 
-**Magnitude**: the length or size of the vector.
-**Direction**: indicates where the vector is pointing.
-
-The direction can also be represented by an angle.
-
-**Components**: A vector has a horizontal part and a vertical part, called components. Vectors that have the same components are the same vector.
+Vectors have magnitude (length) and direction, which can be represented by an angle.
 
 Vectors are a way of describing movement with math.
 
+**Components**: Vectors have a component 'part' for each dimension. For example in 2D, the components are `<x, y>`. For 3D, they are `<x, y, z>`. Vectors that have the same components are the same vector.
+
 **Etymology**: A vector is what is needed to "carry" the point `A` to the point `B`. The Latin translation of 'vector' means 'carrier'.
 
-## Coordinates
+## Coordinate System
 
-Vectors can represent points in a [[Cartesian Coordinate System]].
+Vectors can represent points in a [[Coordinate System]].
+
+### Cartesian Coordinates
+
+See [[Cartesian Coordinate System]]
 
 The `<x, y>` components of a vector represent the `(x, y)` point in space.
 
 **Any Dimension**: This works for coordinate systems of any Euclidean dimension. For example in 3D, the vector `<x, y, z>` represents the point `(x, y, z)`.
 
-**Arrow**: Visualizing the vector as an arrow with a direction and magnitude, the `(x, y)` points in space are arrows that start with tails from the origin `(0, 0)` and end with heads at the `(x, y)` point itself.
+**Visualization**: Visualizing the vector as an arrow with a direction and magnitude, the `(x, y)` points in space are arrows that start with tails from the origin `(0, 0)` and end with heads at the `(x, y)` point itself.
+
+### Polar Coordinates
+
+See [[Polar Coordinate System]]
+
+**Visualization**: The vector can represent an arrow with both magnitude and direction.
 
 ## Magnitude
 
 The magnitude of a vector is its length.
+
+### Calculating Magnitude
 
 The components of a vector (`x` and `y`) form a right triangle. Imagine vectors `(x, 0)` and `(0, y)` as the triangle sides, and `(x, y)` as the hypotenuse.
 
