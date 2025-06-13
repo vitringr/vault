@@ -1,24 +1,14 @@
-Час в кабинет
-четвъртък, 29 май 2025, 15:00
-Д-р Иван Кацаров
-Д-р Иван Кацаров
-Психотерапевт, Коуч
-Център за психологично консултиране Sentio.bg
-София · ул. Цар Иван Асен II 5, партер, ап. 3
+# String Art
 
-Пациент
-Причина за прегледа
-    Вторичен преглед
-Плащане
-    Платен преглед
+Build a lattice. Can be a rectangular grid at first.
 
----
+Construct pins around the lattice edges.
 
-# Website
+Cache the connections (lines) from every pin A to every possible pin B with a minimum distance between them.
 
-SolidJS: Go through the docs.
+Extract pixelated grayscale image data.
 
-Start building already. Half a year to go.
+Choose the best line based on the original.
 
 ---
 
