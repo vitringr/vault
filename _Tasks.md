@@ -1,3 +1,11 @@
+# Deserving Money
+
+Money is not what you deserve, but what you ask for and what you can get.
+
+It is not an adequate measure of skill nor experience nor expertise.
+
+It is only a representation of how much you were able to get.
+
 # String Art
 
 Build a lattice. Can be a rectangular grid at first.
