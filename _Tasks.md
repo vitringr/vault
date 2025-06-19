@@ -1,3 +1,7 @@
+# Copilot
+
+Install Copilot for NeoVim.
+
 # Deserving Money
 
 Money is not what you deserve, but what you ask for and what you can get.
