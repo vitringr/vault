@@ -7,7 +7,7 @@ context:
 
 # Tech Stack
 
-Personal list of technologies expertise.
+Personal list of technology expertise.
 
 ---
 
@@ -19,13 +19,20 @@ Personal list of technologies expertise.
 
 - [[NodeJS]]
 - [[SolidJS]]
+- [[Turborepo]]
 - [[Vite]]
 
-- [[Java]]
-- [[C-Sharp]]
+- [[WebGL]]
+- [[Canvas2D]]
+- [[p5js]]
+
+- [[GLSL]]
 
 - [[Godot]]
 - [[Unity]]
+
+- [[Java]]
+- [[C-Sharp]]
 
 - [[MySQL]]
 - [[MariaDB]]
@@ -42,17 +49,12 @@ Personal list of technologies expertise.
 - [[Ubuntu]]
 - [[Arch Linux]]
 
-- [[GLSL]]
-
-- [[WebGL]]
-- [[Canvas2D]]
-- [[p5js]]
-
-- [[Processing]]
-
 - [[Neovim]]
+
+## Misc
+
+- [[OBS]]
 
 ## Crap
 
-- [[OBS]]
 - [[Slack]]
