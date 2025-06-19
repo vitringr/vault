@@ -42,6 +42,17 @@ Personal list of technologies expertise.
 - [[Ubuntu]]
 - [[Arch Linux]]
 
+- [[GLSL]]
+
 - [[WebGL]]
 - [[Canvas2D]]
+- [[p5js]]
+
 - [[Processing]]
+
+- [[Neovim]]
+
+## Crap
+
+- [[OBS]]
+- [[Slack]]
