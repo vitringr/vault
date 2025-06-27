@@ -1,7 +1,3 @@
-# Copilot
-
-Install Copilot for NeoVim.
-
 # Deserving Money
 
 Money is not what you deserve, but what you ask for and what you can get.
@@ -25,21 +21,6 @@ Choose the best line based on the original.
 ---
 
 Game: Magicka, Noita, HARDCORE
-
----
-
-# Noise
-
-- [x] Interpolation
-- [x] Smoothstep
-- [x] Easing Functions
-- [x] Noise
-- [x] Value Noise
-- [x] Gradient Noise
-- [x] Suare to Triangle
-- [x] Simplex Noise
-
-- [ ] GPU noise?
 
 ---
 
