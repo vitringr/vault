@@ -1,3 +1,15 @@
+# Creative
+
+Orb decay brush
+
+Mandlebrot
+
+Firework
+
+Game of Life
+
+GPU orbiting particles
+
 # Deserving Money
 
 Money is not what you deserve, but what you ask for and what you can get.
@@ -18,11 +30,9 @@ Extract pixelated grayscale image data.
 
 Choose the best line based on the original.
 
----
+# Game
 
-Game: Magicka, Noita, HARDCORE
-
----
+Magicka, Noita, HARDCORE
 
 # Electricity
 

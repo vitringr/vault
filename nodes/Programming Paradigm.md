@@ -1,0 +1,16 @@
+---
+aliases:
+context:
+  - "[[Software Architecture]]"
+  - "[[Software Design]]"
+---
+
+#wip
+
+# Programming Paradigm
+
+Predefined [[Software Architecture]] principles that define the style, structure, [[Software Design|design]] and methodology of [[Software Development]].
+
+---
+
+Programming paradigms are predefined high-level guidelines and methodologies for [[Programming]].
