@@ -1,6 +1,7 @@
 ---
 context:
   - "[[Programming Paradigm]]"
+  - "[[Declarative Programming]]"
   - "[[Software Design]]"
 ---
 

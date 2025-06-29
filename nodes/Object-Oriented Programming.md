@@ -3,6 +3,7 @@ aliases:
   - OOP
 context:
   - "[[Programming Paradigm]]"
+  - "[[Imperative Programming]]"
   - "[[Software Design]]"
 ---
 
