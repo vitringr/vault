@@ -7,7 +7,7 @@ context:
 
 # Functional Programming
 
-Programming paradigm centered around using **pure [[Function (Programming)|functions]]**, **immutable data**, and **declarative programming**.
+Programming paradigm centered around using **pure [[Function (Programming)|functions]]**, **immutable data**, and **[[Declarative Programming]]**.
 
 ---
 
