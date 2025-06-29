@@ -1,5 +1,4 @@
 ---
-aliases:
 context:
   - "[[Programming Paradigm]]"
   - "[[Software Design]]"
