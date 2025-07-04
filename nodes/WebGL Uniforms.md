@@ -5,7 +5,7 @@ context:
 
 # WebGL Uniforms
 
-Global variables in [[Shader|Shaders]] that provide _constant data_ for a draw call.
+Global variables in [[Shader|Shaders]] that provide static data for a draw call.
 
 ---
 
