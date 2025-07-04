@@ -6,12 +6,14 @@ context:
   - "[[General-purpose Language]]"
 ---
 
-#wip
-
 # C (Programming Language)
 
-C is a general-purpose low-level procedural programming language.
+General-purpose low-level programming language.
 
 ---
 
-**Properties**: General-purpose, low-level, 
+**Properties**: General-purpose, low-level, procedural, compiled, statically typed, efficient, minimalist, portable.
+
+**Common Use Cases**: Commonly used for building operating systems, embedded systems, game engines, high-performance applications, compilers, and more.
+
+**Paradigm**: Follows the [[Imperative Programming]] and [[Procedural Programming]] paradigms.

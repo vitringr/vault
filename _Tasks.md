@@ -1,3 +1,9 @@
+"generative artist"
+
+# Guides
+
+- Object pooling
+
 # Creative
 
 Orb decay brush
