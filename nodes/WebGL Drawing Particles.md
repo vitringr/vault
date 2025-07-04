@@ -30,4 +30,4 @@ The idea is to avoid mutating particle state data, instead computing initial val
 
 Requires some number that represents time, which is constantly being incremented.
 
-Requires that the simulation is [[Determinism|deterministic]], otherwise it couldn't be calculated just from initial conditions alone. See [[Chaos Theory]].
+Requires the simulation to be a [[Determinism|deterministic]] [[Function (Mathematics)|Function]] of time, otherwise it couldn't be calculated just from initial conditions alone. See [[Chaos Theory]].
