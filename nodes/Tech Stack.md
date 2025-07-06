@@ -11,6 +11,8 @@ Personal list of technology expertise.
 
 ---
 
+- [[C (Programming Language)]]
+
 - [[HTML]]
 - [[CSS]]
 
@@ -23,6 +25,7 @@ Personal list of technology expertise.
 - [[Vite]]
 
 - [[WebGL]]
+- [[WebGL2]]
 - [[Canvas2D]]
 - [[p5js]]
 
