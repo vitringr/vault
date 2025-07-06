@@ -6,8 +6,6 @@
 
 # Creative
 
-Orb decay brush
-
 Mandlebrot
 
 Firework
