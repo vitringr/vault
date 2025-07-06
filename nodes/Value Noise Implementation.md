@@ -10,7 +10,7 @@ context:
 
 # Value Noise Implementation
 
-Personal implementation of [[Value Noise]] in different languages.
+Implementation of [[Value Noise]] with [[Fractal Noise]] in different languages.
 
 ## GLSL
 
