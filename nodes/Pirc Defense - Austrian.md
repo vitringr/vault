@@ -1,2 +1,0 @@
-# Pirc Defense - Austrian
-#wip
