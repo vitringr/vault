@@ -3,17 +3,9 @@ context:
   - "[[Virtue]]"
 ---
 
-#wip
-
 # Roman Virtues
 
-ad
-
-**Prosperity**:
-
----
-
-**Virtue (_Virtue_)**: A trait of excellence. Valor, masculinity, excellence and character.
+**Virtue (_Virtus_)**: Strength of character, moral excellence, masculinity, courage, and valor.
 
 **Wisdom (_Prudentia_)**: The ability to navigate complex situations and discern right from wrong.
 
@@ -21,8 +13,8 @@ ad
 
 **Prosperity (_Abundantia_)**: The ideal of abundance and prosperity of resources.
 
-**Courage**: The ability to confront fear, pain, and difficulty without wavering.
+**Courage (_Fortitudo_)**: The ability to confront fear and act rightly despite risk. 
 
-**Justice**: Treating others fairly and seeking the common good.
+**Justice (_Iustitia_)**: Treating others fairly and seeking the common good.
 
-**Temperance**: Practicing self-discipline and moderation in all aspects of life.
+**Temperance (_Temperantia_)**: Practicing self-discipline and moderation in all aspects of life.
