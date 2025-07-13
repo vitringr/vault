@@ -26,7 +26,7 @@ Personal list of technology expertise.
 
 - [[WebGL]]
 - [[WebGL2]]
-- [[Canvas2D]]
+- [[Canvas 2D API]]
 - [[p5js]]
 
 - [[GLSL]]

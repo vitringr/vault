@@ -1,2 +1,13 @@
+---
+context:
+  - "[[Programming Language]]"
+  - "[[General-purpose Language]]"
+---
+
 # C-Sharp
-#wip
+
+General-purpose high-level programming programming language.
+
+---
+
+**Properties**: General-purpose, high-level, multi-paradigm, statically-typed, compiled.

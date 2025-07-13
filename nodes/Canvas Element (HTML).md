@@ -20,7 +20,7 @@ const context = canvas.getContext("2d");
 
 Provides different graphic contexts:
 
-- [[Canvas2D|2D]]
+- [[Canvas 2D API|2D]]
 - [[WebGL]]
 - [[WebGL2]]
 - [[WebGPU]]
