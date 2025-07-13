@@ -5,11 +5,9 @@ context:
   - "[[C (Programming Language)]]"
 ---
 
-#wip
-
 # The C Programming Language
 
-Notes taken from the book: The C Programming Language (Second Edition)
+Notes from the book: `The C Programming Language (Second Edition)`
 
 ---
 
