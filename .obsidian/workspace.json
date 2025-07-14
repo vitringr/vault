@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Vector.md",
+                "file": "nodes/Compute Shader.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Vector"
+              "title": "Compute Shader"
             }
           }
         ]
@@ -68,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
-    "collapsed": true
+    "width": 317.5
   },
   "right": {
     "id": "a8b21f525f867907",
@@ -152,6 +151,7 @@
   },
   "active": "0e27f2c48b1f4255",
   "lastOpenFiles": [
+    "nodes/Vector.md",
     "nodes/Vector.md~",
     "nodes/Filesystem Hierarchy Standard.md",
     "nodes/Heuristic.md",
@@ -171,7 +171,6 @@
     "nodes/JavaScript.md",
     "_System.md",
     "_System.md~",
-    "nodes/Simplex Noise.md~",
     "nodes/Euclidean Vector.md",
     "nodes/Ohm's Law.md",
     "nodes/Electrical Engineering.md",
