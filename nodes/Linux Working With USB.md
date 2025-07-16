@@ -1,6 +1,7 @@
 ---
 context:
   - "[[Linux]]"
+  - "[[USB]]"
 ---
 
 # Linux Working With USB
