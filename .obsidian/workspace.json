@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Compute Shader.md",
+                "file": "nodes/Serial Communication.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Compute Shader"
+              "title": "Serial Communication"
             }
           }
         ]
@@ -68,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "right": {
     "id": "a8b21f525f867907",
@@ -151,6 +152,10 @@
   },
   "active": "0e27f2c48b1f4255",
   "lastOpenFiles": [
+    "nodes/Serial Communication.md~",
+    "nodes/Parallel Communication.md~",
+    "nodes/Telecommunication.md",
+    "_Study.md",
     "nodes/Vector.md",
     "nodes/Vector.md~",
     "nodes/Filesystem Hierarchy Standard.md",
@@ -170,7 +175,6 @@
     "nodes/4913",
     "nodes/JavaScript.md",
     "_System.md",
-    "_System.md~",
     "nodes/Euclidean Vector.md",
     "nodes/Ohm's Law.md",
     "nodes/Electrical Engineering.md",
@@ -184,9 +188,6 @@
     "nodes/Software.md",
     "nodes/Dual Coding Theory.md",
     "nodes/Picture Superiority Effect.md",
-    "nodes/Judgement of Habit.md",
-    "nodes/Chunking.md",
-    "nodes/Kaizen.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"

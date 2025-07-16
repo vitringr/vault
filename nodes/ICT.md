@@ -2,7 +2,6 @@
 aliases:
   - Information and Communications Technology
 context:
-  - "[[Information Technology]]"
 ---
 
 # ICT
