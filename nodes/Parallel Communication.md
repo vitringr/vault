@@ -3,8 +3,6 @@ context:
   - "[[Telecommunication]]"
 ---
 
-#wip
-
 # Parallel Communication
 
 The process of transmitting data multiple bits simultaneously across parallel channels.
@@ -19,4 +17,10 @@ Requires a transmission medium with several parallel channels.
 
 Disadvantages compared to serial communication.
 
-Prone to signal skew at high speeds, limiting scalability.
+**Synchronization**: Clock and data synchronization challenges at high speeds.
+
+**Distance**: Practical only for short-range communication.
+
+**Complexity**: Requires precise timing and alignment across all channels.
+
+**Cable Size**: Requires wider cables and connectors.
