@@ -2,6 +2,7 @@
 aliases:
   - Information and Communications Technology
 context:
+  - "[[Information Technology]]"
 ---
 
 #wip

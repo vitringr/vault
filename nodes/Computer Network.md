@@ -1,6 +1,6 @@
 ---
 context:
-  - "[[Computing]]"
+  - "[[ICT]]"
 ---
 
 # Computer Network

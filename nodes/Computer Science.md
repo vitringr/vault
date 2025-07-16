@@ -6,7 +6,7 @@ context:
 
 # Computer Science
 
-The study of [[Computer|computers]], computational systems, and [[Algorithm|algorithms]].
+The theoretical study of [[Computer|computers]], computational systems, and [[Algorithm|algorithms]].
 
 ---
 

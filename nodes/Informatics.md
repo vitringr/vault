@@ -1,9 +1,11 @@
 ---
 context:
+  - "[[Discipline]]"
+  - "[[Science]]"
 ---
 
 # Informatics
 
-The study of computational systems.
+The theoretical study of computational systems.
 
 Synonymous with [[Computer Science]].
