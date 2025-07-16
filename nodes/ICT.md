@@ -5,12 +5,8 @@ context:
   - "[[Information Technology]]"
 ---
 
-#wip
-
 # ICT
 
 (Information and Communications Technology)
 
-ad
-
----
+The integration of [[Information Technology]], [[Telecommunication]], and [[Digital Media]] to manage and transmit information.

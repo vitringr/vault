@@ -2,17 +2,13 @@
 aliases:
   - IT
 context:
-  - "[[Discipline]]"
-  - "[[Engineering]]"
-  - "[[Science]]"
+  - "[[Computer Engineering]]"
+  - "[[Informatics]]"
+  - "[[ICT]]"
 ---
-
-#wip
 
 # Information Technology
 
-ad
+(IT)
 
----
-
-
+The applied use of [[Informatics]], [[ICT]], and [[Computer Engineering]].
