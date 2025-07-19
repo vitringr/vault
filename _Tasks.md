@@ -50,6 +50,8 @@ Suggested Order of Learning:
 
 # Other
 
+- Creative coding guide: additive concepts. Start with one, add another known technique, another, another...
+
 - Explain accessible science design, which is one of the goals with my website.
 
 - Fault of Making Retards Famous (stop doing it)
