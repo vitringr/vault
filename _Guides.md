@@ -1,5 +1,25 @@
 # Guides
 
+## Random
+
+Explain randomness.
+Explain how it's actually fake.
+
+The creative effect of:
+```
+radius = 5
+```
+vs
+
+```
+radius: {
+  min: 3,
+  max: 8
+}
+```
+
+Look at Nature of Code for ideas.
+
 ## Interpolation
 
 - Linear Interpolation

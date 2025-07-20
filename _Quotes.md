@@ -204,3 +204,6 @@ If you can't explain it simply, you don't understand it well enough.
 
 The hardest thing to explain is the glaringly evident which everybody has decided not to see.
 \- Ayn Rand
+
+They think our Art is about turning lead to gold, when truly it is about turning fools into sages.
+\- unknown
