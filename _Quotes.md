@@ -207,3 +207,6 @@ The hardest thing to explain is the glaringly evident which everybody has decide
 
 They think our Art is about turning lead to gold, when truly it is about turning fools into sages.
 \- unknown
+
+One man's noise is another man's signal.
+\- unknown
