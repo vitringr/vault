@@ -2,8 +2,8 @@
 aliases:
   - Web Graphics Library 2
 context:
-  - "[[Software]]"
   - "[[Computer Graphics]]"
+  - "[[Programming Software]]"
 ---
 
 # WebGL2

@@ -1,7 +1,8 @@
 ---
 context:
-  - "[[Software]]"
   - "[[Version Control]]"
+  - "[[Programming Software]]"
+  - "[[System Software]]"
 ---
 
 # Git

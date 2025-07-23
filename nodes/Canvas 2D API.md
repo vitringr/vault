@@ -2,7 +2,7 @@
 aliases:
   - Canvas Rendering Context 2D
 context:
-  - "[[Software]]"
+  - "[[Programming Software]]"
   - "[[Computer Graphics]]"
 ---
 

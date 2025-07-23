@@ -1,7 +1,8 @@
 ---
 context:
-  - "[[Software]]"
   - "[[Relational Database Management System]]"
+  - "[[Software Application]]"
+  - "[[System Software]]"
 ---
 
 # MySQL

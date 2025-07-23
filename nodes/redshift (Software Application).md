@@ -2,10 +2,10 @@
 aliases:
   - redshift
 context:
-  - "[[Software]]"
+  - "[[Software Application]]"
 ---
 
-# redshift (Software)
+# redshift (Software Application)
 
 Tool for [[Linux]] that can adjust the screen's color temperature, providing the 'night light' effect.
 

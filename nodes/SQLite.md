@@ -4,7 +4,7 @@ aliases:
   - sqlite3
 context:
   - "[[Relational Database Management System]]"
-  - "[[Embedded Software]]"
+  - "[[Software Application]]"
 ---
 
 # SQLite
@@ -12,6 +12,8 @@ context:
 [[Relational Database Management System]] that uses [[SQL]] for manipulating data.
 
 ---
+
+SQLite is a [[Software Application]], which can also technically be used as [[System Software]] and [[Embedded Software]].
 
 **Lightweight**: Small and efficient for resource-constrained environments. The library is less than `1MB` in size.
 

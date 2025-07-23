@@ -1,7 +1,7 @@
 ---
 context:
   - "[[Service Manager]]"
-  - "[[Software]]"
+  - "[[System Software]]"
 ---
 
 # systemd

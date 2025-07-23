@@ -1,6 +1,6 @@
 ---
 context:
-  - "[[Software]]"
+  - "[[Software Application]]"
 ---
 
 # Slack

@@ -1,7 +1,7 @@
 ---
 context:
   - "[[systemd]]"
-  - "[[Software]]"
+  - "[[System Software]]"
 ---
 
 # systemctl
