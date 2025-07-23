@@ -3,8 +3,8 @@ aliases:
   - sqlite
   - sqlite3
 context:
-  - "[[Software]]"
   - "[[Relational Database Management System]]"
+  - "[[Embedded Software]]"
 ---
 
 # SQLite
