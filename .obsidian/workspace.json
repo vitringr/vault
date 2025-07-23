@@ -11,14 +11,10 @@
             "id": "0e27f2c48b1f4255",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodes/Serial Communication.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Serial Communication"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -68,8 +64,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
-    "collapsed": true
+    "width": 317.5
   },
   "right": {
     "id": "a8b21f525f867907",
@@ -150,8 +145,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e27f2c48b1f4255",
+  "active": "7e5ef2799c9e92ae",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "nodes/Serial Communication.md",
     "nodes/USB.md~",
     "nodes/Linux Working With USB.md~",
     "nodes/USB.md",
@@ -171,7 +168,6 @@
     "nodes/SolidJS.md~",
     "nodes/Falsifiability Principle.md",
     "_Tasks.md~",
-    "nodes/TSX.md~",
     "nodes/TSX.md",
     "nodes/JSX.md",
     "nodes/JavaScript.md",
@@ -187,8 +183,6 @@
     "nodes/Building Sandfall.md",
     "nodes/Kernel (Operating System).md",
     "nodes/Software.md",
-    "nodes/Dual Coding Theory.md",
-    "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
   ]

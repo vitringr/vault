@@ -17,6 +17,8 @@ context:
 
 **Serverless**: Does not require a separate server process. The database is stored in a single (`.sqlite` or `.db`) local file.
 
+**Raw**: Interacts with the raw filesystem, reading/writing directly to the file.
+
 **Self-contained**: Requires minimal setup. No installation or administration needed. The entire database is a single cross-platform file.
 
 **Zero Configuration**: No need for configuration files or user management.

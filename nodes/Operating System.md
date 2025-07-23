@@ -2,12 +2,12 @@
 aliases:
   - OS
 context:
-  - "[[Software]]"
+  - "[[System Software]]"
 ---
 
 # Operating System
 
-[[Software]] system that manages [[Computer|computer]] [[Hardware|hardware]] and resources.
+[[System Software]] that manages [[Computer|computer]] [[Hardware|hardware]] and resources.
 
 Provides common services for [[Computer Program|computer programs]].
 
