@@ -11,13 +11,28 @@
             "id": "0e27f2c48b1f4255",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nodes/Computer Graphics.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Computer Graphics"
+            }
+          },
+          {
+            "id": "01f3bba22a60bbc7",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "right": {
     "id": "a8b21f525f867907",
@@ -145,8 +161,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e5ef2799c9e92ae",
+  "active": "01f3bba22a60bbc7",
   "lastOpenFiles": [
+    "nodes/JavaScript.md",
+    "nodes/Texture.md",
+    "nodes/Computer Graphics.md",
     "Untitled.canvas",
     "nodes/Serial Communication.md",
     "nodes/USB.md~",
@@ -170,7 +189,6 @@
     "_Tasks.md~",
     "nodes/TSX.md",
     "nodes/JSX.md",
-    "nodes/JavaScript.md",
     "_System.md",
     "nodes/Euclidean Vector.md",
     "nodes/Ohm's Law.md",
@@ -182,7 +200,6 @@
     "nodes/Shell.md",
     "nodes/Building Sandfall.md",
     "nodes/Kernel (Operating System).md",
-    "nodes/Software.md",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
   ]
