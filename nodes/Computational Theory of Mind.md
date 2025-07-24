@@ -5,12 +5,6 @@ context:
   - "[[Philosophy]]"
 ---
 
-#wip
-
 # Computational Theory of Mind
 
-ad
-
----
-
-#wip
+Philosophy that holds that the human mind is an information processing system and that congnition and [[Consciousness]] together are a form of computation.
