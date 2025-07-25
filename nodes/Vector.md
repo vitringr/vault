@@ -3,8 +3,6 @@ context:
   - "[[Mathematics]]"
 ---
 
-#wip
-
 # Vector
 
 Quantity that cannot be expressed by a single scalar.
@@ -59,7 +57,7 @@ x² + y² = magnitude²
 magnitude = sqrt(x² + y²)
 ```
 
-One nice thing about this formula is that it cannot produce negative values, and a negative magnitude wouldn't really make sense.
+**Always Positive**: One nice thing about this formula is that it cannot produce negative values, and a negative magnitude wouldn't really make sense.
 
 ## Vector Algebra
 

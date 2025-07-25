@@ -17,7 +17,8 @@ Translates to 'love of wisdom'.
 
 Major branches of Philosophy include:
 
+- [[Logic]]
+- [[Ethics]]
 - [[Metaphysics]]
 - [[Epistemology]]
-- [[Ethics]]
-- [[Logic]]
+- [[Philosophy of Mind]]
