@@ -10,6 +10,10 @@ context:
 
 (Graphics Processing Unit)
 
-Specialized electronic circuit initially designed for digital image processing and to accelerate computer graphics.
+Specialized electronic circuit good at parallel computation.
+
+---
+
+Initially designed for digital image processing and to accelerate computer graphics.
 
 After their initial design, GPUs were found to be useful for non-graphic calculaions, especially for parallel problems.
