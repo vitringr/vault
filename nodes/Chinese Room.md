@@ -1,6 +1,7 @@
 ---
 context:
   - "[[Philosophy]]"
+  - "[[Philosophy of Mind]]"
 ---
 
 # Chinese Room

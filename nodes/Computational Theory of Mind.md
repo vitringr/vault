@@ -2,7 +2,7 @@
 aliases:
   - CTM
 context:
-  - "[[Philosophy]]"
+  - "[[Philosophy of Mind]]"
 ---
 
 # Computational Theory of Mind
