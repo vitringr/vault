@@ -2,7 +2,6 @@
 context:
   - "[[Shell]]"
   - "[[Command Language]]"
-  - "[[Software]]"
 ---
 
 # Bash
