@@ -10,3 +10,5 @@ Defines the legal terms under which [[Software]] can be used, modified, and dist
 ---
 
 Balances the legal rights of software creators, users, and distributors.
+
+A [[Software License]] file should usually present in a project.
