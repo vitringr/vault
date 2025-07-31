@@ -5,7 +5,7 @@ context:
 
 # Open Source
 
-Software licensing where [[Source Code]] is publicly available for anyone to view, modify, and distribute.
+[[Software Licensing]] and development model where [[Source Code]] is publicly available for anyone to view, modify, and distribute.
 
 ---
 
