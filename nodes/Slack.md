@@ -5,4 +5,4 @@ context:
 
 # Slack
 
-Cloud-based team communication software platform.
+Cloud-based team communication [[GUI Application]] and platform.

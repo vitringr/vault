@@ -6,7 +6,7 @@ context:
 
 # systemctl
 
-The primary command-line tool for controlling and interacting with [[systemd]].
+The primary [[CLI Application]] for controlling and interacting with [[systemd]].
 
 ---
 

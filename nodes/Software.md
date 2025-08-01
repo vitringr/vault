@@ -20,4 +20,3 @@ Categories by [[Interface]]:
 
 - [[CLI Application]]
 - [[GUI Application]]
-

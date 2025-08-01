@@ -7,7 +7,7 @@ context:
 
 # p5js
 
-[[Open Source]] graphics library for the web.
+[[Free and Open Source]] graphics library for the web.
 
 [Website](https://p5js.org/)
 

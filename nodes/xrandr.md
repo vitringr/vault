@@ -5,7 +5,7 @@ context:
 
 # xrandr
 
-Command-line tool that manages screen displays in [[Linux]].
+[[CLI Application]] that manages screen displays in [[Linux]].
 
 ---
 

@@ -5,7 +5,7 @@ context:
 
 # Neofetch
 
-Command-line tool that displays information about the [[Operating System]] in an aesthetic way.
+[[CLI Application]] that displays information about the [[Operating System]] in an aesthetic way.
 
 ---
 

@@ -13,7 +13,7 @@ context:
 
 ---
 
-SQLite is a [[Software Application]], which can also technically be used as [[System Software]] and [[Embedded Software]].
+SQLite can be used as a [[CLI Application]], but also as [[System Software]] and [[Embedded Software]].
 
 **Lightweight**: Small and efficient for resource-constrained environments. The library is less than `1MB` in size.
 

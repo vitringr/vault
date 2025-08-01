@@ -7,7 +7,7 @@ context:
 
 # Processing
 
-[[Open Source]] graphics library and development environment.
+[[Free and Open Source]] graphics library and development environment.
 
 [Website](https://processing.org/)
 

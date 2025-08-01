@@ -7,4 +7,4 @@ context:
 
 # OBS
 
-Free and [[Open Source]] cross-platform software used for screencasting, recording, and streaming.
+[[Free and Open Source]] cross-platform [[GUI Application]] used for screencasting, recording, and streaming.
