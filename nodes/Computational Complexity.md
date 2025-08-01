@@ -12,4 +12,4 @@ Field in [[Computer Science]] that focuses on the resources required for [[Compu
 
 ---
 
-Analyzes the efficiency of [[Algorithm|Algorithms]] in terms of **time (speed)** and **space (memory)**.
+Analyzes the efficiency of [[Algorithm|Algorithms]] in terms of [[Time Complexity]] and [[Space Complexity]].
