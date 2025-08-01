@@ -14,4 +14,4 @@ The resources required for [[Algorithm]] [[Computation]].
 
 Analyzes the efficiency of algorithms in terms of [[Time Complexity]] and [[Space Complexity]].
 
-Algorithmic complexity is often expressed using [[Big O Notation]].
+Algorithmic complexity is often measured using [[Asymptotic Analysis]].
