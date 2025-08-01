@@ -31,7 +31,7 @@ Should not contain standalone files. Only directories.
 
 ### `/bin` Essential User Binaries
 
-Contains core [[Command-line Interface|Command-line]] utilities.
+Contains core [[CLI|Command-line]] utilities.
 
 The commands need to be available in single-user mode, potentially for repair and recovery.
 

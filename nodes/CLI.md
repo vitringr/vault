@@ -1,13 +1,15 @@
 ---
 aliases:
-  - CLI
+  - Command-line Interface
 context:
   - "[[Interface]]"
 ---
 
-# Command-line Interface
+# CLI
 
-Text-based user interface used to interact with a [[Computer's]] [[Software]] and [[Operating System]].
+(Command-line Interface)
+
+Text-based user interface used to interact with [[Software]].
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 context:
-  - "[[Software Architecture]]"
+  - "[[Software]]"
 ---
 
 # Daemon

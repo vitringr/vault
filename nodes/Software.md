@@ -14,3 +14,10 @@ Categories of software include:
 - [[Software Application]]
 - [[System Software]]
 - [[Embedded Software]]
+- [[Daemon]]
+
+Categories by [[Interface]]:
+
+- [[CLI Application]]
+- [[GUI Application]]
+
