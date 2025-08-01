@@ -1,5 +1,4 @@
 ---
-aliases:
 context:
   - "[[System Design]]"
   - "[[Software Design]]"

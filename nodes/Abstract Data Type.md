@@ -7,15 +7,23 @@ context:
 
 # Abstract Data Type
 
-Logical model for a [[Data Structure]], defining its behavior and properties independently of its implementation.
+Logical model of a [[Data Structure]].
 
 ---
 
-Focuses on _what_ the data does, not _how_ it does it.
+Defines the logical properties and behavior of a data structure, independent of actual implementation.
 
-Common Abstract Data Types:
-- **[[List]]**: Collection of ordered elements with operations like insert, delete, and search.
-- **[[Stack]]**: Collection with LIFO (Last In, First Out) behavior.
-- **[[Queue]]**: Collection with FIFO (First In, First Out) behavior.
-- **[[Set (Abstract Data Type)|Set]]**: Collection of unique elements.
-- **[[Map]]**: Collection of key-value pairs with lookup, insert, and delete operations.
+Focuses on _what_ the data does instead of _how_ it does it.
+
+**Abstraction**: Hides away implementation details.
+
+**Encapsulation**: Exposes only the [[Interface]], not internal data representation.
+
+## Common Abstract Data Types
+
+| ADT       | Core Operations                     | Possible Implementations               |
+| --------- | ----------------------------------- | -------------------------------------- |
+| [[Stack]] | `push()`, `pop()`, `peek()`         | [[Array]], [[Linked List]]             |
+| [[Queue]] | `enqueue()`, `dequeue()`, `front()` | [[Array]], [[Linked List]], [[Heap]]   |
+| [[List]]  | `insert()`, `remove()`, `get()`     | [[Array]], [[Linked List]]             |
+| [[Map]]   | `put(key, value)`, `get(key)`       | [[Hash Table]], [[Binary Search Tree]] |

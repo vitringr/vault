@@ -15,6 +15,8 @@ Callable unit of software logic that can be invoked.
 
 ---
 
+Named section of a program that performs a specific task.
+
 Funtions can decompose large and/or complicated problems into lesser chunks.
 
 **Name**: Identifies the name of the callable unit.
