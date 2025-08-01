@@ -5,8 +5,6 @@ context:
   - "[[Software Application]]"
 ---
 
-#wip
-
 # cURL
 
 [[CLI Application]] for transferring data over networks.
