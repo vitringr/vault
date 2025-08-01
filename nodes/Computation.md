@@ -1,6 +1,7 @@
 ---
 aliases:
   - Computations
+  - Computational
 context:
   - "[[Computer Science]]"
 ---

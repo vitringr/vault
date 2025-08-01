@@ -1,5 +1,11 @@
 "generative artist"
 
+# Resources
+
+Any resources worthy of a single page.
+
+Big O is a godo idea, also snippets and such.
+
 # Guides
 
 - Object pooling

@@ -5,4 +5,4 @@ context:
 
 # Space Complexity
 
-Describes the amount of [[Computer Memory]] required to solve a [[Computation|Computational]] problem.
+Describes the amount of [[Computer Memory]] required by an [[Algorithm]].

@@ -8,8 +8,10 @@ context:
 
 # Computational Complexity
 
-Field in [[Computer Science]] that focuses on the resources required for [[Computation]].
+The resources required for [[Algorithm]] [[Computation]].
 
 ---
 
-Analyzes the efficiency of [[Algorithm|Algorithms]] in terms of [[Time Complexity]] and [[Space Complexity]].
+Analyzes the efficiency of algorithms in terms of [[Time Complexity]] and [[Space Complexity]].
+
+See [[Big O Notation]]
