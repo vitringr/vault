@@ -11,13 +11,13 @@ Describes the growth of [[Computational Complexity]] of an [[Algorithm]] as its 
 
 ---
 
-Measures the increase of [[Time Complexity]] or [[Space Complexity]], relative to the increase of input.
+Approximates the increase of [[Time Complexity]] or [[Space Complexity]] of an algorithm, scaling with input size.
 
 **Notation**: `O(n)`, where `n` is the increasing input.
 
-Focuses on the average or worst-case scenario.
-
 Ignores constants and lower-order terms.
+
+Focuses on the worst-case scenario.
 
 ## Common Complexities
 
@@ -27,6 +27,6 @@ Ignores constants and lower-order terms.
 | `O(log n)`   | Logarithmic     |
 | `O(n)`       | Linear          |
 | `O(n log n)` | Linearithmic    |
-| `O(n²)`      | Quadratic       |
+| `O(n²)`      | Polynomial      |
 | `O(2ⁿ)`      | Exponential     |
 | `O(n!)`      | Factorial       |

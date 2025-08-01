@@ -1,17 +1,14 @@
 ---
-aliases:
-  - A-Star Pathfinding
-  - A-Star Search Algorithm
 context:
-  - "[[Pathfinding]]"
   - "[[Algorithm]]"
+  - "[[Pathfinding]]"
 ---
 
 # A-Star Algorithm
 
 (A\* Algorithm)
 
-Versatile pathfinding and graph traversal algorithm.
+Versatile [[Pathfinding]] and graph traversal algorithm.
 
 ---
 
