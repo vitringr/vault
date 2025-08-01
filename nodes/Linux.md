@@ -5,7 +5,7 @@ context:
 
 # Linux
 
-Free and [[Open Source]] operating system.
+[[Free and Open Source]] [[Operating System]].
 
 ---
 

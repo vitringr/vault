@@ -1,7 +1,7 @@
 ---
 context:
   - "[[Software License]]"
-  - "[[Free Open Source Software]]"
+  - "[[Free and Open Source]]"
 ---
 
 # MIT License

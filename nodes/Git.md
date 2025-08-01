@@ -7,11 +7,13 @@ context:
 
 # Git
 
-Free and [[Open Source]] distributed [[Version Control]] system.
+[[Free and Open Source]] distributed [[Version Control]] system.
 
 ---
 
-Common commands:
+**Appication**: As a [[Software Application]], Git itself is a [[CLI Application]], but there are also many [[GUI Application]]s that wrap around it.
+
+## Common Commands
 
 - `git init`: Initialize a new [[Repository]].
 - `git clone`: Clone an existing repository.

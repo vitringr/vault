@@ -1,14 +1,12 @@
 ---
 aliases:
+  - Free Open Source Software
   - FOSS
-  - Free and Open Source
 context:
   - "[[Software Licensing]]"
 ---
 
-# Free Open Source Software
-
-(FOSS)
+# Free and Open Source
 
 [[Software Licensing]] where [[Source Code]] is free and publicly available for anyone to view, modify, and distribute.
 
