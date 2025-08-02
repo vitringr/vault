@@ -8,20 +8,26 @@ context:
 
 # Array
 
-Fixed-size [[Data Structure]] containing a collection of elements of the same type, indexed sequentially.
+Linear [[Data Structure]] containing a collection of elements of the same type in contiguous memory locations.
 
 ---
 
-**Access**: `O(1)` access via indices.
-
-**Fixed Size**: Arrays have a preallocated fixed size.
+**Index**: Array elements can be accessed by index.
 
 **Homogeneous**: All array elements are of the same data type.
 
+**Fixed Size**: Arrays have a preallocated fixed size.
+
+**Contiguous Memory**: Elements are stored in adjacent memory locations.
+
 ## Dimensions
 
-**Single**: The simplest form of an array is 1D, where `n` number of elements are stored one after another, and are accessed as `array[x]`.
+**One-dimensional**: The simplest form of an array is 1D, where `n` number of elements are stored one after another, and are accessed as `array[x]`.
 
-**Multiple**: An array can contain other arrays, allowing for a more natural presentation of multidimensional data. Such arrays can be accessed as `array[x][y]`, where `x` is the index of a nested array, and `y` is the index of an element inside of it.
+**Multi-dimensional**: An array can contain other arrays, allowing for a more natural presentation of multidimensional data. Such arrays can be accessed as `array[x][y]`, where `x` is the index of a nested array, and `y` is the index of an element inside of it.
 
-This can scale to an arbitrary number of dimensions.
+This can scale to an arbitrary number of dimensions, although usually not recommended to go beyond 2 or 3 dimensions.
+
+## Performance
+
+**Access**: `O(1)` random access via indices.
