@@ -3,7 +3,7 @@ context:
   - "[[Asymptotic Analysis]]"
 ---
 
-# Omega Notation
+# Big Omega Notation
 
 Best-case [[Asymptotic Analysis]] of an [[Algorithm]].
 

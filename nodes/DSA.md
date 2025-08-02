@@ -21,6 +21,6 @@ Data structures focus on storing and organizing data, while algorithms focus on 
 
 **Efficiency**: Understanding [[Computational Complexity]] is important for efficient problem solving.
 
-**Approach**: In general, when faced with a computational problem, a good approach is to first think about an efficient data representation of the problem, and then think of efficient ways to operate on it.
+**General Approach**: In general, when faced with a computational problem, a good approach is to first think about an efficient data representation of the problem, and then think of efficient ways to operate on it.
 
-**Patterns**: Learning DSA helps recognize reusable problem-solving patterns and when to apply them.
+**Reusable Patterns**: Learning DSA helps recognize reusable problem-solving patterns and when to apply them.

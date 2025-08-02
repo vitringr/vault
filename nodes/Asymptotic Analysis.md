@@ -28,7 +28,7 @@ Ignores constants and lower-order terms.
 
 **Worst-case**: See [[Big O Notation]]
 
-**Best-case**: See [[Omega Notation]]
+**Best-case**: See [[Big Omega Notation]]
 
 ## Limitations
 

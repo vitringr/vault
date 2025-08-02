@@ -1,10 +1,19 @@
 "generative artist"
 
+# On Habits
+
+- we are what we do
+- 3 months vs 5 years
+- kaizen kaizen kaizen kaizen kaizen...
+- impulsive behavior vs actual choice
+- building yourself
+- fuck talent
+
 # Resources
 
 Any resources worthy of a single page.
 
-Big O is a godo idea, also snippets and such.
+Big O is a good example, also snippets and such.
 
 # Guides
 
