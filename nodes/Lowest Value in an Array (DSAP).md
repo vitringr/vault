@@ -9,7 +9,7 @@ Given an [[Array]], output the element with the lowest value.
 
 ---
 
-**Difficulty**: Easy
+**Difficulty**: Basic
 **Time Complexity**: `0(n)` Linear
 **Space Complexity**: `0(1)` Constant
 
@@ -25,5 +25,4 @@ int getLowest(int arr[], int size) {
 
   return lowest;
 }
-
 ```

@@ -11,14 +11,10 @@
             "id": "e472a9ac15f6d349",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodes/Lowest Value in an Array (DSAP).md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Lowest Value in an Array (DSAP)"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -152,6 +148,8 @@
   },
   "active": "e472a9ac15f6d349",
   "lastOpenFiles": [
+    "nodes/DSAP.md",
+    "nodes/Lowest Value in an Array (DSAP).md",
     "nodes/Lowest Value in an Array (DSAP).md~",
     "nodes/Electrical Circuit.md",
     "nodes/Reactive Programming.md",
@@ -179,7 +177,6 @@
     "nodes/Heuristic.md~",
     "nodes/SolidJS.md~",
     "nodes/Falsifiability Principle.md",
-    "_Tasks.md~",
     "nodes/TSX.md",
     "nodes/JSX.md",
     "_System.md",
@@ -188,7 +185,6 @@
     "nodes/Electrical Engineering.md",
     "nodes/Multiplicative Inverse.md",
     "nodes/Vitringr.md",
-    "nodes/Bash Scripting.md",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
   ]

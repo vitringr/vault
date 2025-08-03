@@ -12,6 +12,8 @@ Linear [[Data Structure]] containing a collection of elements of the same type i
 
 ---
 
+Probably the simplest and most universal data structure.
+
 **Indexed**: Array elements can be accessed by their index, usually starting from `0`.
 
 **Contiguous Memory**: Elements are stored in adjacent memory locations.

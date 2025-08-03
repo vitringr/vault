@@ -13,5 +13,14 @@ Collection of [[DSA]] problems and possible solutions.
 
 ---
 
-[[Fibonacci Numbers (DSAP)]]
+## Basic
+
 [[Lowest Value in an Array (DSAP)]]
+
+## Easy
+
+[[Fibonacci Numbers (DSAP)]]
+
+## Medium
+
+## Hard
