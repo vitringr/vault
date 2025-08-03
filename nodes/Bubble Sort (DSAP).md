@@ -1,24 +1,17 @@
 ---
 context:
-  - "[[Sorting Algorithm]]"
+  - "[[DSAP]]"
 ---
 
-# Bubble Sort
+# Bubble Sort (DSAP)
 
-[[Sorting Algorithm]] that repeatedly iterates through the collection, comparing adjacent elements, and swapping them if needed.
+Implement [[Bubble Sort]].
 
 ---
 
-Gets its name because with each iteration the largest element "bubbles" up to its proper location.
-
-## Computational Complexity
-
-Bubble sort is simple, but very inefficient for large collections.
-
+**Difficulty**: Easy
 **Time Complexity**: `O(n²)` Polynomial
 **Space Complexity**: `O(1)` Constant
-
-## Implementation
 
 ```c
 void bubbleSort(int arr[], int size) {

@@ -20,6 +20,7 @@ Collection of [[DSA]] problems and possible solutions.
 ## Easy
 
 [[Fibonacci Numbers (DSAP)]]
+[[Bubble Sort (DSAP)]]
 
 ## Medium
 

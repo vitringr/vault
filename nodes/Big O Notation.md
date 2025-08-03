@@ -7,7 +7,7 @@ context:
 
 # Big O Notation
 
-Worst-case [Asymptotic Analysis]] of an [[Algorithm]].
+Worst-case [[Asymptotic Analysis]] of an [[Algorithm]].
 
 ---
 
