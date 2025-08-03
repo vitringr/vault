@@ -5,11 +5,11 @@ context:
 
 # Bubble Sort
 
-[[Sorting Algorithm]] that repeatedly iterates through the collection, comparing adjacent elements, and swapping them if needed.
+Stable [[Sorting Algorithm]] that repeatedly iterates through the collection, comparing adjacent elements, and swapping them if needed.
 
 ---
 
-Gets its name because with each iteration the largest element "bubbles" up to its proper location.
+**Name**: Gets its name because with each iteration the largest element "bubbles" up to its proper location.
 
 ## Computational Complexity
 

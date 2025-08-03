@@ -13,6 +13,9 @@ context:
 
 The goal is to organize data for efficient searching, analysis, or storage.
 
-## Common Examples
+**Stability**: Sorting algorithms are _stable_ if they preserve the relative order or equal elements, and are _unstable_ if they don't.
+
+## Common Algorithms
 
 [[Bubble Sort]]
+[[Selection Sort]]

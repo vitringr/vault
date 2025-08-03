@@ -21,6 +21,7 @@ Collection of [[DSA]] problems and possible solutions.
 
 [[Fibonacci Numbers (DSAP)]]
 [[Bubble Sort (DSAP)]]
+[[Selection Sort (DSAP)]]
 
 ## Medium
 
