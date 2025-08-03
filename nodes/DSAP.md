@@ -14,3 +14,4 @@ Collection of [[DSA]] problems and possible solutions.
 ---
 
 [[Fibonacci Numbers (DSAP)]]
+[[Lowest Value in an Array (DSAP)]]
