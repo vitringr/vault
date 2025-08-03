@@ -12,13 +12,13 @@ Linear [[Data Structure]] containing a collection of elements of the same type i
 
 ---
 
-**Index**: Array elements can be accessed by index.
+**Indexed**: Array elements can be accessed by their index, usually starting from `0`.
+
+**Contiguous Memory**: Elements are stored in adjacent memory locations.
 
 **Homogeneous**: All array elements are of the same data type.
 
 **Fixed Size**: Arrays have a preallocated fixed size.
-
-**Contiguous Memory**: Elements are stored in adjacent memory locations.
 
 ## Dimensions
 
@@ -30,4 +30,4 @@ This can scale to an arbitrary number of dimensions, although usually not recomm
 
 ## Performance
 
-**Access**: `O(1)` random access via indices.
+**Access**: `O(1)` [[Random Access]] via indices.
