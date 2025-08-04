@@ -12,9 +12,20 @@ Variables in the C programming language.
 
 ---
 
-| Data Type | Bytes      | Description                     |
-| --------- | ---------- | ------------------------------- |
-| `int`     | `2` or `4` | Integer                         |
-| `float`   | `4`        | Single-precision floating point |
-| `double`  | `8`        | Double-precision floating point |
-| `char`    | `1`        | Single character                |
+See [[C Data Types]]
+
+```
+type name;
+type name = value;
+```
+
+## Name Rules
+
+- Can contain letters, digits, and underscores.
+- Must start with a letter or underscore "`_`".
+- Cannot use [[C Keywords]].
+- Case-sensitive.
+
+## Scope
+
+**Local**: 
