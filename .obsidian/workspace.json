@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/C Variables.md",
+                "file": "nodes/C Constants.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "C Variables"
+              "title": "C Constants"
             }
           }
         ]
@@ -153,6 +153,7 @@
   "active": "75f225d9d06153ee",
   "lastOpenFiles": [
     "nodes/C Constants.md~",
+    "nodes/C Variables.md",
     "nodes/C Constants.md",
     "nodes/C Literals.md~",
     "nodes/C Literals.md",
@@ -160,7 +161,6 @@
     "nodes/C Data Types.md",
     "nodes/4913",
     "nodes/C Data Types.md~",
-    "nodes/C Variables.md",
     "nodes/DSAP.md",
     "nodes/Lowest Value in an Array (DSAP).md",
     "nodes/Lowest Value in an Array (DSAP).md~",
@@ -180,7 +180,6 @@
     "nodes/Telecommunication.md",
     "_Study.md",
     "nodes/Vector.md",
-    "nodes/Vector.md~",
     "nodes/Filesystem Hierarchy Standard.md",
     "nodes/Heuristic.md",
     "nodes/A-Star Algorithm.md",
