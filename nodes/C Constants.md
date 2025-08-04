@@ -20,6 +20,8 @@ See [[C Data Types]]
 
 ## Named Constants
 
+Use `const` or `#define` to create named constants.
+
 ```c
 #define A 42
 const int B = 42;
@@ -32,7 +34,11 @@ const int B = 42;
 | Scope       | Follows C scoping rules    | Global (no scope)        |
 | Debugging   | Easier (symbolic in debug) | Harder (replaced text)   |
 
-## Enums
+### Enums
+
+Use `enum` to create user-defined named integer constants.
+
+Default values start at `0` and increment by `1`.
 
 ```c
 enum Color { RED, GREEN, BLUE };
