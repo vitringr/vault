@@ -1,4 +1,6 @@
 ---
+tags:
+  - "data"
 aliases:
   - C Literals
 context:
@@ -20,7 +22,6 @@ See [[C Data Types]]
 
 ```c
 #define A 42
-
 const int B = 42;
 ```
 
@@ -43,7 +44,13 @@ enum Color a = RED;
 
 Enclosed in single quotes (`'A'`).
 
-Can be escape sequences:
+```c
+char letter = 'A';     // Simple character
+char newline = '\n';   // Escape sequence
+char null_char = '\0'; // Null terminator
+```
+
+### Escape sequences:
 
 | Escape sequence | Character represented                                                                |
 | --------------- | ------------------------------------------------------------------------------------ |
@@ -67,3 +74,15 @@ Can be escape sequences:
 ## String Literals
 
 Enclosed in double quotes (`"Hello"`).
+
+Stored as null-terminated `char` arrays (`'H','e','l','l','o','\0'`).
+
+**Immutable**: Modifying them leads to undefined behavior.
+
+```c
+char str[] = "Hello";      // Modifiable copy
+const char *ptr = "World"; // Read-only (best practice)
+printf("%s", "C Programming"); // Direct usage
+```
+
+**Quotes**: Note that `'A'` is a single character (1 byte) `A`, while `"A"` is a string (2 bytes) `A` + `\0`.
