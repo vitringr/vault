@@ -1,5 +1,5 @@
 Clarity is King.
-\- unknown
+\- null
 
 Play is the highest form of research.
 \- Albert Einstein
@@ -17,7 +17,7 @@ We only see what we know.
 \- Goethe
 
 Those who say it cannot be done should not interrupt the ones doing it.
-\- unknown
+\- null
 
 Whether you think you can or think you can't, you're right.
 \- Henry Ford
@@ -31,15 +31,6 @@ If you wish to make an apple pie from scratch, you must first invent the univers
 Man is quite insane. He wouldn't know how to create a maggot, and yet he creates Gods by the dozen.
 \- Michel de Montaigne
 
-Earth provides enough to satisfy every man's need, but not every man's greed.
-\- Mahatma Gandhi
-
-We may encounter many defeats, but we must not be defeated.
-\- Maya Angelou
-
-If it costs you your peace, then it's too expensive.
-\- unknown
-
 The path to paradise begins in hell.
 \- Dante
 
@@ -47,7 +38,7 @@ The reasonable man adapts himself to the world. The unreasonable one persists in
 \- George Bernard Shaw
 
 Judge a man by his questions rather than by his answers.
-\- unknown
+\- null
 
 I may disagree with what you have to say, but I shall defend, to the death, your right to say it.
 \- Voltaire
@@ -68,7 +59,7 @@ Ever tried, ever failed. No matter. Try again, fail again. Fail better.
 \- Samuel Beckett
 
 The harder I practice, the luckier I get.
-\- unknown
+\- null
 
 Fear he who fears nothing.
 \- Terrorblade
@@ -84,9 +75,6 @@ The great achievements of man have come from those who dared to believe that som
 
 The impossible becomes possible, the possible becomes probable, the probable becomes inevitable.
 \- Andrew Ryan
-
-The price of Liberty is eternal vigilance.
-\- Thomas Jefferson
 
 The question is not what you look at, but what you see.
 \- Henry David Thoreau
@@ -127,9 +115,6 @@ You must understand that there is more than one path to the top of the mountain.
 The true science of martial arts means practicing them in such a way that they will be useful at any time, and to teach them in such a way that they will be useful in all things.
 \- Miyamoto Musashi
 
-All man are the same except for their belief in their own selves, regardless of what others may think of them.
-\- Miyamoto Musashi
-
 Nothing that is truly for you will require you to act out of character to get it.
 \- unknown
 
@@ -137,7 +122,7 @@ Truth is not what you want it to be, it is what it is, and you must bend to its 
 \- Miyamoto Musashi
 
 If to correct you must humiliate, you don't know how to teach.
-\- unknown
+\- null
 
 Hesitation is defeat.
 \- Isshin Ashina
@@ -166,11 +151,8 @@ Talents hits a target no one else can hit. Genius hits a target no one else can 
 Play the opening like a book, the middle game like a magician, and the endgame like a machine.
 \- Rudolf Spielmann
 
-Religion is regarded by the common people as true, by the wise as false, and by rulers as useful.
-\- Seneca
-
 Whenever you have an idea that you think is brilliant, don't try to prove it right, but try to prove it wrong.
-\- unknown
+\- null
 
 The impediment to action advances action. What stands in the way becomes the way.
 \- Marcus Aurelius
@@ -182,22 +164,19 @@ Those who do not know how to govern themselves are constantly looking for a lead
 \- Herman Hesse
 
 If you don't want to be stepped on - don't crawl.
-\- Zachary Mladenov
-
-Focused consciousness by choice.
-\- Frank Herbert
+\- Grandfather Zachary
 
 There's a difference between knowing the path and walking the path.
 \- Morpheus
 
 If death is promised, what are you afraid of?
-\- unknown
+\- null
 
 Success lies in the relentless execution of the basics.
 \- Leonardo Da Vinci
 
 You need to tear muscle to grow it. Why would it be different for the mind or spirit?
-\- unknown
+\- null
 
 If you can't explain it simply, you don't understand it well enough.
 \- Albert Einstein
@@ -206,7 +185,7 @@ The hardest thing to explain is the glaringly evident which everybody has decide
 \- Ayn Rand
 
 They think our Art is about turning lead to gold, when truly it is about turning fools into sages.
-\- unknown
+\- null
 
 One man's noise is another man's signal.
-\- unknown
+\- null
