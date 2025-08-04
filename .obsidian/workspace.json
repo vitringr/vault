@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/C Constants.md",
+                "file": "nodes/C Operators.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "C Constants"
+              "title": "C Operators"
             }
           }
         ]
@@ -152,13 +152,16 @@
   },
   "active": "75f225d9d06153ee",
   "lastOpenFiles": [
-    "nodes/C Constants.md~",
+    "nodes/C Operators.md~",
     "nodes/4913",
-    "nodes/C Variables.md",
     "nodes/C Constants.md",
+    "nodes/C Operators.md",
+    "nodes/C Variables.md~",
+    "nodes/Operator (Programming).md~",
+    "nodes/C Constants.md~",
+    "nodes/C Variables.md",
     "nodes/C Literals.md~",
     "nodes/C Literals.md",
-    "nodes/C Variables.md~",
     "nodes/C Data Types.md",
     "nodes/C Data Types.md~",
     "nodes/DSAP.md",
@@ -175,8 +178,6 @@
     "nodes/USB.md~",
     "nodes/Linux Working With USB.md~",
     "nodes/USB.md",
-    "nodes/Parallel Communication.md~",
-    "nodes/Serial Communication.md~",
     "nodes/Telecommunication.md",
     "_Study.md",
     "nodes/Vector.md",
@@ -187,7 +188,6 @@
     "nodes/Falsifiability Principle.md",
     "nodes/TSX.md",
     "nodes/JSX.md",
-    "_System.md",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
   ]
