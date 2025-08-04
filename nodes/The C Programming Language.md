@@ -38,3 +38,5 @@ The language is not tied to any operating system or machine.
 **Minimalism**: The minimalistic design of C is one of the things that makes it so good. A programmer can reasonably expect to know and understand and indeed regularly use the entire language.
 
 **Portable**: It is easy to write portable programs, as C is independent of any particular machine architecture. The programs can be run without change on a variety of different hardware.
+
+## Chapter 1: A Tutorial Introduction
