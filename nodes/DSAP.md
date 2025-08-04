@@ -9,7 +9,7 @@ context:
 
 (Data Structures and Algorithms Problems)
 
-Collection of [[DSA]] problems and possible solutions.
+Collection of [[DSA]] problems and solutions.
 
 ---
 
