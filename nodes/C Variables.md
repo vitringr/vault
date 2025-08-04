@@ -14,18 +14,24 @@ Variables in the C programming language.
 
 See [[C Data Types]]
 
-```
-type name;
-type name = value;
+```c
+int num;      // Declaration
+int num = 42; // Initialization
 ```
 
-## Name Rules
+## Naming Rules
 
 - Can contain letters, digits, and underscores.
 - Must start with a letter or underscore "`_`".
+- First `31` characters of names are significant.
 - Cannot use [[C Keywords]].
 - Case-sensitive.
 
 ## Scope
 
 #wip
+
+## Storage Classes
+
+#wip
+automatic, register, static, external
