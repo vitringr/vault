@@ -2,13 +2,13 @@
 aliases:
   - JS
 context:
-  - "[[Programming Language]]"
+  - "[[Scripting Language]]"
   - "[[General-purpose Language]]"
 ---
 
 # JavaScript
 
-General-purpose high-level programming language.
+General-purpose high-level scripting language.
 
 ---
 
@@ -18,5 +18,8 @@ General-purpose high-level programming language.
 
 ## Environment
 
-- **Web Environment**: [[Web Browser|Web browsers]] have a dedicated JavaScript engine that executes the client code.
-- **Non-Browser Environment**: JavaScript can be run outside of a browser by runtime environments such as [[NodeJS]].
+**Web Environment**: [[Web Browser|Web browsers]] have a dedicated JavaScript engine that executes the client code.
+
+**Non-Browser Environment**: JavaScript can be run outside of a browser by runtime environments such as [[NodeJS]].
+
+JavaScript often blurs the difference between a [[Scripting Language]] and a [[Programming Language]].

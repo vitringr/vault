@@ -1,13 +1,13 @@
 ---
 context:
-  - "[[Programming Language]]"
+  - "[[Scripting Language]]"
   - "[[General-purpose Language]]"
 ---
 
 # Lua
 
-Lightweight, high-level, general-purpose programming language.
+Lightweight, high-level, general-purpose scripting language.
 
 ---
 
-Designed mainly for embedded use in software applications.
+Designed mainly for embedded use in software systems.
