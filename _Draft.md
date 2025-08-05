@@ -1,3 +1,7 @@
+Ventsi: "Most important for programming is simplicity"
+
+---
+
 // ---------------
 // -- PARTICLES --
 // ---------------
