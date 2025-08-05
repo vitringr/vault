@@ -3,8 +3,6 @@ context:
   - "[[Sorting Algorithm]]"
 ---
 
-#wip
-
 # Insertion Sort
 
 Stable [[Sorting Algorithm]] that repeatedly swaps the next unsorted element until it reaches the correct position.
@@ -17,3 +15,19 @@ Insertion sort is simple and efficient for nearly-sorted data, but inefficient f
 
 **Time Complexity**: `O(n²)` Polynomial
 **Space Complexity**: `O(1)` Constant
+
+```c
+void insertionSort(int arr[], int size) {
+  for (int i = 1; i < size; i++) {
+    int current = arr[i];
+    int k = i - 1;
+
+    while (k >= 0 && arr[k] > current) {
+      arr[k + 1] = arr[k];
+      k--;
+    }
+
+    arr[k + 1] = current;
+  }
+}
+```
