@@ -20,3 +20,4 @@ The goal is to organize data for efficient searching, analysis, or storage.
 [[Bubble Sort]]
 [[Selection Sort]]
 [[Insertion Sort]]
+[[Quicksort]]

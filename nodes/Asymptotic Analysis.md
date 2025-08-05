@@ -27,7 +27,6 @@ Ignores constants and lower-order terms.
 | `n!`      | Factorial       |
 
 **Worst-case**: See [[Big O Notation]]
-
 **Best-case**: See [[Big Omega Notation]]
 
 ## Limitations
