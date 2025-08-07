@@ -1,6 +1,6 @@
 - [ ] backup and archive
 - [ ] name documents
-- [ ] sprays
+- [x] sprays
 - [ ] weapons documents
 - [ ] weapons course
 - [ ] new phone number
