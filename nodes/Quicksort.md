@@ -3,8 +3,6 @@ context:
   - "[[Sorting Algorithm]]"
 ---
 
-#wip
-
 # Quicksort
 
 Efficient unstable [[Sorting Algorithm]] that uses [[Recursion]] and the [[Divide and Conquer]] strategy.
@@ -23,10 +21,10 @@ The Quicksort algorithm has different variations which affect performance and wo
 
 The choice of pivot significantly impacts efficiency. Common strategies include:
 
-**Middle Element**: Simply picks the middle element.
-**First/Last Element**: Simple implementation, but risks worst-case `O(n²)` on sorted or nearly sorted data.
-**Median-of-Three**: Picks the median of the first, middle, and last elements to balance partitions.
-**Random Pivot**: Randomly selects an element, reducing worst-case probability.
+- **Middle Element**: Simply picks the middle element.
+- **First/Last Element**: Simple implementation, but risks worst-case `O(n²)` on sorted or nearly sorted data.
+- **Median-of-Three**: Picks the median of the first, middle, and last elements to balance partitions.
+- **Random Pivot**: Randomly selects an element, reducing worst-case probability.
 
 ### Partition Scheme
 
@@ -69,3 +67,67 @@ As the name implies, Quicksort, on average, is one of the fastest sorting algori
 - Worst: `O(n)`
 
 ## Implementation
+
+This implementation is _tail recursive_ with _hoare partitioning_, _middle element pivot_, and _insertion sort fallback_.
+
+```c
+static inline void swap(int *a, int *b) {
+  int temp = *a;
+  *a = *b;
+  *b = temp;
+}
+
+static void insertionSort(int *arr, int low, int high) {
+  for (int i = low + 1; i <= high; i++) {
+    int key = arr[i];
+    int k = i - 1;
+    while (k >= low && arr[k] > key) {
+      arr[k + 1] = arr[k];
+      k--;
+    }
+    arr[k + 1] = key;
+  }
+}
+
+static int partition(int *arr, int start, int end) {
+  const int pivot = arr[start + (end - start) / 2];
+
+  int left = start - 1;
+  int right = end + 1;
+
+  while (1) {
+    while (arr[++left] < pivot);
+    while (arr[--right] > pivot);
+
+    if (left >= right)
+      return right;
+
+    swap(&arr[left], &arr[right]);
+  }
+}
+
+void quicksort(int *arr, int start, int end) {
+  if (end - start <= 20) {
+    insertionSort(arr, start, end);
+    return;
+  }
+
+  while (start < end) {
+    int p = partition(arr, start, end);
+
+    if (p - start < end - p) {
+      quicksort(arr, start, p);
+      start = p + 1;
+    } else {
+      quicksort(arr, p + 1, end);
+      end = p;
+    }
+  }
+}
+
+void sort(int *arr, int size) {
+  if (size <= 1)
+    return;
+  quicksort(arr, 0, size - 1);
+}
+```
