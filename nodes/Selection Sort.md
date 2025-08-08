@@ -11,7 +11,7 @@ Unstable [[Sorting Algorithm]] that repeatedly moves the next lowest value to th
 
 ## Computational Complexity
 
-**Time Complexity**: `O(n²)` Polynomial
+**Time Complexity**: `O(n²)` Quadratic
 **Space Complexity**: `O(1)` Constant
 
 ## Implementation

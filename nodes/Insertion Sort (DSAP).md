@@ -10,7 +10,7 @@ Implement [[Insertion Sort]].
 ---
 
 **Difficulty**: Easy
-**Time Complexity**: `O(n²)` Polynomial
+**Time Complexity**: `O(n²)` Quadratic
 **Space Complexity**: `O(1)` Constant
 
 ```c

@@ -20,7 +20,7 @@ Efficient unstable [[Sorting Algorithm]] that uses [[Recursion]] and the [[Divid
 As the name implies, Quicksort, on average, is one of the fastest sorting algorithms.
 
 **Average Time Complexity**: `O(n log n)` Linearithmic
-**Worst Time Complexity**: `O(n²)` Polynomial
+**Worst Time Complexity**: `O(n²)` Quadratic
 
 **Average Space Complexity**: #wip
 **Worst Space Complexity**: #wip

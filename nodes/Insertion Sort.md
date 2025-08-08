@@ -13,7 +13,7 @@ Stable [[Sorting Algorithm]] that repeatedly swaps the next unsorted element unt
 
 Insertion sort is simple and efficient for nearly-sorted data, but inefficient for large random/unsorted collections.
 
-**Time Complexity**: `O(n²)` Polynomial
+**Time Complexity**: `O(n²)` Quadratic
 **Space Complexity**: `O(1)` Constant
 
 ```c

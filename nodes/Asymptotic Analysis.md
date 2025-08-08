@@ -22,7 +22,8 @@ Ignores constants and lower-order terms.
 | `log n`   | Logarithmic     |
 | `n`       | Linear          |
 | `n log n` | Linearithmic    |
-| `n²`      | Polynomial      |
+| `n²`      | Quadratic       |
+| `n³`      | Cubic           |
 | `2ⁿ`      | Exponential     |
 | `n!`      | Factorial       |
 

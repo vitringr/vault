@@ -15,7 +15,7 @@ Stable [[Sorting Algorithm]] that repeatedly iterates through the collection, co
 
 Bubble sort is simple, but very inefficient for large collections.
 
-**Time Complexity**: `O(n²)` Polynomial
+**Time Complexity**: `O(n²)` Quadratic
 **Space Complexity**: `O(1)` Constant
 
 ## Implementation
