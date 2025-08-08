@@ -16,6 +16,8 @@ Insertion sort is simple and efficient for nearly-sorted data, but inefficient f
 **Time Complexity**: `O(n²)` Quadratic
 **Space Complexity**: `O(1)` Constant
 
+## Implementation
+
 ```c
 void insertionSort(int arr[], int size) {
   for (int i = 1; i < size; i++) {

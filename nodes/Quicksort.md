@@ -30,11 +30,27 @@ The choice of pivot significantly impacts efficiency. Common strategies include:
 
 ### Partition Scheme
 
-The key process in quicksort is partitioning.
+The core of Quicksort lies in partitioning. There are two common approaches:
 
-**Lomuto Partition**:
+**Lomuto Partition**: Pivot is usually the last element. Iterates through the array, swapping elements less than the pivot, finally placing the pivot in its correct position.
 
-**Hoare Partition**:
+- Simpler to understand and implement.
+- Inefficient compared to Hoare partition.
+
+**Hoare Partition**: Pivot is usually the first or middle element. Uses two pointers starting at both ends, moving inward until they cross, swapping misplaced elements in the process.
+
+- Trickier to understand and implement.
+- Fewer swaps than Lomuto partition.
+
+### Tail-recursive
+
+The key idea is to recurse only on the smaller partition and iterate on the larger one. This ensures the recursion depth never exceeds `O(log n)`.
+
+### Hybrid & Adaptive
+
+Hybrid approaches combine Quicksort with other algorithms to optimize performance adaptively, switching strategies based on input characteristics.
+
+For example, the algorithm can switch to something like [[Insertion Sort]] when the collection size is less than a given threshold.
 
 ## Computational Complexity
 
@@ -51,3 +67,5 @@ As the name implies, Quicksort, on average, is one of the fastest sorting algori
 - Best: `O(log n)`
 - Average: `O(log n)`
 - Worst: `O(n)`
+
+## Implementation
