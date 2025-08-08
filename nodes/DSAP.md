@@ -26,4 +26,6 @@ Collection of [[DSA]] problems and solutions.
 
 ## Medium
 
+[[Quicksort (DSAP)]]
+
 ## Hard
