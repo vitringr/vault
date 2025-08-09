@@ -317,8 +317,12 @@ Examples:
 | Character | Digraph | Description         |
 | --------- | ------- | ------------------- |
 | ²         | `2S`    | Superscript 2.      |
-| Ω         | `W*`    | Ohm (Omega) symbol. |
+| Ω         | `Om`    | Ohm (Omega) symbol. |
 | →         | `->`    | Right arrow.        |
 | º         | `-o`    | Degrees.            |
+| ≈         | `2?`    | Almost equal.       |
+| ✓         | `OK`    | Okay.               |
+| ✗         | `2?`    | X.                  |
+
 
 Use the `:digraphs` command to see the whole list.

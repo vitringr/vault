@@ -21,3 +21,4 @@ The goal is to organize data for efficient searching, analysis, or storage.
 [[Selection Sort]]
 [[Insertion Sort]]
 [[Quicksort]]
+[[Counting Sort]]

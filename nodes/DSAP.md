@@ -15,6 +15,7 @@ Collection of [[DSA]] problems and solutions.
 
 ## Basic
 
+[[Linear Search (DSAP)]]
 [[Lowest Value in an Array (DSAP)]]
 
 ## Easy
