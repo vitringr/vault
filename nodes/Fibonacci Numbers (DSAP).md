@@ -10,8 +10,9 @@ Output the first `n` [[Fibonacci Sequence]] numbers.
 ---
 
 **Difficulty**: Easy
-**Time Complexity**: `O(n)` Linear
-**Space Complexity**: `0(1)` Constant
+
+**Time Complexity**: `O(n)`
+**Space Complexity**: `0(1)`
 
 ```c
 void fibonacci(int count) {

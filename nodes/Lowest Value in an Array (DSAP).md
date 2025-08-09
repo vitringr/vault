@@ -10,8 +10,9 @@ Given an [[Array]], output the element with the lowest value.
 ---
 
 **Difficulty**: Basic
-**Time Complexity**: `0(n)` Linear
-**Space Complexity**: `0(1)` Constant
+
+**Time Complexity**: `0(n)`
+**Space Complexity**: `0(1)`
 
 ```c
 int getLowest(int arr[], int size) {

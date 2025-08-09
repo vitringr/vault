@@ -10,8 +10,9 @@ Implement [[Bubble Sort]].
 ---
 
 **Difficulty**: Easy
-**Time Complexity**: `O(n²)` Quadratic
-**Space Complexity**: `O(1)` Constant
+
+**Time Complexity**: `O(n²)`
+**Space Complexity**: `O(1)`
 
 ```c
 void bubbleSort(int arr[], int size) {

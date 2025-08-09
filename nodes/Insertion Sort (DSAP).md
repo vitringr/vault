@@ -10,8 +10,9 @@ Implement [[Insertion Sort]].
 ---
 
 **Difficulty**: Easy
-**Time Complexity**: `O(n²)` Quadratic
-**Space Complexity**: `O(1)` Constant
+
+**Time Complexity**: `O(n²)`
+**Space Complexity**: `O(1)`
 
 ```c
 void insertionSort(int arr[], int size) {
