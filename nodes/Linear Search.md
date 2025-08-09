@@ -2,7 +2,7 @@
 aliases:
   - Sequential Search
 context:
-  - "[[Algorithm]]"
+  - "[[Search Algorithm]]"
 ---
 
 # Linear Search

@@ -2,6 +2,7 @@
 aliases:
   - Sorting Algorithms
 context:
+  - "[[Algorithm]]"
   - "[[DSA]]"
 ---
 
