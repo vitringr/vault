@@ -152,8 +152,10 @@
   },
   "active": "75f225d9d06153ee",
   "lastOpenFiles": [
-    "nodes/TypeScript Data Types.md~",
+    "nodes/TypeScript Assertions.md~",
     "nodes/4913",
+    "nodes/TypeScript Data Types.md~",
+    "nodes/TypeScript Assertions.md",
     "nodes/TypeScript Utility Types.md~",
     "nodes/TypeScript Utility Types.md",
     "nodes/JavaScript Keyed Collections.md",
@@ -166,7 +168,6 @@
     "nodes/Source Code.md~",
     "nodes/C Macros.md~",
     "nodes/Binary File.md~",
-    "nodes/Compilation.md~",
     "nodes/Machine Code.md",
     "nodes/Compilation.md",
     "nodes/C Preprocessor.md",
@@ -187,7 +188,6 @@
     "_System.md",
     "nodes/Quicksort.md",
     "nodes/C Operators.md",
-    "nodes/C Data Types.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"

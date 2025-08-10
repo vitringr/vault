@@ -7,7 +7,7 @@ context:
 
 # TypeScript Data Types
 
-TypeScript extends [[JavaScript Data Types]].
+[[TypeScript]] extends [[JavaScript Data Types]].
 
 ---
 
