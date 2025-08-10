@@ -12,6 +12,8 @@ Functions in the C programming language.
 
 Functions encapsulate reusable logic.
 
+See [[C Scope]]
+
 ## Components
 
 The components of a C function:

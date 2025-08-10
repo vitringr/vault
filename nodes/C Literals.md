@@ -1,46 +1,21 @@
 ---
-tags:
-  - "data"
-aliases:
-  - C Literals
 context:
   - "[[C (Programming Language)]]"
-  - "[[Constant (Programming)]]"
 ---
 
-# C Constants
+# C Literals
 
-Constants in the C programming language.
+Literals in the C programming language.
 
 ---
 
-See [[C Data Types]]
-
-## Named Constants
-
-Use `const` or `#define` to create named constants.
+Hard-coded values in the program:
 
 ```c
-#define A 42
-const int B = 42;
-```
-
-| Feature     | `const` Keyword            | `#define` Macro          |
-| ----------- | -------------------------- | ------------------------ |
-| Type Safety | Yes (has a data type)      | No (text replacement)    |
-| Memory      | Allocated in memory        | No memory (preprocessor) |
-| Scope       | Follows C scoping rules    | Global (no scope)        |
-| Debugging   | Easier (symbolic in debug) | Harder (replaced text)   |
-
-### Enums
-
-Use `enum` to create user-defined named integer constants.
-
-Default values start at `0` and increment by `1`.
-
-```c
-enum Color { RED, GREEN, BLUE };
-enum Color a = RED;
+42;
+3.14159f;
+'A';
+"B";
 ```
 
 ## Character Literals

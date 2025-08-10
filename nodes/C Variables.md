@@ -13,7 +13,8 @@ Variables in the C programming language.
 ---
 
 See [[C Data Types]]
-See [[C Scope]]
+
+## Definition
 
 ```c
 int num;      // Declaration
@@ -28,11 +29,24 @@ int num = 42; // Initialization
 - Cannot use [[C Keywords]].
 - Case-sensitive.
 
+## Storage
+
+| Keyword    | Lifetime | Scope         | Default Value     |
+| ---------- | -------- | ------------- | ----------------- |
+| `auto`     | Function | Block         | Garbage           |
+| `register` | Function | Block         | Garbage           |
+| `extern`   | Program  | Global        | Defined elsewhere |
+| `static`   | Program  | File/Function | `0`               |
+
+## Constants
+
+Use `const` to make a variable read-only.
+
+See [[C Constants and Macros]]
+
 ## Scope
 
-#wip
-
-## Storage Classes
+See [[C Scope]]
 
 #wip
 automatic, register, static, external
