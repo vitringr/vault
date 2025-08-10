@@ -38,15 +38,16 @@ int num = 42; // Initialization
 | `extern`   | Program  | Global        | Defined elsewhere |
 | `static`   | Program  | File/Function | `0`               |
 
+See [[C Static]]
+
 ## Constants
 
 Use `const` to make a variable read-only.
-
-See [[C Constants and Macros]]
 
 ## Scope
 
 See [[C Scope]]
 
 #wip
+
 automatic, register, static, external
