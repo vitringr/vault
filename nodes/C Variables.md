@@ -4,22 +4,21 @@ context:
   - "[[Variable (Programming)]]"
 ---
 
-#wip
-
 # C Variables
 
 Variables in the C programming language.
 
 ---
 
-See [[C Data Types]]
-
-## Definition
+## Definition and Scope
 
 ```c
 int num;      // Declaration
 int num = 42; // Initialization
 ```
+
+See [[C Data Types]]
+See [[C Scope]]
 
 ## Naming Rules
 
@@ -29,7 +28,7 @@ int num = 42; // Initialization
 - Cannot use [[C Keywords]].
 - Case-sensitive.
 
-## Storage
+## Storage Classes
 
 | Keyword    | Lifetime | Scope         | Default Value     |
 | ---------- | -------- | ------------- | ----------------- |
@@ -38,16 +37,25 @@ int num = 42; // Initialization
 | `extern`   | Program  | Global        | Defined elsewhere |
 | `static`   | Program  | File/Function | `0`               |
 
-See [[C Static]]
+- **Auto**: Explicitly declare automatic (stack-allocated) variables. Redundant (locals are `auto` by default) and almost never written explicitly.
+- **Register**: Hint to the compiler that a variable is going to be used heavily. Mostly ignored since advanced compilers usually optimize better than humans.
+- **Extern**: Decalre a variable or function defined in another file. Used for sharing globals across files. Functions are `extern` by default.
+- **Static**: See [[C Static]]
 
-## Constants
+## Read-only
 
-Use `const` to make a variable read-only.
+**Constants**: Use `const` to make a variable read-only.
 
-## Scope
+**Macros**: See [[C Macros]]
 
-See [[C Scope]]
+## Pointers
 
-#wip
+See [[C Pointers]]
 
-automatic, register, static, external
+## Best Practices
+
+Initialize variables to avoid undefined behavior.
+Use meaningful names.
+Minimize global variables.
+Prefer macros or `const` for value that shouldn't change.
+Take good care of pointers.
