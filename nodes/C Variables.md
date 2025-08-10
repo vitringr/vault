@@ -13,6 +13,7 @@ Variables in the C programming language.
 ---
 
 See [[C Data Types]]
+See [[C Scope]]
 
 ```c
 int num;      // Declaration
