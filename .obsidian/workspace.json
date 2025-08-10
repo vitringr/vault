@@ -11,10 +11,57 @@
             "id": "75f225d9d06153ee",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "nodes/JavaScript.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "JavaScript"
+            }
+          }
+        ]
+      },
+      {
+        "id": "10490e2d86ef7cb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cabfc8f15a1c55ac",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "nodes/JavaScript.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of JavaScript"
             }
           }
         ]
@@ -146,8 +193,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75f225d9d06153ee",
+  "active": "cabfc8f15a1c55ac",
   "lastOpenFiles": [
+    "nodes/JavaScript Keyed Collections.md",
     "nodes/API.md",
     "nodes/C Variables.md",
     "nodes/C Pointers.md~",
@@ -183,7 +231,6 @@
     "nodes/C Data Types.md",
     "nodes/DSAP.md",
     "nodes/Lowest Value in an Array (DSAP).md",
-    "nodes/Electrical Circuit.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"

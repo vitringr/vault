@@ -2,7 +2,6 @@
 aliases:
   - Type Casting
 context:
-  - "[[Computer Science]]"
   - "[[Programming]]"
 ---
 

@@ -1,13 +1,14 @@
 ---
 context:
   - "[[C (Programming Language)]]"
+  - "[[Pointer]]"
 ---
 
 #wip
 
 # C Pointers
 
-ad
+Pointers in the C programming language.
 
 ---
 
