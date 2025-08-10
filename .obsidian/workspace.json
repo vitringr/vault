@@ -13,55 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/JavaScript.md",
+                "file": "nodes/TypeScript Data Types.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "JavaScript"
-            }
-          }
-        ]
-      },
-      {
-        "id": "10490e2d86ef7cb2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cabfc8f15a1c55ac",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "nodes/JavaScript.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of JavaScript"
+              "title": "TypeScript Data Types"
             }
           }
         ]
@@ -193,21 +150,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cabfc8f15a1c55ac",
+  "active": "75f225d9d06153ee",
   "lastOpenFiles": [
+    "nodes/TypeScript Data Types.md~",
+    "nodes/4913",
+    "nodes/TypeScript Utility Types.md~",
+    "nodes/TypeScript Utility Types.md",
     "nodes/JavaScript Keyed Collections.md",
     "nodes/API.md",
     "nodes/C Variables.md",
     "nodes/C Pointers.md~",
     "_Ideas.md~",
     "nodes/C Preprocessor.md~",
-    "nodes/4913",
     "nodes/Machine Code.md~",
     "nodes/Source Code.md~",
     "nodes/C Macros.md~",
     "nodes/Binary File.md~",
     "nodes/Compilation.md~",
-    "nodes/Build Process (Software Engineering).md~",
     "nodes/Machine Code.md",
     "nodes/Compilation.md",
     "nodes/C Preprocessor.md",
@@ -229,8 +188,6 @@
     "nodes/Quicksort.md",
     "nodes/C Operators.md",
     "nodes/C Data Types.md",
-    "nodes/DSAP.md",
-    "nodes/Lowest Value in an Array (DSAP).md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"

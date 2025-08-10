@@ -8,10 +8,10 @@ context:
 
 # TypeScript
 
-TypeScript is free and [[Open Source]] high-level programming language.
+TypeScript is [[Free and Open Source]] high-level [[Programming Language]].
 
 ---
 
-TypeScript is a superset of [[JavaScript]] that adds additional structure, safety, and overall sanity.
+TypeScript is a strict syntactical superset of [[JavaScript]] that adds additional structure, safety, and overall sanity.
 
 TypeScript code is transpiled down to plain JavaScript.
