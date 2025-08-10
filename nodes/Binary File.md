@@ -11,7 +11,7 @@ File containing executable machine code.
 
 Contains sequences of bytes.
 
-Produced by [[Compiler|compiling]] [[Source Code]].
+Produced by [[Compilation|compiling]] [[Source Code]].
 
 **Opaque**: Not intended to be interpreted as human-readable text.
 

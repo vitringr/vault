@@ -12,7 +12,7 @@ The process of converting development [[Source Code]] into a standalone software
 
 ---
 
-**Compilation**: See [[Compiler]]
+**Compilation**: See [[Compilation]]
 
 **Linking**: Combines code with libraries and dependencies to create a complete executable or binary.
 
