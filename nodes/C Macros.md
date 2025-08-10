@@ -5,7 +5,7 @@ context:
 
 # C Macros
 
-Macros are preprocessor directives that perform text substitution before compilation.
+Macros are [[C Preprocessor]] directives that perform text substitution before compilation.
 
 ---
 

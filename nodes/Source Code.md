@@ -5,7 +5,7 @@ context:
 
 # Source Code
 
-A [[Computer Program]] in its human-readable form is called _source code_.
+[[Computer Program]] in its human-readable form.
 
 ---
 
