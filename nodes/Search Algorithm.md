@@ -18,3 +18,5 @@ The goal is to determine whether the target exists and, if so, to retrieve its d
 
 [[Linear Search]]
 [[Binary Search]]
+[[BFS]]
+[[DFS]]

@@ -1,12 +1,16 @@
 ---
+aliases:
+  - Breadth First Search
 context:
   - "[[Search Algorithm]]"
 ---
 
 #wip
 
-# Binary Search
+# BFS
 
 ad
 
 ---
+
+#wip

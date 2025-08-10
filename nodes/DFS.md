@@ -1,12 +1,16 @@
 ---
+aliases:
+  - Depth First Search
 context:
   - "[[Search Algorithm]]"
 ---
 
 #wip
 
-# Binary Search
+# DFS
 
 ad
 
 ---
+
+#wip
