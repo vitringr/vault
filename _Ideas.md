@@ -13,7 +13,7 @@
 
 Any resources worthy of a single page.
 
-Big O is a good example, also snippets and such.
+Snippets and such.
 
 # Guides
 
@@ -77,11 +77,7 @@ Suggested Order of Learning:
 
 - Boat paradox & gradients.
 
-- Finish all the wip strategy notes.
-
 - Recency Bias.
-
-- Qualia.
 
 - Educational Psychology.
 

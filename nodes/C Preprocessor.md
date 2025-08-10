@@ -49,6 +49,9 @@ Simple text replacement before compilation.
     printf("Debug mode\n");
 #endif
 
+#ifndef SOMETHING
+#endif
+
 #if VERSION > 2
     // Code for version 3+
 #elif VERSION == 2
@@ -57,5 +60,3 @@ Simple text replacement before compilation.
     // Default code
 #endif
 ```
-
-
