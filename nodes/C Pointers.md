@@ -79,6 +79,13 @@ arr[3];
 *(p + 3);
 ```
 
+Function parameters are also equivalent:
+
+```c
+void hehe(int *arr) { ... }
+void hehe(int arr[]) { ... }
+```
+
 **Difference**: The difference between the array name and a pointer to the array is that the pointer is a variable, but the array name is not. Thus there are some address arithmetic operations that can be done on the pointer (like `p++`), but not on the array name.
 
 ## Pointer to Pointer

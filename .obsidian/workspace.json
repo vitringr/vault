@@ -11,10 +11,14 @@
             "id": "75f225d9d06153ee",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "nodes/SDL.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "SDL"
             }
           }
         ]
@@ -148,6 +152,7 @@
   },
   "active": "75f225d9d06153ee",
   "lastOpenFiles": [
+    "nodes/SDL.md~",
     "nodes/C (Programming Language).md",
     "nodes/TypeScript Data Types.md",
     "nodes/TypeScript Assertions.md~",
@@ -183,7 +188,6 @@
     "nodes/C Functions.md",
     "nodes/Continuous Function.md",
     "_System.md",
-    "nodes/Quicksort.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
