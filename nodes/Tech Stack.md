@@ -54,6 +54,8 @@ Personal list of technology expertise.
 
 - [[Neovim]]
 
+Learn [[SDL]]
+
 ## Misc
 
 - [[OBS]]
