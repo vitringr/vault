@@ -7,7 +7,7 @@ context:
 
 # Linear Search
 
-Sequentially checks each element of a [[List]] or [[Array]] until it finds the target or reaches the end.
+Sequentially checks each element of a collection until it finds the target or reaches the end.
 
 ---
 
