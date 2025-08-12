@@ -9,7 +9,7 @@ context:
 
 ---
 
-Node structure: `[Data][Link]`
+**Node Structure**: `[Data][Link]`
 
 Links can be implemented using [[Pointer|pointers]].
 
@@ -23,7 +23,7 @@ There are different types of linked lists based on their link structure:
 - [[Doubly Linked List]]
 - [[Circular Linked List]]
 
-Linked lists are assumed to be singly linked lists by default.
+> [!NOTE] It is assumed that _linked list_ refers to _singly linked list_ by default.
 
 ## Benefits & Drawbacks
 

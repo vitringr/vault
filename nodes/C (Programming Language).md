@@ -12,7 +12,7 @@ General-purpose low-level programming language.
 
 ---
 
-_The father of all languages._
+_The fundamental programming language._
 
 Because of how fundamental and low-level it is, the C programming language helps one develop better understanding of [[Computer Science]].
 

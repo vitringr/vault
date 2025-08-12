@@ -73,6 +73,8 @@ Suggested Order of Learning:
 
 # Other
 
+- Textual styling design, markup, colors... it matters.
+
 - Creative coding guide: additive concepts. Start with one, add another known technique, another, another...
 
 - Explain accessible science design, which is one of the goals with my website.
