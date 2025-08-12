@@ -104,3 +104,16 @@ pB = pA;
 
 printf("%d", *pB); // 42
 ```
+
+## Zero
+
+Zero is the only integer that is interchangeable between pointers and integers.
+
+C guarantees that `0` is never a valid address for data.
+
+Pointers can be initialized to zero `0`. The symbolic constant `NULL` is often used in place of zero for clarity.
+
+```c
+int *anyP = 0;
+int *anyP = NULL;
+```

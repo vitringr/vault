@@ -12,7 +12,7 @@ Linear [[Data Structure]] containing a collection of elements of the same type i
 
 ---
 
-Probably the simplest and most universal data structure.
+_Probably the simplest and most universal data structure._
 
 **Indexed**: Array elements can be accessed by their index, usually starting from `0`.
 
@@ -30,6 +30,24 @@ Probably the simplest and most universal data structure.
 
 This can scale to an arbitrary number of dimensions, although usually not recommended to go beyond 2 or 3 dimensions.
 
+## Benefits & Drawbacks
+
+It's all about the memory layout.
+
+### Pros
+
+Since array elements are stored in contiguous memory locations and are of the same size, it is easy to predict where an element should be, given only a [[Pointer]] to the start (head) of the array.
+
+**Random Access**: Efficient [[Random Access]] for all array elements.
+
+**Raw Data**: Elements are only the raw data itself. They do not need to store any metadata related to their layout in memory.
+
+### Cons
+
+**Fixed Size**: The size of an array cannot be changed.
+
+**Homogeneous**: Arrays cannot contain different types of elements.
+
 ## Performance
 
-**Access**: `O(1)` [[Random Access]] via indices.
+**Access**: `O(1)`

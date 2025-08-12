@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Tech Stack.md",
+                "file": "nodes/Array.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tech Stack"
+              "title": "Array"
             }
           }
         ]
@@ -152,6 +152,8 @@
   },
   "active": "75f225d9d06153ee",
   "lastOpenFiles": [
+    "nodes/Array.md~",
+    "nodes/4913",
     "nodes/Tech Stack.md~",
     "nodes/SDL.md",
     "_Ideas.md~",
@@ -159,7 +161,6 @@
     "nodes/C (Programming Language).md",
     "nodes/TypeScript Data Types.md",
     "nodes/TypeScript Assertions.md~",
-    "nodes/4913",
     "nodes/TypeScript Data Types.md~",
     "nodes/TypeScript Assertions.md",
     "nodes/TypeScript Utility Types.md~",
@@ -170,7 +171,6 @@
     "nodes/C Pointers.md~",
     "nodes/C Preprocessor.md~",
     "nodes/Machine Code.md~",
-    "nodes/Source Code.md~",
     "nodes/Machine Code.md",
     "nodes/Compilation.md",
     "nodes/C Preprocessor.md",
