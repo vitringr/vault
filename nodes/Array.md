@@ -40,7 +40,9 @@ Since array elements are stored in contiguous memory locations and are of the sa
 
 **Random Access**: Efficient [[Random Access]] for all array elements.
 
-**Raw Data**: Elements are only the raw data itself. They do not need to store any metadata related to their layout in memory.
+**Memory Efficiency**: Elements are only the raw data itself. They do not need to store any metadata related to their layout in memory.
+
+**Predictable**: Arrays are predefined in memory and therefore predictable.
 
 ### Cons
 
@@ -51,3 +53,5 @@ Since array elements are stored in contiguous memory locations and are of the sa
 ## Performance
 
 **Access**: `O(1)`
+
+**Search**: `O(n)` for unsorted arrays.

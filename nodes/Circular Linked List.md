@@ -6,11 +6,10 @@ context:
 
 # Circular Linked List
 
-[[Doubly Linked List]] where the head and tail are connected, forming a loop.
+[[Linked List]] where the head and tail are connected, forming a loop.
 
 ---
 
-`tail.next = head`
-`head.prev = tail`
+**Singly Linked**: Can be a [[Singly Linked List]] with unidirectional traversal where `tail.next = head`
 
-**Bidirectional**: Traversal is bidirectional: `head ↔ tail`
+**Doubly Linked**: Can be a [[Doubly Linked List]] with bidirectional traversal where `tail.next = head` and `head.prev = tail`

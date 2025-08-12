@@ -23,6 +23,8 @@ There are different types of linked lists based on their link structure:
 - [[Doubly Linked List]]
 - [[Circular Linked List]]
 
+Linked lists are assumed to be singly linked lists by default.
+
 ## Benefits & Drawbacks
 
 Linked lists are often compared against [[Array|Arrays]].
@@ -40,3 +42,13 @@ Linked lists are often compared against [[Array|Arrays]].
 **No Random Access**: Nodes cannot be accessed directly by [[Random Access]].
 
 **Pointer Memory**: Nodes have to store pointers to other nodes.
+
+## Performance
+
+**Access**: `O(n)`
+
+**Search**: `O(n)`
+
+**Insert/Delete at Head**: `O(1)`
+
+**Insert/Delete at Tail**: Either `O(n)` or `O(1)`, depending on type.
