@@ -3,19 +3,31 @@ context:
   - "[[Data Structure]]"
 ---
 
-#wip
-
 # Linked List
 
 [[Data Structure]] of nodes that are linked together. Each node contains data, as well as a link to the next node.
 
 ---
 
+Node structure: `[Data][Link]`
+
 Links can be implemented using [[Pointer|pointers]].
 
-Linked lists are often compared versus [[Array|Arrays]].
+The first node in a linked list is called _head_, and the last node is called _tail_.
 
-## Benefits
+## Types
+
+There are different types of linked lists based on their link structure:
+
+- [[Singly Linked List]]
+- [[Doubly Linked List]]
+- [[Circular Linked List]]
+
+## Benefits & Drawbacks
+
+Linked lists are often compared against [[Array|Arrays]].
+
+### Pros
 
 **Independent Storage**: Linked lists allow nodes to be stored wherever there is free space in memory, independent of order.
 
@@ -23,7 +35,7 @@ Linked lists are often compared versus [[Array|Arrays]].
 
 **Chain Structure**: When adding or removing nodes, the rest of the nodes in the list do not need to be moved.
 
-## Drawbacks
+### Cons
 
 **No Random Access**: Nodes cannot be accessed directly by [[Random Access]].
 
