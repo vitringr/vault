@@ -1,6 +1,7 @@
 ---
 context:
   - "[[Abstract Data Type]]"
+  - "[[Data Structure]]"
 ---
 
 # Queue
@@ -16,5 +17,7 @@ Linear collection of elements using FIFO (First In First Out) operations.
 - `enqueue(x)`: Add to rear.
 - `dequeue`: Remove from front.
 - `peek`: Inspect front item.
+
+## Performance
 
 **Time Complexity**: `O(1)` for `enqueue`/`dequeue`.

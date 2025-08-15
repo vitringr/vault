@@ -11,3 +11,7 @@ context:
 ---
 
 **Bidirectional**: Traversal is bidirectional: `head ↔ tail`
+
+## Implementation
+
+#wip

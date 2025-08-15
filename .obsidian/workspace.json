@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Linked List.md",
+                "file": "nodes/Stack.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Linked List"
+              "title": "Stack"
             }
           }
         ]
@@ -152,8 +152,9 @@
   },
   "active": "75f225d9d06153ee",
   "lastOpenFiles": [
-    "nodes/C Command-Line Arguments.md~",
+    "nodes/Stack.md~",
     "nodes/4913",
+    "nodes/C Command-Line Arguments.md~",
     "nodes/C Command-Line Arguments.md",
     "nodes/C (Programming Language).md~",
     "_Ideas.md~",
@@ -166,7 +167,6 @@
     "nodes/Array.md~",
     "nodes/Circular Linked List.md~",
     "nodes/Doubly Linked List.md~",
-    "nodes/Singly Linked List.md~",
     "nodes/Circular Linked List.md",
     "nodes/Doubly Linked List.md",
     "nodes/Singly Linked List.md",

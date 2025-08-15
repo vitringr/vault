@@ -13,3 +13,7 @@ context:
 Considered the default linked list structure.
 
 **Unidirectional**: Traversal is unidirectional: `head → tail`
+
+## Implementation
+
+#wip
