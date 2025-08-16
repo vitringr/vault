@@ -17,9 +17,16 @@ Memory management involves:
 - **Protection**: Prevents processes from accessing memory they do not own.
 - **Optimization**: Minimazing fragmentation and maximizing utilization.
 
+#wip
 The [[Call Stack]] and [[Heap (Memory Management)|Heap]] reside in [[RAM]].
 
 ## Fragmentation
+
+Wasted memory space due to inefficient allocation.
+
+Occurs when there are gaps of unused memory between used memory blocks.
+
+The gaps may not always be large enough to be used for additional allocation.
 
 ## Requesting Memory
 
