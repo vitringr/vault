@@ -6,7 +6,7 @@ context:
   - "[[Data Structure]]"
 ---
 
-# Stack (Abstract Data Type)
+# Stack
 
 Linear collection of elements using LIFO (Last In First Out) operations.
 

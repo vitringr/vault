@@ -6,7 +6,7 @@ context:
 
 # Virtual Memory
 
-[[Memory Management]] technique that utilizes hard drive space as if it were additional [[RAM]].
+[[Memory Management]] technique that utilizes disk space as if it were additional [[RAM]].
 
 ---
 

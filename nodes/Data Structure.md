@@ -23,4 +23,4 @@ Data structures are the collection of data values, their arrangement in memory, 
 - [[Linked List]]
 - [[Hash Table]]
 - [[Queue]]
-- [[Stack (Abstract Data Type)]]
+- [[Stack]]
