@@ -1,2 +1,12 @@
-# Computer Memory
+---
+context:
+  - "[[Computer Science]]"
+---
+
 #wip
+
+# Computer Memory
+
+ad
+
+---

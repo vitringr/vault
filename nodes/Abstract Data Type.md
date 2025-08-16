@@ -30,9 +30,9 @@ Benefits of using theoretical models:
 
 ## Common Abstract Data Types
 
-| ADT       | Core Operations                     | Possible Implementations               |
-| --------- | ----------------------------------- | -------------------------------------- |
-| [[Stack]] | `push()`, `pop()`, `peek()`         | [[Array]], [[Linked List]]             |
-| [[Queue]] | `enqueue()`, `dequeue()`, `front()` | [[Array]], [[Linked List]], [[Heap]]   |
-| [[List]]  | `add()`, `remove()`, `get()`        | [[Array]], [[Linked List]]             |
-| [[Map]]   | `put(key, value)`, `get(key)`       | [[Hash Table]], [[Binary Search Tree]] |
+| ADT                            | Core Operations                     | Possible Implementations               |
+| ------------------------------ | ----------------------------------- | -------------------------------------- |
+| [[Stack (Abstract Data Type)]] | `push()`, `pop()`, `peek()`         | [[Array]], [[Linked List]]             |
+| [[Queue]]                      | `enqueue()`, `dequeue()`, `front()` | [[Array]], [[Linked List]], [[Heap]]   |
+| [[List]]                       | `add()`, `remove()`, `get()`        | [[Array]], [[Linked List]]             |
+| [[Map]]                        | `put(key, value)`, `get(key)`       | [[Hash Table]], [[Binary Search Tree]] |

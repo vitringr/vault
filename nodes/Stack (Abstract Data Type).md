@@ -1,10 +1,12 @@
 ---
+aliases:
+  - Stack
 context:
   - "[[Abstract Data Type]]"
   - "[[Data Structure]]"
 ---
 
-# Stack
+# Stack (Abstract Data Type)
 
 Linear collection of elements using LIFO (Last In First Out) operations.
 
@@ -32,13 +34,12 @@ Core stack operations:
 
 Stacks can be implemented in multiple ways.
 
-**Array**: Uses a fixed size [[Array]] to store elements. A [[Pointer]] to `top` keeps track of the current position.
+**By Array**: Uses a fixed size [[Array]] to store elements. A [[Pointer]] to `top` keeps track of the current position.
 #wip fast operations; memory efficient; cache-friendly
 #wip fixed size; wasted space
 
-**Linked List**: Uses dynamic [[Linked List]] nodes. The `head` of the linked lists acts as the `top` of the stack.
+**By Linked List**: Uses dynamic [[Linked List]] nodes. The `head` of the linked lists acts as the `top` of the stack.
 #wip dynamic size; flexible memory usage
 #wip slower than array; extra memory; not cache-friendly
 
-**Dynamic Array**: #wip
-
+**By Dynamic Array**: #wip
