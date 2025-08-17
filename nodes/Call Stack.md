@@ -18,7 +18,7 @@ Fast, automatic, CPU-managed, function-scoped memory.
 
 **Stack Frame**: The set of values pushed for one function call. Consists at minimum of a return address.
 
-**No Fragmentation**: The nature of the stack prevents memory fragmentation as it allocates and deallocates memory contiguously without leaving gaps any inbetween.
+**Contiguous Memory**: The nature of the stack prevents memory fragmentation as it allocates and deallocates memory contiguously without leaving gaps any inbetween.
 
 ## Common Issues
 

@@ -6,7 +6,7 @@ context:
 
 # Memory Management
 
-The management and oraganization of [[Computer Memory]].
+The systematic control of [[Computer Memory]] allocation and utilization.
 
 ---
 
@@ -25,14 +25,10 @@ Occurs when there are gaps of unused memory between used memory blocks. The gaps
 
 ## Requesting Memory
 
-Programs request memory allocation from the [[Operating System]].
+Programs can request memory from the [[Operating System]].
 
 If there is enough memory available, the operating system allocates a chunk of memory for the program to use.
 
 Programs can later request additional memory if needed.
 
-Requesting additional memory affect performance.
-
-## Common Issues
-
-#wip
+**Performance Impact**: Memory requests are expensive and can degrade performance.
