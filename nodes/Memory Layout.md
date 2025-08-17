@@ -5,8 +5,6 @@ context:
   - "[[Computer Science]]"
 ---
 
-#wip
-
 # Memory Layout
 
 The memory segments of a [[Computer Program]].
@@ -15,23 +13,60 @@ The memory segments of a [[Computer Program]].
 
 Computer program memory can be largely categorized into two sections: read-only and read/write.
 
-## Code Segment
+Typical layout of memory segments:
+
+1. Code Segment
+2. Data Segment
+3. Heap Segment
+4. Stack Segment
+
+```
+┌────────────┐
+│    Stack   │ ← Grows downward
+├────────────┤
+│    Heap    │ ← Grows upward
+├────────────┤
+│     BSS    │ (Uninitialized data)
+├────────────┤
+│    Data    │ (Initialized globals)
+├────────────┤
+│    Code    │ (Read-only)
+└────────────┘
+```
+
+| Segment   | Managed By | Lifetime         | Access Speed |
+| --------- | ---------- | ---------------- | ------------ |
+| **Code**  | Compiler   | Program duration | Fast         |
+| **Data**  | Compiler   | Program duration | Fast         |
+| **Heap**  | Programmer | Manual (`free`)  | Slow         |
+| **Stack** | CPU        | Function-scoped  | Very Fast    |
+
+## Code
 
 (aka. Text Segment)
 
-Contains executable [[Machine Code]] and is generally read-only and fixed size.
+Contains executable [[Machine Code]].
 
-## Data Segment
+Is generally read-only and fixed size.
+
+## Data
 
 (aka. Global/Static Segment)
 
 Contains static data.
 
-Divided into two parts:
+**Data**: Contains initialized static data.
 
-- **Data**: Initialized static data.
-- **BSS**: Uninitialized static data.
+**BSS**: Contains uninitialized static data.
 
-## Heap Segment
+## Heap
 
+Contains dynamically allocated memory.
 
+Can expand in size.
+
+Fragmentation can occur over time.
+
+## Stack
+
+See [[Call Stack]]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Call Stack.md",
+                "file": "nodes/Memory Layout.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Call Stack"
+              "title": "Memory Layout"
             }
           }
         ]
@@ -152,6 +152,7 @@
   },
   "active": "75f225d9d06153ee",
   "lastOpenFiles": [
+    "nodes/Memory Layout.md~",
     "nodes/Call Stack.md",
     "nodes/Call Stack.md~",
     "nodes/4913",
@@ -164,7 +165,6 @@
     "_Ideas.md~",
     "4913",
     "nodes/Linked List.md~",
-    "nodes/LLLL.md~",
     "nodes/Linked List.md",
     "nodes/LLLL.md",
     "nodes/Circular Linked List.md",
