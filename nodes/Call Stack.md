@@ -14,9 +14,13 @@ Fast, automatic, CPU-managed, function-scoped memory.
 1. **Push**: When a function is called, its stack frame is pushed onto the stack.
 2. **Pop**: When the function returns, its frame is popped and memory freed.
 
+**Stack Pointer**: Actively tracks the top of the stack.
+
+**Stack Frame**: The set of values pushed for one function call. Consists at minimum of a return address.
+
 **No Fragmentation**: The nature of the stack prevents memory fragmentation as it allocates and deallocates memory contiguously without leaving gaps any inbetween.
 
-## Risks
+## Common Issues
 
 **Stack Overflow**: If the stack grows too large, often due to infinite [[Recursion]].
 

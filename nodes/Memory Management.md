@@ -6,7 +6,7 @@ context:
 
 # Memory Management
 
-Handles the oraganization of a [[Computer]]'s primary memory ([[RAM]]).
+The management and oraganization of [[Computer Memory]].
 
 ---
 
@@ -21,9 +21,7 @@ Memory management involves:
 
 Wasted memory space due to inefficient allocation.
 
-Occurs when there are gaps of unused memory between used memory blocks.
-
-The gaps may not always be large enough to be used for additional allocation.
+Occurs when there are gaps of unused memory between used memory blocks. The gaps may not always be large enough to be used for additional allocation.
 
 ## Requesting Memory
 
@@ -34,3 +32,7 @@ If there is enough memory available, the operating system allocates a chunk of m
 Programs can later request additional memory if needed.
 
 Requesting additional memory affect performance.
+
+## Common Issues
+
+#wip
