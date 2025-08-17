@@ -32,8 +32,6 @@ This can scale to an arbitrary number of dimensions, although usually not recomm
 
 ## Benefits & Drawbacks
 
-It's all about the memory layout.
-
 Since array elements are stored in contiguous memory locations and are of the same size, it is easy to predict where an element should be, given only a [[Pointer]] to the start (head) of the array. But this also comes at the cost of making the array less dynamic than other data structures.
 
 ### Pros

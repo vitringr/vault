@@ -3,7 +3,7 @@ aliases:
   - Abstract Data Types
   - ADT
 context:
-  - "[[Data Type (Computer Science)]]"
+  - "[[Computer Science]]"
 ---
 
 # Abstract Data Type

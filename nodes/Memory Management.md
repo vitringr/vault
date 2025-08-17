@@ -4,9 +4,9 @@ context:
   - "[[Computer Science]]"
 ---
 
-#wip
-
 # Memory Management
+
+Handles the oraganization of a [[Computer]]'s primary memory ([[RAM]]).
 
 ---
 
@@ -16,9 +16,6 @@ Memory management involves:
 - **Deallocation**: Freeing memory when a process terminates or no longer needs it.
 - **Protection**: Prevents processes from accessing memory they do not own.
 - **Optimization**: Minimazing fragmentation and maximizing utilization.
-
-#wip
-The [[Call Stack]] and [[Heap (Memory Management)|Heap]] reside in [[RAM]].
 
 ## Fragmentation
 
