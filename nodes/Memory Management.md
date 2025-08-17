@@ -32,3 +32,11 @@ If there is enough memory available, the operating system allocates a chunk of m
 Programs can later request additional memory if needed.
 
 **Performance Impact**: Memory requests are expensive and can degrade performance.
+
+## Common Issues
+
+**Memory Leaks**: See [[Memory Leak]]
+
+**Dangling Pointers**: Accessing memory after deallocation.
+
+**Buffer Overflows**: Writing beyond allocated bounds.
