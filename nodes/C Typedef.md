@@ -28,3 +28,14 @@ typedef struct {
 
 Point a = {5, 3};
 ```
+
+The name of the structure can also be included:
+
+```c
+typedef struct Node {
+  struct Node *next;
+  int data;
+} Node;
+```
+
+This is useful for self-referential structures for example, as well as accessing structures with the `struct` keyword if needed.
