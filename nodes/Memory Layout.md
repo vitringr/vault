@@ -1,5 +1,4 @@
 ---
-aliases:
 context:
   - "[[Computer Memory]]"
   - "[[Computer Science]]"

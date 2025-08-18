@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Stack
 context:
   - "[[Abstract Data Type]]"
   - "[[Data Structure]]"
@@ -34,12 +32,23 @@ Core stack operations:
 
 Stacks can be implemented in multiple ways.
 
-**By Array**: Uses a fixed size [[Array]] to store elements. A [[Pointer]] to `top` keeps track of the current position.
-#wip fast operations; memory efficient; cache-friendly
-#wip fixed size; wasted space
+### By Array
 
-**By Linked List**: Uses dynamic [[Linked List]] nodes. The `head` of the linked lists acts as the `top` of the stack.
-#wip dynamic size; flexible memory usage
-#wip slower than array; extra memory; not cache-friendly
+Uses a fixed size [[Array]] to store elements. A [[Pointer]] to `top` keeps track of the current position.
 
-**By Dynamic Array**: #wip
+**Pros**: Fast operations, memory efficient, cache-friendly.
+**Cons**: Fixed size, wasted space.
+
+## By Linked List
+
+Uses dynamic [[Linked List]] nodes. The `head` of the linked lists acts as the `top` of the stack.
+
+**Pros**: Dynamic size, flexible memory usage.
+**Cons**: Slower than array, extra memory, not cache-friendly.
+
+## By Dynamic Array
+
+Uses a [[Dynamic Array]], combining the benefits of array-based stacks with the flexibility of dynamic sizing.
+
+**Pros**: No fixed capacity, amortized `O(1)` time, cache-friendly.
+**Cons**: Occasional resizing overhead, potential memory waste.
