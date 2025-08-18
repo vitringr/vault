@@ -12,13 +12,36 @@ Structures (records) in the C programming language.
 
 ---
 
-## Pointers to Members
+Structures are user-defined data types that combine data items of different kinds.
 
-```language
-
+```c
+struct point {
+  int x;
+  int y;
+};
 ```
 
-## Default Pass by Value
+## Typedef
+
+See [[C Typedef]]
+
+```c
+typedef struct {
+  float a;
+  float b;
+  float c;
+} Triangle;
+
+Triangle aer = {4.2, 1.8, 5.6};
+```
+
+## Pointers to Members
+
+## Passing Structures to Functions
+
+Structures can be passed to functions and returned by functions.
+
+### Passed by Value
 
 Since structures are passed by value, these two functions are identical:
 
@@ -37,8 +60,8 @@ struct point combinePoints(struct point point, struct point add) {
 }
 ```
 
-Both functions receive copies of `point` and `add`, not the originals.
+- Both functions receive copies of `point` and `add`, not the originals.
+- Any modifications only affect the local copies inside the function.
+- The returned value is also a copy, not the original.
 
-Any modifications only affect the local copies inside the function.
-
-The returned value is also a copy, not the original.
+**Pass by Reference**: Structures can be passed by reference using [[C Pointers]].

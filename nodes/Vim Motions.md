@@ -323,6 +323,8 @@ Examples:
 | ≈         | `2?`    | Almost equal.       |
 | ✓         | `OK`    | Okay.               |
 | ✗         | `2?`    | X.                  |
-
+| ≠         | `!=`    | Not equal to.       |
+| ≥         | `>=`    | Bigger or equal to. |
+| ≤         | `=<`    | Less or equal to.   |
 
 Use the `:digraphs` command to see the whole list.
