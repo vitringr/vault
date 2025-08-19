@@ -29,6 +29,7 @@ Collection of [[DSA]] problems and solutions.
 
 ## Medium
 
+[[Pseudorandom Generator (DSAP)]]
 [[Quicksort (DSAP)]]
 [[Counting Sort (DSAP)]]
 
