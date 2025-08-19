@@ -1,14 +1,15 @@
 ---
-aliases:
 context:
-- "[[C (Programming Language)]]"
+  - "[[C (Programming Language)]]"
+  - "[[Random Generation]]"
 ---
 
 #wip
 
-# C Randomness
+# C Random Generation
 
-Randomness in the C programming language.
+Random generation in the C programming language.
 
 ---
+
 
