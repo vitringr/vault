@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/C Typedef.md",
+                "file": "nodes/Xorshift.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "C Typedef"
+              "title": "Xorshift"
             }
           }
         ]
@@ -143,6 +143,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -152,9 +153,13 @@
   },
   "active": "75f225d9d06153ee",
   "lastOpenFiles": [
+    "nodes/Output Binary Form (DSAP).md~",
+    "nodes/DSAP.md~",
+    "nodes/Output Binary Form (DSAP).md",
+    "nodes/4913",
+    "nodes/Xorshift.md~",
     "nodes/C Typedef.md~",
     "nodes/C Unions.md~",
-    "nodes/4913",
     "nodes/Union (Data Type).md~",
     "nodes/Data Type (Computer Science).md~",
     "nodes/Union (Data Type).md",
@@ -164,10 +169,7 @@
     "nodes/C Structures.md~",
     "_Draft.md~",
     "nodes/Vim Motions.md~",
-    "nodes/A-Star Algorithm.md~",
-    "nodes/Memory Layout.md~",
     "nodes/systemd.md",
-    "nodes/RAM.md~",
     "nodes/Memory Layout.md",
     "nodes/Memory Leak.md",
     "nodes/Call Stack.md",
@@ -187,7 +189,6 @@
     "nodes/API.md",
     "nodes/C Variables.md",
     "nodes/Machine Code.md",
-    "nodes/Compilation.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"

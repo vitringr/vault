@@ -21,6 +21,7 @@ Collection of [[DSA]] problems and solutions.
 
 ## Easy
 
+[[Output Binary Form (DSAP)]]
 [[Fibonacci Numbers (DSAP)]]
 [[Bubble Sort (DSAP)]]
 [[Selection Sort (DSAP)]]
