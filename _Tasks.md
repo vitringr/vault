@@ -1,9 +1,11 @@
+spakr one
+
 - [ ] backup and archive
 - [ ] name documents
-- [x] sprays
+- [ ] new phone number
+
 - [ ] weapons documents
 - [ ] weapons course
-- [ ] new phone number
 - [ ] work email
 - [ ] work profiles
 - [ ] work CV

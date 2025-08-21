@@ -7,7 +7,7 @@ context:
 
 ᚢ ᛁ ᛏ ᚱ ᛁ ᚾ ᚴ ᚱ
 
-sage, wise person, scholar
+Sage, wise man, scholar.
 
 ---
 
@@ -21,6 +21,4 @@ Meaning of Old Norse word "vitringr": m. a wise man, sage, scholar
 - Younger Futhark: `ᚢ ᛁ ᛏ ᚱ ᛁ ᚾ ᚴ ᚱ`
 - Medieval Futhork: `ᚠ ᛁ ᛏ ᚱ ᛁ ᚿ ᚵ ᚱ`
 
-> [!Note] Suffix evolution
->
-> In Old Norse, the suffix "-ingr" is common. However, in modern Icelandic, the spelling might have evolved to "-ingur". For instance, Old Norse often drops the "u" in certain cases, whereas modern Icelandic might retain it. The "-r" ending is standard in Old Norse.
+The form "vitringr" is the most accurate and common dictionary form of the word. This form is known as the nominative singular masculine—it's the standard way you would list the word in a dictionary and how you would refer to "a wise man" as the subject of a sentence.
