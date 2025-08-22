@@ -11,14 +11,10 @@
             "id": "75f225d9d06153ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodes/Battlemage.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Battlemage"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]

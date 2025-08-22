@@ -33,13 +33,13 @@ All Unordered:
 [QWE] [QQQ] [WWW] [EEE] [QQW] [QQE] [WWQ] [WWE] [EEQ] [EEW]
 ```
 
-## Four Elements
+## Interactions
 
-| Casts      | Ordered | Unordered |
-| ---------- | ------- | --------- |
-| **Single** | `4`     | `4`       |
-| **Double** | `16`    | `10`      |
-| **Triple** | ``      | ``        |
+Spells should interact with one another.
+
+This should be the incentive for the player to use all of them and switch, NOT only limitations such as cooldowns.
+
+Equilibrium-like mechanic can be used to implement this, or effects that do not stack (think debuffs), or things that work well together (think X amplifies Y).
 
 # Runner Game
 
