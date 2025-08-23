@@ -1,12 +1,11 @@
 ---
 tags:
   - "original"
-aliases:
   - "journal"
 context:
 ---
 
-# Building Sandfall
+# Project Sandfall
 
 Journal about creating the Sandfall project.
 
