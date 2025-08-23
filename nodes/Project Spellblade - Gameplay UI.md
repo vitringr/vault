@@ -7,7 +7,7 @@ context:
 
 #wip
 
-# Project Spellblade - Game UI
+# Project Spellblade - Gameplay UI
 
 The in-game user interface.
 

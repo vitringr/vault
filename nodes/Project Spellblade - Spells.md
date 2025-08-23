@@ -5,8 +5,6 @@ context:
   - "[[Project Spellblade]]"
 ---
 
-#wip
-
 # Project Spellblade - Spells
 
 Player spells, effects, and passives.
@@ -21,13 +19,15 @@ Terminology:
 - **Effects**: Cast after-effects for a duration.
 - **Passives**: Permanently persisting effects.
 
+Additions to spells and effects will be added outside of gameplay. Think of talent trees related to spells, as well as generic character talent trees.
+
 ## Spells
 
 **Fireball**: Mandatory. Classic fireball projectile that hurts and burns.
 
 **Dash**: Quick but short dash. Could include i-frames.
 
-**Shield**:
+**Shield**: Short-lived barrier. Can be upgraded for projectile deflection and such.
 
 ## Effects
 
@@ -50,5 +50,10 @@ Defensive armor effects.
 **Sprint**: Short-duration and constantly fading sprint.
 
 ## Passives
+
+Passives are split into different categories. Think of classic talent trees:
+
+- Generic Tree
+- Spell Tree
 
 **Windfury**: Weapon double-attack chance.
