@@ -2,17 +2,6 @@
 
 ## Interactions
 
-
-# Runner Game
-
-Dog/animal with gun backpack endless runner survival defend the forest.
-
-Different animal characters with different stats.
-
-Nature preservation feel vs ugly and fire.
-
-Can have simple controls, just like those scifi plane games.
-
 # On Habits
 
 - we are what we do
