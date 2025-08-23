@@ -1,4 +1,6 @@
 ---
+tags:
+  - "original"
 context:
   - "[[Project Spellblade]]"
 ---
