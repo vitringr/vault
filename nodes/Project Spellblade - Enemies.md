@@ -5,8 +5,6 @@ context:
   - "[[Project Spellblade]]"
 ---
 
-#wip
-
 # Project Spellblade - Enemies
 
 Enemy behavior and abilities.

@@ -5,8 +5,6 @@ context:
   - "[[Project Spellblade]]"
 ---
 
-#wip
-
 # Project Spellblade - Mechanics
 
 The fundamental gameplay mechanics.
@@ -60,3 +58,13 @@ The cast result is a spell, as well as an effect after the spell.
 - Do nothing.
 - Recast the last spell.
 - Use the button for something else.
+
+## Attack
+
+Repeatable melee range attack.
+
+**Spam**: Repeatable with no cooldown. The attack rate should be relatively fast, ever increasing.
+
+- Being able to hold the button down in addition to spamming it is probably a good idea. Should be toggled from settings.
+
+**Effect**: Attacks interact with the effects of spells.

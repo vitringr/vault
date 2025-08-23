@@ -14,15 +14,9 @@ Designing my dream game.
 
 ---
 
-**Tags**: Top-down, roguelite, hack & slash.
+**Tags**: Cross-platform, Top-down, Roguelite, Hack & Slash.
 
 [[Project Spellblade - Input]]
 [[Project Spellblade - Mechanics]]
 [[Project Spellblade - Game UI]]
 [[Project Spellblade - Enemies]]
-
-# Platform
-
-The game should be cross-platform.
-
-# Interactions
