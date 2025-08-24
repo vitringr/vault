@@ -4,11 +4,14 @@
 - [ ] name documents
 - [ ] new phone number
 
+- [ ] finish C
+- [ ] start SDL
+
 # Take your time
 
 - [ ] own name
-- [ ] game name
-- [ ] game studio name
+- [ ] studio name
+- [ ] Spellblade game name
 
 # No rush here
 

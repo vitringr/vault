@@ -15,7 +15,7 @@ Computer program memory can be largely categorized into two sections: read-only 
 Typical layout of memory segments:
 
 1. Code Segment
-2. Data Segment
+2. Static Data Segment
 3. Heap Segment
 4. Stack Segment
 
@@ -48,7 +48,7 @@ Contains executable [[Machine Code]].
 
 Is generally read-only and fixed size.
 
-## Data
+## Static Data
 
 (aka. Global/Static Segment)
 
