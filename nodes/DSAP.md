@@ -32,5 +32,6 @@ Collection of [[DSA]] problems and solutions.
 [[Pseudorandom Generator (DSAP)]]
 [[Quicksort (DSAP)]]
 [[Counting Sort (DSAP)]]
+[[Singly Linked List (DSAP)]]
 
 ## Hard

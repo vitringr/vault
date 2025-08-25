@@ -1,20 +1,13 @@
 ---
 context:
-  - "[[Linked List]]"
-  - "[[Data Structure]]"
+  - "[[DSAP]]"
 ---
 
-# Singly Linked List
+# Singly Linked List (DSAP)
 
-[[Linked List]] where each node points only to the next node.
+Implement a full [[Singly Linked List]].
 
 ---
-
-Considered the default linked list structure.
-
-**Unidirectional**: Traversal is unidirectional: `head → tail`
-
-## Implementation
 
 ```c
 #include <stdio.h>
