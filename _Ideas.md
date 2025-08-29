@@ -65,6 +65,12 @@ Suggested Order of Learning:
 
 # Other
 
+- On fear (and against)
+
+- Calmness instead of hype for performance (Alex, Danaher...)
+
+- Consistency in training
+
 - Textual styling design, markup, colors... it matters.
 
 - Creative coding guide: additive concepts. Start with one, add another known technique, another, another...
