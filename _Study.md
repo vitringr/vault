@@ -13,7 +13,11 @@
 
 _Basics of Linear Algebra and Trigonometry._
 
+- [ ] **Trigonometry Index**: https://www.mathsisfun.com/algebra/trigonometry-index.html
+
 - [ ] **3B1B**: The Essence of Linear Algebra (Watch at least 5 videos)
+
+- [ ] https://immersivemath.com/ila/index.html
 
 - [ ] **javidx9**: [Essential Mathematics for Game Developers](https://youtu.be/DPfxjQ6sqrc)
 
@@ -49,6 +53,10 @@ _Build a software rasterizer from scratch._
 _Learn OpenGL and Shaders, and probably stop there._
 
 - [ ] https://learnopengl.com/
+
+> "Your main goal at this stage is to understand how GPU rendering works, implement classic algorithms like shadow mapping and deferred rendering, and create your own physically based renderer. We believe that these are the topics which any graphic engineer should understand to be ready for real job in rendering team."
+
+> "Note that even with OpenGL you can write almost everything, including 2D renderer, first-person shooter game or general-purpose game engine. It is okay spending a year on a project which seemed simple at first glance, as long as it helps you to learn and give you a joy."
 
 # 3D Character Animation
 

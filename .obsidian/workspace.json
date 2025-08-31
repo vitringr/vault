@@ -11,14 +11,10 @@
             "id": "75f225d9d06153ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Study.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "_Study"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -153,6 +149,7 @@
   },
   "active": "75f225d9d06153ee",
   "lastOpenFiles": [
+    "_Study.md",
     "nodes/Project Ronin.md~",
     "nodes/4913",
     "nodes/Project Spellblade.md~",
@@ -167,7 +164,6 @@
     "_Ideas.md~",
     "nodes/Project Runner.md",
     "nodes/Project Spellblade - Gameplay Design.md~",
-    "nodes/Project Spellblade - Spells.md~",
     "nodes/Project Spellblade - Spells.md",
     "nodes/Project Spellblade - Enemies.md",
     "nodes/Project Spellblade - Game UI.md",
