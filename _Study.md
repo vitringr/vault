@@ -11,40 +11,52 @@
 
 # Mathematics
 
-Basics of Linear Algebra and Trigonometry
+_Basics of Linear Algebra and Trigonometry._
 
-**3B1B**: The Essence of Linear Algebra
+- [ ] **3B1B**: The Essence of Linear Algebra (Watch at least 5 videos)
 
-- Watch at least the first 5 videos.
+- [ ] **javidx9**: [Essential Mathematics for Game Developers](https://youtu.be/DPfxjQ6sqrc)
 
-**javidx9**: [Essential Mathematics for Game Developers](https://youtu.be/DPfxjQ6sqrc)
+- [ ] **The Player Never Moves**: https://youtu.be/wiYTxjJjfxs
+
+- [ ] **FloatyMonkey Trigonometry**: https://youtu.be/IydbTBZJy7w
+- [ ] **FloatyMonkey Vectors**: https://youtu.be/Ej3ZVxljJfo
+- [ ] **FloatyMonkey Matrices and Transformations**: https://youtu.be/HgQzOmnBGCo
 
 # Graphics Concepts
 
-**Perspective Projection**: https://youtu.be/U0_ONQQ5ZNM
+- [ ] **Perspective Projection**: https://youtu.be/U0_ONQQ5ZNM
 
-**Homogeneous Coordinates**: https://youtu.be/o-xwmTODTUI
+- [ ] **Homogeneous Coordinates**: https://youtu.be/o-xwmTODTUI
 
 # Software Rasterizer
 
-Write a software rasterizer/raytracer.
+_Build a software rasterizer from scratch._
 
-**Daniel Shiffman**: [3D Rendering with Rotation and Projection](https://youtu.be/p4Iz0XJY-Qk)
+- [ ] **Daniel Shiffman**: [3D Rendering with Rotation and Projection](https://youtu.be/p4Iz0XJY-Qk)
 
-**Tiny Renderer**: https://haqr.eu/tinyrenderer/
-**Tiny RayTracing**: https://github.com/ssloy/tinyraytracer/wiki/Part-1:-understandable-raytracing
+- [ ] **Tiny Renderer**: https://haqr.eu/tinyrenderer/
+- [ ] **Tiny RayTracing**: https://github.com/ssloy/tinyraytracer/wiki/Part-1:-understandable-raytracing
 
-**Tscoding**: [C pixel-by-pixel Software 3D rendering](https://youtu.be/xdShzvCZPBk)
+- [ ] **Tscoding**: [C pixel-by-pixel Software 3D rendering](https://youtu.be/xdShzvCZPBk)
+
+- [ ] **Graphics Engine from Scratch (short, JS)**: https://youtu.be/ZnycovL2qWU
+
+- [ ] **Sebastian Software Rasterizer**: https://youtu.be/yyJ-hdISgnw
 
 # OpenGL
 
-Learn OpenGL and Shaders, and probably stop there.
+_Learn OpenGL and Shaders, and probably stop there._
 
-https://learnopengl.com/
+- [ ] https://learnopengl.com/
 
-# Meshes and Animations
+# 3D Character Animation
 
-# SDL3 Setup
+_Figure out how to do 3D characters with skeletal animations._
+
+# SDL3 Project Setup
+
+_Use SDL3 with OpenGL to be as cross-platform as possible._
 
 # GAME DEVELOPMENT
 
