@@ -2,6 +2,7 @@
 tags:
   - "original"
 context:
+  - "[[Game Ideas]]"
 ---
 
 # Project Runner

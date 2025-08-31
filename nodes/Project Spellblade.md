@@ -2,13 +2,12 @@
 tags:
   - "original"
 context:
-  - "[[Game Development]]"
-  - "[[Game Design]]"
+  - "[[Game Ideas]]"
 ---
 
 # Project Spellblade
 
-Designing my dream game.
+Designing a hack & slash melee mage game.
 
 ---
 
@@ -20,4 +19,3 @@ Designing my dream game.
 [[Project Spellblade - Enemies]]
 [[Project Spellblade - Spells]]
 [[Project Spellblade - Input]]
-
