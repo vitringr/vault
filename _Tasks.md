@@ -1,10 +1,8 @@
 # Now
 
-- [ ] backup and archive
 - [ ] name documents
 - [ ] new phone number
 
-- [ ] finish C
 - [ ] start SDL
 
 # Take your time
