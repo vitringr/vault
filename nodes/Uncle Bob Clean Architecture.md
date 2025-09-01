@@ -4,13 +4,13 @@ context:
   - "[[Software Architecture]]"
 ---
 
-# Clean Architecture
+# Uncle Bob Clean Architecture
 
-[[Software Design]] approach emphasizing separation of concerns and independence of components.
-
-Organizes code into layers with clear purpose and boundaries.
+[[Software Design]] that organizes code into layers with a clear purpose and boundaries.
 
 ---
+
+_My experience with this approach is that it does not solve more problems than it creates._
 
 ## Layered Structure
 

@@ -2,10 +2,9 @@
 tags:
   - "article"
 context:
-  - "[[Software Development]]"
+  - "[[Software Design]]
+  - "[[Software Architecture]]
 ---
-
-#wip
 
 # Cognitive Load in Software
 
@@ -185,9 +184,9 @@ On the backend we return:
 
 The engineers on the frontend use backend API to implement login functionality. They would have to temporarily create the following cognitive load in their brains:
 
-`401` is for expired jwt token  // `[🧠1]`, ok just temporary remember it
-`403` is for not enough access  // `[🧠2]`
-`418` is for banned users       // `[🧠3]`
+`401` is for expired jwt token // `[🧠1]`, ok just temporary remember it
+`403` is for not enough access // `[🧠2]`
+`418` is for banned users // `[🧠3]`
 
 Frontend developers would (hopefully) introduce some kind `numeric status -> meaning` dictionary on their side, so that subsequent generations of contributors wouldn't have to recreate this mapping in their brains.
 
@@ -209,3 +208,41 @@ The same rule applies to all sorts of numeric statuses (in the database or where
     People spend time arguing between 401 and 403, making decisions based on their own mental models. New developers are coming in, and they need to recreate that thought process. You may have documented the "whys" (ADRs) for your code, helping newcomers to understand the decisions made. But in the end it just doesn't make any sense. We can separate errors into either user-related or server-related, but apart from that, things are kind of blurry.
 
 It's also often mentally taxing to distinguish between "authentication" and "authorization". We can use simpler terms like "login" and "permissions" to reduce the cognitive load.
+
+### Abusing DRY Principle
+
+Do not repeat yourself - that is one of the first principles you are taught as a software engineer. It is so deeply embedded in ourselves that we can not stand the fact of a few extra lines of code. Although in general a good and fundamental rule, when overused it leads to the cognitive load we can not handle.
+
+Nowadays, everyone builds software based on logically separated components. Often those are distributed among multiple codebases representing separate services. When you strive to eliminate any repetition, you might end up creating tight coupling between unrelated components. As a result changes in one part may have unintended consequences in other seemingly unrelated areas. It can also hinder the ability to replace or modify individual components without impacting the entire system.
+
+In fact, the same problem arises even within a single module. You might extract common functionality too early, based on perceived similarities that might not actually exist in the long run. This can result in unnecessary abstractions that are difficult to modify or extend.
+
+> A little copying is better than a little dependency.
+
+We are tempted to not reinvent the wheel so strong that we are ready to import large, heavy libraries to use a small function that we could easily write by ourselves.
+
+**All your dependencies are your code**. Going through 10+ levels of stack trace of some imported library and figuring out what went wrong (because things go wrong) is painful.
+
+### Tight Coupling With a Framework
+
+There's a lot of "magic" in frameworks. By relying too heavily on a framework, we force all upcoming developers to learn that "magic" first. It can take months. Even though frameworks enable us to launch MVPs in a matter of days, in the long run they tend to add unnecessary complexity and cognitive load.
+
+Worse yet, at some point frameworks can become a significant constraint when faced with a new requirement that just doesn't fit the architecture. From here onwards people end up forking a framework and maintaining their own custom version. Imagine the amount of cognitive load a newcomer would have to build (i.e. learn this custom framework) in order to deliver any value.
+
+**By no means do we advocate to invent everything from scratch!**
+
+We can write code in a somewhat framework-agnostic way. The business logic should not reside within a framework; rather, it should use the framework's components. Put a framework outside of your core logic. Use the framework in a library-like fashion. This would allow new contributors to add value from day one, without the need of going through debris of framework-related complexity first.
+
+### Layered Architecture
+
+Do not add layers of abstractions for the sake of an architecture. Add them whenever you need an extension point that is justified for practical reasons.
+
+Layers of abstraction aren't free of charge, they are to be held in our limited working memory.
+
+Why pay the price of high cognitive load for such a layered architecture, if it doesn't pay off in the future? Plus, in most cases, that future of replacing some core component never happens.
+
+These architectures are not fundamental, they are just subjective, biased consequences of more fundamental principles. Why rely on those subjective interpretations? Follow the fundamental rules instead: dependency inversion principle, single source of truth, cognitive load and information hiding.
+
+### Cognitive load in familiar projects
+
+The problem is that **familiarity is not the same as simplicity**. They feel the same — that same ease of moving through a space without much mental effort — but for very different reasons. Every “clever” (read: “self-indulgent”) and non-idiomatic trick you use incurs a learning penalty for everyone else. Once they have done that learning, then they will find working with the code less difficult. So it is hard to recognise how to simplify code that you are already familiar with. This is why I try to get “the new kid” to critique the code before they get too institutionalised!
