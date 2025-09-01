@@ -243,6 +243,20 @@ Why pay the price of high cognitive load for such a layered architecture, if it 
 
 These architectures are not fundamental, they are just subjective, biased consequences of more fundamental principles. Why rely on those subjective interpretations? Follow the fundamental rules instead: dependency inversion principle, single source of truth, cognitive load and information hiding.
 
-### Cognitive load in familiar projects
+### Cognitive Load in Familiar Projects
 
 The problem is that **familiarity is not the same as simplicity**. They feel the same — that same ease of moving through a space without much mental effort — but for very different reasons. Every “clever” (read: “self-indulgent”) and non-idiomatic trick you use incurs a learning penalty for everyone else. Once they have done that learning, then they will find working with the code less difficult. So it is hard to recognise how to simplify code that you are already familiar with. This is why I try to get “the new kid” to critique the code before they get too institutionalised!
+
+## Conclusion
+
+Great architectures are often quite boring and easy to understand. Anyone can grasp them without much mental effort.
+
+Involve junior developers in architecture reviews. They will help you to identify the mentally demanding areas.
+
+Maintaining software is hard, things break and we would need every bit of mental effort we can save.
+
+Imagine for a moment that what we inferred in the second chapter isn’t actually true. If that’s the case, then the conclusion we just negated, along with the conclusions in the previous chapter that we had accepted as valid, might not be correct either.
+
+Do you feel it? Not only do you have to jump all over the article to get the meaning (shallow modules!), but the paragraph in general is difficult to understand. We have just created an unnecessary cognitive load in your head. Avoid this.
+
+We should reduce any cognitive load above and beyond what is intrinsic to the work we do.
