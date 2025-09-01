@@ -106,3 +106,33 @@ Finally we are here, `AdminController`, let's code stuff! `[🧠4]`
 Oh, wait, there's `SuperuserController` which extends `AdminController`. By modifying `AdminController` we can break things in the inherited class, so let's dive in `SuperuserController` first: `[🧠5+]`
 
 Prefer [[Composition Over Inheritance]].
+
+### Too many small methods, classes or modules
+
+_Method, class and module are interchangeable in this context._
+
+Mantras like "methods should be shorter than 15 lines of code" or "classes should be small" turned out to be somewhat wrong.
+
+**Deep Module**: Simple interface, complex functionality
+**Shallow Module**: Interface is relatively complex to the small functionality it provides
+
+Having too many shallow modules can make it difficult to understand the project. Not only do we have to keep in mind each module responsibilities, but also all their interactions. To understand the purpose of a shallow module, we first need to look at the functionality of all the related modules. Jumping between such shallow components is mentally exhausting, linear thinking is more natural to us humans.
+
+Information hiding is paramount, and we don't hide as much complexity in shallow modules.
+
+> The best components are those that provide powerful functionality yet have a simple interface.
+> \- John K. Ousterhout
+
+The interface of the UNIX I/O is very simple. It has only five basic calls:
+
+```
+open(path, flags, permissions)
+read(fd, buffer, count)
+write(fd, buffer, count)
+lseek(fd, offset, referencePosition)
+close(fd)
+```
+
+A modern implementation of this interface has hundreds of thousands of lines of code. Lots of complexity is hidden under the hood. Yet it is easy to use due to its simple interface.
+
+
