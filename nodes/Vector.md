@@ -104,7 +104,7 @@ vA + vB = vC
 
 To find the unknown path from a known starting point `A` to a known end point `C`, find the difference between them:
 
-```language
+```
 vA + ? = vC
 
 ? = vC - vA
