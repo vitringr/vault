@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Cognitive Load in Software.md",
+                "file": "nodes/Dangling Pointer.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Cognitive Load in Software"
+              "title": "Dangling Pointer"
             }
           }
         ]

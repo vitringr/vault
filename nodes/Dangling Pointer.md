@@ -5,8 +5,6 @@ context:
   - "[[Computer Memory]]"
 ---
 
-#wip
-
 # Dangling Pointer
 
 [[Pointer]] that points to a memory location that has been freed or deallocated.
@@ -61,7 +59,7 @@ int main() {
   free(pa);
   pa = NULL;
 
-  printf("%d", *pb);
+  printf("%d", *pb); // DANGER!
 }
 ```
 
@@ -76,3 +74,11 @@ Using a dangling poitner leads to undefined behavior.
 **Might Corrupt Data**: The memory may already be assigned to serve another purpose. Writing through the dangling pointer corrupts that new data.
 
 **Security Vulenrability**: Attackers can potentially export dangling pointers to execute arbitrary code.
+
+## Prevention
+
+Prevention is key.
+
+- Set pointers to `NULL` after freeing.
+- Avoid returning local stack variable pointers.
+- Be careful with multiple pointers.
