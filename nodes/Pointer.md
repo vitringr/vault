@@ -1,6 +1,7 @@
 ---
 context:
   - "[[Computer Science]]"
+  - "[[Computer Memory]]"
 ---
 
 # Pointer
