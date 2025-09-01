@@ -254,7 +254,7 @@ Worse yet, at some point frameworks can become a significant constraint when fac
 
 We can write code in a somewhat framework-agnostic way. The business logic should not reside within a framework; rather, it should use the framework's components. Put a framework outside of your core logic. Use the framework in a library-like fashion. This would allow new contributors to add value from day one, without the need of going through debris of framework-related complexity first.
 
-[[Why I Hate Frameworks]]
+[[Why I Hate Frameworks Article]]
 
 ### Layered Architecture
 
