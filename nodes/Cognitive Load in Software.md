@@ -135,4 +135,77 @@ close(fd)
 
 A modern implementation of this interface has hundreds of thousands of lines of code. Lots of complexity is hidden under the hood. Yet it is easy to use due to its simple interface.
 
+P.S. If you think we are rooting for bloated God objects with too many responsibilities, you got it wrong.
 
+### Responsible for One Thing
+
+All too often, we end up creating lots of shallow modules, following some vague "a module should be responsible for one, and only one, thing" principle. What is this blurry one thing? Instantiating an object is one thing, right? So MetricsProviderFactoryFactory seems to be just fine. The names and interfaces of such classes tend to be more mentally taxing than their entire implementations, what kind of abstraction is that? Something went wrong.
+
+We make changes to our systems to satisfy our users. We are responsible to them.
+
+> A module should be responsible to one, and only one user.
+
+This is what this [[Single Responsibility Principle]] is all about. Simply put, if we introduce a bug in one place, and then two different users come to complain, we've violated the principle. It has nothing to do with the number of things we do in our module.
+
+But even now, this rule can do more harm than good. This principle can be understood in as many different ways as there are individuals. A better approach would be to look at how much cognitive load it all creates. It's mentally demanding to remember that change in one place can trigger a chain of reactions across different streams. And that's about it, no fancy terms to learn.
+
+### Too Many Shallow Microservices
+
+This shallow-deep module principle is scale-agnostic, and we can apply it to microservices architecture. Too many shallow microservices won't do any good - the industry is heading towards somewhat "macroservices", i.e., services that are not so shallow (=deep). One of the worst and hardest to fix phenomena is so-called distributed monolith, which is often the result of this overly granular shallow separation.
+
+I once consulted a startup where a team of five developers introduced 17(!) microservices. They were 10 months behind schedule and appeared nowhere close to the public release. Every new requirement led to changes in 4+ microservices. It took an enormous amount of time to reproduce and debug an issue in such a distributed system. Both time to market and cognitive load were unacceptably high. 🤯
+
+Is this the right way to approach the uncertainty of a new system? It's enormously difficult to elicit the right logical boundaries in the beginning. The key is to make decisions as late as you can responsibly wait, because that is when you have the most information at hand. By introducing a network layer up front, we make our design decisions hard to revert right from the start. The team's only justification was: "The FAANG companies proved microservices architecture to be effective". Hello, you got to stop dreaming big.
+
+The Tanenbaum-Torvalds debate argued that Linux's monolithic design was flawed and obsolete, and that a microkernel architecture should be used instead. Indeed, the microkernel design seemed to be superior "from a theoretical and aesthetical" point of view. On the practical side of things - three decades on, microkernel-based GNU Hurd is still in development, and monolithic Linux is everywhere. This page is powered by Linux, your smart teapot is powered by Linux. By monolithic Linux.
+
+A well-crafted monolith with truly isolated modules is often much more flexible than a bunch of microservices. It also requires far less cognitive effort to maintain. It's only when the need for separate deployments becomes crucial, such as scaling the development team, that you should consider adding a network layer between the modules, future microservices.
+
+### Feature-rich Languages
+
+We feel excited when new features got released in our favourite language. We spend some time learning these features, we build code upon them.
+
+If there are lots of features, we may spend half an hour playing with a few lines of code, to use one or another feature. And it's kind of a waste of time. But what's worse, when you come back later, you would have to recreate that thought process!
+
+You not only have to understand this complicated program, you have to understand why a programmer decided this was the way to approach a problem from the features that are available. 🤯
+
+These statements are made by none other than Rob Pike.
+
+> Reduce cognitive load by limiting the number of choices.
+
+Language features are OK, as long as they are orthogonal to each other.
+
+### Business Logic and HTTP Status Codes
+
+On the backend we return:
+
+`401` for expired jwt token
+`403` for not enough access
+`418` for banned users
+
+The engineers on the frontend use backend API to implement login functionality. They would have to temporarily create the following cognitive load in their brains:
+
+`401` is for expired jwt token  // `[🧠1]`, ok just temporary remember it
+`403` is for not enough access  // `[🧠2]`
+`418` is for banned users       // `[🧠3]`
+
+Frontend developers would (hopefully) introduce some kind `numeric status -> meaning` dictionary on their side, so that subsequent generations of contributors wouldn't have to recreate this mapping in their brains.
+
+Then QA engineers come into play: "Hey, I got `403` status, is that expired token or not enough access?" QA engineers can't jump straight to testing, because first they have to recreate the cognitive load that the engineers on the backend once created.
+
+Why hold this custom mapping in our working memory? It's better to abstract away your business details from the HTTP transfer protocol, and return self-descriptive codes directly in the response body:
+
+```
+{
+    "code": "jwt_has_expired"
+}
+```
+
+Cognitive load on the frontend side: `[🧠0]` (fresh, no facts are held in mind)
+Cognitive load on the QA side: `[🧠0]`
+
+The same rule applies to all sorts of numeric statuses (in the database or wherever) - prefer self-describing strings. We are not in the era of 640K computers to optimise for memory.
+
+    People spend time arguing between 401 and 403, making decisions based on their own mental models. New developers are coming in, and they need to recreate that thought process. You may have documented the "whys" (ADRs) for your code, helping newcomers to understand the decisions made. But in the end it just doesn't make any sense. We can separate errors into either user-related or server-related, but apart from that, things are kind of blurry.
+
+It's also often mentally taxing to distinguish between "authentication" and "authorization". We can use simpler terms like "login" and "permissions" to reduce the cognitive load.
