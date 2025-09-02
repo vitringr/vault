@@ -117,7 +117,7 @@ Some programming knowledge is helpful, but not required. In several places, we g
 
 3D math is all about measuring locations, distances, and angles precisely and mathematically in 3D space. The most frequently used framework to perform such calculations using a computer is called the Cartesian coordinate system. Cartesian mathematics was invented by (and is named after) a brilliant French philosopher, physicist, physiologist, and mathematician named René Descartes, who lived from 1596 to 1650. René Descartes is famous not just for inventing Cartesian mathematics, which at the time was a stunning unification of algebra and geometry. He is also well-known for making a pretty good stab of answering the question “How do I know something is true?”—a question that has kept generations of philosophers happily employed and does not necessarily involve dead sheep (which will perhaps disturbingly be a central feature of the next section), unless you really want it to. Descartes rejected the answers proposed by the Ancient Greeks, which are ethos (roughly, “because I told you so”), pathos (“because it would be nice”), and logos (“because it makes sense”), and set about figuring it out for himself with a pencil and paper.
 
-This chapter is divided into four main sections.
+This chapter is divided into four main sections:
 
 - **Section 1.1**: Reviews some basic principles of number systems and the first law of computer graphics.
 - **Section 1.2**: Introduces 2D Cartesian mathematics, the mathematics of flat surfaces. It shows how to describe a 2D cartesian coordinate space and how to locate points using that space.
