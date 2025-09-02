@@ -6,8 +6,12 @@ context:
 
 # Number Line
 
-Visual representation of numbers laid out on a straight horizontal line.
+Graphical representation of a one-dimensional coordinate system of numbers.
 
 ---
 
 Each point on the line corresponds to a unique number, with equal intervals between consecutive integers.
+
+The line can extend to infinity in both the positive or negative direction.
+
+The numbers are visually laid out on a straight horizontal line.

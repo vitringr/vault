@@ -124,6 +124,9 @@ This chapter is divided into four main sections:
 - **Section 1.3**: Extends these ideas into three dimensions. It explains left- and right-handed coordinate spaces and establishes some conventions used in this book.
 - **Section 1.4**: Concludes the chapter by quickly reviewing assorted prerequisites.
 
+> **The FIrst Law of Computer Graphics**
+> If it looks right, it is right.
+
 ---
 
 ## Chapter 2 (Vectors)
