@@ -5,9 +5,11 @@ context:
   - "[[C (Programming Language)]]"
 ---
 
-# The C Programming Language
+# The C Programming Language Book
 
-Notes from the book: `The C Programming Language (Second Edition)`
+Any notes from the book.
+
+Book: `The C Programming Language (Second Edition)`
 
 ---
 
@@ -39,4 +41,6 @@ The language is not tied to any operating system or machine.
 
 **Portable**: It is easy to write portable programs, as C is independent of any particular machine architecture. The programs can be run without change on a variety of different hardware.
 
-## Chapter 1: A Tutorial Introduction
+---
+
+#wip

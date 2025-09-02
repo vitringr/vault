@@ -22,4 +22,4 @@ Because of how fundamental and low-level it is, the C programming language helps
 
 **Paradigm**: Follows the [[Imperative Programming]] and [[Procedural Programming]] paradigms.
 
-See [[The C Programming Language]] book.
+See [[The C Programming Language Book]] book.

@@ -13,6 +13,12 @@
 
 _Basics of Linear Algebra and Trigonometry._
 
+Read the book carefully:
+
+- [ ] **Game Math Book**: https://gamemath.com/book/intro.html
+
+And then maybe watch the things not so carefully:
+
 - [ ] **Trigonometry Index**: https://www.mathsisfun.com/algebra/trigonometry-index.html
 
 - [ ] **3B1B**: The Essence of Linear Algebra (Watch at least 5 videos)
