@@ -1,5 +1,6 @@
 ---
 context:
+  - "[[Number]]"
   - "[[Coordinate System]]"
 ---
 
