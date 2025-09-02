@@ -326,5 +326,7 @@ Examples:
 | ≠         | `!=`    | Not equal to.       |
 | ≥         | `>=`    | Bigger or equal to. |
 | ≤         | `=<`    | Less or equal to.   |
+| π         | `p*`    | Pi                  |
+| τ         | `t*`    | Tau                 |
 
 Use the `:digraphs` command to see the whole list.
