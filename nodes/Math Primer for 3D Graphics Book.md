@@ -9,8 +9,6 @@ context:
   - "[[Game Development]]"
 ---
 
-#wip
-
 # Math Primer for 3D Graphics Book
 
 (3D Math Primer for Graphics and Game Development)
@@ -126,6 +124,8 @@ This chapter is divided into four main sections:
 
 > **The FIrst Law of Computer Graphics**
 > If it looks right, it is right.
+
+#wip: continue 1.3 3D Cartesian Space
 
 ---
 
