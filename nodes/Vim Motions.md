@@ -328,5 +328,6 @@ Examples:
 | ≤         | `=<`    | Less or equal to.   |
 | π         | `p*`    | Pi                  |
 | τ         | `t*`    | Tau                 |
+| √         | `RT`    | Square Root         |
 
 Use the `:digraphs` command to see the whole list.
