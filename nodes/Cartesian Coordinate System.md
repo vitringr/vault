@@ -16,5 +16,3 @@ Coordinate system that specifies each point uniquely in a plane by a pair of num
 - The system can be extended to multiple dimensions. For 3D coordinates, a _z_ axis is added as depth.
 
 **Origin**: The point where all the axes meet. Has `[0, 0]` as coordinates.
-
-

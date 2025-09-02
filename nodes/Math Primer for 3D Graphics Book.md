@@ -67,7 +67,7 @@ Dr. Ian Parberry has more than 35 years of experience in research and teaching i
 We have tried to make the book accessible to as wide an audience as possible; no book, however, can go back all the way to first principles. We expect from the reader the following basic mathematical skills:
 
 - Manipulating algebraic expressions, fractions, and basic algebraic laws such as the associative and distributive laws and the quadratic equation.
-    Understanding what variables are, what a function is, how to graph a function, and so on.
+  Understanding what variables are, what a function is, how to graph a function, and so on.
 
 - Some very basic 2D Euclidian geometry, such as what a point is, what a line is, what it means for lines to be parallel and perpendicular, and so forth. Some basic formulas for area and circumference are used in a few places. It's OK if you have temporarily forgotten those—you will hopefully recognize them when you see them.
 
@@ -110,3 +110,76 @@ Some programming knowledge is helpful, but not required. In several places, we g
 **Appendix A**: Is an assortment of useful tests that can be performed on geometric primitives. We intend it to be a helpful reference, but it can also make for interesting browsing.
 
 **Appendix B**: Has all the answers.
+
+---
+
+## Chapter 1 (Cartesian Coordinate System)
+
+3D math is all about measuring locations, distances, and angles precisely and mathematically in 3D space. The most frequently used framework to perform such calculations using a computer is called the Cartesian coordinate system. Cartesian mathematics was invented by (and is named after) a brilliant French philosopher, physicist, physiologist, and mathematician named René Descartes, who lived from 1596 to 1650. René Descartes is famous not just for inventing Cartesian mathematics, which at the time was a stunning unification of algebra and geometry. He is also well-known for making a pretty good stab of answering the question “How do I know something is true?”—a question that has kept generations of philosophers happily employed and does not necessarily involve dead sheep (which will perhaps disturbingly be a central feature of the next section), unless you really want it to. Descartes rejected the answers proposed by the Ancient Greeks, which are ethos (roughly, “because I told you so”), pathos (“because it would be nice”), and logos (“because it makes sense”), and set about figuring it out for himself with a pencil and paper.
+
+This chapter is divided into four main sections.
+
+- **Section 1.1**: Reviews some basic principles of number systems and the first law of computer graphics.
+- **Section 1.2**: Introduces 2D Cartesian mathematics, the mathematics of flat surfaces. It shows how to describe a 2D cartesian coordinate space and how to locate points using that space.
+- **Section 1.3**: Extends these ideas into three dimensions. It explains left- and right-handed coordinate spaces and establishes some conventions used in this book.
+- **Section 1.4**: Concludes the chapter by quickly reviewing assorted prerequisites.
+
+---
+
+## Chapter 2 (Vectors)
+
+---
+
+## Chapter 3 (Multiple Coordinate Spaces)
+
+---
+
+## Chapter 4 (Introduction to Matrices)
+
+---
+
+## Chapter 5 (Matrices and Linear Transformations)
+
+---
+
+## Chapter 6 (More on Matrices)
+
+---
+
+## Chapter 7 (Polar Coordinate Systems)
+
+---
+
+## Chapter 8 (Rotation in Three Dimensions)
+
+---
+
+## Chapter 9 (Geometric Primitives)
+
+---
+
+## Chapter 10 (Mathematical Topics from 3D Graphics)
+
+---
+
+## Chapter 11 (Mechanics 1
+
+---
+
+## Chapter 12 (Mechanics 2
+
+---
+
+## Chapter 13 (Curves in 3D)
+
+---
+
+## Chapter 14 (Afterword)
+
+---
+
+## Appendix A
+
+---
+
+## Appendix B
