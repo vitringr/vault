@@ -125,11 +125,20 @@ This chapter is divided into four main sections:
 > **The FIrst Law of Computer Graphics**
 > If it looks right, it is right.
 
-#wip: continue 1.3 3D Cartesian Space
-
 ---
 
 ## Chapter 2 (Vectors)
+
+Vectors are the formal mathematical entities we use to do 2D and 3D math. The word vector has two distinct but related meanings. Mathematics books, especially those on linear algebra, tend to focus on a rather abstract definition, caring about the numbers in a vector but not necessarily about the context or actual meaning of those numbers. Physics books, on the other hand, tend towards an interpretation that treats a vector as a geometric entity to the extent that they avoid any mention of the coordinates used to measure the vector, when possible. It's no wonder that you can sometimes find people from these two disciplines correcting one another on the finer points of “how vectors really work.” Of course the reality is that they are both right,1 and to be proficient with 3D math, we need to understand both interpretations of vectors and how the two interpretations are related.
+
+This chapter introduces the concept of vectors. It is divided into the following sections.
+
+- **Section 2.1**: Covers some of the basic mathematical properties of vectors.
+- **Section 2.2**: Gives a high-level introduction to the geometric properties of vectors.
+- **Section 2.3**: Connects the mathematical definition with the geometric one and discusses how vectors work within the framework of Cartesian coordinates.
+- **Section 2.4**: Discusses the often confusing relationship between points and vectors and considers the rather philosophical question of why it is so difficult to make absolute measurements.
+- **Sections 2.5–2.12**: Discuss the fundamental calculations we can perform with vectors, considering both the algebra and geometric interpretations of each operation.
+- **Section 2.13**: Presents a list of helpful vector algebra laws.
 
 ---
 
