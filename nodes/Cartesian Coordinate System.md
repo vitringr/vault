@@ -19,6 +19,12 @@ Coordinate system that specifies each point uniquely in a plane by a pair of num
 
 **Coordinates**: The coordinates represent the distances from the origin to the point.
 
-**Direction Notation**: In general, the standard cardinal directions are used: _North (`y+`, Top)_, _East (`x+`, Right)_, _South (`y-`, Bottom)_, and _West (`x-`, Left)_.
+## Conventions
 
-- Some systems might change this. For example, it is common for systems to reverse the `y` direction.
+Different systems might use different conventions regarding the axes directions.
+
+**2D**: The standard mathematical convention for 2D is that `+x` points right (East), and `+y` points up (North). However, it is common for systems to reverse the `y` axis direction, especially when dealing with screens that are to be viewed from top to an infinite bottom.
+
+**3D**: For 3D space, one standard convention is the 'left hand' one, where `+x`, `+y`, and `+z` point right, up, and forward, respectively.
+
+These different coordinate systems can be transformed from one to the other.

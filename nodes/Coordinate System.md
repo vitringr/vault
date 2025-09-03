@@ -18,5 +18,5 @@ The use of coordinate systems allows for a bridge between [[Geometry]] and [[Alg
 Common coordinate systems:
 
 - [[Number Line]]
-- [Cartesian Coordinate System]]
+- [[Cartesian Coordinate System]]
 - [[Polar Coordinate System]]
