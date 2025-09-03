@@ -57,7 +57,42 @@ For example, the vector `<4, 3>` has a magnitude of `5`.
 **Always Positive**: A feature of this formula is that it doesn't produce negative values. This is good because a negative magnitude wouldn't really make much sense.
 
 ---
+
 #wip
+
+## Negation
+
+Vectors can be negated, meaning that every component is negated.
+
+`-<x, y> = <-x, -y>`
+
+For example, negating `<5, -3>` results in `<-5, 3>`.
+
+**Result**: Negating a vector `v` results in its _additive inverse_ `-v` such that `v + (-v) = 0`.
+
+**Reverse Direction**: Nagating a vector results in a vector of the same magnitude but opposite direction.
+
+- Visually, it's the same line segment, but with the arrowhead on the other side.
+
+## Scaling
+
+Vectors can be multiplied by scalars, meaning that every component is multiplied by the scalar.
+
+`s * <x, y> = <sx, sy>`
+
+For example, multiplying the vector `<5, -3>` by the scalar `2` results in `<10, -6>`.
+
+**Result**: The result is a vector parallel to the original vector, with a different length and possibly opposite direction.
+
+**Division**: Same idea due to [[Reciprocal Multiplication]].
+
+**Negation**: Vector negation can be viewed as the special case of multiplying a vector by the scalar `-1`.
+
+**Geometric Intuition**: Multiplying a vector by a scalar `s` has the effect of scaling the length by a factor of `|k|`. If `k < 0`, then the direction is also flipped.
+
+#wip
+
+---
 
 ## Vector Algebra
 
