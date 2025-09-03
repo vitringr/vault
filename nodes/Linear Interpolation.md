@@ -7,7 +7,7 @@ context:
 
 # Linear Interpolation
 
-[[Interpolation]] method that connects two known points by a straight line. The unknown point is on this line.
+[[Interpolation]] method that connects two known points by a straight line between them, finding the target at a desired point along this line.
 
 ---
 

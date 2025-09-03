@@ -56,10 +56,6 @@ For example, the vector `<4, 3>` has a magnitude of `5`.
 
 **Always Positive**: A feature of this formula is that it doesn't produce negative values. This is good because a negative magnitude wouldn't really make much sense.
 
----
-
-#wip
-
 ## Negation
 
 Vectors can be negated, meaning that every component is negated.
@@ -105,67 +101,24 @@ For example, the sum of vectors `<5, -3>` and `<-1, 2>` equals `<4, -1>`.
 
 **Result**: The result of adding/subtracting `B` to/from `A` is a new vector `C` which starts from vector `A` as origin and ends at the resulting coordinate. See [[Vector Displacement Intuition]].
 
-#wip
+## Unit Vector
 
----
+Unit vector is a vector with a magnitude of 1.
 
-## Vector Algebra
+Unit vectors are concerned with direction, not with magnitude.
 
-Vectors can be operated with algebraically.
+**Trigonometry**: This is a fundamental concept in [[Trigonometry]], which uses the unit vector and unit circle concepts heavily.
 
-**Combination**: Multiple vectors can be combined into one by adding their components together.
+## Normalization
 
-```
-<ax, ay> + <bx, by> = <ax + bx, ay + by>
+Any nonzero vector can be _normalized_, producing a unit vector that points in the same direction.
 
-<ax, ay> - <bx, by> = <ax - bx, ay - by>
-```
+To normalize a vector, divide its components by its magnitude.
 
-Movement destination can be expressed by the sum of the origin and the displacement.
+## Interpolating Vectors
 
-## Scaling
+See [[Linear Interpolation]]
 
-To scale a vector, multiply both of its components by a [[Scalar]].
+Vectors can be interpolated, finding any target point between them.
 
-```
-w = <x, y>
-wk = <kx, ky>
-```
-
-Scaling a vector by positive scalars results in a vector pointed at the same direction, but with a different length.
-
-Scaling a vector by a negative scalars reverses its direction.
-
-```
-<x, y> * -1 = <-x, -y>
-
-<3, -12.4> * 3 = <9, -37.2>
-```
-
-Multiplying a vector by a scalar can scale it up when the scalar magnitude is bigger than `1`, or scale it down when it is between `0` and `1`.
-
-## Path
-
-The path from vector `A` to vector `B` is vector `C`:
-
-```
-vA + vB = vC
-```
-
-To find the unknown path from a known starting point `A` to a known end point `C`, find the difference between them:
-
-```
-vA + ? = vC
-
-? = vC - vA
-```
-
-Visually, this works by placing the tails (begin points) two different vectors on the same point, and finding the path between their heads (arrows).
-
-The distance between those two vectors is the magnitude of the path.
-
-## Average
-
-The vector whose head is halfway between the heads of `<x, y>` and `<a, b>` is the average of each pair of components, or `<(x + a) / 2, (y + b) / 2>`.
-
-By this logic, vectors can be [[Linear Interpolation|linearly interpolated]] to find any point on the line between them.
+Given two vectors `A` and `B` (which can represent anything), linear interpolation finds a vector `C` that is a fraction of the way from `A` to `B`.
