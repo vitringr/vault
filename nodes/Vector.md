@@ -25,7 +25,7 @@ Vectors are useful to describe things that cannot be represented by a single [[S
 
 **Visual Representation**: Represented by a directed line segment.
 
-## Coordinate System
+## Coordinate Systems
 
 Vectors are a fundamental concept used to represent various quantities in a [[Coordinate System]], such as coordinates or displacements.
 
