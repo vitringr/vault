@@ -6,7 +6,7 @@ context:
 
 # Tau
 
-`τ ≈ 6.28318...`
+`τ ≈ 6.2831853071...`
 
 Mathematical constant, approximately equal to `6.28318`.
 
