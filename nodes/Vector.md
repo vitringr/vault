@@ -86,9 +86,24 @@ For example, multiplying the vector `<5, -3>` by the scalar `2` results in `<10,
 
 **Division**: Same idea due to [[Reciprocal Multiplication]].
 
-**Negation**: Vector negation can be viewed as the special case of multiplying a vector by the scalar `-1`.
+**Negation**: Vector negation can be viewed as the specific case of multiplying a vector by the scalar `-1`.
 
 **Geometric Intuition**: Multiplying a vector by a scalar `s` has the effect of scaling the length by a factor of `|k|`. If `k < 0`, then the direction is also flipped.
+
+## Addition and Subtraction
+
+Vectors can be added and subtracted, meaning that every component from vector `B` gets added/subtracted to/from vector `A`.
+
+```
+<ax, ay> + <bx, by> = <(ax + bx), (ay + by)>
+<ax, ay> - <bx, by> = <(ax - bx), (ay - by)>
+```
+
+For example, the sum of vectors `<5, -3>` and `<-1, 2>` equals `<4, -1>`.
+
+**Additive Inverse**: Subtracting vector `B` from vector `A` can also be viewed as adding vector `B` additive inverse `-B` to vector `A`.
+
+**Result**: The result of adding/subtracting `B` to/from `A` is a new vector `C` which starts from vector `A` as origin and ends at the resulting coordinate.
 
 #wip
 
