@@ -140,6 +140,8 @@ This chapter introduces the concept of vectors. It is divided into the following
 - **Sections 2.5–2.12**: Discuss the fundamental calculations we can perform with vectors, considering both the algebra and geometric interpretations of each operation.
 - **Section 2.13**: Presents a list of helpful vector algebra laws.
 
+#wip 2.10 The Distance Formula
+
 ---
 
 ## Chapter 3 (Multiple Coordinate Spaces)
