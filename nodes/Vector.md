@@ -103,7 +103,7 @@ For example, the sum of vectors `<5, -3>` and `<-1, 2>` equals `<4, -1>`.
 
 **Additive Inverse**: Subtracting vector `B` from vector `A` can also be viewed as adding vector `B` additive inverse `-B` to vector `A`.
 
-**Result**: The result of adding/subtracting `B` to/from `A` is a new vector `C` which starts from vector `A` as origin and ends at the resulting coordinate.
+**Result**: The result of adding/subtracting `B` to/from `A` is a new vector `C` which starts from vector `A` as origin and ends at the resulting coordinate. See [[Vector Displacement Intuition]].
 
 #wip
 

@@ -3,7 +3,7 @@ context:
   - "[[Vector]]"
 ---
 
-# Vectors as a Sequence of Displacements
+# Vector Displacement Intuition
 
 An intuitive way to think about [[Vector]] coordinates and displacements is to imagine splitting the vector into a sequence of displacements.
 
