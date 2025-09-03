@@ -9,6 +9,8 @@ Multidimensional quantity.
 
 ---
 
+Collection of multiple numbers used together as a single whole.
+
 Vectors are useful to describe things that cannot be represented by a single [[Scalar]] such as coordinates in ≥2D space, movement, various forces, and so on.
 
 **Components**: Vectors have a component 'part' for each dimension. For example in 2D, the components are `<x, y>`; for 3D, they are `<x, y, z>`, and so on. Vectors that have the same components are the same vector.
@@ -25,33 +27,24 @@ Vectors are useful to describe things that cannot be represented by a single [[S
 
 ## Coordinate System
 
-Vectors can represent coordinates in a [[Coordinate System]].
-
-### Cartesian Coordinates
+Vectors are a fundamental concept used to represent various quantities in a [[Coordinate System]], such as coordinates or displacements.
 
 See [[Cartesian Coordinate System]]
+See [[Polar Coordinate System]]
 
-The `<x, y>` components of a vector represent the `(x, y)` point in space.
+**Meaning**: The meaning of a vector is dependent on context. For example, the `<x, y>` components of a vector can represent the `(x, y)` location in space, or a displacement in space by `(x, y)` units.
 
 **Any Dimension**: This works for coordinate systems of any Euclidean dimension. For example in 3D, the vector `<x, y, z>` represents the point `(x, y, z)`.
 
 **Visualization**: Visualizing the vector as an arrow with a direction and magnitude, the `(x, y)` points in space are arrows that start with tails from the origin `(0, 0)` and end with heads at the `(x, y)` point itself.
 
-### Polar Coordinates
-
-See [[Polar Coordinate System]]
-
-**Visualization**: The vector can represent an arrow with both magnitude and direction.
-
 ## Magnitude
 
-The magnitude of a vector is its length.
+The magnitude of a vector is a scalar quantity representing its length, independent of direction.
 
-### Calculating Magnitude
+**Hypotenuse**: When positioned in relation to axes in coordinate space, the components of a vector can form a right triangle. The hypotenuse of that triangle (from some origin `<ox, oy>` to the vector `<x, y>`) is the magnitude (length) of the vector.
 
-When positioned in relation to axes in coordinate space, the components of a vector can form a right triangle. The hypotenuse of that triangle (from some origin `<ox, oy>` to the vector `<x, y>`) is the magnitude (length) of the vector.
-
-To find the magnitude, use the [[Pythagorean Theorem]]:
+**Calculating Magnitude**: To find the magnitude, use the [[Pythagorean Theorem]]:
 
 ```
 x² + y² = magnitude²
@@ -59,7 +52,12 @@ x² + y² = magnitude²
 magnitude = √(x² + y²)
 ```
 
+For example, the vector `<4, 3>` has a magnitude of `5`.
+
 **Always Positive**: A feature of this formula is that it doesn't produce negative values. This is good because a negative magnitude wouldn't really make much sense.
+
+---
+#wip
 
 ## Vector Algebra
 
@@ -73,7 +71,7 @@ Vectors can be operated with algebraically.
 <ax, ay> - <bx, by> = <ax - bx, ay - by>
 ```
 
-Movement destination can be expressed by the sum of the origin and the movement.
+Movement destination can be expressed by the sum of the origin and the displacement.
 
 ## Scaling
 
