@@ -97,9 +97,11 @@ Vectors can be added and subtracted, meaning that every component from vector `B
 
 For example, the sum of vectors `<5, -3>` and `<-1, 2>` equals `<4, -1>`.
 
-**Additive Inverse**: Subtracting vector `B` from vector `A` can also be viewed as adding vector `B` additive inverse `-B` to vector `A`.
+**Additive Inverse**: Subtracting vector `B` from vector `A` can also be viewed as adding the vector `B` additive inverse `-B` to vector `A`.
 
-**Result**: The result of adding/subtracting `B` to/from `A` is a new vector `C` which starts from vector `A` as origin and ends at the resulting coordinate. See [[Vector Displacement Intuition]].
+**Result**: The result of adding/subtracting `B` to/from `A` is a new vector `C` which starts from vector `A` as origin and ends at the resulting coordinate.
+
+See [[Vector Displacement Intuition]].
 
 ## Unit Vector
 
@@ -115,10 +117,18 @@ Any nonzero vector can be _normalized_, producing a unit vector that points in t
 
 To normalize a vector, divide its components by its magnitude.
 
+## Distance Formula
+
+The distance between points `a` and `b` equals the length of an imaginary line that connects them.
+
+See [[Distance Formula]]
+
+Given two vectors `A` and `B`, the magnitude of their difference vector (`D = B - A`) equals the distance between them.
+
 ## Interpolating Vectors
 
-See [[Linear Interpolation]]
-
 Vectors can be interpolated, finding any target point between them.
+
+See [[Linear Interpolation]]
 
 Given two vectors `A` and `B` (which can represent anything), linear interpolation finds a vector `C` that is a fraction of the way from `A` to `B`.
