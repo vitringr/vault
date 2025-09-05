@@ -11,6 +11,8 @@ Multidimensional quantity.
 
 Ordered collection of multiple numbers used together as a single whole.
 
+Representation of movement with direction and magnitude.
+
 Vectors are useful to represent things that cannot be described by a single [[Scalar]] alone.
 
 **Components**: A vector is defined by its components. The number of components matches the dimension of a vector. For example in 2D, the components are `<x, y>`; in 3D, they are `<x, y, z>`, and so on.
