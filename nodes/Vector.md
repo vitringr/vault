@@ -44,6 +44,8 @@ The magnitude of a vector is a scalar quantity representing its length, independ
 
 **Hypotenuse**: In relation to axes in coordinate space, the vector line segment (from tail to head) can be seen as the hypotenuse of a right triangle. This hypotenuse is the magnitude (length) of the vector.
 
+**Hypotenuse**: When a vector is positioned with its tail at the origin, the line segment from the origin to the vector's head forms the hypotenuse of a right triangle with legs along the coordinate axes. This hypotenuse is the magnitude (length) of the vector.
+
 **Calculating Magnitude**: To calculate the magnitude, use the [[Pythagorean Theorem]]:
 
 ```
@@ -84,11 +86,9 @@ For example, multiplying the vector `<5, -3>` by the scalar `2` results in `<10,
 
 **Negation**: Vector negation can be viewed as the specific case of multiplying a vector by the `-1` scalar.
 
-**Geometric Intuition**: Multiplying a vector by a scalar `s` has the effect of scaling the length by a factor of `|k|`. If `k < 0`, then the direction is also flipped.
+**Geometric Intuition**: Multiplying a vector by a scalar `s` has the effect of scaling the length by a factor of `|s|`. If `s < 0`, then the direction is also flipped.
 
 ## Addition and Subtraction
-
-Vectors can be added/subtracted together, meaning that every component from vector `B` gets added/subtracted to/from vector `A`.
 
 Vectors can be added/subtracted together by adding/subtracting every component from vector `A` to/from the same component in vector `B`.
 
@@ -123,11 +123,11 @@ See [[Vector Normalization]]
 
 ## Distance Formula
 
-The distance between points `a` and `b` equals the length of an imaginary line that connects them.
+The distance between two points is equal to the length of an imaginary line that connects them.
+
+To calculate the distance between vectors `A` and `B`, calculate the magnitude of their difference vector `D = A - B`.
 
 See [[Distance Formula]]
-
-Given two vectors `A` and `B`, the magnitude of their difference vector (`D = B - A`) equals the distance between them.
 
 ## Interpolating Vectors
 
