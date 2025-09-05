@@ -5,7 +5,7 @@ context:
 
 # Vector Displacement Intuition
 
-An intuitive way to think about [[Vector]] coordinates and displacements is to imagine splitting the vector into a sequence of displacements.
+An intuitive way to think about [[Vector]] coordinates and displacements is to imagine splitting the vector into a sequence of displacement steps.
 
 ---
 

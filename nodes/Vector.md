@@ -58,13 +58,13 @@ magnitude = √(x² + y²)
 
 ## Negation
 
-Vectors can be negated, meaning that every component is negated.
+Vectors can be negated by negating all of their components:
 
 `-<x, y> = <-x, -y>`
 
-For example, negating `<5, -3>` results in `<-5, 3>`.
+For example, negating the vector `<5, -3>` results in `<-5, 3>`.
 
-**Result**: Negating a vector `v` results in its _additive inverse_ `-v` such that `v + (-v) = 0`.
+**Additive Inverse**: Negating a vector `v` results in its _additive inverse_ `-v` such that `v + (-v) = 0`.
 
 **Reverse Direction**: Nagating a vector results in a vector of the same magnitude but opposite direction.
 
@@ -72,7 +72,7 @@ For example, negating `<5, -3>` results in `<-5, 3>`.
 
 ## Scaling
 
-Vectors can be multiplied by scalars, meaning that every component is multiplied by the scalar.
+Vectors can be scaled by multiplying all of their components by a [[Scalar]] value:
 
 `s * <x, y> = <sx, sy>`
 
@@ -80,15 +80,17 @@ For example, multiplying the vector `<5, -3>` by the scalar `2` results in `<10,
 
 **Result**: The result is a vector parallel to the original vector, with a different length and possibly opposite direction.
 
-**Division**: Same idea due to [[Reciprocal Multiplication]].
+**Division**: Any division can replaced by a [[Reciprocal Multiplication]] operation.
 
-**Negation**: Vector negation can be viewed as the specific case of multiplying a vector by the scalar `-1`.
+**Negation**: Vector negation can be viewed as the specific case of multiplying a vector by the `-1` scalar.
 
 **Geometric Intuition**: Multiplying a vector by a scalar `s` has the effect of scaling the length by a factor of `|k|`. If `k < 0`, then the direction is also flipped.
 
 ## Addition and Subtraction
 
-Vectors can be added and subtracted, meaning that every component from vector `B` gets added/subtracted to/from vector `A`.
+Vectors can be added/subtracted together, meaning that every component from vector `B` gets added/subtracted to/from vector `A`.
+
+Vectors can be added/subtracted together by adding/subtracting every component from vector `A` to/from the same component in vector `B`.
 
 ```
 <ax, ay> + <bx, by> = <(ax + bx), (ay + by)>
@@ -97,17 +99,17 @@ Vectors can be added and subtracted, meaning that every component from vector `B
 
 For example, the sum of vectors `<5, -3>` and `<-1, 2>` equals `<4, -1>`.
 
-**Additive Inverse**: Subtracting vector `B` from vector `A` can also be viewed as adding the vector `B` additive inverse `-B` to vector `A`.
+**Additive Inverse**: Subtracting vector `B` from vector `A` can be viewed as adding vector `B`'s additive inverse `-B` to vector `A`.
 
-**Result**: The result of adding/subtracting `B` to/from `A` is a new vector `C` which starts from vector `A` as origin and ends at the resulting coordinate.
+**Result**: The result of adding/subtracting vectors `A` and `B` is vector `C`, which equals their combined total displacement.
 
 See [[Vector Displacement Intuition]].
 
 ## Unit Vector
 
-Unit vector is a vector with a magnitude of 1.
+Unit vector is a vector with a magnitude of `1`.
 
-Unit vectors are concerned with direction, not with magnitude.
+Unit vectors are concerned with direction only, not magnitude.
 
 **Trigonometry**: This is a fundamental concept in [[Trigonometry]], which uses the unit vector and unit circle concepts heavily.
 
@@ -115,7 +117,9 @@ Unit vectors are concerned with direction, not with magnitude.
 
 Any nonzero vector can be _normalized_, producing a unit vector that points in the same direction.
 
-To normalize a vector, divide its components by its magnitude.
+To normalize a vector, divide each of its components by its magnitude.
+
+See [[Vector Normalization]]
 
 ## Distance Formula
 
