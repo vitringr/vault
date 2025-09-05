@@ -9,11 +9,13 @@ Multidimensional quantity.
 
 ---
 
-Collection of multiple numbers used together as a single whole.
+Ordered collection of multiple numbers used together as a single whole.
 
-Vectors are useful to describe things that cannot be represented by a single [[Scalar]] such as coordinates in ≥2D space, movement, various forces, and so on.
+Vectors are useful to represent things that cannot be described by a single [[Scalar]] alone.
 
-**Components**: Vectors have a component 'part' for each dimension. For example in 2D, the components are `<x, y>`; for 3D, they are `<x, y, z>`, and so on. Vectors that have the same components are the same vector.
+**Components**: A vector is defined by its components. The number of components matches the dimension of a vector. For example in 2D, the components are `<x, y>`; in 3D, they are `<x, y, z>`, and so on.
+
+- Vectors that have the same components are the same vector.
 
 **Context**: Depending on the context, vectors can represent different things. For example the vector `<5, 60>` can be used to represent:
 
@@ -23,28 +25,26 @@ Vectors are useful to describe things that cannot be represented by a single [[S
 
 **Etymology**: A vector is what is needed to "carry" the point `A` to the point `B`. The Latin translation of 'vector' means 'carrier'.
 
-**Visual Representation**: Represented by a directed line segment.
+**Geometric Representation**: Graphically represented by a directed line segment - an arrow.
 
 ## Coordinate Systems
 
-Vectors are a fundamental concept used to represent various quantities in a [[Coordinate System]], such as coordinates or displacements.
+Vectors are a fundamental concept in [[Coordinate System|coordinate systems]], used to represent various quantities such as coordinates or displacements.
 
 See [[Cartesian Coordinate System]]
 See [[Polar Coordinate System]]
 
-**Meaning**: The meaning of a vector is dependent on context. For example, the `<x, y>` components of a vector can represent the `(x, y)` location in space, or a displacement in space by `(x, y)` units.
+**Context**: The meaning of a vector is dependent on context. For example, the `<x, y>` components of a vector can represent the `(x, y)` point location in space, or they could also represent a displacement in space by `(x, y)` units.
 
-**Any Dimension**: This works for coordinate systems of any Euclidean dimension. For example in 3D, the vector `<x, y, z>` represents the point `(x, y, z)`.
-
-**Visualization**: Visualizing the vector as an arrow with a direction and magnitude, the `(x, y)` points in space are arrows that start with tails from the origin `(0, 0)` and end with heads at the `(x, y)` point itself.
+**Any Dimension**: Vectors work with coordinate systems of any Euclidean dimension.
 
 ## Magnitude
 
 The magnitude of a vector is a scalar quantity representing its length, independent of direction.
 
-**Hypotenuse**: When positioned in relation to axes in coordinate space, the components of a vector can form a right triangle. The hypotenuse of that triangle (from some origin `<ox, oy>` to the vector `<x, y>`) is the magnitude (length) of the vector.
+**Hypotenuse**: In relation to axes in coordinate space, the vector line segment (from tail to head) can be seen as the hypotenuse of a right triangle. This hypotenuse is the magnitude (length) of the vector.
 
-**Calculating Magnitude**: To find the magnitude, use the [[Pythagorean Theorem]]:
+**Calculating Magnitude**: To calculate the magnitude, use the [[Pythagorean Theorem]]:
 
 ```
 x² + y² = magnitude²
@@ -52,9 +52,9 @@ x² + y² = magnitude²
 magnitude = √(x² + y²)
 ```
 
-For example, the vector `<4, 3>` has a magnitude of `5`.
+- For example, the vector `<4, 3>` has a magnitude of `5`.
 
-**Always Positive**: A feature of this formula is that it doesn't produce negative values. This is good because a negative magnitude wouldn't really make much sense.
+**Always Positive**: The formula does not produce negative values. This is a good feature as a negative magnitude wouldn't make much sense.
 
 ## Negation
 
