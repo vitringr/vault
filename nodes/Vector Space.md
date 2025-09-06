@@ -5,8 +5,6 @@ context:
   - "[[Linear Algebra]]"
 ---
 
-#wip
-
 # Vector Space
 
 (Linear Space)
@@ -15,11 +13,13 @@ Defines a context of rules for [[Vector|Vectors]] and their operations.
 
 ---
 
-This is the formal mathematical 'universe' where vectors live.
+_This is the formal mathematical 'universe' of vectors._
 
-**Generalization**: This abstract definition means that many things can be treated as vectors as long as they obey these rules.
+A vector space is a set of elements (called vectors) that can be added together and multiplied by [[Scalar|scalars]], satisfying certain axioms.
 
-**Foundation**: It guarantees that all the familiar vector operations will work consistently and predictably.
+**Generalization**: This abstract generalization means that many things can be treated as vectors as long as they obey these axioms.
+
+**Consistency**: This ruleset guarantees that all the familiar vector operations will work consistently and predictably.
 
 ## Axioms
 
@@ -44,17 +44,3 @@ For any vectors `u`, `v`, `w` in the space, and any scalars `a`, `b`, the follow
 **Distribution of Elements to Scalars**: For any `x` and `y`, and any scalar `a`, `a(x + y) = ax + ay`.
 
 **Distribution of Scalars to Elements**: For any `x`, and any scalars `a` and `b`, `(a + b)x = ax + bx`.
-
-## Benefits
-
-
----
-
-
-Basis: The concept of a Basis Vectors|basis is defined within a vector space. A basis is a set of linearly independent vectors that span the entire space, meaning any vector can be uniquely written as a combination of them (e.g., xî + yĵ in 2D).
-
----
-
-Set of vectors that can be added together and multiplied by scalars.
-
-The operations of vector addition and scalar multiplication must satisfy certain requirements, called vector axioms.

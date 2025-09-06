@@ -1,11 +1,11 @@
 ---
 context:
-  - "[[Expression]]"
+  - "[[Expression (Mathematics)]]"
 ---
 
 # Polynomial
 
-[[Expression|Mathematical Expression]] that consist of [[Variable (Mathematics)|variables]] and coefficients.
+[[Expression (Mathematics)]] that consist of [[Variable (Mathematics)|variables]] and coefficients.
 
 ---
 
