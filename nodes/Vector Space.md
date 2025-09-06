@@ -1,12 +1,15 @@
 ---
 aliases:
+  - Linear Space
 context:
-- "[[Linear Algebra]]"
+  - "[[Linear Algebra]]"
 ---
 
 #wip
 
 # Vector Space
+
+(aka. Linear Space)
 
 ad
 

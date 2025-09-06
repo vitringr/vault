@@ -12,11 +12,11 @@ Multidimensional quantity.
 
 Ordered collection of multiple numbers used together as a single whole.
 
-Representation of movement with direction and magnitude.
-
-An object in [[Vector Space]], governed by its axioms.
+The fundamental object within a [[Vector Space]], governed by its axioms.
 
 Vectors represent things that cannot be described by a single [[Scalar]] alone.
+
+Representation of movement with direction and magnitude.
 
 **Components**: A vector itself is defined by its components. The number of components matches the dimension of a vector. For example in 2D, the components are `<x, y>`; in 3D, they are `<x, y, z>`, and so on.
 
@@ -34,11 +34,15 @@ Vectors represent things that cannot be described by a single [[Scalar]] alone.
 
 ## Vector Space
 
+Vectors exist within a structured set of rules called a [[Vector Space]]. This is the formal mathematical 'universe' of vectors.
+
+A vector space defines the rules that all vectors and their operations must follow.
+
 See [[Vector Space]]
 
 ## Coordinate Systems
 
-The primary way to represent, model, and work with a [[Vector Space]] is through a [[Coordinate System]], most commonly the [[Cartesian Coordinate System]].
+The primary way to represent, model, and work with vectors in a [[Vector Space]] is through a [[Coordinate System]], most commonly the [[Cartesian Coordinate System]].
 
 _The vector space defines the rules, while the coordinate system provides the framework._
 
