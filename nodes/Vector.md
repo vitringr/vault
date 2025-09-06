@@ -12,7 +12,7 @@ Multidimensional quantity.
 
 Ordered collection of multiple numbers used together as a single whole.
 
-The fundamental object within a [[Vector Space]], governed by its axioms.
+The fundamental object of a [[Vector Space]], governed by its axioms.
 
 Vectors represent things that cannot be described by a single [[Scalar]] alone.
 
@@ -147,6 +147,6 @@ See [[Distance Formula]]
 
 Vectors can be interpolated, finding any target point between them.
 
-See [[Linear Interpolation]]
+Given two vectors `A` and `B`, linear interpolation finds a vector `C` that is a fraction of the way from `A` to `B`.
 
-Given two vectors `A` and `B` (which can represent anything), linear interpolation finds a vector `C` that is a fraction of the way from `A` to `B`.
+See [[Linear Interpolation]]

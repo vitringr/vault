@@ -31,6 +31,7 @@ The result is a unit vector that points in the same direction.
 ```c
 void normalize(Vector *v) {
   const float magnitude = sqrt(v->x * v->x + v->y * v->y);
+
   if (magnitude == 0)
     return;
 
@@ -38,3 +39,6 @@ void normalize(Vector *v) {
   v->y /= magnitude;
 }
 ```
+
+> [!WARNING] Division by Zero
+> Always beware of the possibility of division by zero and handle it properly.
