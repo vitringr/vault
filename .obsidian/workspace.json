@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Vector Normalization.md",
+                "file": "nodes/Vector Space.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Vector Normalization"
+              "title": "Vector Space"
             }
           }
         ]
@@ -153,6 +153,11 @@
   },
   "active": "75f225d9d06153ee",
   "lastOpenFiles": [
+    "nodes/Vector Space.md~",
+    "nodes/Basis Vectors.md",
+    "nodes/Basis Vectors.md~",
+    "nodes/Vector Normalization.md",
+    "nodes/4913",
     "nodes/Vector.md~",
     "nodes/Linear Algebra.md~",
     "nodes/Linear Equation.md~",
@@ -160,16 +165,11 @@
     "nodes/Vector Normalization.md~",
     "nodes/Vector Space.md",
     "_System.md~",
-    "nodes/Vector Space.md~",
     "nodes/Polynomial.md~",
-    "nodes/Vector Abstraction.md~",
-    "nodes/4913",
     "nodes/Vector.md",
     "nodes/Vector Context.md",
     "nodes/Vector Abstraction.md",
-    "nodes/Vector Context.md~",
     "nodes/Physics.md",
-    "nodes/Vector Normalization.md",
     "nodes/Linear Algebra.md",
     "nodes/Distance Formula.md",
     "nodes/Computer Program.md",
@@ -188,7 +188,6 @@
     "nodes/Project Runner.md",
     "nodes/Project Spellblade - Spells.md",
     "nodes/Project Spellblade - Enemies.md",
-    "nodes/Project Spellblade - Game UI.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"
