@@ -1,6 +1,7 @@
 ---
 context:
   - "[[Mathematics]]"
+  - "[[Linear Algebra]]"
 ---
 
 # Vector
@@ -13,9 +14,11 @@ Ordered collection of multiple numbers used together as a single whole.
 
 Representation of movement with direction and magnitude.
 
-Vectors are useful to represent things that cannot be described by a single [[Scalar]] alone.
+An object in [[Vector Space]], governed by its axioms.
 
-**Components**: A vector is defined by its components. The number of components matches the dimension of a vector. For example in 2D, the components are `<x, y>`; in 3D, they are `<x, y, z>`, and so on.
+Vectors represent things that cannot be described by a single [[Scalar]] alone.
+
+**Components**: A vector itself is defined by its components. The number of components matches the dimension of a vector. For example in 2D, the components are `<x, y>`; in 3D, they are `<x, y, z>`, and so on.
 
 - Vectors that have the same components are the same vector.
 
@@ -29,12 +32,17 @@ Vectors are useful to represent things that cannot be described by a single [[Sc
 
 **Geometric Representation**: Graphically represented by a directed line segment - an arrow.
 
+## Vector Space
+
+See [[Vector Space]]
+
 ## Coordinate Systems
 
-Vectors are a fundamental concept in [[Coordinate System|coordinate systems]], used to represent various quantities such as coordinates or displacements.
+The primary way to represent, model, and work with a [[Vector Space]] is through a [[Coordinate System]], most commonly the [[Cartesian Coordinate System]].
 
-See [[Cartesian Coordinate System]]
-See [[Polar Coordinate System]]
+_The vector space defines the rules, while the coordinate system provides the framework._
+
+**Interpretation**: The coordinate system is useful to represent the geometry of vectors, while the vectors are useful to represent various quantities in the coordinate system.
 
 **Context**: The meaning of a vector is dependent on context. For example, the `<x, y>` components of a vector can represent the `(x, y)` point location in space, or they could also represent a displacement in space by `(x, y)` units.
 
