@@ -2,6 +2,7 @@
 aliases:
   - Function
   - Mathematical Function
+  - Map
 context:
   - "[[Mathematics]]"
 ---
