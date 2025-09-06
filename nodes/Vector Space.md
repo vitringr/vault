@@ -17,7 +17,7 @@ _This is the formal mathematical 'universe' of vectors._
 
 A vector space is a set of elements (called vectors) that can be added together and multiplied by [[Scalar|scalars]], satisfying certain axioms.
 
-Characterized by a set of [[Basis Vectors]] that define a [[Coordinate System]] for it.
+**Basis**: Characterized by a set of [[Basis Vectors]] that define a [[Coordinate System]] for it.
 
 **Generalization**: This abstract generalization means that many things can be treated as vectors as long as they obey these axioms.
 

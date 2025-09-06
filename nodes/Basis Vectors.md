@@ -28,4 +28,4 @@ Set of vectors that define a [[Coordinate System]] for a [[Vector Space]].
 
 - They provide a reference frame that allows the definition of coordinates to every vector in the space.
 
-**Transformation Core**: All linear transformations (rotation, scaling, shearing) can be understood as operations that change the basis vectors of a space.
+**Transformation Core**: Any [[Linear Transformation]] (rotation, scaling, shearing) can be understood as an operation that changes the basis vectors of a space.
