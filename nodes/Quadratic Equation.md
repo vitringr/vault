@@ -11,6 +11,8 @@ context:
 
 Equation that describes a [[Parabola]] in a [[Coordinate System]].
 
+---
+
 Represents the equation of a [[Polynomial]] of the [[Polynomial#degree|second degree]].
 
 ## Algebraic Forms

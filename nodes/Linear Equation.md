@@ -9,7 +9,9 @@ context:
 
 (First-Degree Polynomial)
 
-Equation that describes a straight line in a [[Coordinate System]].
+[[Equation]] that describes a straight line in a [[Coordinate System]].
+
+---
 
 Represents the equation of a [[Polynomial]] of the [[Polynomial#degree|first degree]].
 

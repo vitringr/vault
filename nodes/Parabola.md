@@ -6,7 +6,7 @@ context:
 
 # Parabola
 
-A U-shaped curve that represents the [[Graph (Plot)|Graph]] of a [[Quadratic Equation]]
+A U-shaped curve that represents the [[Graph (Plot)|Graph]] of a [[Quadratic Equation]].
 
 ---
 

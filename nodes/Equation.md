@@ -5,7 +5,7 @@ context:
 
 # Equation
 
-Mathematical formula that expresses the equality of two [[Expression|expressions]].
+Mathematical formula that expresses the equality of two [[Expression (Mathematics)|expressions]].
 
 ---
 

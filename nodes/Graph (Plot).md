@@ -13,9 +13,9 @@ context:
 
 The graphical representation of a mathematical relationship.
 
-Visualizes the relationship between variables, showing how one variable changes with respect to another.
-
 ---
+
+Visualizes the relationship between variables, showing how one variable changes with respect to another.
 
 Represented as `(x, y)` coordinates on a [[Cartesian Coordinate System]].
 
