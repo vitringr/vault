@@ -189,3 +189,6 @@ They think our Art is about turning lead to gold, when truly it is about turning
 
 One man's noise is another man's signal.
 \- null
+
+The purpose of computation is insight, not numbers.
+\- Richard Hamming

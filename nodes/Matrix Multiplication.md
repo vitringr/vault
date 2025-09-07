@@ -1,4 +1,6 @@
 ---
+tags:
+  - "data"
 context:
   - "[[Linear Algebra]]"
   - "[[Matrix]]"
