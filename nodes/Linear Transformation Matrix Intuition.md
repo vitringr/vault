@@ -12,7 +12,7 @@ Intuition to how a [[Linear Transformation]] works, how it affects the [[Basis V
 
 Linear maps are completely defined by how they affect the basis vectors. The matrix is a convenient package for that information.
 
-## Transformation
+## Basis Transformation
 
 Imagine every vector as a scaling of the basis vectors `i` and `j`.
 
@@ -57,6 +57,14 @@ It simply records the new positions of the basis vectors `i` and `j`:
 
 - The **first column** equals the first basis vector `i`.
 - The **second column** equals the second basis vector `j`.
+
+```
+┌────┬────┐
+│ ix │ jx │
+├────┼────┤
+│ iy │ jy │
+└────┴────┘
+```
 
 For example, in the identity matrix:
 
