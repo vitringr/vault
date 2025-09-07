@@ -32,6 +32,8 @@ _In general, grid lines remain parallel and evenly spaced, and the origin remain
 
 **Lines Remain Lines**: Straight lines must not be curved after the map. They need to remain straight.
 
+These properties ensure that even after a linear transformation, points in space will continue to preserve some relative position between eachother.
+
 ## Examples
 
 - **Rotation**: Spins vectors around the origin by a given angle.

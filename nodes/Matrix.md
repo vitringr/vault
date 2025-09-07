@@ -7,7 +7,16 @@ context:
 
 # Matrix
 
-Rectangular table of numbers, symbols, or expressions, with elements arranged in rows and columns.
+Rectangular arrangement of symbols in rows and columns.
 
 ---
 
+Example arrangement of a 2x2 matrix:
+
+```
+┌───┬───┐
+│ 1 │ 0 │
+├───┼───┤
+│ 0 │ 1 │
+└───┴───┘
+```

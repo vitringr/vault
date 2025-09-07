@@ -6,7 +6,7 @@ context:
 
 #wip
 
-# Matrix Transformation Intuition
+# Linear Transformation Matrix Intuition
 
 ad
 
@@ -47,6 +47,8 @@ Any vector will adapt the new transformation by being a scaling of the new basis
 
 The basis vectors `i` and `j` change the whole [[Coordinate System]], and all the other vectors (`<x, y>` ⇔ `xi + yj`) adapt to that change.
 
+The place where a `<x, y>` vector lands will be `x` times the transformed version of `i`, plus `y` times the transformed version of `j`.
+
 ## Matrix
 
 The [[Matrix]] is a concise way to describe a linear transformation.
@@ -55,6 +57,14 @@ It simply records the new positions of the basis vectors `i` and `j`:
 
 - The **first column** equals the first basis vector `i`.
 - The **second column** equals the second basis vector `j`.
+
+```
+┌───┬───┐
+│ 1 │ 0 │
+├───┼───┤
+│ 0 │ 1 │
+└───┴───┘
+```
 
 ---
 
