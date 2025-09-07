@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Linear Transformation Matrix Intuition.md",
+                "file": "nodes/Matrix Multiplication.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Linear Transformation Matrix Intuition"
+              "title": "Matrix Multiplication"
             }
           }
         ]
@@ -154,20 +154,22 @@
   "active": "75f225d9d06153ee",
   "lastOpenFiles": [
     "nodes/Linear Transformation.md~",
+    "nodes/Matrix Multiplication.md~",
+    "nodes/Matrix Multiplication.md",
+    "nodes/Linear Transformation Matrix Intuition.md",
+    "nodes/Game Ideas.md~",
     "nodes/4913",
     "nodes/Linear Transformation Matrix Intuition.md~",
     "nodes/Common 2D Linear Transformations.md",
     "nodes/Common 2D Linear Transformations.md~",
     "nodes/Common 2D Transformation Matrices.md~",
     "nodes/Matrix.md~",
-    "nodes/Linear Transformation Matrix Intuition.md",
     "nodes/Matrix Linear Transformation Intuition.md~",
     "nodes/Matrix Transformation Intuition.md",
     "nodes/Matrix Linear Transformation Intuition.md",
     "nodes/Matrix Transformation Intuition.md~",
     "nodes/Vim Motions.md~",
     "nodes/Linear Transformation.md",
-    "_Draft.md~",
     "nodes/Common 2D Transformation Matrices.md",
     "nodes/Morphism.md",
     "nodes/Basis Vectors.md",
@@ -187,7 +189,6 @@
     "nodes/SOHCAHTOA.md",
     "nodes/The FIrst Law of Computer Graphics.md",
     "nodes/Uncle Bob Clean Architecture.md",
-    "nodes/Linked List.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"

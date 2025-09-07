@@ -19,6 +19,8 @@ Some are really good, they just never made it as standalone games.
 
 # Hack & Slash
 
+Learn from Thronefall
+
 See [[Project Spellblade]]
 
 # Bossfights

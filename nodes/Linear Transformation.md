@@ -61,7 +61,7 @@ It simply records the new positions of the basis vectors `i` and `j`, where:
 └────┴────┘
 ```
 
-### Vector-Matrix Multiplication
+## Vector-Matrix Multiplication
 
 For any vector `<x, y>`, and any matrix `[a, b, c, d]`:
 
@@ -77,3 +77,5 @@ Then, the now scaled vectors `i` (`<xa, xc>`) and `j` (`<yb, yd>`) are added to 
  │ y │   │ c │ d │       │ c │       │ d │
  └───┘   └───┴───┘       └───┘       └───┘
 ```
+
+See [[Matrix Multiplication]]
