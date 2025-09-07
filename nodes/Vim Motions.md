@@ -330,4 +330,20 @@ Examples:
 | τ         | `t*`    | Tau                 |
 | √         | `RT`    | Square Root         |
 
+Grids:
+
+| Character | Digraph | Description              |
+| --------- | ------- | ------------------------ |
+| │         | `vv`    | Vertical.                |
+| ─         | `hh `   | Horizontal.              |
+| ┼         | `hv `   | Horizontal and Vertical. |
+| ├         | `rv `   | Right and Vertical.      |
+| ┤         | `lv `   | Left and Vertical.       |
+| ┬         | `dh`    | Down and Horizontal.     |
+| ┴         | `uh`    | Up and Horizontal.       |
+| ┐         | `dl `   | Down and Left.           |
+| ┌         | `dr `   | Down and Right.          |
+| ┘         | `ul `   | Up and Left.             |
+| └         | `ur`    | Right and Up.            |
+
 Use the `:digraphs` command to see the whole list.
