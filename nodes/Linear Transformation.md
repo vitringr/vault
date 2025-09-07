@@ -54,28 +54,18 @@ It simply records the new positions of the basis vectors `i` and `j`, where:
 - The **second column** equals the second basis vector `j`.
 
 ```
-┌────┬────┐
-│ ix │ jx │
-├────┼────┤
-│ iy │ jy │
-└────┴────┘
+┌─────┬─────┐
+│ i.x │ j.x │
+├─────┼─────┤
+│ i.y │ j.y │
+└─────┴─────┘
 ```
 
-## Vector-Matrix Multiplication
+For any vector `<u, v>`, and any matrix `[a, b, c, d]`:
 
-For any vector `<x, y>`, and any matrix `[a, b, c, d]`:
+- The `u` component of the vector scales the `i` basis vector column `a, c`.
+- The `v` component of the vector scales the `j` basis vector column `b, d`.
 
-- The `x` component of the vector scales the `i` basis vector column `a, c`.
-- The `y` component of the vector scales the `j` basis vector column `b, d`.
-
-Then, the now scaled vectors `i` (`<xa, xc>`) and `j` (`<yb, yd>`) are added to produce the final vector sum.
-
-```
- ┌───┐   ┌───┬───┐       ┌───┐       ┌───┐
- │ x │   │ a │ b │       │ a │       │ b │
- ├───┤ * ├───┼───┤ = x * ├───┤ + y * ├───┤ = <xa, xc> + <yb, yd>
- │ y │   │ c │ d │       │ c │       │ d │
- └───┘   └───┴───┘       └───┘       └───┘
-```
+Then, the now scaled vectors `i` (`<ua, uc>`) and `j` (`<vb, vd>`) are added to produce the final vector sum: `<(ua + vb), (uc + vd)>`.
 
 See [[Matrix Multiplication]]
