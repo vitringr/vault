@@ -2,8 +2,8 @@
 aliases:
   - Linear Map
 context:
-  - "[[Linear Algebra]]"
   - "[[Morphism]]"
+  - "[[Linear Algebra]]"
 ---
 
 # Linear Transformation
@@ -14,11 +14,19 @@ context:
 
 ---
 
+Formally, it is a [[Function (Mathematics)|Function]] that preserves [[Vector]] addition and [[Scalar]] multiplication.
+
 **Function**: Takes a [[Vector]] as input, and returns a vector as output, while respecting the underlying core structure of the vector space.
 
 **Geometric Interpretation**: In [[Geometry]], linear transformations often correspond to operations such as _rotation_, _scaling_, _reflection_, _shearing_, _projection_, or any combination between them.
 
-## Requirements
+**Basis Vectors**: Every transformation is uniquely defined by what it does to the [[Basis Vectors]] of a space.
+
+**Matrix**: Every linear transformation can be represented by a [[Matrix]].
+
+## Properties
+
+_In general, grid lines remain parallel and evenly spaced, and the origin remains the same._
 
 **Preserved Origin**: Linear transformations must preserve the zero vector (`<0, 0>`) as zero vector.
 
@@ -28,7 +36,7 @@ context:
 
 - **Rotation**: Spins vectors around the origin by a given angle.
 - **Scaling**: Stretches or shrinks vectors along axes.
-- **Shear**: #wip
+- **Shear**: "Tips" vectors, shifting their components.
 - **Projection**: "Flattens" vectors onto a line or plane.
 - **Zero Map**: Sends every vector to the zero vector origin.
 - **Identity**: Leaves every vector unchanged.
