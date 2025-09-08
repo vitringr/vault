@@ -1,4 +1,8 @@
+- Reusable Game Components
+- Build Systems, Not Games
+- Simulation vs View Separation
 
+Learn fundaments well, use whatever tools to get the job done.
 
 ---
 

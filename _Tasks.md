@@ -3,13 +3,10 @@
 - [ ] name documents
 - [ ] new phone number
 
-- [ ] start SDL
-
 # Take your time
 
 - [ ] own name
 - [ ] studio name
-- [ ] Spellblade game name
 
 # No rush here
 
