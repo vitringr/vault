@@ -69,3 +69,9 @@ For any vector `<u, v>`, and any matrix `[a, b, c, d]`:
 Then, the now scaled vectors `i` (`<ua, uc>`) and `j` (`<vb, vd>`) are added to produce the final vector sum: `<(ua + vb), (uc + vd)>`.
 
 See [[Matrix Multiplication]]
+
+### Determinant
+
+The determinant describes how a linear transformation affects the scaling of space.
+
+See [[Determinant]]

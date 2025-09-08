@@ -7,18 +7,18 @@ context:
 
 # Matrix
 
-Rectangular arrangement of symbols.
+Rectangular arrangement of symbols in rows and columns.
 
 ---
 
-Example arrangement of a 2x2 matrix:
+Example matrices:
 
-```
-┌───┬───┐
-│ 1 │ 0 │
-├───┼───┤
-│ 0 │ 1 │
-└───┴───┘
-```
+┌───┬───┬───┐  ┌───┬───┐  ┌───┬───┐
+│ a │ b │ c │  │ a │ b │  │ a │ b │
+├───┼───┼───┤  ├───┼───┤  ├───┼───┤
+│ d │ e │ f │  │ c │ d │  │ c │ d │
+├───┼───┼───┤  ├───┼───┤  └───┴───┘
+│ g │ h │ i │  │ e │ f │
+└───┴───┴───┘  └───┴───┘
 
-See [[Matrix Multiplication]]
+**Order**: The _dimension_ or _order_ of a matrix is given by the number of rows times the number of columns.
