@@ -8,7 +8,7 @@ context:
 
 # System of Equations
 
-Finite set of equations for which common solutions are sought.
+Finite set of [[Equation|equations]] for which common solutions are sought.
 
 ---
 

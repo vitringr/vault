@@ -9,11 +9,11 @@ context:
 
 (Second-Degree Polynomial)
 
-Equation that describes a [[Parabola]] in a [[Coordinate System]].
+The [[Equation]] of a second degree [[Polynomial]].
 
 ---
 
-Represents the equation of a [[Polynomial]] of the [[Polynomial#degree|second degree]].
+Describes a [[Parabola]] in a [[Coordinate System]].
 
 ## Algebraic Forms
 

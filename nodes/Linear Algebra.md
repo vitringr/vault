@@ -7,12 +7,17 @@ context:
 
 # Linear Algebra
 
-ad
+Branch of [[Mathematics]] that studies [[Vector Space]].
 
 ---
 
-#wip
-Branch of mathematics that studies:
-- [[Vector Space]]: (also called linear spaces)
-- Linear Mappings: (transformations (functions?), represented by matrices) between those vector spaces
-- Systems of linear equations
+## Concepts
+
+- **[[Vector]]**
+- **[[Vector Space]]**
+- **[[Basis Vectors]]**
+- **[[Linear Transformation]]**
+- **[[Linear Equation]]**
+- **[[System of Equations]]**
+- **[[Determinant]]**
+- **[[Matrix]]**
