@@ -17,11 +17,13 @@ Read the book carefully:
 
 - [ ] **Game Math Book**: https://gamemath.com/book/intro.html
 
+- [ ] **3B1B**: The Essence of Linear Algebra (Watch at least 5 videos)
+
+- [ ] **SimonDev**: [What Kind of Math Should Game Developers Know?](https://youtu.be/eRVRioN4GwA)
+
 And then maybe watch the things not so carefully:
 
 - [ ] **Trigonometry Index**: https://www.mathsisfun.com/algebra/trigonometry-index.html
-
-- [ ] **3B1B**: The Essence of Linear Algebra (Watch at least 5 videos)
 
 - [ ] https://immersivemath.com/ila/index.html
 
@@ -64,6 +66,12 @@ _Learn OpenGL and Shaders, and probably stop there._
 
 > "Note that even with OpenGL you can write almost everything, including 2D renderer, first-person shooter game or general-purpose game engine. It is okay spending a year on a project which seemed simple at first glance, as long as it helps you to learn and give you a joy."
 
+# Technology
+
+Research and choose a technology to use.
+
+Current List: C, SDL3, Raylib, Bevy (Rust), Godot
+
 # 3D Character Animation
 
 _Figure out how to do 3D characters with skeletal animations._
@@ -71,6 +79,14 @@ _Figure out how to do 3D characters with skeletal animations._
 # SDL3 Project Setup
 
 _Use SDL3 with OpenGL to be as cross-platform as possible._
+
+# Architecture
+
+Figure out the architecture design.
+
+DOS maybe? Idk. Research.
+
+https://gameprogrammingpatterns.com/command.html
 
 # GAME DEVELOPMENT
 
