@@ -1,8 +1,10 @@
-- Reusable Game Components
+- Reusable Game Modules
 - Build Systems, Not Games
 - Simulation vs View Separation
 
 Learn fundaments well, use whatever tools to get the job done.
+
+Learn from Thronefall
 
 ---
 

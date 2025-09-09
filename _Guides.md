@@ -6,9 +6,11 @@ Explain randomness.
 Explain how it's actually fake.
 
 The creative effect of:
+
 ```
 radius = 5
 ```
+
 vs
 
 ```
@@ -19,6 +21,8 @@ radius: {
 ```
 
 Look at Nature of Code for ideas.
+
+xorshift
 
 ## Interpolation
 

@@ -3,44 +3,40 @@ context:
   - "[[Game Engine]]"
 ---
 
-#wip
-
 # Game Engine Comparison
 
-Comparing the current version of game engines and libraries of interest.
+Comparing the current state of some game engines and libraries of interest.
 
 ---
+
+**Current Opinion**: Raylib > Godot > SDL3 > Raw C > unusable software
 
 ## Unity
 
 **PROPRIETARY SOFTWARE**
 
-_Unusable._
-
 ## Unreal Engine
 
 **PROPRIETARY SOFTWARE**
-
-_Unusable._
 
 ## GameMaker
 
 **PROPRIETARY SOFTWARE**
 
-_Unusable._
-
 ## Godot
 
-**License**: MIT license
+**Pros**: Full game engine. Lots of features.
+
+**Cons**: Predefined architecture & language of choice.
 
 ## Raylib
 
-**License**: zlib/libpng license
+**Pros**: Low level C. Some lightweight abstraction.
 
-## Bevy
-
-**License**: MIT/Apache 2.0 license
+**Cons**: ?
 
 ## SDL3
 
-**License**: zlib license
+**Pros**: Low level C.
+
+**Cons**: Lots of work.
