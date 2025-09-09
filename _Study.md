@@ -13,7 +13,7 @@
 
 _Basics of Linear Algebra and Trigonometry._
 
-Read the book carefully:
+Read the book:
 
 - [ ] **Game Math Book**: https://gamemath.com/book/intro.html
 
@@ -70,24 +70,42 @@ _Learn OpenGL and Shaders, and probably stop there._
 
 Research and choose a technology to use.
 
-Current List: C, SDL3, Raylib, Bevy (Rust), Godot
+Current List: Godot > Raylib > SDL3 > Bevy > C
 
-# 3D Character Animation
+The absolute requirements of the technology are:
 
-_Figure out how to do 3D characters with skeletal animations._
+- open source license
+- cross-platform builds
+- good performance
 
-# SDL3 Project Setup
+Probably use Godot as it's an actual engine.
 
-_Use SDL3 with OpenGL to be as cross-platform as possible._
+- Free and open source.
+- Game engine features.
+- Large community.
 
-# Architecture
+_The need is to know and understand, not to implement and reinvent._
 
-Figure out the architecture design.
+If not using Godot, will have to do manual architecture, 3D animations, quaternions, shadows, particles, etc.
 
-DOS maybe? Idk. Research.
+# Dimensions
 
-https://gameprogrammingpatterns.com/command.html
+The choice between 2D, 2.5D, and 3D.
+
+All have their pros and cons.
+
+Mostly dependent on the artist, if any.
+
+**Simulation**: The type of graphics should not be of early concern, as the simulation of game mechanics should be separated from the game view, meaning that the same reusable components of mechanics should work with any graphics.
+
+- Can build an advanced simulation way before any graphics.
 
 # GAME DEVELOPMENT
+
+Build modular & reusable components for the type of game.
+
+For example, if it's HnS, build stuff like character controller, health, healthbars, AI, UI, stats, attacks...
+
+Having reusable components will make designing and prototyping ideas much easier.
 
 _**THE DREAM**_

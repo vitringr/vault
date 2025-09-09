@@ -6,6 +6,20 @@ Learn fundaments well, use whatever tools to get the job done.
 
 ---
 
+sage
+sensei
+kenna
+kennari
+namsmadur
+
+sage-madur
+
+d--- bagda
+
+b------- d---
+
+---
+
 Ventsi: "Most important for programming is simplicity"
 
 ---
