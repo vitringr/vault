@@ -25,18 +25,18 @@ Comparing the current state of some game engines and libraries of interest.
 
 ## Godot
 
-**Pros**: Full game engine. Lots of features.
+**Pros**: Lots of features.
 
-**Cons**: Predefined architecture & language of choice.
+**Cons**: Predefined architecture & language of choice. Tied to engine.
 
 ## Raylib
 
-**Pros**: Low level C. Some lightweight abstraction.
+**Pros**: Simplicity. Low level C. Lightweight abstraction. Performance.
 
 **Cons**: ?
 
 ## SDL3
 
-**Pros**: Low level C.
+**Pros**: Low level C. Performance.
 
-**Cons**: Lots of work.
+**Cons**: Too raw.

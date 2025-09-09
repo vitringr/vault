@@ -70,7 +70,9 @@ _Learn OpenGL and Shaders, and probably stop there._
 
 Research and choose a technology to use.
 
-Current List: Godot > Raylib > SDL3 > Bevy > C
+Raylib: https://youtu.be/UoAsDlUwjy0
+
+Current List: Raylib > Godot > SDL3 > Bevy > C
 
 The absolute requirements of the technology are:
 
@@ -78,15 +80,9 @@ The absolute requirements of the technology are:
 - cross-platform builds
 - good performance
 
-Probably use Godot as it's an actual engine.
-
-- Free and open source.
-- Game engine features.
-- Large community.
-
 _The need is to know and understand, not to implement and reinvent._
 
-If not using Godot, will have to do manual architecture, 3D animations, quaternions, shadows, particles, etc.
+Right now, Raylib wins.
 
 # Dimensions
 
