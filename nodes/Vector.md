@@ -143,6 +143,16 @@ To calculate the distance between vectors `A` and `B`, calculate the magnitude o
 
 See [[Distance Formula]]
 
+## Dot Product
+
+The dot product is the sum of the products of corresponding vector components.
+
+```
+A·B = A.x * B.x + A.y * B.y + ... + A.n * B.n
+```
+
+See [[Dot Product]]
+
 ## Interpolating Vectors
 
 Vectors can be interpolated, finding any target point between them.
