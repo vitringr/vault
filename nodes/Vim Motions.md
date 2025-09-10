@@ -328,7 +328,9 @@ Examples:
 | ≤         | `=<`    | Less or equal to.   |
 | π         | `p*`    | Pi                  |
 | τ         | `t*`    | Tau                 |
+| θ         | `h*`    | Theta               |
 | √         | `RT`    | Square Root         |
+| ·         | `.M`    | Dot (Middle)        |
 
 Grids:
 
