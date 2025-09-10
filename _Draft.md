@@ -1,3 +1,7 @@
+Not to have anyone step above you, but to be just, do not step on anyone then. Fair trade.
+
+---
+
 - Reusable Game Modules
 - Build Systems, Not Games
 - Simulation vs View Separation

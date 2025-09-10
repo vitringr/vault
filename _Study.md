@@ -72,13 +72,13 @@ Research and choose a technology to use.
 
 Raylib: https://youtu.be/UoAsDlUwjy0
 
+There's really no evident downside to Raylib it seems.
+People with C most often use it for everything.
+It's just easy to get running and do stuff, and still have low-level control.
+Also beautiful, simple, self-contained, lightweight...
+Also free to build my own stuff simply with code, for example DOD architecture.
+
 Current List: Raylib > Godot > SDL3 > Bevy > C
-
-The absolute requirements of the technology are:
-
-- open source license
-- cross-platform builds
-- good performance
 
 _The need is to know and understand, not to implement and reinvent._
 
