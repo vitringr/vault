@@ -11,49 +11,52 @@ Active player abilities.
 
 ---
 
-shield-breaker
+## `Qa`: Stun (?)
 
-Terminology:
+## `Wa`: Enchant
 
-- **Spells**: Direct cast activation spells.
-- **Effects**: Cast after-effects for a duration.
-- **Passives**: Permanently persisting effects.
+- **Fire**: Stacking burn damage.
+- **Lightning**: Chain lightning or random nearby thunderbolts.
+- **Wind**: Faster.
+- **Chaos**: RNG.
+- **Earth**: Poison.
 
-Additions to spells and effects will be added outside of gameplay. Think of talent trees related to spells, as well as generic character talent trees.
+## `Ea`: Push (?)
 
-## Spells
+---
 
-**Fireball**: Mandatory. Classic fireball projectile that hurts and burns.
+## `QQ`: Offense-Bolt
 
-**Dash**: Quick but short dash. Could include i-frames.
+- **Fire**: Fireball.
+- **Lightning**: Lightning Bolt.
+- **Earth**: Boulder Toss.
+- **Chaos**: Chaos Bolt.
+- **Frost**: Frostbolt/Ice Shards.
 
-**Shield**: Short-lived barrier. Can be upgraded for projectile deflection and such.
+## `QW`: Offense-Ground
 
-## Effects
+- **Fire**: Burning ground.
+- **Chaos**: Chaos ground.
+- **Frost**: Frozen ground.
+- **Earth**: Earthquake.
 
-### Weapon Effects
+## `QE`: Offense-AOE
 
-Mandatory weapon enchancements.
+---
 
-**Flaming Weapon**: Classic and self-explanatory.
+## `WW`: Block
 
-**Shield-Breaker**: Bonus damage against shields and barriers (if the game features any).
+## `WQ`: Aura
 
-### Armor Effects
+- **Fire**: Flame guard.
+- **Earth**: Earth armor.
 
-Defensive armor effects.
+## `WE`: Totem
 
-**Elemental Ward**: Resistance against specific element.
+---
 
-### Other
+## `EE`: Dash
 
-**Sprint**: Short-duration and constantly fading sprint.
+## `EQ`: AOE Sense/Debuff
 
-## Passives
-
-Passives are split into different categories. Think of classic talent trees:
-
-- Generic Tree
-- Spell Tree
-
-**Windfury**: Weapon double-attack chance.
+## `EW`: Empower/Alter/Regen (?)

@@ -13,7 +13,7 @@ Passive player abilities and effects.
 
 ---
 
-### Rattle
+## Rattle
 
 Breaks the attack swing of light enemies.
 
@@ -23,7 +23,7 @@ Breaks the attack swing of light enemies.
 
 **Fundamental**: Should be enabled by default, or a very early talent.
 
-### Disrupt
+## Disrupt
 
 Lightly disrupts the spellcast of enemies.
 
@@ -33,13 +33,13 @@ Lightly disrupts the spellcast of enemies.
 
 **Fundamental**: Should be enabled by default, or a very early talent.
 
-### Shield-Breaker
+## Shield-Breaker
 
 Damage bonus against shields and barriers.
 
 **Design**: The player should have a specific way to deal with shields.
 
-### Projectile Slice
+## Projectile Slice
 
 Attack swing destroying lighter projectiles.
 
@@ -49,7 +49,7 @@ Projectiles could have some "health" mechanic themselves.
 
 **Design**: Reduces seemingly random damage when fighting in melee range.
 
-### Projectile Push
+## Projectile Push
 
 The ability to push and even reverse projectile.
 
@@ -59,8 +59,50 @@ Projectiles could have some weight mechanic, determining how/if they can be push
 
 **Design**: Rewards bullet-hell awareness and reaction.
 
-### Own Projectile Push
+## Own Projectile Push
 
 The ability to push your own projectiles.
 
 **On**: Push
+
+## Backstab
+
+Bonus damage when behind an enemy.
+
+**On**: Attack
+
+## (Lone Target Bonus)
+
+Bonus when (something) hits only a single target.
+
+## (Multi-Target Bonus)
+
+Bonus when (something) hits multiple targets.
+
+## Quickdraw
+
+Bonus to attack after dash.
+
+**On**: Dash, Attack
+
+## Execute
+
+Bonus against low-health enemies.
+
+## Stun Vulenrability
+
+Bonus against stunned enemies.
+
+**On**: Stun, Attack
+
+## Apply Weakness
+
+Chance to apply weakness on attack.
+
+**On**: Attack
+
+## Stormclaw
+
+Chance to chain lightning on attack.
+
+**On**: Enchant, Attack
