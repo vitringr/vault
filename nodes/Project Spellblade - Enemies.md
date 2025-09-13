@@ -23,4 +23,3 @@ List of possible negative effects enemies can induce on the player:
 - **Pushback**
 - **Darkness**: Heavily reduce the vision of the player.
 - **Orb Lock**: Lock one of the player's orbs for a duration.
-
