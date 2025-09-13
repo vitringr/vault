@@ -63,23 +63,8 @@ The fundamental gameplay mechanics.
 
 Melee range attack.
 
-
 **Spam**: Repeatable with no cooldown. The attack rate should be relatively fast, ever increasing.
 
 - Being able to hold the button down in addition to spamming it is probably a good idea. Should be toggled from settings.
 
 **Effect**: Attacks interact with the effects of spells.
-
-### Rattle
-
-Passive on-hit ministun mechanic.
-
-Breaks the attack swing of light enemies.
-
-**Design**: Allows the player to melee lighter enemies without getting punished for it.
-
-**Default**: Should be enabled by default, or a very early talent.
-
-### Disrupt
-
-Passive on-hit spellcast rattle.

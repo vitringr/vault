@@ -7,11 +7,11 @@ context:
 
 # Project Spellblade - Spells
 
-Player spells, effects, and passives.
-
-**UNDECIDED**: Currently brainstorming possibilities.
+Active player abilities.
 
 ---
+
+shield-breaker
 
 Terminology:
 
