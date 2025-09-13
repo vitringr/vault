@@ -11,21 +11,9 @@ Active player abilities.
 
 ---
 
-## `Qa`: Stun (?)
+## `QQ`: Offense-Front
 
-## `Wa`: Enchant
-
-- **Fire**: Stacking burn damage.
-- **Lightning**: Chain lightning or random nearby thunderbolts.
-- **Wind**: Faster.
-- **Chaos**: RNG.
-- **Earth**: Poison.
-
-## `Ea`: Push (?)
-
----
-
-## `QQ`: Offense-Bolt
+## `QW`: Offense-Bolt
 
 - **Fire**: Fireball.
 - **Lightning**: Lightning Bolt.
@@ -33,30 +21,26 @@ Active player abilities.
 - **Chaos**: Chaos Bolt.
 - **Frost**: Frostbolt/Ice Shards.
 
-## `QW`: Offense-Ground
-
-- **Fire**: Burning ground.
-- **Chaos**: Chaos ground.
-- **Frost**: Frozen ground.
-- **Earth**: Earthquake.
-
 ## `QE`: Offense-AOE
 
----
+## `WQ`: Enchant
+
+- **Fire**: Stacking burn damage.
+- **Lightning**: Stormclaw.
+- **Wind**: Faster.
+- **Chaos**: RNG.
+- **Earth**: Poison.
 
 ## `WW`: Block
 
-## `WQ`: Aura
+## `WE`: Aura
 
 - **Fire**: Flame guard.
-- **Earth**: Earth armor.
 
-## `WE`: Totem
+## `EQ`: Totem
 
----
+Basically any on-ground ward effects.
+
+## `EW`: Sense/Heal/Debuff (?)
 
 ## `EE`: Dash
-
-## `EQ`: AOE Sense/Debuff
-
-## `EW`: Empower/Alter/Regen (?)
