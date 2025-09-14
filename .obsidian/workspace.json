@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Vector Operations.md",
+                "file": "nodes/Linear Interpolation.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Vector Operations"
+              "title": "Linear Interpolation"
             }
           }
         ]
@@ -153,22 +153,28 @@
   },
   "active": "75f225d9d06153ee",
   "lastOpenFiles": [
+    "nodes/Basis Vectors.md~",
+    "nodes/Coordinate Systems in Computer Graphics.md~",
+    "nodes/4913",
+    "nodes/Coordinate System.md",
+    "nodes/Coordinate Systems in Computer Graphics.md",
+    "nodes/Coordinate Spaces in Computer Graphics.md~",
+    "nodes/Coordinate System.md~",
+    "nodes/Vector Operations.md",
+    "nodes/Coordinate Space.md~",
+    "nodes/Coordinate Space.md",
+    "nodes/Coordinate Spaces in Computer Graphics.md",
+    "nodes/Common Coordinate Spaces in Computer Graphics.md~",
+    "nodes/Common Coordinate Spaces in Computer Graphics.md",
     "nodes/Vector Operations.md~",
     "nodes/Unit Vector.md",
     "nodes/Unit Vector.md~",
     "nodes/Vector Normalization.md",
     "nodes/Vector Normalization.md~",
-    "nodes/Vector Operations.md",
-    "nodes/4913",
     "nodes/Vector.md",
     "nodes/Vector.md~",
     "nodes/Vector Space.md",
-    "nodes/Vector Space.md~",
     "nodes/Cartesian Coordinate System.md",
-    "nodes/Cartesian Coordinate System.md~",
-    "nodes/Coordinate System.md~",
-    "nodes/Math Primer for 3D Graphics Book.md~",
-    "_Study.md~",
     "nodes/Adaptive Volatility.md",
     "nodes/Project Spellblade - Mechanics.md",
     "nodes/Project Spellblade - Debuffs.md",
@@ -183,11 +189,6 @@
     "nodes/Common 2D Linear Transformations.md",
     "nodes/Matrix Transformation Intuition.md",
     "nodes/Matrix Linear Transformation Intuition.md",
-    "nodes/Linear Transformation.md",
-    "nodes/Common 2D Transformation Matrices.md",
-    "nodes/Morphism.md",
-    "nodes/Basis Vectors.md",
-    "nodes/Vector Context.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"

@@ -10,11 +10,13 @@ context:
 
 (Coordinate Axes Vectors)
 
-Fundamental [[Vector]] building blocks for a [[Vector Space]]
+Set of [[Vector|Vectors]] that define a [[Coordinate System]] for a [[Vector Space]].
 
 ---
 
-Set of vectors that define a [[Coordinate System]] for a [[Vector Space]].
+#wip edit this; sucks
+
+The basis vectors form the fundamental building blocks that can describe any vector within a vector space.
 
 **Span**: Basis vectors span the entire vector space.
 

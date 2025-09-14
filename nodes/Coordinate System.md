@@ -15,6 +15,8 @@ System of coordinates that determine the position of abstract elements in an abs
 
 **Mathematics**: The use of coordinate systems allows for a bridge between [[Geometry]] and [[Algebra]].
 
+**Coordinate Space**: The [[Coordinate Space]] of a coordinate system is the set of all points that can be described by it.
+
 Common coordinate systems:
 
 - [[Number Line]]
