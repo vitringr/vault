@@ -10,41 +10,57 @@ Multidimensional quantity.
 
 ---
 
-Ordered collection of multiple numbers used together as a single whole.
-
-The fundamental object of a [[Vector Space]], governed by its axioms.
+Ordered collection of numbers used together as a single entity.
 
 Vectors represent things that cannot be described by a single [[Scalar]] alone.
 
 Representation of movement with direction and magnitude.
 
-**Components**: A vector itself is defined by its components. The number of components matches the dimension of a vector. For example in 2D, the components are `<x, y>`; in 3D, they are `<x, y, z>`, and so on.
+**Components**: A vector itself is defined by its components. The number of components determines its dimension.
 
-- Vectors that have the same components are the same vector.
-
-**Context**: Depending on the context, vectors can represent different things. For example the vector `<5, 60>` can be used to represent:
-
-- Ordered pair of the numbers `5` and `60`.
-- Location in a [[Coordinate System]] where `x: 5` and `y: 60`.
-- Force with a magnitude of `5`, directed at `60` degrees.
+**Equality**: Two vectors are equal only if all corresponding components are identical.
 
 **Etymology**: A vector is what is needed to "carry" the point `A` to the point `B`. The Latin translation of 'vector' means 'carrier'.
 
-**Geometric Representation**: Graphically represented by a directed line segment - an arrow.
+## Representation
 
-## Vector Space
+Graphically represented as a directed line segment (an arrow) in space.
 
-Vectors exist within a structured set of rules called a [[Vector Space]]. This is the formal mathematical 'universe' of vectors.
+- _Tail_: Starting point of the vector.
+- _Head_: Ending point of the vector.
+- _Direction_: Orientation of the arrow.
+- _Magnitude_: Length of the arrow.
 
-A vector space defines the rules that all vectors and their operations must follow.
+## Interpretation
 
-See [[Vector Space]]
+Depending on the context, vectors can describe various information.
+
+For example the vector `<5, 60>` can be used to represent:
+
+- Ordered pair of the numbers `5` and `60`.
+- Location in space where `x: 5` and `y: 60`.
+- Force with a magnitude of `5`, directed at `60` degrees.
+- Just about anything that can be described by a set of numbers.
+
+## Mathematical Foundation
+
+_The vector space defines the rules, while the coordinate system provides the framework._
+
+**Vector Space**: Vectors exist within the axiomatic framework of a [[Vector Space]], which defines the rules for vector operations and ensures consistency across different vector implementations.
+
+**Coordinate Systems**: Vectors are typically represented and manipulated using a [[Coordinate System]], most commonly the [[Cartesian Coordinate System]], which provides a geometric interpretation of vector components.
+
+**Basis Vectors**: Any vector can be represented by a linear combination of [[Basis Vectors]] that define the coordinate system's axes.
+
+## Operations
+
+---
+
+## Context
 
 ## Coordinate Systems
 
 The primary way to represent, model, and work with vectors in a [[Vector Space]] is through a [[Coordinate System]], most commonly the [[Cartesian Coordinate System]].
-
-_The vector space defines the rules, while the coordinate system provides the framework._
 
 **Interpretation**: The coordinate system is useful to represent the geometry of vectors, while the vectors are useful to represent various quantities in the coordinate system.
 
