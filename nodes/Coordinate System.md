@@ -9,11 +9,11 @@ System of coordinates that determine the position of abstract elements in an abs
 
 ---
 
-**Coordinates**: In general, coordinates are numbers that represent distances/relations between elements and some origin.
+**Coordinates**: Numbers that represent relational properties between elements or origin.
 
 **Uniqueness**: Each point in space should correspond to a unique set of coordinates, and each valid set of coordinates should specify a unique point. See [[Bijection]].
 
-The use of coordinate systems allows for a bridge between [[Geometry]] and [[Algebra]].
+**Mathematics**: The use of coordinate systems allows for a bridge between [[Geometry]] and [[Algebra]].
 
 Common coordinate systems:
 

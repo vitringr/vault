@@ -140,11 +140,22 @@ This chapter introduces the concept of vectors. It is divided into the following
 - **Sections 2.5–2.12**: Discuss the fundamental calculations we can perform with vectors, considering both the algebra and geometric interpretations of each operation.
 - **Section 2.13**: Presents a list of helpful vector algebra laws.
 
-#wip 2.10 The Distance Formula
-
 ---
 
 ## Chapter 3 (Multiple Coordinate Spaces)
+
+Chapter 1 discussed how we can establish a coordinate space anywhere we want simply by picking a point to be the origin and deciding how we want the axes to be oriented. We usually don't make these decisions arbitrarily; we form coordinate spaces for specific reasons (one might say “different spaces for different cases”). This chapter gives some examples of common coordinate spaces that are used for graphics and games. We will then discuss how coordinate spaces are nested within other coordinate spaces.
+
+This chapter introduces the idea of multiple coordinate systems. It is divided into five main sections.
+
+- **Section 3.1**: Justifies the need for multiple coordinate systems.
+- **Section 3.2**: Introduces some common coordinate systems. The main concepts introduced are: world space, object space, camera space, and upright space.
+- **Section 3.3**: Describes coordinate-space transformations.
+- **Section 3.3.1**: Exposes a duality between two ways of thinking about coordinate-space transformations.
+- **Section 3.3.2**: Describes how to specify one coordinate system in terms of another.
+- **Section 3.3.3**: Discusses the very important concept of basis vectors.
+- **Section 3.4**: Discusses nested coordinate spaces, commonly used for animating hierarchically segmented objects in 3D space.
+- **Section 3.5**: Is a political campaign for more human readable code.
 
 ---
 

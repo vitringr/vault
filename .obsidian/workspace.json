@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Project Spellblade - Spells.md",
+                "file": "nodes/Cartesian Coordinate System.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Project Spellblade - Spells"
+              "title": "Cartesian Coordinate System"
             }
           }
         ]
@@ -153,20 +153,23 @@
   },
   "active": "75f225d9d06153ee",
   "lastOpenFiles": [
+    "nodes/Cartesian Coordinate System.md~",
+    "nodes/4913",
+    "nodes/Vector Space.md~",
+    "nodes/Vector.md",
+    "nodes/Cartesian Coordinate System.md",
+    "nodes/Vector.md~",
+    "nodes/Coordinate System.md~",
+    "nodes/Math Primer for 3D Graphics Book.md~",
+    "_Study.md~",
+    "nodes/Adaptive Volatility.md",
     "nodes/Project Spellblade - Spells.md~",
     "nodes/Project Spellblade - Mechanics.md~",
     "nodes/Project Spellblade - Passives.md~",
-    "nodes/4913",
     "nodes/Project Spellblade - Mechanics.md",
-    "nodes/Project Spellblade - Debuffs.md~",
-    "nodes/Project Spellblade - Enemies.md~",
     "nodes/Project Spellblade - Debuffs.md",
-    "nodes/Project Spellblade - Input.md~",
     "nodes/Project Spellblade - Passives.md",
-    "nodes/Project Spellblade - Elite Mechanics.md~",
     "nodes/Project Spellblade - Elite Mechanics.md",
-    "nodes/Project Spellblade - Bosses.md~",
-    "nodes/Project Spellblade - Characters.md~",
     "nodes/Cross Product.md",
     "nodes/Linear Algebra.md",
     "nodes/Computer Science.md",
@@ -182,12 +185,9 @@
     "nodes/Basis Vectors.md",
     "nodes/Vector Normalization.md",
     "nodes/Vector Space.md",
-    "nodes/Vector.md",
     "nodes/Vector Context.md",
     "nodes/Vector Abstraction.md",
     "nodes/Physics.md",
-    "nodes/Distance Formula.md",
-    "nodes/Computer Program.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"

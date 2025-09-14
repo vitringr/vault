@@ -5,32 +5,22 @@ context:
 
 # Cartesian Coordinate System
 
-Coordinate system that specifies each point uniquely in a plane by a set of numerical coordinates.
+Coordinate system that specifies each point uniquely in a space by a set of numerical coordinates.
 
 ---
 
-**Coordinates**: The coordinates are the components of a [[Vector]] from the origin to the point.
+**Origin**: The reference point where all the axes intersect. All measurements are made relative to this point. Has zero as coordinates on all dimensions.
 
-**Axes**: The coordinate lines. The axes are generally _x_ (horizontal) and _y_ (vertical).
+**Axes**: Set of oriented reference lines. A single axis is essentially a [[Number Line]], extending infinitely in both directions. The axes are generally perpendicular to each other, although not a requirement.
 
-- A single axis is essentially a [[Number Line]]. It extends infinitely in either direction.
-- The system can be extended to multiple dimensions. For 3D coordinates, a _z_ axis is added as depth.
-- The axes are generally perpendicular to each other, although this is arbitrary.
+**Coordinates**: Ordered tuple `(x, y, z... n)` that represents the signed displacements from the origin along each axis. Coordinates establish a [[Bijection]] between points in space and numerical addresses.
 
-**Origin**: The point where all the axes intersect. Has `[0, 0]` as coordinates.
+## Mathematical Foundation
 
-## Conventions
+**Vector Space**: The Cartesian system provides a natural framework for a [[Vector Space]].
 
-Different systems might use different conventions regarding the axes directions.
+Any point can be represented by a position [[Vector]] from the origin.
 
-**2D**: The standard mathematical convention for 2D is that `+x` points right (East), and `+y` points up (North). However, it is common for systems to reverse the `y` axis direction, especially when dealing with screens that are to be viewed from top to an infinite bottom.
+**Basis Vectors**: The Cartesian system is described by a set of [[Basis Vectors]]. In the standard system, these are unit vectors along each axis.
 
-**3D**: For 3D space, one standard convention is the 'left hand' one, where `+x`, `+y`, and `+z` point right, up, and forward, respectively.
-
-These different coordinate systems can be transformed from one to the other.
-
-## Vector Space
-
-The Cartesian coordinate system provides the perfect framework for [[Vector]] representation.
-
-Vectors are perfect for describing displacement, which means they can also describe positions in space, since any position can be described by a displacement from the origin.
+Any vector can be expressed as a linear combination (scaling and summation) of these basis vectors.

@@ -1,7 +1,8 @@
 # Now
 
-- [ ] name documents
+- [x] name documents
 - [ ] new phone number
+- [ ] new bank account
 
 # Take your time
 
