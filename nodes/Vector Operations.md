@@ -3,31 +3,19 @@ context:
   - "[[Vector]]"
 ---
 
-#wip
-
 # Vector Operations
 
-ad #wip
+List of fundamental [[Vector]] operations.
 
 ---
 
-## Context
-
-## Coordinate Systems
-
-The primary way to represent, model, and work with vectors in a [[Vector Space]] is through a [[Coordinate System]], most commonly the [[Cartesian Coordinate System]].
-
-**Interpretation**: The coordinate system is useful to represent the geometry of vectors, while the vectors are useful to represent various quantities in the coordinate system.
-
-**Context**: The meaning of a vector is dependent on context. For example, the `<x, y>` components of a vector can represent the `(x, y)` point location in space, or they could also represent a displacement in space by `(x, y)` units.
-
-**Any Dimension**: Vectors work with coordinate systems of any Euclidean dimension.
-
 ## Negation
 
-Vectors can be negated by negating all of their components:
+Vectors can be negated by negating all of their components.
 
-`-<x, y> = <-x, -y>`
+```
+-<x, y> = <-x, -y>
+```
 
 For example, negating the vector `<5, -3>` results in `<-5, 3>`.
 
@@ -35,13 +23,15 @@ For example, negating the vector `<5, -3>` results in `<-5, 3>`.
 
 **Reverse Direction**: Nagating a vector results in a vector of the same magnitude but opposite direction.
 
-- Visually, it's the same line segment, but with the arrowhead on the other side.
+Visually, it's the same line segment, but with the arrowhead on the other side.
 
 ## Scaling
 
 Vectors can be scaled by multiplying all of their components by a [[Scalar]] value:
 
-`s * <x, y> = <sx, sy>`
+```
+s * <x, y> = <sx, sy>
+```
 
 For example, multiplying the vector `<5, -3>` by the scalar `2` results in `<10, -6>`.
 
@@ -59,6 +49,9 @@ Vectors can be added/subtracted together by adding/subtracting every component f
 
 ```
 <ax, ay> + <bx, by> = <(ax + bx), (ay + by)>
+```
+
+```
 <ax, ay> - <bx, by> = <(ax - bx), (ay - by)>
 ```
 
@@ -70,17 +63,9 @@ For example, the sum of vectors `<5, -3>` and `<-1, 2>` equals `<4, -1>`.
 
 See [[Vector Displacement Intuition]].
 
-## Unit Vector
-
-Unit vector is a vector with a magnitude of `1`.
-
-Unit vectors are concerned with direction only, not magnitude.
-
-**Trigonometry**: This is a fundamental concept in [[Trigonometry]], which uses the unit vector and unit circle concepts heavily.
-
 ## Normalization
 
-Any nonzero vector can be _normalized_, producing a unit vector that points in the same direction.
+Any nonzero vector can be _normalized_, producing a [[Unit Vector]] that points in the same direction.
 
 To normalize a vector, divide each of its components by its magnitude.
 

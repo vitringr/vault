@@ -24,7 +24,7 @@ n.x = v.x / v.magnitude
 n.y = v.y / v.magnitude
 ```
 
-The result is a unit vector that points in the same direction.
+The result is a [[Unit Vector]] that points in the same direction as the original.
 
 ## Implementation
 
