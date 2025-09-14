@@ -23,7 +23,6 @@ The primary way to represent, model, and work with vectors in a [[Vector Space]]
 
 **Any Dimension**: Vectors work with coordinate systems of any Euclidean dimension.
 
-
 ## Negation
 
 Vectors can be negated by negating all of their components:

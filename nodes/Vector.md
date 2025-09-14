@@ -22,11 +22,9 @@ See [[Vector Operations]]
 
 ## Interpretation
 
-#wip
+**Abstraction**: Vectors are a versatile abstraction, capable of describing various types of information, with their meaning defined by context.
 
-**Abstraction**: Vectors are a versatile abstraction. Depending on the context, vectors can describe various information.
-
-**Multidimensional**: Vectors represent multidimensional quantities that cannot be described by a single [[Scalar]] alone.
+**Multidimensional**: Vectors represent multidimensional quantities that cannot be fully described by a single [[Scalar]] alone.
 
 For example the vector `<5, 60>` can be used to represent:
 
@@ -46,8 +44,6 @@ Graphically represented as a directed line segment (an arrow) in space.
 ## Magnitude
 
 The magnitude of a vector is a scalar quantity representing its length, independent of direction.
-
-**Hypotenuse**: In relation to axes in coordinate space, the vector line segment (from tail to head) can be seen as the hypotenuse of a right triangle. This hypotenuse is the magnitude (length) of the vector.
 
 **Hypotenuse**: When a vector is positioned with its tail at the origin, the line segment from the origin to the vector's head forms the hypotenuse of a right triangle with legs along the coordinate axes. This hypotenuse is the magnitude (length) of the vector.
 
