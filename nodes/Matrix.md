@@ -11,13 +11,13 @@ Rectangular grid of numbers arranged into rows and columns.
 
 ---
 
-┌───┬───┬───┐  ┌───┬───┐  ┌───┬───┐
-│ a │ b │ c │  │ a │ b │  │ a │ b │
-├───┼───┼───┤  ├───┼───┤  ├───┼───┤
-│ d │ e │ f │  │ c │ d │  │ c │ d │
-├───┼───┼───┤  ├───┼───┤  └───┴───┘
-│ g │ h │ i │  │ e │ f │
-└───┴───┴───┘  └───┴───┘
+┌───┬───┬───┐ ┌───┬───┐ ┌───┬───┐
+│ a │ b │ c │ │ a │ b │ │ a │ b │
+├───┼───┼───┤ ├───┼───┤ ├───┼───┤
+│ d │ e │ f │ │ c │ d │ │ c │ d │
+├───┼───┼───┤ ├───┼───┤ └───┴───┘
+│ g │ h │ i │ │ e │ f │
+└───┴───┴───┘ └───┴───┘
 
 **Size**: The size of a matrix is defined by how many rows and columns it contains.
 
@@ -41,7 +41,7 @@ A matrix with the same number of rows and columns is called _square matrix_.
 │ 0 │ 0 │ 2 │
 └───┴───┴───┘
 
-**Identity Matrix**: The _identity matrix_ is a special diagonal matrix with `1`s on the diagonal and `0`s elsewhere.
+**Identity Matrix**: The _identity matrix_ is a diagonal matrix with `1`s on the diagonal and `0`s elsewhere. The identity matrix is special as it is the multiplicative identity element for matrices.
 
 ┌───┬───┬───┐
 │ 1 │ 0 │ 0 │
@@ -51,4 +51,21 @@ A matrix with the same number of rows and columns is called _square matrix_.
 │ 0 │ 0 │ 1 │
 └───┴───┴───┘
 
-The identity matrix is special as it is the multiplicative identity element for matrices.
+## Matrix Transposition
+
+Given an `r × c` matrix `M`, the _transpose_ of `M`, denoted by `Mᵀ`, is the `c × r` matrix where the columns are formed from the rows of `M`.
+
+┌───┬───┬───┐ ⇒ ┌───┬───┬───┬───┐
+│ a │ b │ c │ ⇒ │ a │ d │ g │ j │
+├───┼───┼───┤ ⇒ ├───┼───┼───┼───┤
+│ d │ e │ f │ ⇒ │ b │ e │ h │ k │
+├───┼───┼───┤ ⇒ ├───┼───┼───┼───┤
+│ g │ h │ i │ ⇒ │ c │ f │ i │ l │
+├───┼───┼───┤ ⇒ └───┴───┴───┴───┘
+│ j │ k │ l │ ⇒
+└───┴───┴───┘ ⇒
+
+Significant observations:
+
+- Transposing a matrix, and then transposing it again, results in the original matrix.
+- Any diagonal matrix is equal to its transpose.
