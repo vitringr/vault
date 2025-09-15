@@ -9,13 +9,13 @@ context:
 
 (Linear Space)
 
-Formal context of rules for [[Vector|Vectors]] and their operations.
+Formal environment for [[Vector|Vectors]], governed by a set of axioms.
 
 ---
 
-**Vector**: The fundamental object of a vector space, governed by its axioms.
+**Vector**: The fundamental object of a vector space.
 
-**Basis Vectors**: The vector space is characterized by a set of [[Basis Vectors]] that define a [[Coordinate System]] for it.
+**Basis Vectors**: The vector space is characterized by a set of [[Basis Vectors]] whose [[Linear Combination|Linear Combinations]] generate the entire space and define a [[Coordinate System]] for it.
 
 ## Axioms
 
@@ -36,4 +36,4 @@ For any vectors `u`, `v`, `w` in the space, and any scalars `a`, `b`, the follow
 
 The generalization of a vector space enables abstraction where various mathematical objects can be treated as vectors as long as they obey a set of axioms.
 
-**Consistency**: The ruleset of axioms guarantees that all the familiar vector operations will work consistently and predictably between abstractions.
+**Consistency**: The ruleset of axioms guarantees that all the familiar vector operations will work consistently and predictably across all these different abstractions.

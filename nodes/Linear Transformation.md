@@ -70,7 +70,7 @@ Then, the now scaled vectors `i` (`<ua, uc>`) and `j` (`<vb, vd>`) are added to 
 
 See [[Matrix Multiplication]]
 
-### Determinant
+## Determinant
 
 The determinant describes how a linear transformation affects the scaling of space.
 
