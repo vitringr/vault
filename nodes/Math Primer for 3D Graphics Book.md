@@ -169,6 +169,8 @@ This chapter introduces the theory and application of matrices. Our discussion w
 - **Section 4.2**: Explains how to interpret these properties and operations geometrically.
 - **Section 4.3**: Puts the use of matrices in this book in context within the larger field of linear algebra.
 
+#wip 4.1.5
+
 ---
 
 ## Chapter 5 (Matrices and Linear Transformations)
