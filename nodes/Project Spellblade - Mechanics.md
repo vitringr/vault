@@ -31,6 +31,34 @@ Qa, Wa, Ea
 
 Currently thinking about `9`.
 
+### Unlocks
+
+Generic abilities, each in one of the `9` slots.
+
+Something like:
+
+- `QQ`: Offense-Front
+- `QW`: Offense-Bolt
+- `QE`: Offense-AOE
+- `WQ`: Enchant
+- `WW`: Block
+- `WE`: Aura
+- `EQ`: Totem
+- `EW`: Sense/Heal/Debuff (?)
+- `EE`: Dash
+
+With base default abilities at level 1.
+
+Default ones can also be changed from talents, but still remain level 1.
+
+Maybe talents can also affect the weight of randomness of some elements/abilities.
+
+During gameplay, random unlocks for each ability, increasing it's level. Kinda Hades-like.
+
+For example Offsense-Bolt level 1 by default, with Magic Bolt. Then in game, get the choice of level 2 Fireball or level 2 Chaos Bolt, or even level 3 Chaos Bolt.
+
+That way, the same key combos apply to the same mechanics.
+
 ## Attack
 
 Melee range attack.

@@ -157,6 +157,8 @@ This chapter introduces the idea of multiple coordinate systems. It is divided i
 - **Section 3.4**: Discusses nested coordinate spaces, commonly used for animating hierarchically segmented objects in 3D space.
 - **Section 3.5**: Is a political campaign for more human readable code.
 
+#wip 3.3.3 Basis Vectors
+
 ---
 
 ## Chapter 4 (Introduction to Matrices)
