@@ -17,10 +17,6 @@ Coordinate system that specifies each point uniquely in a space by a set of nume
 
 ## Mathematical Foundation
 
-**Vector Space**: The Cartesian system provides a natural framework for a [[Vector Space]].
+**Vector Space**: The Cartesian system provides a natural framework for a [[Vector Space]]. Any point can be represented by a position [[Vector]] from the origin.
 
-Any point can be represented by a position [[Vector]] from the origin.
-
-**Basis Vectors**: The Cartesian system is described by a set of [[Basis Vectors]]. In the standard system, these are unit vectors along each axis.
-
-Any vector can be expressed as a linear combination (scaling and summation) of these basis vectors.
+**Basis Vectors**: The Cartesian system is described by a set of [[Basis Vectors]]. Any vector can be expressed as a linear combination of these basis vectors.

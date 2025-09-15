@@ -10,24 +10,20 @@ context:
 
 (Coordinate Axes Vectors)
 
-Set of [[Vector|Vectors]] that define a [[Coordinate System]] for a [[Vector Space]].
+Set of [[Vector|Vectors]] that define a [[Coordinate System]] within a [[Vector Space]].
 
 ---
 
-#wip edit this; sucks
+Basis vectors are the fundamental building blocks for constructing any other vector in the space.
 
-The basis vectors form the fundamental building blocks that can describe any vector within a vector space.
+Any vector in the space can be expressed as a linear combination of the basis vectors.
 
-**Span**: Basis vectors span the entire vector space.
+**Linear Independence**: Basis vectors must be linearly independent of each other, meaning that no basis vector can be written as a linear combination of the others.
 
-**Basis**: Any vector can be expressed as a scaled sum of the basis vectors. The components of this vector are the scaling factors.
+**Full Span**: Basis vectors must span the entire vector space.
 
 **Dimensions**: The number of basis vectors is the dimension of the vector space.
 
-**Linearly Independent**: Basis vectors must be linearly independent of each other, meaning that no basis vector can be written as a linear combination of the others.
+**Coordinate System**: Basis vectors define the coordinate system of the space. Changing the basis vectors changes how coordinates are interpreted.
 
-**Coordinate System Definition**: Basis vectors are the abstract definition of a coordinate system. Changing the basis vectors changes how coordinates are interpreted.
-
-- They provide a reference frame that allows the definition of coordinates to every vector in the space.
-
-**Transformation Core**: Any [[Linear Transformation]] (rotation, scaling, shearing) can be understood as an operation that changes the basis vectors of a space.
+**Transformation Core**: Any [[Linear Transformation]] can be expressed as an operation that changes the basis vectors of a space.
