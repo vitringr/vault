@@ -16,7 +16,7 @@ Set of [[Vector|Vectors]] that define a [[Coordinate System]] within a [[Vector 
 
 Basis vectors are the fundamental building blocks for constructing any other vector in the space.
 
-Any vector in the space can be expressed as a linear combination of the basis vectors.
+Any vector in the space can be expressed as a [[Linear Combination]] of the basis vectors.
 
 **Linear Independence**: Basis vectors must be linearly independent of each other, meaning that no basis vector can be written as a linear combination of the others.
 
