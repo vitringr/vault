@@ -18,7 +18,7 @@ Basis vectors are the fundamental building blocks for constructing any other vec
 
 Any vector in the space can be expressed as a [[Linear Combination]] of the basis vectors.
 
-**Linear Independence**: Basis vectors must be linearly independent of each other, meaning that no basis vector can be written as a linear combination of the others.
+**Linear Independence**: Basis vectors must be [[Linear Independence|Linearly Independent]] of each other, meaning that no basis vector can be written as a linear combination of the others.
 
 **Full Span**: Basis vectors must span the entire vector space.
 

@@ -19,6 +19,6 @@ Describes a straight line in a [[Coordinate System]].
 
 **One variable form**: `ax + b = 0` with `a != 0`
 
-**Multiple variables form**: `a₁x₁ + a₁x₁ + ... + anxn + b = 0` with `ai != 0`
+**Multiple variables form**: `a₁x₁ + a₂x₂ + ... + aₙxₙ + b = 0` with `ai != 0`
 
 **Slope-Intercept Form**: `y = mx + b` where `m` is the [[Slope]] of the line, and `b` is the y-intercept.
