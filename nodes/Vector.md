@@ -10,6 +10,8 @@ Multidimensional quantity.
 
 ---
 
+Entity with both magnitude and direction.
+
 Ordered collection of numbers used together as a single entity.
 
 **Components**: A vector itself is defined by its components. The number of components determines its dimension.

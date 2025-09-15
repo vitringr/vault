@@ -9,9 +9,11 @@ context:
 
 (Linear Space)
 
-Formal environment for [[Vector|Vectors]], governed by a set of axioms.
+Formal environment for [[Vector|Vectors]] and their operations, governed by a set of axioms.
 
 ---
+
+The vector space is defined by a set of axioms that guarantee vectors can be added together and multiplied by [[Scalar]] values consistently.
 
 **Vector**: The fundamental object of a vector space.
 

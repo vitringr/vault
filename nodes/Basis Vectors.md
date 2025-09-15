@@ -10,7 +10,7 @@ context:
 
 (Coordinate Axes Vectors)
 
-Set of [[Vector|Vectors]] that define a [[Coordinate System]] within a [[Vector Space]].
+Set of [[Vector|Vectors]] that define a [[Coordinate System]] for a [[Vector Space]].
 
 ---
 
