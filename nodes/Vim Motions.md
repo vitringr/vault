@@ -322,15 +322,16 @@ Examples:
 | º         | `-o`    | Degrees.            |
 | ≈         | `2?`    | Almost equal.       |
 | ✓         | `OK`    | Okay.               |
-| ✗         | `2?`    | X.                  |
+| ✗         | `XX`    | X.                  |
 | ≠         | `!=`    | Not equal to.       |
 | ≥         | `>=`    | Bigger or equal to. |
 | ≤         | `=<`    | Less or equal to.   |
 | π         | `p*`    | Pi                  |
 | τ         | `t*`    | Tau                 |
 | θ         | `h*`    | Theta               |
-| √         | `RT`    | Square Root         |
-| ·         | `.M`    | Dot (Middle)        |
+| √         | `RT`    | Square Root.        |
+| ·         | `.M`    | Dot (Middle).       |
+| ×         | `*X`    | Multiplication.     |
 
 Grids:
 

@@ -13,55 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Linear Algebra.md",
+                "file": "nodes/Matrix.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Linear Algebra"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9a4090c03ef31262",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "40561313ecace869",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "nodes/Linear Algebra.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Linear Algebra"
+              "title": "Matrix"
             }
           }
         ]
@@ -194,22 +151,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40561313ecace869",
+  "active": "75f225d9d06153ee",
   "lastOpenFiles": [
+    "nodes/Matrix.md~",
+    "nodes/4913",
+    "nodes/Vim Motions.md~",
+    "nodes/Matrix Multiplication.md~",
+    "nodes/Matrix.md",
+    "nodes/Math Primer for 3D Graphics Book.md~",
+    "nodes/Vector Space.md",
+    "nodes/Basis Vectors.md~",
+    "nodes/Vector Space.md~",
+    "nodes/Linear Algebra.md",
     "las.png",
     "nodes/Vector.md",
-    "nodes/Linear Algebra.md",
     "nodes/Linear Algebra.md~",
     "nodes/Linear Independence.md~",
-    "nodes/Basis Vectors.md~",
     "nodes/Linear Independence.md",
     "nodes/Determinant.md~",
     "nodes/Linear Equation.md~",
-    "nodes/System of Equations.md~",
-    "nodes/Matrix Multiplication.md~",
-    "nodes/4913",
-    "nodes/Span (Linear Algebra).md~",
-    "nodes/Linear Combination.md~",
     "nodes/Span (Linear Algebra).md",
     "nodes/Linear Combination.md",
     "nodes/Basis Vectors.md",
@@ -222,7 +182,6 @@
     "nodes/Common Coordinate Spaces in Computer Graphics.md",
     "nodes/Unit Vector.md",
     "nodes/Vector Normalization.md",
-    "nodes/Vector Space.md",
     "nodes/Cartesian Coordinate System.md",
     "nodes/Adaptive Volatility.md",
     "nodes/Project Spellblade - Mechanics.md",
@@ -231,7 +190,6 @@
     "nodes/Project Spellblade - Elite Mechanics.md",
     "nodes/Cross Product.md",
     "nodes/Computer Science.md",
-    "nodes/Software.md",
     "Untitled.canvas",
     "Argus.canvas",
     "resources/Screenshot from 2024-07-02 16-28-55.png"

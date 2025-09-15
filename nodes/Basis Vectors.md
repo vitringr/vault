@@ -27,3 +27,5 @@ Any vector in the space can be expressed as a [[Linear Combination]] of the basi
 **Coordinate System**: Basis vectors define the coordinate system of the space. Changing the basis vectors changes how coordinates are interpreted.
 
 **Transformation Core**: Any [[Linear Transformation]] can be expressed as an operation that changes the basis vectors of a space.
+
+**Orthogonal**: In general, it is prefered for the basis vectors to be orthogonal, although this is not a strict requirement. When the basis vectors are orthogonal, the coordinates are decoupled.

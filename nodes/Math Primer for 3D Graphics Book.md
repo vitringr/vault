@@ -157,11 +157,17 @@ This chapter introduces the idea of multiple coordinate systems. It is divided i
 - **Section 3.4**: Discusses nested coordinate spaces, commonly used for animating hierarchically segmented objects in 3D space.
 - **Section 3.5**: Is a political campaign for more human readable code.
 
-#wip 3.3.3 Basis Vectors
-
 ---
 
 ## Chapter 4 (Introduction to Matrices)
+
+Matrices are of fundamental importance in 3D math, where they are primarily used to describe the relationship between two coordinate spaces. They do this by defining a computation to transform vectors from one coordinate space to another.
+
+This chapter introduces the theory and application of matrices. Our discussion will follow the pattern set in Chapter 2 when we introduced vectors: mathematical definitions followed by geometric interpretations.
+
+- **Section 4.1**: Discusses some of the basic properties and operations of matrices strictly from a mathematical perspective. (More matrix operations are discussed in Chapter 6.)
+- **Section 4.2**: Explains how to interpret these properties and operations geometrically.
+- **Section 4.3**: Puts the use of matrices in this book in context within the larger field of linear algebra.
 
 ---
 
