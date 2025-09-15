@@ -3,8 +3,6 @@ context:
   - "[[Mathematics]]"
 ---
 
-#wip
-
 # Linear Algebra
 
 Branch of [[Mathematics]] that studies [[Vector Space]] and linear operations.
@@ -33,4 +31,4 @@ Linear algebra provides a fundamental framework for describing lines, planes, an
 
 **[[Determinant]]**: Scalar value computed from a square matrix that provides critical information about a linear transformation, such as whether it is invertible and how it scales the area/volume of space.
 
-**[[Linear Independence]]**: 
+**[[Linear Independence]]**: A set of [[Vector|Vectors]] is linearly independent if no vector in the set can be written as a linear combination of the others.
