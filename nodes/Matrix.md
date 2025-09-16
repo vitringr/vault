@@ -51,6 +51,8 @@ A matrix with the same number of rows and columns is called _square matrix_.
 │ 0 │ 0 │ 1 │
 └───┴───┴───┘
 
+**Linear Transformation**: A square matrix can fully describe a [[Linear Transformation]] by describing the transformed [[Basis Vectors]] of a [[Vector Space]].
+
 ## Matrix Transposition
 
 Given an `r × c` matrix `M`, the _transpose_ of `M`, denoted by `Mᵀ`, is the `c × r` matrix where the columns are formed from the rows of `M`.

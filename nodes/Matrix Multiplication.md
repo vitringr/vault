@@ -8,9 +8,13 @@ context:
 
 # Matrix Multiplication
 
-[[Matrix]] multiplication intuition.
+#wip
 
 ---
+
+Matrix multiplication is generally not commutative: `AB ≠ BA`.
+
+Matrix multiplication is associative: `(AB)C = A(BC)`.
 
 ## Matrix and Vector
 

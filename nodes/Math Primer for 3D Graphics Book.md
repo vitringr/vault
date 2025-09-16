@@ -169,11 +169,21 @@ This chapter introduces the theory and application of matrices. Our discussion w
 - **Section 4.2**: Explains how to interpret these properties and operations geometrically.
 - **Section 4.3**: Puts the use of matrices in this book in context within the larger field of linear algebra.
 
-#wip 4.1.5
-
 ---
 
 ## Chapter 5 (Matrices and Linear Transformations)
+
+ Chapter 4 investigated some of the basic mathematical properties of matrices. It also developed a geometric understanding of matrices and their relationship to coordinate space transformations in general. This chapter continues our investigation of transformations.
+
+To be more specific, this chapter is concerned with expressing linear transformations in 3D using 3x3 matrices. We give a more formal definition of linear transformations at the end of this chapter, but for now, recall from our informal introduction to linear transformations in Section 4.2 that one important property of linear transformations is that they do not contain translation. A transformation that contains translation is known as an affine transformation. Affine transformations in 3D cannot be implemented 3x3 using matrices. Section 5.7.2 gives a formal definition of affine transformations, and Section 6.4 shows how to use 4x4 matrices to represent affine transformations.
+
+This chapter discusses the implementation of linear transformations via matrices. It is divided roughly into two parts. In the first part, Sections 5.1–5.5, we take the basic tools from previous chapters to derive matrices for primitive linear transformations of rotation, scaling, orthographic projection, reflection, and shearing. For each transformation, examples and equations in 2D and 3D are given. The same strategy will be used repeatedly: determine what happens to the standard basis vectors as a result of the transformation and then put those transformed basis vectors into the rows of our matrix. Note that these discussions assume an active transformation: the object is transformed while the coordinate space remains stationary. Remember from Section 3.3.1 that we can effectively perform a passive transformation (transform the coordinate space and keep the object still) by transforming the object by the oppositeamount.
+
+A lot of this chapter is filled with messy equations and details, so you might be tempted to skip over it—but don't! There are a lot of important, easily digested principles interlaced with the safely forgotten details. We think it's important to be able to understand how various transform matrices can be derived, so in principle you can derive them on your own from scratch. Commit the high-level principles in this chapter to memory, and don't get too bogged down in the details. This book will not self-destruct after you read it, so keep it on hand for reference when you need a particular equation.
+
+The second part of this chapter returns to general principles of transformations. Section 5.6 shows how a sequence of primitive transformations may be combined by using matrix multiplication to form a more complicated transformation. Section 5.7 discusses various interesting categories of transformations, including linear, affine, invertible, angle-preserving, orthogonal, and rigid-body transforms. 
+
+#wip
 
 ---
 
