@@ -14,27 +14,32 @@ context:
 
 ---
 
-Formally, it is a [[Function (Mathematics)|Function]] that preserves [[Vector]] addition (`F(a + b) = F(a) + F(b)`) and [[Scalar]] multiplication (`F(ka) = kF(a)`).
-
 **Function**: Takes a [[Vector]] as input, and returns a vector as output, while respecting the underlying core structure of the vector space.
 
-**Geometric Interpretation**: In [[Geometry]], linear transformations often correspond to operations such as _rotation_, _scaling_, _reflection_, _shearing_, _projection_, or any combination between them.
-
-Linear transformations do not contain translation. #wip
+**Geometry**: Linear transformations correspond to operations that change space, while perserving some proportions.
 
 See [[Linear Transformation Matrix Intuition]]
 
 See [[Common 2D Linear Transformations]]
 
+See [[Primitive Linear Transformations]]
+
 ## Properties
 
-_In general, grid lines remain parallel and evenly spaced, and the origin remains the same._
+Any [[Function (Mathematics)|Function]] `F: V → W` between two vector spaces is a linear transformation if it satisfies these two fundamental properties:
 
-**Preserved Origin**: Linear transformations must preserve the zero vector (`<0, 0>`) as zero vector.
+- **Additivity**: Linear transformations preserve vector addition: `F(a + b) = F(a) + F(b)`.
+- **Homogeneity**: Linear transformations preserve scalar multiplication: `F(ka) = kF(a)`.
 
-**Lines Remain Lines**: Straight lines must not be curved after the map. They need to remain straight.
+These two properties lead directly to several crucial geometric consequences:
 
-These properties ensure that even after a linear transformation, points in space will continue to preserve some relative position between eachother.
+- **No Translation**: Linear transformations never translate (shift) space. This distinguishes them from [[Affine Transformation|Affine Transformations]].
+- **Preserved Origin**: As a direct result of having no translation, the zero must map to the zero vector, thus preserving the origin of the space.
+- **Lines Remain Lines**: Straight lines are mapped to straight lines (or to the zero vector). They are never curved.
+- **Preserved Linear Structure**: [[Linear Combination]] relationships are preserved. If a point can be described as a weighted sum of other points, this relationship holds after the trasnformation.
+- **Parallel and Evenly Spaced**: In general, grid lines remain parallel and evenly spaced.
+
+In essence, these properties ensure that the linearity of the vector space is preserved. The relative positions of points are maintained in a linear sense.
 
 ## Basis Vectors
 
@@ -73,29 +78,3 @@ See [[Matrix Multiplication]]
 The determinant describes how a linear transformation affects the scaling of space.
 
 See [[Determinant]]
-
-## Common Transformations
-
-#wip
-
-**Rotation**: Rotating space by an angle around a point in 2D or axis in 3D.
-
-**Scale**: Scaling space by a scalar factor.
-
-- _Uniform scale_ is when the entire space is scaled uniformly, thus preserving angles and proportions.
-- _Nonuniform scale_ is when different scale factors are applied to different axes, resulting in "squashed" or "stretched" space.
-
-**Projection**: Refers to any dimension-reducing operation.
-
-**Prespective Projection**: #wip
-
-**Parallel Projection**: One way to achieve this is to use a scale factor of zero in a direction. In this case, all points are flattened/projected onto a perpendicular axis (in 2D) or plane (in 3D).
-
-- It is called "parallel" because the lines from the original points to their projected counterparts are parallel.
-- Projection onto a cardinal axis occurs by simply discarding one of the dimensions, or scaling it by zero.
-
-**Reflection**: Transformation that mirrors space about a line (in 2D) or plane (in 3D). Reflection is accomplished by applying a scale factor of `-1`.
-
-**Shear**: Shearing is a transformation that "skews" space, stretching it non-uniformly. Angles are not preserved, but areas and volumes are.
-
-- The basic idea is to add a multiple of one coordinate to the other.
