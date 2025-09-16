@@ -7,22 +7,45 @@ context:
 
 # Primitive Linear Transformations
 
-ad
+The fundamental [[Linear Transformation]] types. More complex linear transformations can be decomposed into a combination of these basic operations.
 
 ---
 
-#wip
-
 ## Rotation
 
-Rotating space by an angle around a point in 2D or axis in 3D.
+Rotates space around the origin (in 2D), or around an axis through the origin (in 3D) by a given angle.
 
-## Scale
+- Preserves lengths, angles, and orientation.
+- Determinant equals `1`.
+- Invertible.
 
-Scaling space by a scalar factor.
+## Scaling (Dilation)
 
-- _Uniform scale_ is when the entire space is scaled uniformly, thus preserving angles and proportions.
-- _Nonuniform scale_ is when different scale factors are applied to different axes, resulting in "squashed" or "stretched" space.
+Transformation that scales space along specific axes by [[Scalar]] factors.
+
+- Preserves the origin.
+- Determinant equals the product of the scale factors.
+- Invertible as long a no scale factor is zero.
+
+_**Uniform Scale**_: The entire space is scaled uniformly, thus preserving angles and proportions.
+
+_**Non-uniform scale**_: Scale factors differ between axes. Does not preserve angles, but parallel lines remain parallel. Results in "squashed" or "stretched" space.
+
+## Reflection
+
+Transformation that mirrors space across a line (in 2D) or plane (in 3D) that passes through the origin.
+
+Can be though of as a special case of scaling with a factor of `-1` along one axis.
+
+- Preserves lengths and angles, but reverses orientation.
+- Determinant equals `-1`.
+- Invertible.
+
+## Shear
+
+Shearing is a transformation that "skews" space, stretching it non-uniformly. Angles are not preserved, but areas and volumes are.
+
+- The basic idea is to add a multiple of one coordinate to the other.
 
 ## Projection
 
@@ -39,12 +62,3 @@ One way to achieve this is to use a scale factor of zero in a direction. In this
 - It is called "parallel" because the lines from the original points to their projected counterparts are parallel.
 - Projection onto a cardinal axis occurs by simply discarding one of the dimensions, or scaling it by zero.
 
-## Reflection
-
-Transformation that mirrors space about a line (in 2D) or plane (in 3D). Reflection is accomplished by applying a scale factor of `-1`.
-
-## Shear
-
-Shearing is a transformation that "skews" space, stretching it non-uniformly. Angles are not preserved, but areas and volumes are.
-
-- The basic idea is to add a multiple of one coordinate to the other.
