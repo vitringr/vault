@@ -14,13 +14,9 @@ context:
 
 ---
 
+**Geometry**: Linear transformations correspond to operations that change space, while perserving linear proportions.
+
 **Function**: Takes a [[Vector]] as input, and returns a vector as output, while respecting the underlying core structure of the vector space.
-
-**Geometry**: Linear transformations correspond to operations that change space, while perserving some proportions.
-
-See [[Linear Transformation Matrix Intuition]]
-
-See [[Common 2D Linear Transformations]]
 
 See [[Primitive Linear Transformations]]
 
@@ -49,6 +45,18 @@ Every vector in the space can be described as a scaling of the basis vectors. Th
 
 Since all vectors are dependent on the basis vectors, changes in the basis vectors reflect on the entire [[Coordinate System]].
 
+## Determinant
+
+The determinant is a number that describes how a linear transformation affects the scaling of space.
+
+See [[Determinant]]
+
+## Invertibility
+
+Any transformation `F` is _invertible_ if there exist an opposite transformation `F⁻¹`, known as the _inverse of `F`_, that "undoes" the original transformation.
+
+All [[Primitive Linear Transformations]] other than projection are invertible. Projection is not invertible since it effectively discards a dimension worth of information.
+
 ## Matrix
 
 Every linear transformation can be described by a [[Matrix]].
@@ -73,8 +81,4 @@ Then, the now scaled vectors `i` (`<ua, uc>`) and `j` (`<vb, vd>`) are added to 
 
 See [[Matrix Multiplication]]
 
-## Determinant
-
-The determinant describes how a linear transformation affects the scaling of space.
-
-See [[Determinant]]
+See [[Linear Transformation Matrix Intuition]]

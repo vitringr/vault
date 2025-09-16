@@ -1,6 +1,6 @@
 ---
-aliases:
 context:
+  - "[[Linear Transformation]]"
 ---
 
 #wip
@@ -27,6 +27,8 @@ Scaling space by a scalar factor.
 ## Projection
 
 Refers to any dimension-reducing operation.
+
+**Non-Invertible**: This is the only non-invertible primitive linear transformation.
 
 ## Prespective Projection
 
