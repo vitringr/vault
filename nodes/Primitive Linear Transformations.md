@@ -3,8 +3,6 @@ context:
   - "[[Linear Transformation]]"
 ---
 
-#wip
-
 # Primitive Linear Transformations
 
 The fundamental [[Linear Transformation]] types. More complex linear transformations can be decomposed into a combination of these basic operations.
@@ -35,30 +33,33 @@ _**Non-uniform scale**_: Scale factors differ between axes. Does not preserve an
 
 Transformation that mirrors space across a line (in 2D) or plane (in 3D) that passes through the origin.
 
-Can be though of as a special case of scaling with a factor of `-1` along one axis.
+Can be though of as a special case of scaling by a factor of `-1` along one axis.
 
-- Preserves lengths and angles, but reverses orientation.
+- Reverses orientation.
+- Preserves lengths and angles.
 - Determinant equals `-1`.
 - Invertible.
 
 ## Shear
 
-Shearing is a transformation that "skews" space, stretching it non-uniformly. Angles are not preserved, but areas and volumes are.
+Transformation that "skews" space, adding a multiple of one coordinate to another.
 
-- The basic idea is to add a multiple of one coordinate to the other.
+Moves points in a direction parallel to an axis by an amount proportional to their coordinate on another axis.
+
+Example: `x' = x + ay`, `y' = y`.
+
+- Does not preserve angles.
+- Preserves area (in 2D) and volume (in 3D).
+- Determinant equals `1`.
+- Invertible.
 
 ## Projection
 
-Refers to any dimension-reducing operation.
+Dimension-reducing transformation.
 
-**Non-Invertible**: This is the only non-invertible primitive linear transformation.
+Flattens space onto a subspace (like a line or plane) that passes through the origin.
 
-## Prespective Projection
+This is the only non-invertible primitive linear transformation. Once projected, a dimension of information is lost.
 
-## Parallel Projection
-
-One way to achieve this is to use a scale factor of zero in a direction. In this case, all points are flattened/projected onto a perpendicular axis (in 2D) or plane (in 3D).
-
-- It is called "parallel" because the lines from the original points to their projected counterparts are parallel.
-- Projection onto a cardinal axis occurs by simply discarding one of the dimensions, or scaling it by zero.
-
+- Determinant equals `0`.
+- Non-invertible.
