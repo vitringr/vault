@@ -3,9 +3,22 @@ aliases:
   - Math
 context:
   - "[[Discipline]]"
+  - "[[Abstraction]]"
   - "[[Science]]"
 ---
 
 # Mathematics
 
-Discipline that studies quantities, structures, spaces, and change.
+Discipline that studies structured [[Abstraction]].
+
+
+
+
+
+
+
+
+
+
+
+

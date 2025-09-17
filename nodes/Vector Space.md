@@ -38,6 +38,6 @@ For any vectors `u`, `v`, `w` in the space, and any scalars `a`, `b`, the follow
 
 ## Abstraction
 
-The generalization of a vector space enables abstraction where various mathematical objects can be treated as vectors as long as they obey a set of axioms.
+The generalization of a vector space enables abstraction where various mathematical objects can be treated as vectors (also an abstraction) as long as they obey a set of axioms.
 
 **Consistency**: The ruleset of axioms guarantees that all the familiar vector operations will work consistently and predictably across all these different abstractions.
