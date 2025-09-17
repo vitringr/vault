@@ -173,7 +173,7 @@ This chapter introduces the theory and application of matrices. Our discussion w
 
 ## Chapter 5 (Matrices and Linear Transformations)
 
- Chapter 4 investigated some of the basic mathematical properties of matrices. It also developed a geometric understanding of matrices and their relationship to coordinate space transformations in general. This chapter continues our investigation of transformations.
+Chapter 4 investigated some of the basic mathematical properties of matrices. It also developed a geometric understanding of matrices and their relationship to coordinate space transformations in general. This chapter continues our investigation of transformations.
 
 To be more specific, this chapter is concerned with expressing linear transformations in 3D using 3x3 matrices. We give a more formal definition of linear transformations at the end of this chapter, but for now, recall from our informal introduction to linear transformations in Section 4.2 that one important property of linear transformations is that they do not contain translation. A transformation that contains translation is known as an affine transformation. Affine transformations in 3D cannot be implemented 3x3 using matrices. Section 5.7.2 gives a formal definition of affine transformations, and Section 6.4 shows how to use 4x4 matrices to represent affine transformations.
 
@@ -183,11 +183,19 @@ A lot of this chapter is filled with messy equations and details, so you might b
 
 The second part of this chapter returns to general principles of transformations. Section 5.6 shows how a sequence of primitive transformations may be combined by using matrix multiplication to form a more complicated transformation. Section 5.7 discusses various interesting categories of transformations, including linear, affine, invertible, angle-preserving, orthogonal, and rigid-body transforms. 
 
-#wip
-
 ---
 
 ## Chapter 6 (More on Matrices)
+
+Chapter 4 presented a few of the most of the important properties and operations of matrices and discussed how matrices can be used to express geometric transformations in general. Chapter 5 considered matrices and geometric transforms in detail. This chapter completes our coverage of matrices by discussing a few more interesting and useful matrix operations.
+
+- **Section 6.1**: Covers the determinant of a matrix.
+- **Section 6.2**: Covers the inverse of a matrix.
+- **Section 6.3**: Discusses orthogonal matrices.
+- **Section 6.4**: Introduces homogeneous vectors and 4x4 matrices, and shows how they can be used to perform affine transformations in 3D.
+- **Section 6.5**: Discusses perspective projection and shows how to do it with a 4x4 matrix. 
+
+#wip
 
 ---
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Transformation.md",
+                "file": "nodes/Determinant.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Transformation"
+              "title": "Determinant"
             }
           }
         ]
@@ -153,8 +153,10 @@
   },
   "active": "75f225d9d06153ee",
   "lastOpenFiles": [
-    "nodes/Transformation.md~",
+    "nodes/Determinant.md~",
+    "nodes/4913",
     "nodes/Transformation.md",
+    "nodes/Transformation.md~",
     "nodes/Rigid Body Transformation.md~",
     "nodes/Rigid Body Transformation.md",
     "nodes/Primitive Linear Transformations.md~",
@@ -162,14 +164,11 @@
     "nodes/Linear Transformation.md",
     "nodes/Common 2D Linear Transformations.md~",
     "nodes/Linear Transformation Matrix Intuition.md",
-    "nodes/Determinant.md~",
-    "nodes/4913",
     "nodes/Primitive Linear Transformations.md",
     "nodes/Affine Transformation.md~",
     "nodes/Affine Transformation.md",
     "nodes/Math Primer for 3D Graphics Book.md~",
     "nodes/Linear Algebra.md~",
-    "nodes/Matrix.md~",
     "nodes/Matrix.md",
     "nodes/Vector Space.md",
     "nodes/Linear Algebra.md",
