@@ -5,11 +5,11 @@ context:
 
 # Linear Algebra
 
-Branch of [[Mathematics]] that studies [[Vector Space]] and linear operations.
+Branch of [[Mathematics]] that studies [[Vector Space]] and [[Linear Transformation]].
 
 ---
 
-Linear algebra provides a fundamental framework for describing lines, planes, and higher-dimensional spaces, as well as the rules for manipulating objects within them.
+Linear algebra provides a fundamental framework for describing lines, planes, and higher-dimensional spaces. More powerfully, it offers a framework for [[Abstraction]], allowing diverse mathematical objects to be treated as [[Vector|Vectors]], enabling their analysis and manipulation through a unified formalism.
 
 ## Concepts
 
