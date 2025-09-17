@@ -14,7 +14,7 @@ The fundamental [[Linear Transformation]] types. More complex linear transformat
 Rotates space around the origin (in 2D), or around an axis through the origin (in 3D) by a given angle.
 
 - Preserves lengths, angles, and orientation.
-- Determinant equals `1`.
+- [[Determinant]] equals `1`.
 - Invertible.
 
 ## Scaling (Dilation)

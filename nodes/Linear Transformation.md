@@ -3,6 +3,7 @@ aliases:
   - Linear Map
 context:
   - "[[Morphism]]"
+  - "[[Transformation]]"
   - "[[Linear Algebra]]"
 ---
 
@@ -14,7 +15,7 @@ context:
 
 ---
 
-**Geometry**: Linear transformations correspond to operations that change space, while perserving linear proportions.
+**Geometry**: [[Transformation]] that changes space while perserving linear proportions.
 
 **Function**: Takes a [[Vector]] as input, and returns a vector as output, while respecting the underlying core structure of the vector space.
 
