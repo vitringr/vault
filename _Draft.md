@@ -2,6 +2,12 @@ Not to have anyone step above you, but to be just, do not step on anyone then. F
 
 ---
 
+"It actually looks like im better at math on the screen than I actually am. Probably because I am covering things that I know really well. When I'm actually working out new math stuff it's atrocious. It's a disaster zone all the time."
+
+- Casey Muratori
+
+---
+
 - Reusable Game Modules
 - Build Systems, Not Games
 - Simulation vs View Separation
@@ -49,7 +55,7 @@ Mathematics, language, logic—all rest upon recursive structures. A definition 
 
 Know that as is above, so is below.
 
-If the universe is computational, as some speculate, then its program is written in recursion. 
+If the universe is computational, as some speculate, then its program is written in recursion.
 
 The loop folds back upon itself, feeding its own existence.
 
