@@ -6,7 +6,7 @@ context:
 
 # Vector
 
-Multidimensional quantity.
+Abstract multidimensional quantity.
 
 ---
 

@@ -11,6 +11,8 @@ Designing a hack & slash melee mage game.
 
 ---
 
+#wip Combat & survival as Sage said it's evidently the best way to learn.
+
 **Tags**: Cross-platform, Top-down, Roguelite, Hack & Slash.
 
 [[Project Spellblade - Gameplay Design]]

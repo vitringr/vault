@@ -195,11 +195,11 @@ Chapter 4 presented a few of the most of the important properties and operations
 - **Section 6.4**: Introduces homogeneous vectors and 4x4 matrices, and shows how they can be used to perform affine transformations in 3D.
 - **Section 6.5**: Discusses perspective projection and shows how to do it with a 4x4 matrix. 
 
-#wip
-
 ---
 
 ## Chapter 7 (Polar Coordinate Systems)
+
+#wip
 
 ---
 

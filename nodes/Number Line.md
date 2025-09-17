@@ -6,7 +6,7 @@ context:
 
 # Number Line
 
-Graphical representation of a one-dimensional coordinate system of numbers.
+Graphical representation of a one-dimensional [[Coordinate System]] of numbers.
 
 ---
 

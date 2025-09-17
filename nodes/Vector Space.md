@@ -9,7 +9,7 @@ context:
 
 (Linear Space)
 
-Formal environment for [[Vector|Vectors]] and their operations, governed by a set of axioms.
+Abstract environment for [[Vector|Vectors]] and their operations, governed by a set of axioms.
 
 ---
 
@@ -20,6 +20,8 @@ The vector space is defined by a set of axioms that guarantee vectors can be add
 **Basis Vectors**: The vector space is characterized by a set of [[Basis Vectors]] whose [[Linear Combination|Linear Combinations]] generate the entire space and define a [[Coordinate System]] for it.
 
 ## Axioms
+
+The purpose of the axioms is to act as an interface and guarantee that the notions of vector addition and scalar multiplication work as expected, thus allowing the use of linear algebra.
 
 For any vectors `u`, `v`, `w` in the space, and any scalars `a`, `b`, the following must always hold:
 
