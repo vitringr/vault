@@ -192,3 +192,12 @@ One man's noise is another man's signal.
 
 The purpose of computation is insight, not numbers.
 \- Richard Hamming
+
+Man's mind stretched to a new idea never goes back to its original dimensions.
+\- Oliver Wendell Holmes Jr.
+
+He learned rapidly because his first training was in how to learn. And the first lesson of all was the basic trust that he could learn.
+\- Frank Herbert, Dune
+
+Every experience carries a lesson.
+\- Frank Herbert, Dune
