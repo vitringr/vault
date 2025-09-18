@@ -199,7 +199,14 @@ Chapter 4 presented a few of the most of the important properties and operations
 
 ## Chapter 7 (Polar Coordinate Systems)
 
-#wip
+The Cartesian coordinate system isn't the only system for mapping out space and defining locations precisely. An alternative to the Cartesian system is the polar coordinate system, which is the subject of this chapter. If you're not very familiar with polar coordinates, it might seem like an esoteric or advanced topic (especially because of the trig), and you might be tempted to gloss over. Please don't make this mistake. There are many very practical problems in areas such as AI and camera control whose solutions (and inherent difficulties!) can be readily understood in the framework of polar coordinates.
+
+This chapter is organized into the following sections:
+
+- **Section 7.1**: Describes 2D polar coordinates.
+- **Section 7.2**: Gives some examples where polar coordinates are preferable to Cartesian coordinates.
+- **Section 7.3**: Shows how polar space works in 3D and introduces cylindrical and spherical coordinates.
+- **Section 7.4**: Makes it clear that polar space can be used to describe vectors as well as positions.
 
 ---
 
