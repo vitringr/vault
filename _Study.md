@@ -104,6 +104,8 @@ For example, if it's HnS, build stuff like character controller, health, healthb
 
 Having reusable components will make designing and prototyping ideas much easier.
 
+Prototype heavily, and the ideas will emerge.
+
 _Basically Topdown Engine first._
 
 _**THE DREAM**_
