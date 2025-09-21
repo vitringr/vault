@@ -67,6 +67,6 @@ _The vector space defines the rules, while the coordinate system provides the fr
 
 **Vector Space**: Vectors exist within the axiomatic framework of a [[Vector Space]], which defines the rules for vector operations and ensures consistency across different vector implementations.
 
-**Coordinate Systems**: Vectors are typically represented and manipulated using a [[Coordinate System]], most commonly the [[Cartesian Coordinate System]], which provides a geometric interpretation of vector components.
+**Coordinate Systems**: Vectors are typically represented and manipulated using a [[Coordinate System]] which provides a geometric interpretation of vector components.
 
 **Basis Vectors**: Any vector can be represented by a linear combination of [[Basis Vectors]] that define the coordinate system's axes.

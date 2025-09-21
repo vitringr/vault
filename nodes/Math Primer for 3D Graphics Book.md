@@ -181,7 +181,7 @@ This chapter discusses the implementation of linear transformations via matrices
 
 A lot of this chapter is filled with messy equations and details, so you might be tempted to skip over it—but don't! There are a lot of important, easily digested principles interlaced with the safely forgotten details. We think it's important to be able to understand how various transform matrices can be derived, so in principle you can derive them on your own from scratch. Commit the high-level principles in this chapter to memory, and don't get too bogged down in the details. This book will not self-destruct after you read it, so keep it on hand for reference when you need a particular equation.
 
-The second part of this chapter returns to general principles of transformations. Section 5.6 shows how a sequence of primitive transformations may be combined by using matrix multiplication to form a more complicated transformation. Section 5.7 discusses various interesting categories of transformations, including linear, affine, invertible, angle-preserving, orthogonal, and rigid-body transforms. 
+The second part of this chapter returns to general principles of transformations. Section 5.6 shows how a sequence of primitive transformations may be combined by using matrix multiplication to form a more complicated transformation. Section 5.7 discusses various interesting categories of transformations, including linear, affine, invertible, angle-preserving, orthogonal, and rigid-body transforms.
 
 ---
 
@@ -193,7 +193,7 @@ Chapter 4 presented a few of the most of the important properties and operations
 - **Section 6.2**: Covers the inverse of a matrix.
 - **Section 6.3**: Discusses orthogonal matrices.
 - **Section 6.4**: Introduces homogeneous vectors and 4x4 matrices, and shows how they can be used to perform affine transformations in 3D.
-- **Section 6.5**: Discusses perspective projection and shows how to do it with a 4x4 matrix. 
+- **Section 6.5**: Discusses perspective projection and shows how to do it with a 4x4 matrix.
 
 ---
 
@@ -211,6 +211,22 @@ This chapter is organized into the following sections:
 ---
 
 ## Chapter 8 (Rotation in Three Dimensions)
+
+This chapter tackles the difficult problem of describing the orientation of an object in 3D. It also discusses the closely related concepts of rotation and angular displacement. There are several different ways we can express orientation and angular displacement in 3D. Here we discuss the three most important methods—matrices, Euler angles, and quaternions—as well as two lesser known forms—axis-angle and exponential map. For each method, we define precisely how the representation method works, and discuss the peculiarities, advantages, and disadvantages of the method.
+
+Different techniques are needed in different circumstances, and each technique has its advantages and disadvantages. It is important to know not only how each method works, but also which technique is most appropriate for a particular situation and how to convert between representations.
+
+The discussion of orientation in 3D is divided into the following sections:
+
+- **Section 8.1**: Discusses the subtle differences between terms like “orientation,” “direction,” and “angular displacement.”
+- **Section 8.2**: Describes how to express orientation using a matrix.
+- **Section 8.3**: Describes how to express angular displacement using Euler angles.
+- **Section 8.4**: Describes the axis-angle and exponential map forms.
+- **Section 8.5**: Describes how to express angular displacement using a quaternion.
+- **Section 8.6**: Compares and contrasts the different methods.
+- **Section 8.7**: Explains how to convert an orientation from one form to another.
+
+This chapter makes extensive use of the terms object space and upright space. If you aren't familiar with these terms, you should flip back to Section 3.2, where the terms were first introduced.
 
 ---
 
