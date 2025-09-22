@@ -17,6 +17,9 @@ ad
 [[Pythagorean Theorem]]
 [[Distance Formula]]
 
+Basic [[Geometry]]
+Basic [[Kinematics]]
+
 [[Linear Algebra]]
 [[Vector]]
 
