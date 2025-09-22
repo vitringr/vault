@@ -238,11 +238,11 @@ This chapter makes extensive use of the terms object space and upright space. If
 
 ---
 
-## Chapter 11 (Mechanics 1
+## Chapter 11 (Mechanics 1)
 
 ---
 
-## Chapter 12 (Mechanics 2
+## Chapter 12 (Mechanics 2)
 
 ---
 

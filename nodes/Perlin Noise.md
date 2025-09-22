@@ -26,3 +26,5 @@ For each query point inside a lattice cell:
 >
 > - _gradient vector_: the predefined random unit vector.
 > - _displacement vector_: vector difference from point to gradients.
+
+See [[Perlin Noise Implementation]]

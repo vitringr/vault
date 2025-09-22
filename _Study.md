@@ -17,7 +17,7 @@ Read the book:
 
 - [ ] **Game Math Book**: https://gamemath.com/book/intro.html
 
-- [ ] **3B1B**: The Essence of Linear Algebra (Watch at least 5 videos)
+- [x] **3B1B**: The Essence of Linear Algebra (Watch at least 5 videos)
 
 - [ ] **SimonDev**: [What Kind of Math Should Game Developers Know?](https://youtu.be/eRVRioN4GwA)
 

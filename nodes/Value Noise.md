@@ -20,3 +20,5 @@ Probably the simplest and fastest noise generation method.
 **Interpolation**: For any given point between grid cells, compute a value by [[Interpolation|interpolating]] with the surrounding lattice points.
 
 **Output**: The final interpolated values produce a continuous pattern.
+
+See [[Value Noise Implementation]]

@@ -19,6 +19,8 @@ Works by calculating contribution for each point from nearby direction [[Vector|
 
 **Efficiency**: Since the lattice is in simplex space, each point gets contributions from the minimum amount of surrounding vertices possible, based on the dimension. This is an improvement over [[Perlin Noise]], as the vertices needed for calculation are reduced.
 
+See [[Simplex Noise Implementation]]
+
 ## Algorithm
 
 Note that this is the 2D variant of simplex noise. The same logic applies for higher dimensions.

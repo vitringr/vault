@@ -1,3 +1,25 @@
+Specific software architecture doesn't really work lol.
+
+Do not look too far ahead.
+
+Explore and Lock.
+
+Just explore and write code without thinking about the encompassing structure too much.
+
+---
+
+Software architecture is not really architecture as a blueprint, as this is basically what programming itself is. If "architecture" is supposed to produce a blueprint that is sufficient enough to explain how the program works, then this is actually the full code of the program itself.
+
+Software architecture, in practice, is separation of code.
+
+The purposes of separation:
+
+- mental clarity, keeping things separate so you don't have to consider them at once
+- code reuse
+- division of labor
+
+---
+
 Not to have anyone step above you, but to be just, do not step on anyone then. Fair trade.
 
 ---
