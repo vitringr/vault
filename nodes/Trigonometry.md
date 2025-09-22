@@ -9,6 +9,8 @@ Branch of mathematics that studies relationships between angles and side of tria
 
 ---
 
+[[SOHCAHTOA]]
+
 #wip
 #wip
 #wip

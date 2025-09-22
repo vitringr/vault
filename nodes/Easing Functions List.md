@@ -1,15 +1,13 @@
 ---
 tags:
   - "data"
-aliases:
-  - Easing Functions List
 context:
-  - "[[Interpolation Function]]"
+  - "[[Easing Function]]"
 ---
 
-# Interpolation Functions List
+# Easing Functions List
 
-Collection of useful interpolation functions:
+Collection of useful easing functions:
 
 ```typescript
 function linear(step: number) {

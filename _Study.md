@@ -27,7 +27,7 @@ And then maybe watch the things not so carefully:
 
 - [ ] https://immersivemath.com/ila/index.html
 
-- [ ] **javidx9**: [Essential Mathematics for Game Developers](https://youtu.be/DPfxjQ6sqrc)
+- [x] **javidx9**: [Essential Mathematics for Game Developers](https://youtu.be/DPfxjQ6sqrc)
 
 - [ ] **The Player Never Moves**: https://youtu.be/wiYTxjJjfxs
 

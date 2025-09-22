@@ -1,40 +1,57 @@
 ---
 context:
-  - "[[Mathematics]]"
   - "[[Game Development]]"
 ---
 
 #wip
 
-# Mathematics for Game Development
+# Essentials for Game Development
 
-ad
+Essential knowledge needed for [[Game Development]].
 
 ---
 
-[[Trigonometry]]
-[[SOHCAHTOA]]
-[[Pythagorean Theorem]]
-[[Distance Formula]]
+## Mathematics
 
-Basic [[Geometry]]
-Basic [[Kinematics]]
+**Basic [[Mathematics]]**
+**Basic [[Geometry]]**
+**Basic [[Algebra]]**
 
-[[Linear Algebra]]
-[[Vector]]
+**[[Coordinate System]]**
+**[[Cartesian Coordinate System]]**
 
-[[Conversion Between Degrees and Radians]]
+**[[Pythagorean Theorem]]**
+**[[Distance Formula]]**
 
-[[Interpolation]]
-[[Linear Interpolation]]
-[[Interpolation Function]]
+**[[Trigonometry]]**
 
-[[Random Generation]]
+**[[Linear Algebra]]**
+**[[Vector]]**
+**[[Vector Operations]]**
 
-[[Noise (Procedural Generation)]]
+**[[Interpolation]]**
+**[[Linear Interpolation]]**
+**[[Easing Function]]**
 
-[[Delta Time]]
+## Generation
 
-[[Collision Detection]]
+**[[Procedural Generation]]**
 
-[[Pathfinding]]
+**[[Random Generation]]**
+
+**[[Noise (Procedural Generation)]]**
+
+## Algorithms
+
+**Fundamental [[DSA]]**
+
+**[[Collision Detection]]**
+
+**[[Pathfinding]]**
+
+## Mechanics
+
+**Basic [[Kinematics]]**
+
+**[[Delta Time]]**
+

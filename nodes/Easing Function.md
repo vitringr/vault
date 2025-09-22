@@ -1,13 +1,11 @@
 ---
-aliases:
-  - Easing Function
 context:
   - "[[Interpolation]]"
 ---
 
-# Interpolation Function
+# Easing Function
 
-[[Function (Mathematics)|Function]] controlling how the intermediate values are calculated during [[Interpolation]].
+Function controlling how the intermediate values are calculated during [[Interpolation]].
 
 ---
 
@@ -21,4 +19,4 @@ Interpolation functions, like [[Linear Interpolation]], use a _step_ (or _percen
 
 The idea is to tweak that value before the interpolation.
 
-See [[Interpolation Functions List]]
+See [[Easing Functions List]]
