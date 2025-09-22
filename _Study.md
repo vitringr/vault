@@ -9,6 +9,8 @@
 > Feel free to watch videos and read articles without necessarily writing everything down.
 > Watch a couple of videos on the same topic, just for clarity.
 
+**Avoid tutorial hell**
+
 # Mathematics
 
 _Basics of Linear Algebra and Trigonometry._

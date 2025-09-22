@@ -1,3 +1,24 @@
+Prototype hard. Not only one thing, but many, and keep them fast and simple.
+
+Don't chase trends. Make the game you want to play.
+
+Do one thing really really well instead of trying to do everything.
+
+Mechanics & Fun > Realism.
+
+Aesthetic Style > Graphics
+
+- (good color palettes and stuff)
+
+Focus on the front. Everyone plays the start, but not everyone finishes a game.
+
+Get HONEST feedback.
+
+- Problems they say are usually good, but solutions they say are usually not.
+- Make sure the people are interested in the genre!
+
+---
+
 Specific software architecture doesn't really work lol.
 
 Do not look too far ahead.

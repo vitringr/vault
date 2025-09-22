@@ -5,4 +5,4 @@ context:
 
 # Game Development
 
-The multidisciplinary process of designing and creating interactive games.
+The multidisciplinary process of designing and creating [[Software]] games.
