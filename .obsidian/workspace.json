@@ -11,10 +11,14 @@
             "id": "75f225d9d06153ee",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "nodes/Essentials for Game Development.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Essentials for Game Development"
             }
           }
         ]
@@ -151,6 +155,10 @@
   "lastOpenFiles": [
     "nodes/Essentials for Game Development.md~",
     "nodes/4913",
+    "nodes/Easing Function.md~",
+    "nodes/Linear Interpolation.md~",
+    "nodes/Interpolation.md~",
+    "nodes/Coordinate System.md~",
     "nodes/Game Development.md~",
     "nodes/Essentials for Game Development.md",
     "nodes/Conversion Between Cartesian and Polar Coordinates.md",
@@ -159,10 +167,6 @@
     "nodes/Delta Time.md~",
     "nodes/Trigonometry.md~",
     "nodes/Mathematics for Game Development.md",
-    "nodes/Mathematics for Game Development.md~",
-    "_Draft.md~",
-    "_Study.md~",
-    "nodes/Algorithm.md~",
     "nodes/Algorithms for Game Development.md",
     "nodes/Interpolation Function.md",
     "nodes/Easing Functions List.md",

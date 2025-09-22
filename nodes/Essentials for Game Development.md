@@ -15,17 +15,17 @@ Essential knowledge needed for [[Game Development]].
 
 **Fundamental [[Programming]]**
 
-**Fundamental [[Computer Graphics]]**
+**Fundamental [[DSA]]**
 
-**[[Programming Language]]**: Strong grasp of a programming language of choice. Lower level languages are generally better due to the performance-critical nature of games.
+**Fundamental [[Computer Graphics]]**
 
 ## Mathematics
 
-**Fundamental [[Mathematics]]**: Non-negotiable.
+**Fundamental [[Mathematics]]**
 **Fundamental [[Geometry]]**
 **Fundamental [[Algebra]]**
 
-**[[Coordinate System]]**: Coordinate systems provide a way of describing things in space.
+**[[Coordinate System]]**
 **[[Cartesian Coordinate System]]**
 **[[Polar Coordinate System]]**
 
@@ -52,8 +52,6 @@ Essential knowledge needed for [[Game Development]].
 
 ## Algorithms
 
-**Fundamental [[DSA]]**
-
 **[[Collision Detection]]**
 
 **[[Pathfinding]]**
@@ -63,7 +61,3 @@ Essential knowledge needed for [[Game Development]].
 ## Time
 
 **[[Delta Time]]**
-
-## Mechanics
-
-**Basic [[Kinematics]]**
