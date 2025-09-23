@@ -1,3 +1,5 @@
+Tim Ruswick:
+
 Prototype hard. Not only one thing, but many, and keep them fast and simple.
 
 Don't chase trends. Make the game you want to play.

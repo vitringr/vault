@@ -68,6 +68,12 @@ _Learn OpenGL and Shaders, and probably stop there._
 
 > "Note that even with OpenGL you can write almost everything, including 2D renderer, first-person shooter game or general-purpose game engine. It is okay spending a year on a project which seemed simple at first glance, as long as it helps you to learn and give you a joy."
 
+## Software Design
+
+Read this completely: https://gameprogrammingpatterns.com/contents.html
+
+- Ventsi
+
 # Technology
 
 Research and choose a technology to use.

@@ -5,7 +5,7 @@ context:
 
 # Software Architecture
 
-The high-level design and structure of a software system.
+The high-level macro structure of a software system.
 
 ---
 

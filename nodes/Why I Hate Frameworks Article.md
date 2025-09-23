@@ -1,8 +1,6 @@
 ---
 context:
   - "[[Software Framework]]
-  - "[[Software Architecture]]
-  - "[[Software Design]]
 ---
 
 # Why I Hate Frameworks Article

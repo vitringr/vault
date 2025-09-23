@@ -5,4 +5,4 @@ context:
 
 # Software Development
 
-The process of creating, [[Software Design|designing]], [[Programming|programming]], testing, and maintaining [[Software]].
+The process of [[Software Architecture|Architecting]], [[Software Design|Designing]], [[Programming]], testing, and maintaining [[Software]] systems.
