@@ -7,24 +7,20 @@ context:
 
 # Relentless Assault
 
-Strategy of continuous attack.
+Strategy of maintaining continuous, overwhelming offense.
 
 ---
 
-**Increases pressure.**
+**Attrition**: Constant pressure inflicts attrition over time. See [[Attrition Strategy]]
 
-**Forces mistakes.**
+**Forced Error**: Decision-making quality degrades under stress. Everyone is susceptible to mistakes when pressured.
 
-**Forces exhaust.**
+**Tempo**: Opponents can become trapped in a loop of reactive defense cycles, preventing them from initiating their own offense.
 
-**Forces defensive cycles.**
+**Disrupt**: Prevents the opponent from entering flow state.
 
-**Exposes vulenrabilities.**
+**Exhaust**: The cognitive load of constant defensive reaction is greater than that of methodical offense.
 
-**Prevents opponent flow state.**
+**Momentum**: Attacks can create positive feedback loops, leading to more chains of attacks.
 
-**Increases own flow state.**
-
-Sometimes it is worth to reduce your own comfort slightly, in order to reduce your opponent's comfort greatly.
-
-Attacking naturally reduces fear. See [[Aggression Over Fear]]
+**Fear Reduction**: The act of attacking is psychologically empowering. See [[Aggression Over Fear]]
