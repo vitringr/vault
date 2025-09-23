@@ -1,13 +1,15 @@
 ---
-aliases:
+tags:
+  - "original"
 context:
   - "[[Strategy]]"
 ---
 
 #wip
 
-# Raiding Strategy
+# Aggressive Play
 
 ad
 
 ---
+

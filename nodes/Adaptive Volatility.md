@@ -7,29 +7,37 @@ context:
 
 # Adaptive Volatility
 
-Shift between order and chaos based on circumstances.
+Strategically modulating between order and chaos.
 
 _"Simplify when ahead. Complicate when behind."_
 
 ---
 
-The term _volatility_ can refer to _risk_, _complexity_, _chaos_, _randomness_, depending on the context.
+**Terminology**: The term _volatility_ refers to things such as _risk_, _complexity_, _chaos_, or _randomness_, depending on the context.
 
-**Concept**: In strategy, volatility can be increased or decreased in order to gain an advantage.
+## Concept
 
-- **When Ahead**: decrease volatility.
-- **When Behind**: increase volatility.
+Volatility can be increased or decreased strategically.
 
-The basic idea is that if you are ahead, you're already winning, so it's probably good to be conservative and keep the state as it is. However, this also applies in reverse. If you're behind, you're already losing, so it's probably better to increase the volatility in order to change the losing state.
+In a stable and predictable environment, the player with the advantage is likely to maintain it. In a chaotic and unpredictable environment, outcomes become more random, allowing for comeback opportunities.
 
-**Time**: This strategy can become even more pronounced when there is time involved.
+- **When Ahead**: Decrease volatility.
+- **When Behind**: Increase volatility.
 
-Sometimes positions can get increasingly better or worse depending on the time spent there. This makes the concept even more effective, as it's decisive to remain in good positions as much as possible, or get out of bad positions as soon as possible.
+The basic idea is that if you are ahead, you're already winning, so it's a good idea to be conservative and keep everything as it is. However, if you're behind, you're already losing, so it's better to increase the volatility, allowing more change to happen.
+
+## Time
+
+This principle can be amplified over time due to compounding effects.
+
+The state can become increasingly better, or increasingly worse over time.
+
+Remain in good positions as long as possible to benefit from positive compounding. Exit bad positions as soon as possible to avoid negative compounding.
 
 ## Examples
 
-**[[Grappling]]**: It's often a good idea to play winning positions conservative in order to keep them. It's also common to risk and scramble to get out of bad positions.
+**[[Chess]]**: The classic advice [[Exchange When Ahead]] is a direct application. The winning player wants to exchange pieces in order to simplify the game. The losing player wants to avoid these exchanges in order to keep the game complex and opportunistic.
 
-**[[Chess]]**: [[Exchange When Ahead|Exchanging pieces when ahead]] is a common and fundamental strategy.
+**[[Grappling]]**: Dominant positions allow for continuous pressure and attacking opportunities over time. The dominant player would generally try to slow down and hold these positions, while the losing player tries to force movement and scramble out of them.
 
-**[[RTS]]**: The winning player would often choose to play conservatively, while the losing player would attempt volatile and risky play, for example trying to force all-in scenarios.
+**[[RTS]]**: The player with an economic lead can press their advantage with cost-effective trades and map control. His opponent can use aggressive, unorthodox, high-risk, or even desperate tactics in order to level the playing field.

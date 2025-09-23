@@ -5,8 +5,4 @@ context:
 
 # Scorched Earth Strategy
 
-Destroying useful resources while retreating from an area.
-
----
-
-The goal is to leave the enemy with nothing of value in the area.
+Desctruction of useful resources, leaving the enemy with nothing of value.

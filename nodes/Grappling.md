@@ -5,4 +5,4 @@ context:
 
 # Grappling
 
-Martial arts that focus on ground fighting and submission techniques.
+Martial arts that focus on wrestling and ground fighting.

@@ -5,4 +5,4 @@ context:
 
 # Attrition Strategy
 
-Gradually wearing down the enemy through continuous losses in resources and morale.
+Gradually wearing down the enemy to the point of collapse.
