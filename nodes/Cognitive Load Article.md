@@ -3,7 +3,6 @@ tags:
   - "article"
 context:
   - "[[Software Design]]
-  - "[[Software Architecture]]
 ---
 
 # Cognitive Load Article

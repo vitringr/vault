@@ -1,12 +1,11 @@
 ---
 context:
-  - "[[Software Design]]"
   - "[[Software Architecture]]"
 ---
 
 # Uncle Bob Clean Architecture
 
-[[Software Design]] that organizes code into layers with a clear purpose and boundaries.
+[[Software Architecture]] that organizes code into layers with a clear purpose and boundaries.
 
 ---
 
