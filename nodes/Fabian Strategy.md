@@ -5,13 +5,9 @@ context:
 
 # Fabian Strategy
 
-Gradually wearing down the enemy while avoiding or delaying direct engagements.
-
-Implementing [[Attrition Strategy]] offense combined with defensive strategies.
+Using [[Attrition Strategy]] while avoiding or delaying direct engagements.
 
 ---
-
-Useful when a direct engagement is unwise, or when time favors the employing side.
 
 > The strategy of Quintus Fabius Maximus Verrucosus, known as "Fabian strategy," was employed during the Second Punic War to counter the Carthaginian general Hannibal's invasion of Italy. After Hannibal's decisive victories at Trebia (218 BC) and Lake Trasimene (217 BC), Rome appointed Fabius as dictator. Instead of engaging Hannibal in direct battle, Fabius employed a war of attrition, focusing on small skirmishes and cutting off the Carthaginians' access to resources by targeting their foraging parties and implementing scorched-earth tactics.
 >
