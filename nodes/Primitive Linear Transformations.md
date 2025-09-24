@@ -11,6 +11,8 @@ The fundamental [[Linear Transformation]] types. More complex linear transformat
 
 ## Rotation
 
+See [[Rotation]]
+
 Rotates space around the origin (in 2D), or around an axis through the origin (in 3D) by a given angle.
 
 - Preserves lengths, angles, and orientation.

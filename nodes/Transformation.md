@@ -5,4 +5,4 @@ context:
 
 # Transformation
 
-[[Function (Mathematics)|Function]] that maps a [[Set (Mathematics)|Set]] to itself, generally with some [[Geometry|Geometric]] foundation.
+Map of a [[Set (Mathematics)|Set]] to itself, generally with some [[Geometry|Geometric]] foundation.

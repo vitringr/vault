@@ -1,6 +1,6 @@
 ---
-aliases:
 context:
+  - "[[Geometry]]"
 ---
 
 #wip
@@ -11,7 +11,7 @@ ad
 
 ---
 
-Euler angles store orientation by using three angles. These angles are ordered rotations about the three object-space axes.
+Euler angles store orientation by using three numbers. These numbers represent ordered rotation angles about the three object-space axes.
 
 **Intuitive**: Euler angles are more intuitive for humans to work with compared to other methods of representing orientation, such as [[Quaternion]].
 

@@ -12,7 +12,7 @@ context:
 
 Geometric transformation that only changes the position and orientation of an object, without altering its shape or size.
 
-All rigid transformations can be described as a combination of rotation\*\* and translation.
+All rigid transformations can be described as a combination of [[Rotation]] and translation.
 
 - **Rotation**: Rotates an object around a point (in 2D), or around an axis (in 3D) by a given angle.
 - **Translation**: Moves every point of the object by a constant factor.
