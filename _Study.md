@@ -37,6 +37,8 @@ And then maybe watch the things not so carefully:
 - [ ] **FloatyMonkey Vectors**: https://youtu.be/Ej3ZVxljJfo
 - [ ] **FloatyMonkey Matrices and Transformations**: https://youtu.be/HgQzOmnBGCo
 
+- WrapPI
+
 # Graphics Concepts
 
 - [ ] **Perspective Projection**: https://youtu.be/U0_ONQQ5ZNM

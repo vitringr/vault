@@ -10,7 +10,7 @@ Two-dimensional coordinate system in which each point is determined by a distanc
 
 ---
 
-#wip
+#wip 'Canonical Set' of points that deals with aliasing. The "official" way of describing a point. The idea is to impose limits so that only one of the aliases is a valid way to represent the point.
 
 useful to describe coordinates relative to the point of view perspective.
 
