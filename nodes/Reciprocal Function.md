@@ -1,3 +1,3 @@
 # Reciprocal Function
-#wip
+#empty
 

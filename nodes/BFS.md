@@ -5,7 +5,7 @@ context:
   - "[[Search Algorithm]]"
 ---
 
-#wip
+#empty
 
 # BFS
 

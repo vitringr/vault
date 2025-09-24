@@ -5,12 +5,6 @@ context:
   - "[[Search Algorithm]]"
 ---
 
-#wip
+#empty
 
 # DFS
-
-ad
-
----
-
-#wip

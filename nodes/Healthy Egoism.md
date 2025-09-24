@@ -3,7 +3,7 @@ aliases:
 context:
 ---
 
-#wip
+#empty
 
 # Healthy Egoism
 

@@ -1,4 +1,4 @@
 # Quadtree
-#wip
+#empty
 
 [[Recursion]]

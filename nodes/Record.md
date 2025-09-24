@@ -4,7 +4,7 @@ context:
   - "[[Composite Data Type]]"
 ---
 
-#wip
+#empty
 
 # Record
 

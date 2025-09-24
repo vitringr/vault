@@ -1,2 +1,2 @@
 # Board Game
-#wip
+#empty

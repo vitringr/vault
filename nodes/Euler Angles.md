@@ -5,7 +5,7 @@ context:
 
 #empty
 
-# Golden Spiral
+# Euler Angles
 
 ad
 

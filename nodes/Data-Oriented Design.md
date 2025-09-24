@@ -3,12 +3,7 @@ aliases:
 context:
 ---
 
-#wip
+#empty
 
 # Data-Oriented Design
 
-ad #wip
-
----
-
-#wip

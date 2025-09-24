@@ -6,7 +6,7 @@ context:
   - "[[WebGL2]]"
 ---
 
-#wip
+#empty
 
 # WebGL2 Multiple Render Targets
 

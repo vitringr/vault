@@ -3,11 +3,10 @@ aliases:
 context:
 ---
 
-#wip
+#empty
 
 # RAM
 
 ad
 
 ---
-#wip

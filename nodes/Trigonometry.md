@@ -14,5 +14,3 @@ Trigonometric functions relate the angles of a right triangle with ratios of its
 [[SOHCAHTOA]]
 
 #wip
-#wip
-#wip
