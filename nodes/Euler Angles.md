@@ -4,15 +4,13 @@ context:
   - "[[Rotation]]"
 ---
 
-#wip
-
 # Euler Angles
 
-ad
+System to represent 3D orientation as three sequential rotations around fixed axes.
 
 ---
 
-Euler angles store orientation by using three numbers. These numbers represent ordered rotation angles about the three object-space axes.
+Euler angles define orientation using three numbers, each representing an ordered rotation angle about specific axes.
 
 **Intuitive**: Euler angles are more intuitive for humans to work with compared to other methods of representing orientation, such as [[Quaternion]].
 
@@ -24,4 +22,4 @@ Euler angles store orientation by using three numbers. These numbers represent o
 
 **Aliasing**: Euler angles suffer from aliasing problems due to the cyclic nature of rotation angles and because the rotations are not completely independent of one another. There are solutions and workarounds to simple forms of aliasing.
 
-**Problematic Interpolation**: [[Interpolation]] between Euler angle orientations can cause errors and undesired results.
+**Unstable Interpolation**: [[Interpolation]] between Euler angle orientations is problematic, causing errors and undesired results.

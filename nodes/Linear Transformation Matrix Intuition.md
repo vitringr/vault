@@ -12,6 +12,8 @@ Intuition to how a [[Linear Transformation]] works, how it affects the [[Basis V
 
 Linear maps are completely defined by how they affect the basis vectors. The matrix is a convenient package for that information.
 
+See [[Common 2D Linear Transformations]]
+
 ## Basis Transformation
 
 Imagine every vector as a scaling of the basis vectors `i` and `j`.
@@ -93,5 +95,3 @@ So any vector `<x, y>` that is multiplied by a matrix `[a, b, c, d]` follows the
  │ y │   │ c │ d │       │ c │       │ d │
  └───┘   └───┴───┘       └───┘       └───┘
 ```
-
-See [[Common 2D Linear Transformations]]
