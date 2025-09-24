@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Rotation Representation.md",
+                "file": "nodes/Axis-Angle Representation.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Rotation Representation"
+              "title": "Axis-Angle Representation"
             }
           }
         ]
@@ -154,22 +154,22 @@
   },
   "active": "75f225d9d06153ee",
   "lastOpenFiles": [
+    "_System.md~",
+    "nodes/Quaternion.md~",
     "nodes/Rotation Representation.md~",
     "nodes/Euler Angles.md~",
+    "nodes/Axis-Angle Representation.md~",
+    "nodes/Rotation Representation.md",
+    "nodes/Euler Rotation Theorem.md~",
     "nodes/4913",
+    "nodes/Unit Vector.md~",
     "nodes/Common 2D Linear Transformations.md",
     "nodes/Rotation.md~",
-    "nodes/Rotation Representation.md",
     "nodes/Common 2D Linear Transformations.md~",
     "nodes/Rotation.md",
     "nodes/Linear Transformation Matrix Intuition.md~",
-    "nodes/Linear Transformation.md~",
-    "nodes/Primitive Linear Transformations.md~",
     "nodes/Quadtree.md",
     "nodes/C (Programming Language).md",
-    "nodes/Kinematics.md~",
-    "nodes/Group Theory.md~",
-    "nodes/Determinism.md~",
     "nodes/Quaternion.md",
     "nodes/Euler Angles.md",
     "nodes/Pinhole Camera.md",
