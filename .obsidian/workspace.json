@@ -11,14 +11,10 @@
             "id": "75f225d9d06153ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodes/Relentless Assault.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Relentless Assault"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -153,21 +149,23 @@
   },
   "active": "75f225d9d06153ee",
   "lastOpenFiles": [
+    "nodes/Linear Independence.md~",
+    "nodes/Determinant.md~",
+    "nodes/Linear Equation.md~",
+    "nodes/Polynomial.md~",
+    "nodes/Basis Vectors.md~",
+    "nodes/Span (Linear Algebra).md~",
+    "nodes/Vector.md~",
+    "nodes/Linear Algebra.md~",
+    "nodes/Healthy Egoism.md",
+    "nodes/Relentless Assault.md",
     "nodes/Strategy.md~",
     "nodes/Relentless Assault.md~",
     "nodes/Aggression Over Fear.md~",
-    "nodes/4913",
     "nodes/Adaptive Volatility.md",
-    "nodes/Relentless Assault.md",
-    "nodes/Constant Aggression.md~",
     "nodes/Aggression Over Fear.md",
     "nodes/Constant Aggression.md",
-    "nodes/Aggressive Play.md~",
-    "nodes/Empathy as Strategy.md~",
-    "nodes/Fabian Strategy.md~",
-    "nodes/Adaptive Volatility.md~",
     "nodes/Essentials for Game Development.md",
-    "nodes/Essentials for Game Development.md~",
     "nodes/Conversion Between Cartesian and Polar Coordinates.md",
     "nodes/Mathematics for Game Development.md",
     "nodes/Algorithms for Game Development.md",
@@ -187,7 +185,6 @@
     "nodes/Rigid Body Transformation.md",
     "nodes/Linear Transformation.md",
     "nodes/Linear Transformation Matrix Intuition.md",
-    "nodes/Primitive Linear Transformations.md",
     "las.png",
     "Untitled.canvas",
     "Argus.canvas",

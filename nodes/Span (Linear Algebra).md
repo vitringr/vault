@@ -7,7 +7,7 @@ context:
 
 # Span (Linear Algebra)
 
-The set of all possible vectors that can be formed as a [[Linear Combination]] of a given set of input vectors.
+The set of all possible [[Vector|Vectors]] that can be formed as a [[Linear Combination]] of a given set of input vectors.
 
 ---
 
