@@ -1,6 +1,6 @@
 ---
 context:
-- "[[Mathematics]]"
+  - "[[Mathematics]]"
 ---
 
 # Transformation
