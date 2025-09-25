@@ -27,7 +27,7 @@ The _step_ number represents a point on that line:
 
 **1 Dimension**: If the two inputs are 1D [[Scalar|scalars]] - imagine them on the 1D [[Number Line]].
 
-**2 Dimensions**: Known as [[Bilinear Interpolation]]. If the two inputs are 2D points ([[Vector|vectors]]) in a [[Coordinate System]] - imagine a straight line connecting them.
+**2 Dimensions**: Known as [[Bilinear Interpolation]]. If the two inputs are 2D points ([[Vector|Vectors]]) in a [[Coordinate System]] - imagine a straight line connecting them.
 
 **3 Dimensions**: The same, but imagine the line connecting points in 3D space.
 
@@ -44,15 +44,6 @@ function lerp(va: Vector2, v2: Vector2, step: number) {
   return new Vector2(
     va.x + step * (v2.x - va.x),
     va.y + step * (v2.y - va.y)
-  );
-}
-
-// 3 Dimensions:
-function lerp(va: Vector3, v2: Vector3, step: number) {
-  return new Vector3(
-    va.x + step * (v2.x - va.x),
-    va.y + step * (v2.y - va.y),
-    va.z + step * (v2.z - va.z)
   );
 }
 ```
