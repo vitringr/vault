@@ -1,10 +1,11 @@
 ---
 context:
+  - "[[Prototyping]]"
 ---
 
 # Iterative Development
 
-Cyclical development methodology where a product is built and refined through repeated cycles of prototyping, testing, and integrating feedback.
+Cyclical development methodology where a product is built and refined through repeated cycles of [[Prototyping]], testing, and integrating feedback.
 
 ---
 
@@ -17,7 +18,7 @@ Especially applicable to [[Game Development]] and [[Software Development]] in ge
 1. **Design**: Define the goals for the current iteration.
 2. **Implement**: Build a functional prototype.
 3. **Test**: Test the build to gather feedback.
-4. **Refine**: Learn from the feedback to refine the next iteration.
+4. **Evaluate**: Learn from the feedback how to refine the next iteration.
 5. Repeat
 
 This loop incrementally improves the product by testing and validating (or invalidating) assumptions.

@@ -228,6 +228,10 @@ The discussion of orientation in 3D is divided into the following sections:
 
 This chapter makes extensive use of the terms object space and upright space. If you aren't familiar with these terms, you should flip back to Section 3.2, where the terms were first introduced.
 
+#wip Another trivial form of aliasing in axis-angle space can be produced by negating both and . However, the exponential map dodges this issue as well, since negating both and
+leaves
+unchanged! 
+
 ---
 
 ## Chapter 9 (Geometric Primitives)
