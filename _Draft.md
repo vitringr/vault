@@ -1,3 +1,7 @@
+Study Chris Zukowski
+
+---
+
 Tim Ruswick:
 
 Prototype hard. Not only one thing, but many, and keep them fast and simple.
@@ -18,6 +22,10 @@ Get HONEST feedback.
 
 - Problems they say are usually good, but solutions they say are usually not.
 - Make sure the people are interested in the genre!
+
+---
+
+See the We Who Are About To Die dev video.
 
 ---
 
