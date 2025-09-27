@@ -11,6 +11,10 @@ ad
 
 ---
 
+Contains a scalar component `w` and a vector component `v`. They are related to the angle of rotation `θ` and the axis of rotation `n` by: `w = cos(θ/2)` and `v = n sin(θ/2)`.
+
+---
+
 Quaternion multiplication can be used to concatenate multiple rotations.
 
 ---
@@ -46,6 +50,8 @@ Algebraically, only the `[1 0]` is an identity quaternion.
 [[Pythagorean Theorem]]
 
 The magnitude of `[w (x y z)]` is `√(w² + x² + y² + z²)`.
+
+All quaternions that represent angular displacements are unit quaternions with magnutude equal to `1`.
 
 ## Conjugate
 

@@ -1,3 +1,7 @@
+**Color Palettes**: https://lospec.com/palette-list
+
+---
+
 Study Chris Zukowski
 
 ---

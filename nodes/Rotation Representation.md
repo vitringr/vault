@@ -9,6 +9,8 @@ Common ways of representing [[Rotation]] mathematically.
 
 ---
 
+See [Rotation in Three Dimensions](https://gamemath.com/book/orient.html)
+
 ## Rotation Matrix
 
 See [[Rotation Matrix]]

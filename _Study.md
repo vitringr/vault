@@ -21,7 +21,7 @@ Read the book:
 
 - [x] **3B1B**: The Essence of Linear Algebra (Watch at least 5 videos)
 
-- [ ] **SimonDev**: [What Kind of Math Should Game Developers Know?](https://youtu.be/eRVRioN4GwA)
+- [x] **SimonDev**: [What Kind of Math Should Game Developers Know?](https://youtu.be/eRVRioN4GwA)
 
 And then maybe watch the things not so carefully:
 
@@ -31,11 +31,11 @@ And then maybe watch the things not so carefully:
 
 - [x] **javidx9**: [Essential Mathematics for Game Developers](https://youtu.be/DPfxjQ6sqrc)
 
-- [ ] **The Player Never Moves**: https://youtu.be/wiYTxjJjfxs
-
 - [ ] **FloatyMonkey Trigonometry**: https://youtu.be/IydbTBZJy7w
 - [ ] **FloatyMonkey Vectors**: https://youtu.be/Ej3ZVxljJfo
 - [ ] **FloatyMonkey Matrices and Transformations**: https://youtu.be/HgQzOmnBGCo
+
+- [ ] **The Player Never Moves**: https://youtu.be/wiYTxjJjfxs
 
 - WrapPI
 
@@ -87,6 +87,11 @@ People with C most often use it for everything.
 It's just easy to get running and do stuff, and still have low-level control.
 Also beautiful, simple, self-contained, lightweight...
 Also free to build my own stuff simply with code, for example DOD architecture.
+
+- Another confirm for Raylib lol.
+
+> If I write Raylib application it's more cross-platform than your JavaScript. Dab Dab Dab.
+> - Tsoding
 
 Current List: Raylib > Godot > SDL3 > Bevy > C
 

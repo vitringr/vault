@@ -228,13 +228,14 @@ The discussion of orientation in 3D is divided into the following sections:
 
 This chapter makes extensive use of the terms object space and upright space. If you aren't familiar with these terms, you should flip back to Section 3.2, where the terms were first introduced.
 
-#wip Another trivial form of aliasing in axis-angle space can be produced by negating both and . However, the exponential map dodges this issue as well, since negating both and
-leaves
-unchanged! 
-
 ---
 
 ## Chapter 9 (Geometric Primitives)
+
+This chapter is about geometric primitives in general and in specific.
+
+- **Section 9.1**: Discusses some general principles related to representing geometric primitives.
+- **Sections 9.2–9.7**: Cover a number of specific important geometric primitives, including methods for representing those primitives and some classic properties and operations. Along the way, we'll present a few C++ snippets.
 
 ---
 
