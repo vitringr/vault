@@ -14,7 +14,8 @@ Personal game ideas.
 [[Project Spellblade]]
 [[Project Runner]]
 [[Project Ronin]]
-Roguelike FPS (uk inspired)
+Roguelike FPS (ultrakill, ROR2, it consumes, daggers, amidevil inspired)
+Melee combat
 
 Darker aesthetics always seem to be cooler.
 

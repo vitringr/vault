@@ -3,7 +3,7 @@ context:
 - "[[Mathematics]]"
 ---
 
-#wip
+#empty
 
 # Cross Product
 
