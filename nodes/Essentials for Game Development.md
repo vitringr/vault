@@ -36,6 +36,8 @@ Essential knowledge needed for [[Game Development]].
 
 **[[Linear Algebra]]**
 
+**[[Rotation Representation]]**
+
 ## Interpolation
 
 **[[Interpolation]]**

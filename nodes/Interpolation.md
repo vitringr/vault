@@ -13,3 +13,5 @@ Common interpolation methods:
 
 - [[Nearest-neighbor Interpolation]]
 - [[Linear Interpolation]]
+- [[Bilinear Interpolation]]
+- [[Slerp]]

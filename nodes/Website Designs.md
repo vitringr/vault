@@ -6,7 +6,7 @@ context:
 
 # Website Designs
 
-Collection of good/impressive web design examples.
+Collection of great/impressive web design examples.
 
 ---
 
@@ -16,4 +16,4 @@ Collection of good/impressive web design examples.
 
 [igloo](https://www.igloo.inc)
 
-[codingbio](https://www.coding.bio/#contact)
+[abeto](https://abeto.co/)

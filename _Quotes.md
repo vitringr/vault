@@ -201,3 +201,6 @@ He learned rapidly because his first training was in how to learn. And the first
 
 Every experience carries a lesson.
 \- Frank Herbert, Dune
+
+The most important skill for mastery is persistence.
+\- null
