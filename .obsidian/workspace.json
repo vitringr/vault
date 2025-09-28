@@ -11,10 +11,14 @@
             "id": "75f225d9d06153ee",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "nodes/Polygon.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Polygon"
             }
           }
         ]
@@ -150,8 +154,12 @@
   },
   "active": "75f225d9d06153ee",
   "lastOpenFiles": [
-    "nodes/Collision Detection.md~",
+    "nodes/Polygon.md~",
+    "nodes/Polygon.md",
+    "nodes/Bounding Sphere.md~",
+    "nodes/Bounding Sphere.md",
     "nodes/Computational Geometry.md~",
+    "nodes/Collision Detection.md~",
     "nodes/Bounding Box.md~",
     "nodes/Computational Geometry.md",
     "nodes/Axis-Aligned Bounding Box.md~",
@@ -166,8 +174,6 @@
     "nodes/60 Game Marketing Mistakes Book.md",
     "nodes/Lessons from Chris Zukowski.md~",
     "nodes/Quaternion.md",
-    "_Draft.md~",
-    "nodes/Game Marketing.md~",
     "nodes/Game Marketing.md",
     "nodes/Lessons from Chris Zukowski.md",
     "nodes/Slerp.md",
@@ -184,8 +190,6 @@
     "nodes/Mathematics.md",
     "nodes/Computer Graphics.md",
     "nodes/Abstraction.md",
-    "nodes/Axis-Angle Representation.md",
-    "nodes/Rotation Representation.md",
     "las.png",
     "Untitled.canvas",
     "Argus.canvas",
