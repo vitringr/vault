@@ -5,10 +5,12 @@ context:
 
 # Sphere
 
-Set of points that are all the same distance `r` from a given center point in 3D space.
+Set of points that are all the same distance `R` from a given center point in 3D space.
 
 ---
 
-**Surface Area**: `4πr²`
+**Diameter**: `D = 2R`
 
-**Volume**: `(4/3)πr³`
+**Surface Area**: `S = 4πR²`
+
+**Volume**: `V = (4/3)πR³`

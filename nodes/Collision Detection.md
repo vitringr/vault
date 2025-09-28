@@ -1,2 +1,12 @@
-# Collision Detection
+---
+context:
+  - "[[Computational Geometry]]"
+---
+
 #empty
+
+# Collision Detection
+
+ad
+
+---
