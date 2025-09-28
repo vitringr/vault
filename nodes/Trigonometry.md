@@ -5,7 +5,7 @@ context:
 
 # Trigonometry
 
-Branch of mathematics concerned with relationships between angles and side lengths of triangles.
+Branch of mathematics concerned with relationships between [[Triangle]] angles and side lengths.
 
 ---
 
