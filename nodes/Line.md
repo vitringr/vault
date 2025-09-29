@@ -1,6 +1,7 @@
 ---
 context:
   - "[[Geometry]]"
+  - "[[One-Dimensional Space]]"
 ---
 
 # Line

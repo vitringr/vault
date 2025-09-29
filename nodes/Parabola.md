@@ -10,7 +10,7 @@ A U-shaped curve that represents the [[Graph (Plot)|Graph]] of a [[Quadratic Equ
 
 ---
 
-For algebraic forms, see [[Quadratic Equation#algebraic-forms]]
+For algebraic forms, see [[Quadratic Equation]] ⇒ Algebraic Forms.
 
 **Vertex**: The minimum or maximum point of a parabola.
 

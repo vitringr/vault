@@ -2,6 +2,7 @@
 context:
   - "[[Number]]"
   - "[[Coordinate System]]"
+  - "[[One-Dimensional Space]]"
 ---
 
 # Number Line

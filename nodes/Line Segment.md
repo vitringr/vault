@@ -1,6 +1,7 @@
 ---
 context:
   - "[[Line]]"
+  - "[[One-Dimensional Space]]"
 ---
 
 # Line Segment
