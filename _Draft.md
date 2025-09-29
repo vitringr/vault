@@ -1,3 +1,7 @@
+Maybe move books to a `resources/` directory? Or something not to clutter the string search space, or at least make it known where it comes from.
+
+---
+
 **Color Palettes**: https://lospec.com/palette-list
 
 ---
