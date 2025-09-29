@@ -13,7 +13,7 @@ The [[Equation]] of a first degree [[Polynomial]].
 
 ---
 
-Describes a straight line in a [[Coordinate System]].
+Describes a straight [[Line]] in a [[Coordinate System]].
 
 ## Algebraic Forms
 

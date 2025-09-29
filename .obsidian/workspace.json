@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Implicit Equation.md",
+                "file": "nodes/Line.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Implicit Equation"
+              "title": "Line"
             }
           }
         ]
@@ -153,13 +153,17 @@
   },
   "active": "75f225d9d06153ee",
   "lastOpenFiles": [
-    "nodes/Implicit Equation.md~",
-    "nodes/4913",
-    "nodes/Circle.md",
+    "nodes/Line.md~",
     "nodes/Implicit Equation.md",
+    "nodes/Slope.md~",
+    "nodes/4913",
+    "nodes/Line.md",
+    "nodes/Linear Equation.md~",
     "nodes/Sphere.md~",
-    "nodes/Plane.md",
     "nodes/Circle.md~",
+    "nodes/Implicit Equation.md~",
+    "nodes/Circle.md",
+    "nodes/Plane.md",
     "nodes/Circular Linked List.md",
     "nodes/Bash Scripting.md",
     "nodes/Linux.md",
@@ -177,17 +181,13 @@
     "nodes/Computer Science.md",
     "nodes/Triangle.md~",
     "nodes/Trigonometry.md~",
-    "nodes/Bounding Sphere.md~",
     "nodes/Bounding Sphere.md",
-    "nodes/Computational Geometry.md~",
-    "nodes/Collision Detection.md~",
     "nodes/Computational Geometry.md",
     "nodes/Axis-Aligned Bounding Box.md",
     "nodes/Bounding Box.md",
     "nodes/Sphere.md",
     "nodes/60 Game Marketing Mistakes Book.md",
     "nodes/Quaternion.md",
-    "nodes/Game Marketing.md",
     "las.png",
     "Untitled.canvas",
     "Argus.canvas",

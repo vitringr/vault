@@ -8,7 +8,7 @@ context:
 
 Ratio of vertical change (rise) to horizontal change (run).
 
-Measures the steepness and direction of a line.
+Measures the steepness and direction of a [[Line]].
 
 `slope = change in y / change in x`
 

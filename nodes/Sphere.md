@@ -9,7 +9,7 @@ Set of points that are all the same distance `R` from a given center point in 3D
 
 ---
 
-**Implicit Equation**: `x² + y² + z² = 1`
+**Implicit Equation**: `x² + y² + z² - r² = 0`
 
 **Diameter**: `D = 2R`
 
