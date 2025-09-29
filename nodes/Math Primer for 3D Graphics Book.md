@@ -237,30 +237,47 @@ This chapter is about geometric primitives in general and in specific.
 - **Section 9.1**: Discusses some general principles related to representing geometric primitives.
 - **Sections 9.2–9.7**: Cover a number of specific important geometric primitives, including methods for representing those primitives and some classic properties and operations. Along the way, we'll present a few C++ snippets.
 
+#wip
+
 ---
 
 ## Chapter 10 (Mathematical Topics from 3D Graphics)
+
+#wip
 
 ---
 
 ## Chapter 11 (Mechanics 1)
 
+#wip
+
 ---
 
 ## Chapter 12 (Mechanics 2)
+
+#wip
 
 ---
 
 ## Chapter 13 (Curves in 3D)
 
+#wip
+
 ---
 
 ## Chapter 14 (Afterword)
+
+#wip
 
 ---
 
 ## Appendix A
 
+#wip
+
 ---
 
 ## Appendix B
+
+#wip
+

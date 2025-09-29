@@ -4,4 +4,4 @@ context:
 
 # Consciousness
 
-Well what did you expect..?
+What did you expect..?
