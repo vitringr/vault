@@ -9,7 +9,7 @@ Fundamental formula in computational [[Geometry]] that calculates the distances 
 
 ---
 
-The distance between points `a` and `b` equals the length of an imaginary line segment that connects them.
+The distance between points `a` and `b` equals the length of an imaginary [[Line Segment]] that connects them.
 
 ## One Dimension
 

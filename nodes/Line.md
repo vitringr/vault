@@ -22,11 +22,11 @@ See [[Linear Equation]]
 
 ## Representation
 
-**Standard Form**: `ax + by = c`, where `a`, `b`, and `c` are constants.
+See also the [[Ray]] and [[Line Segment]] representation methods.
 
 **Implicit Form**: `ax + by + c = 0`
 
-**Slope-Intercept Form**: `y = mx + b` where `m` is the [[Slope]] of the line, and `b` is the y-intercept.
+**Slope-Intercept Form**: `y = mx + b`, where `m` is the [[Slope]] of the line, and `b` is the y-intercept.
 
 ### Special Cases
 

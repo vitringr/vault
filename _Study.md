@@ -45,6 +45,8 @@ And then maybe watch the things not so carefully:
 
 - [ ] **Homogeneous Coordinates**: https://youtu.be/o-xwmTODTUI
 
+- Raytracing
+
 # Software Rasterizer
 
 _Build a software rasterizer from scratch._

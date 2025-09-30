@@ -10,7 +10,7 @@ Relation of the form `R(x₁, x₂, ..., xₙ) = 0`, where `R` is a [[Function (
 
 ---
 
-In the context of [[Geometry]], an implicit equation can define a geometric object by stating a condition that its points must satisfy.
+In the context of [[Geometric Representation]], an implicit equation can define a geometric object by stating a condition that its points must satisfy.
 
 Defines a shape as the set of all points `(x, y)` (in 2D) or `(x, y, z)` (in 3D) that satisfy an equation.
 

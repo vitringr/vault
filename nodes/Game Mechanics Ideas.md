@@ -3,7 +3,7 @@ context:
   - "[[Game Design]]"
 ---
 
-#empty
+#wip
 
 # Game Mechanics Ideas
 
@@ -20,5 +20,3 @@ During run effects (modifiers).
 [Risk of Rain Items](https://riskofrain2.fandom.com/wiki/Items)
 [Ember Knights Relics](https://emberknights.wiki.gg/wiki/Relics)
 [Ember Knights Weapons](https://emberknights.wiki.gg/wiki/Weapons)
-
-#wip TODO: check ember knights

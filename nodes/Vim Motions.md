@@ -319,6 +319,7 @@ Examples:
 | ²         | `2S`    | Superscript 2.      |
 | Ω         | `Om`    | Ohm (Omega) symbol. |
 | →         | `->`    | Right arrow.        |
+| ←         | `<-`    | Left arrow.         |
 | º         | `-o`    | Degrees.            |
 | ≈         | `2?`    | Almost equal.       |
 | ✓         | `OK`    | Okay.               |
@@ -332,6 +333,7 @@ Examples:
 | √         | `RT`    | Square Root.        |
 | ·         | `.M`    | Dot (Middle).       |
 | ×         | `*X`    | Multiplication.     |
+| ∞         | `00`    | Infinity.           |
 
 Grids:
 
