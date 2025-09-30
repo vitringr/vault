@@ -1,6 +1,7 @@
 ---
 context:
   - "[[Geometry]]"
+  - "[[Two-Dimensional Space]]"
 ---
 
 # Polygon

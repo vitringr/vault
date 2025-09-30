@@ -1,14 +1,17 @@
 ---
-aliases:
 context:
+  - "[[Geometry]]"
+  - "[[Two-Dimensional Space]]"
 ---
-
-#empty
 
 # Plane
 
-ad
+Two-dimensional flat surface that extends infinitely in all directions.
 
 ---
 
-`y = x + z`
+**Implicit Equation**: `ax + by + cz + d = 0`
+
+Has zero curvature everywhere.
+
+Requires exactly two coordinates to locate any point.
