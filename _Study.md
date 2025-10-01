@@ -32,7 +32,7 @@ And then maybe watch the things not so carefully:
 - [x] **javidx9**: [Essential Mathematics for Game Developers](https://youtu.be/DPfxjQ6sqrc)
 
 - [ ] **FloatyMonkey Trigonometry**: https://youtu.be/IydbTBZJy7w
-- [ ] **FloatyMonkey Vectors**: https://youtu.be/Ej3ZVxljJfo
+- [x] **FloatyMonkey Vectors**: https://youtu.be/Ej3ZVxljJfo
 - [ ] **FloatyMonkey Matrices and Transformations**: https://youtu.be/HgQzOmnBGCo
 
 - [ ] **The Player Never Moves**: https://youtu.be/wiYTxjJjfxs
