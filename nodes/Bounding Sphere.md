@@ -11,4 +11,10 @@ context:
 
 Used in [[Computational Geometry]] as a [[Heuristic]] approximating the geometry of a target object.
 
-Especially useful for estimating [[Collision Detection]] of non-primitive objects.
+## Advantages
+
+Bounding spheres are often used because of their simplicity.
+
+An advantage of the bounding sphere is that it doesn't care about orientation.
+
+Another advantege is that intersections with a sphere are easy to calculate.

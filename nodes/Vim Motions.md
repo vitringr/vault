@@ -312,7 +312,6 @@ Use `Ctrl k` in insert mode to activate digraph mode.
 
 In digraph mode, type the digraph sequence for the unicode character.
 
-º
 Examples:
 
 | Character | Digraph | Description         |
