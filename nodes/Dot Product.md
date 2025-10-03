@@ -19,9 +19,9 @@ A·B = A.x * B.x + A.y * B.y + ... + A.n * B.n
 
 | A·B   | θ                | Angle  | Orientation                |
 | ----- | ---------------- | ------ | -------------------------- |
-| `> 0` | `0º < θ < 90º`   | acute  | roughly same direction     |
-| `= 0` | `θ = 90º`        | right  | perpendicular              |
-| `< 0` | `90º < θ < 180º` | obtuse | roughly opposite direction |
+| `> 0` | `0° < θ < 90°`   | acute  | roughly same direction     |
+| `= 0` | `θ = 90°`        | right  | perpendicular              |
+| `< 0` | `90° < θ < 180°` | obtuse | roughly opposite direction |
 
 Orientation applies regardless of magnitude, as the magnitudes of the vectors don't affect the sign of the dot product.
 

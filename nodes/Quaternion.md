@@ -84,7 +84,7 @@ The inverse of a quaternion product is equal to the product of the inverses in a
 
 Raising a quaternion to a scalar power.
 
-If `q` represents a clockwise rotation of `30º` about the `x`-axis, then `q²` represents a clockwise rotation of `60º` about the `x`-axis, and `q` to the power of `-1/3` represents a counterclockwise rotation of `10º` about the `x`-axis.
+If `q` represents a clockwise rotation of `30°` about the `x`-axis, then `q²` represents a clockwise rotation of `60°` about the `x`-axis, and `q` to the power of `-1/3` represents a counterclockwise rotation of `10°` about the `x`-axis.
 
 The inverse `q⁻¹` can also be interpreted in this context and the result is as expected - the quaternion that performs the opposite rotation.
 
@@ -93,7 +93,7 @@ The inverse `q⁻¹` can also be interpreted in this context and the result is a
 > [!WARNING] Rotation Loss
 > Multiple spins cannot be represented.
 
-**Shortest Arc**: Quaternions represent angular displacements using the shortest arc. Multiple spins cannot be represented. For example, if `q` is `30º` clockwise, `q⁸` is not a `240º` clockwise rotation; it is `120º` counterclockwise rotation. Quaternions only capture the end result.
+**Shortest Arc**: Quaternions represent angular displacements using the shortest arc. Multiple spins cannot be represented. For example, if `q` is `30°` clockwise, `q⁸` is not a `240°` clockwise rotation; it is `120°` counterclockwise rotation. Quaternions only capture the end result.
 
 In situations that care about the total amount of rotation quaternions are not the right tool for the job.
 

@@ -11,7 +11,7 @@ context:
 
 ---
 
-The sum of the internal angles of any triangle is `180º` (or `π` radians).
+The sum of the internal angles of any triangle is `180°` (or `π` radians).
 
 See [[Trigonometry]]
 

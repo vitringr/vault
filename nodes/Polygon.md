@@ -55,9 +55,9 @@ Polygons are primarily classified by the number of sides.
 **Convex**: Simple polygon with no identations.
 
 - For any two points inside the polygon, the line connecting them also lies completely inside the polygon.
-- All interior angles are less than or equal to `180º`.
+- All interior angles are less than or equal to `180°`.
 
 **Concave**: Simple polygon that has at least one identation.
 
 - There is at least one pair of points inside the polygon where the line segment connecting them passes outside of polygon.
-- At least one interior angle is greater than `180º`.
+- At least one interior angle is greater than `180°`.

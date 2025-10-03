@@ -36,7 +36,7 @@ See [[Axis-Angle Representation]]
 Unit vector that describes the axis of rotation and a scalar for the angle magnitude.
 
 **Pros**: Intuitive, minimal representation, no gimbal lock.
-**Cons**: Singularity at `180º`, messy composition, poor for interpolation.
+**Cons**: Singularity at `180°`, messy composition, poor for interpolation.
 
 ## Quaternion
 

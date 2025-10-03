@@ -16,7 +16,7 @@ Speed is relative to both space and time.
 
 Weight measurement is relative to some arbitrary scale.
 
-Temperature in Celsius (ºC) is relative to the properties of water.
+Temperature in Celsius (°C) is relative to the properties of water.
 
 Coordinate points are relative to some coordinate origin.
 

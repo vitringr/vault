@@ -13,8 +13,8 @@ One radian is the angle subtended at the center of a circle by an arc whose leng
 
 The circumference of a circle is `τ`, or `2π`.
 
-`1 rad  = (360 / τ)º       ≈ 57.29578`
-`1º     = (τ / 360) rad    ≈ 0.017453`
+`1 rad  = (360 / τ)°       ≈ 57.29578`
+`1°     = (τ / 360) rad    ≈ 0.017453`
 
 ```c
 #define TAU 6.2831853071

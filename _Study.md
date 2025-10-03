@@ -31,7 +31,7 @@ And then maybe watch the things not so carefully:
 
 - [x] **javidx9**: [Essential Mathematics for Game Developers](https://youtu.be/DPfxjQ6sqrc)
 
-- [ ] **FloatyMonkey Trigonometry**: https://youtu.be/IydbTBZJy7w
+- [x] **FloatyMonkey Trigonometry**: https://youtu.be/IydbTBZJy7w
 - [x] **FloatyMonkey Vectors**: https://youtu.be/Ej3ZVxljJfo
 - [ ] **FloatyMonkey Matrices and Transformations**: https://youtu.be/HgQzOmnBGCo
 
