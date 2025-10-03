@@ -1,6 +1,5 @@
 ---
 context:
-  - "[[Coordinate System]]"
   - "[[Computer Graphics]]"
 ---
 
