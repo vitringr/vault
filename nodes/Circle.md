@@ -19,4 +19,4 @@ The line segment connecting two points of the circle and passing through the cen
 
 **Area**: `A = πr²`
 
-**Circumference**: `C = 2πr` or `C = τr` or `C = πD`
+**Circumference**: `C = τr` or `C = 2πr` or `C = πD`

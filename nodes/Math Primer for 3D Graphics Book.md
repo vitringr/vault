@@ -237,11 +237,41 @@ This chapter is about geometric primitives in general and in specific.
 - **Section 9.1**: Discusses some general principles related to representing geometric primitives.
 - **Sections 9.2–9.7**: Cover a number of specific important geometric primitives, including methods for representing those primitives and some classic properties and operations. Along the way, we'll present a few C++ snippets.
 
-#wip 9.2.2 Special 2D Representations of Lines
-
 ---
 
 ## Chapter 10 (Mathematical Topics from 3D Graphics)
+
+This chapter discusses a number of mathematical issues that arise when creating 3D graphics on a computer. Of course, we cannot hope to cover the vast subject of computer graphics in any amount of detail in a single chapter. Entire books are written that merely survey the topic. This chapter is to graphics what this entire book is to interactive 3D applications: it presents an extremely brief and high level overview of the subject matter, focusing on topics for which mathematics plays a critical role. Just like the rest of this book, we try to pay special attention to those topics that, from our experience, are glossed over in other sources or are a source of confusion in beginners.
+
+To be a bit more direct: this chapter alone is not enough to teach you how to get some pretty pictures on the screen. However, it should be used parallel with (or preceding!) some other course, book, or self-study on graphics, and we hope that it will help you breeze past a few traditional sticky points. Although we present some example snippets in High Level Shading Language (HLSL) at the end of this chapter, you will not find much else to help you figure out which DirectX or OpenGL function calls to make to achieve some desired effect. These issues are certainly of supreme practical importance, but alas, they are also in the category of knowledge that Robert Maynard Hutchins dubbed “rapidly aging facts,” and we have tried to avoid writing a book that requires an update every other year when ATI releases a new card or Microsoft a new version of DirectX. Luckily, up-to-date API references and examples abound on the Internet, which is a much more appropriate place to get that sort of thing. (API stands for application programming interface. In this chapter, API will mean the software that we use to communicate with the rendering subsystem.)
+
+One final caveat is that since this is a book on math for video games, we will have a real-time bias. This is not to say that the book cannot be used if you are interested in learning how to write a raytracer; only that our expertise and focus is in real-time graphics.
+
+This chapter proceeds roughly in order from ivory tower theory to down-and-dirty code snippets.
+
+- **Section 10.1** gives a very high-level (and high-brow) theoretical approach to graphics, culminating in the rendering equation.
+
+We then lower our brows somewhat to focus attention on matters of more direct practical application, while still maintaining our platform independence and attempt to be relevant ten years from now.
+
+- **Section 10.2**: discusses some basic mathematics related to viewing in 3D.
+- **Section 10.3**: introduces some important coordinate spaces and transformations.
+- **Section 10.4**: looks at how to represent the surfaces of the geometry in our scene using a polygon mesh.
+- **Section 10.5**: shows how to control material properties (such as the “color” of the object) using texture maps.
+
+The next sections are about lighting.
+
+- **Section 10.6**: defines the ubiquitous Blinn-Phong lighting model.
+- **Section 10.7**: discusses some common methods for representing light sources.
+
+With a little nudge further away from timeless theory, the next sections discuss two issues of particular contemporary interest.
+
+- **Section 10.8**: is about skeletal animation.
+- **Section 10.9**: tells how bump mapping works.
+
+The last third of this chapter is the most in danger of becoming irrelevant in coming years, because it is the most immediately practical.
+
+- **Section 10.10**: gives an overview of a simple real-time graphics pipeline, and then descends that pipeline and talks about some mathematical issues along the way.
+- **Section 10.11**: concludes the chapter squarely in the “rapidly aging facts” territory with several HLSL examples demonstrating some of the techniques covered earlier.
 
 ---
 
@@ -266,4 +296,3 @@ This chapter is about geometric primitives in general and in specific.
 ---
 
 ## Appendix B
-

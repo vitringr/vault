@@ -11,7 +11,6 @@ context:
 
 ---
 
-The sum of the internal angles of any triangle is `180°` (or `π` radians).
 
 See [[Trigonometry]]
 
@@ -29,6 +28,8 @@ See [[Trigonometry]]
 #wip
 
 ## Properties
+
+The sum of the internal angles of any triangle is `180°` (or `π` radians).
 
 **Triangle Inequality**: The sum of the lengths of two sides must always be greater than the length of the remaining third side.
 
