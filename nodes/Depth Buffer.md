@@ -1,15 +1,15 @@
 ---
 aliases:
-  - Depth Buffer
+  - Z-Buffer
 context:
   - "[[Computer Graphics]]"
 ---
 
-# Z-Buffer
+# Depth Buffer
 
-(aka. Depth Buffer)
+(aka. Z-Buffer)
 
-A concept in computer graphics that deals with the depth of objects ensuring they are rendered in a correct visual order.
+Concept in [[Computer Graphics]] that deals with the depth of objects, ensuring they are rendered in a correct visual order.
 
 ---
 

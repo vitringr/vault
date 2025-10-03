@@ -5,7 +5,7 @@ context:
 
 # Mipmap
 
-Series of precomputed, optimized, and progressively smaller versions of a [[Texture]] used in computer graphics.
+Series of precomputed, optimized, and progressively smaller versions of a [[Texture]] used in [[Computer Graphics]].
 
 ---
 

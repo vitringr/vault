@@ -16,5 +16,5 @@ Technique where two [[Data Buffer|Data Buffers]] are used to continuously store 
 
 ---
 
-Commonly used in [[Computer Graphics]].
+Fundamental technique in [[Computer Graphics]].
 
