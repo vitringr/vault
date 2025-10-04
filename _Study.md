@@ -41,6 +41,8 @@ And then maybe watch the things not so carefully:
 
 # Graphics Concepts
 
+- [ ] Blinn-Phong Model
+
 - [ ] **Perspective Projection**: https://youtu.be/U0_ONQQ5ZNM
 
 - [ ] **Homogeneous Coordinates**: https://youtu.be/o-xwmTODTUI

@@ -21,9 +21,11 @@ Essential to [[Computer Graphics]], where complex shapes and models are commonly
 
 ## Storage
 
-One standard storage format is the _indexed triangle mesh_.
+One standard data storage format is the _indexed triangle mesh_.
 
 Consists of two lists:
 
 - **Vertices List**: Stores the position coordinates of vertices.
 - **Triangles List**: Stores triangles by three integers for each, where the integers index into the vertices list.
+
+Additional data per vertex is also commonly stored.
