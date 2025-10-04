@@ -53,16 +53,14 @@ And then maybe watch the things not so carefully:
 
 _Build a software rasterizer from scratch._
 
-- [ ] **Daniel Shiffman**: [3D Rendering with Rotation and Projection](https://youtu.be/p4Iz0XJY-Qk)
-
 - [ ] **Tiny Renderer**: https://haqr.eu/tinyrenderer/
 - [ ] **Tiny RayTracing**: https://github.com/ssloy/tinyraytracer/wiki/Part-1:-understandable-raytracing
 
-- [ ] **Tscoding**: [C pixel-by-pixel Software 3D rendering](https://youtu.be/xdShzvCZPBk)
+- [x] **Daniel Shiffman**: [3D Rendering with Rotation and Projection](https://youtu.be/p4Iz0XJY-Qk)
 
-- [ ] **Graphics Engine from Scratch (short, JS)**: https://youtu.be/ZnycovL2qWU
+- [x] **Graphics Engine from Scratch (short, JS)**: https://youtu.be/ZnycovL2qWU
 
-- [ ] **Sebastian Software Rasterizer**: https://youtu.be/yyJ-hdISgnw
+- [x] **Sebastian Software Rasterizer**: https://youtu.be/yyJ-hdISgnw
 
 # OpenGL
 
@@ -102,6 +100,8 @@ Current List: Raylib > Godot > SDL3 > Bevy > C
 _The need is to know and understand, not to implement and reinvent._
 
 Right now, Raylib wins.
+
+I think 2D or 2.5D instead of 3D right now.
 
 # Dimensions
 

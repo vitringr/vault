@@ -273,7 +273,7 @@ The last third of this chapter is the most in danger of becoming irrelevant in c
 - **Section 10.10**: gives an overview of a simple real-time graphics pipeline, and then descends that pipeline and talks about some mathematical issues along the way.
 - **Section 10.11**: concludes the chapter squarely in the “rapidly aging facts” territory with several HLSL examples demonstrating some of the techniques covered earlier.
 
-#wip 10.6.4
+#wip 10.6.7
 
 ---
 
