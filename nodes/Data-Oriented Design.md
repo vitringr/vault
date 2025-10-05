@@ -7,3 +7,4 @@ context:
 
 # Data-Oriented Design
 
+Structure of Arrays > Arrays of Structures
