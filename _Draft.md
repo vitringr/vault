@@ -1,6 +1,10 @@
-D B seems cool tbh
+(-fader, halfsage)
+
+D B seems cool tbh!
 
 And it has the MEANING
+
+!!! D 'S' B !!! One way or another, no matter really.
 
 ---
 
