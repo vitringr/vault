@@ -1,3 +1,9 @@
+D B seems cool tbh
+
+And it has the MEANING
+
+---
+
 Maybe move books to a `resources/` directory? Or something not to clutter the string search space, or at least make it known where it comes from.
 
 ---
@@ -79,10 +85,6 @@ Learn from Thronefall
 
 ---
 
-sage
-sensei
-kenna
-kennari
 namsmadur
 
 sage-madur

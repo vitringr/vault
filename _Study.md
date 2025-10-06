@@ -80,6 +80,8 @@ Read this completely: https://gameprogrammingpatterns.com/contents.html
 
 # Technology
 
+Right now I think 2.5D orthographic isometric. Looks pretty fucking cool, and also pixel editors are goated.
+
 Research and choose a technology to use.
 
 Raylib: https://youtu.be/UoAsDlUwjy0

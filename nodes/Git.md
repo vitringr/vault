@@ -35,3 +35,5 @@ context:
 - `git stash pop`: Apply last stash and remove it.
 - `git stash apply`: Apply last stash (keep it).
 - `git stash drop`: Delete last stash.
+
+- `git clean -fdx`: Clean everything.
