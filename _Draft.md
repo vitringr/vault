@@ -1,10 +1,10 @@
-(-fader, halfsage)
+Yeah,
+D 's' B
+is important to me.
 
-D B seems cool tbh!
+It's the true believe.
 
-And it has the MEANING
-
-!!! D 'S' B !!! One way or another, no matter really.
+Any type of 's' will do, be free to change, even better this way. Adaptive.
 
 ---
 

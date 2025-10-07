@@ -1,15 +1,16 @@
 ---
 context:
   - "[[Etymology]]"
+  - "[[Old Norse]]"
 ---
 
 # Vitringr
 
-ᚢ ᛁ ᛏ ᚱ ᛁ ᚾ ᚴ ᚱ
-
 Sage, wise man, scholar.
 
 ---
+
+ᚢ ᛁ ᛏ ᚱ ᛁ ᚾ ᚴ ᚱ
 
 Meaning of Old Norse word "vitringr": m. a wise man, sage, scholar
 
