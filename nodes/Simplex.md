@@ -1,6 +1,6 @@
 ---
 context:
-- "[[Geometry]]"
+  - "[[Geometry]]"
 ---
 
 # Simplex
