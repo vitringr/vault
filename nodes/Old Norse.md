@@ -9,6 +9,8 @@ The language of vikings.
 
 ---
 
+See [A Study of Wisdom Adjectives in the Old Norse Poetic Corpus](https://etheses.whiterose.ac.uk/id/eprint/30663/1/Alicia%20Maddalena%20PhD%20thesis.pdf)
+
 ## Wisdom, Knowledge, and the Mind
 
 Speki (n.) - Wisdom, philosophy.
