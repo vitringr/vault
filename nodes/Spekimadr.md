@@ -18,9 +18,4 @@ Wise man, philosopher, sage, a sensible person.
 
 Equivalent to [[Spekingr]].
 
-The word itself is a compound word, very common in Old Norse:
-
-- **speki** (noun): Meaning "wisdom."
-- **maðr** (noun): Meaning "man."
-
 **Transliteration**: The `ð` (Eth) symbol in "maðr" is often transliterated as `d` or `th`, so both "spekimadr" and "spekimathr" are valid.

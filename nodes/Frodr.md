@@ -8,4 +8,8 @@ context:
 
 (Fróðr)
 
-Learned, knowledgeable (often from study or hearing tales).
+Learned, knowledgeable.
+
+---
+
+See [[Old Norse Wisdom Etymology]]
