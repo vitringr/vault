@@ -12,4 +12,6 @@ Learned, knowledgeable.
 
 ---
 
+ᚠᚱᚢᚦᚱ
+
 See [[Old Norse Wisdom Etymology]]

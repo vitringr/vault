@@ -14,11 +14,11 @@ Wise man, philosopher, sage.
 
 ---
 
-ᛋ ᛒ ᛁ ᚴ ᛁ ᚾ ᚴ ᚱ
+ᛋᛒᛁᚴᛁᚾᚴᚱ
 
 Meaning of Old Norse word "spekingr": m. a wise man, a sage;
 
-**Runes**: Younger Futhark: `ᛋ ᛒ ᛁ ᚴ ᛁ ᚾ ᚴ ᚱ`
+**Runes**: Younger Futhark: `ᛋᛒᛁᚴᛁᚾᚴᚱ`
 
 See [[Old Norse Wisdom Etymology]]
 

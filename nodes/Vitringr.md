@@ -10,10 +10,10 @@ Sage, wise man, scholar.
 
 ---
 
-ᚢ ᛁ ᛏ ᚱ ᛁ ᚾ ᚴ ᚱ
+ᚢᛁᛏᚱᛁᚾᚴᚱ
 
 Meaning of Old Norse word "vitringr": m. a wise man, sage, scholar
 
-**Runes**: Younger Futhark: `ᚢ ᛁ ᛏ ᚱ ᛁ ᚾ ᚴ ᚱ`
+**Runes**: Younger Futhark: `ᚢᛁᛏᚱᛁᚾᚴᚱ`
 
 See [[Old Norse Wisdom Etymology]]

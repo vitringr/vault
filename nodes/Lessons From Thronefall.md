@@ -4,11 +4,9 @@ context:
   - "[[Game Design]]"
 ---
 
-#wip
-
 # Lessons From Thronefall
 
-#wip
+Lessons learned from watching the Thronefall development videos.
 
 ---
 
